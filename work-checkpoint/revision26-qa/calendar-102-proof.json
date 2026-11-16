@@ -1,0 +1,1182 @@
+{
+  "item": 102,
+  "status": "PASS locally; pending publication",
+  "layouts": [
+    {
+      "width": 320,
+      "shown": {
+        "body": {
+          "x": 28,
+          "y": -192,
+          "width": 264,
+          "height": 7896.171875,
+          "top": -192,
+          "right": 292,
+          "bottom": 7704.171875,
+          "left": 28
+        },
+        "dock": {
+          "x": 294,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 318,
+          "bottom": 527.78125,
+          "left": 294
+        },
+        "calendar": {
+          "x": 28,
+          "y": 288.78125,
+          "width": 264,
+          "height": 361.75,
+          "top": 288.78125,
+          "right": 292,
+          "bottom": 650.53125,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "hidden": {
+        "body": {
+          "x": 28,
+          "y": -192,
+          "width": 264,
+          "height": 7510.421875,
+          "top": -192,
+          "right": 292,
+          "bottom": 7318.421875,
+          "left": 28
+        },
+        "dock": {
+          "x": 294,
+          "y": 782,
+          "width": 24,
+          "height": 44,
+          "top": 782,
+          "right": 318,
+          "bottom": 826,
+          "left": 294
+        },
+        "calendar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": true,
+        "focus": "r26-calendar-show",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "restored": {
+        "body": {
+          "x": 28,
+          "y": -192,
+          "width": 264,
+          "height": 7896.171875,
+          "top": -192,
+          "right": 292,
+          "bottom": 7704.171875,
+          "left": 28
+        },
+        "dock": {
+          "x": 294,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 318,
+          "bottom": 527.78125,
+          "left": 294
+        },
+        "calendar": {
+          "x": 28,
+          "y": 288.78125,
+          "width": 264,
+          "height": 361.75,
+          "top": 288.78125,
+          "right": 292,
+          "bottom": 650.53125,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "bottom": {
+        "body": {
+          "x": 28,
+          "y": -7379,
+          "width": 264,
+          "height": 7896.171875,
+          "top": -7379,
+          "right": 292,
+          "bottom": 517.171875,
+          "left": 28
+        },
+        "dock": {
+          "x": 294,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 318,
+          "bottom": 527.78125,
+          "left": 294
+        },
+        "calendar": {
+          "x": 28,
+          "y": -6898.21875,
+          "width": 264,
+          "height": 361.75,
+          "top": -6898.21875,
+          "right": 292,
+          "bottom": -6536.46875,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "shown": {
+        "body": {
+          "x": 28,
+          "y": -204,
+          "width": 334,
+          "height": 8333.296875,
+          "top": -204,
+          "right": 362,
+          "bottom": 8129.296875,
+          "left": 28
+        },
+        "dock": {
+          "x": 364,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 388,
+          "bottom": 527.78125,
+          "left": 364
+        },
+        "calendar": {
+          "x": 28,
+          "y": 294.46875,
+          "width": 334,
+          "height": 350.5625,
+          "top": 294.46875,
+          "right": 362,
+          "bottom": 645.03125,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "hidden": {
+        "body": {
+          "x": 28,
+          "y": -204,
+          "width": 334,
+          "height": 7958.734375,
+          "top": -204,
+          "right": 362,
+          "bottom": 7754.734375,
+          "left": 28
+        },
+        "dock": {
+          "x": 364,
+          "y": 782,
+          "width": 24,
+          "height": 44,
+          "top": 782,
+          "right": 388,
+          "bottom": 826,
+          "left": 364
+        },
+        "calendar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": true,
+        "focus": "r26-calendar-show",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "restored": {
+        "body": {
+          "x": 28,
+          "y": -204,
+          "width": 334,
+          "height": 8333.296875,
+          "top": -204,
+          "right": 362,
+          "bottom": 8129.296875,
+          "left": 28
+        },
+        "dock": {
+          "x": 364,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 388,
+          "bottom": 527.78125,
+          "left": 364
+        },
+        "calendar": {
+          "x": 28,
+          "y": 294.46875,
+          "width": 334,
+          "height": 350.5625,
+          "top": 294.46875,
+          "right": 362,
+          "bottom": 645.03125,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "bottom": {
+        "body": {
+          "x": 28,
+          "y": -7816,
+          "width": 334,
+          "height": 8333.296875,
+          "top": -7816,
+          "right": 362,
+          "bottom": 517.296875,
+          "left": 28
+        },
+        "dock": {
+          "x": 364,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 388,
+          "bottom": 527.78125,
+          "left": 364
+        },
+        "calendar": {
+          "x": 28,
+          "y": -7317.53125,
+          "width": 334,
+          "height": 350.5625,
+          "top": -7317.53125,
+          "right": 362,
+          "bottom": -6966.96875,
+          "left": 28
+        },
+        "left": 28,
+        "right": 28,
+        "centerError": 0,
+        "gap": 2,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      }
+    },
+    {
+      "width": 430,
+      "shown": {
+        "body": {
+          "x": 27.984375,
+          "y": -160,
+          "width": 374,
+          "height": 8693.234375,
+          "top": -160,
+          "right": 401.984375,
+          "bottom": 8533.234375,
+          "left": 27.984375
+        },
+        "dock": {
+          "x": 404,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 428,
+          "bottom": 527.78125,
+          "left": 404
+        },
+        "calendar": {
+          "x": 27.984375,
+          "y": 304.59375,
+          "width": 374,
+          "height": 331.375,
+          "top": 304.59375,
+          "right": 401.984375,
+          "bottom": 635.96875,
+          "left": 27.984375
+        },
+        "left": 27.984375,
+        "right": 28.015625,
+        "centerError": 0.03125,
+        "gap": 2.015625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "hidden": {
+        "body": {
+          "x": 27.984375,
+          "y": -160,
+          "width": 374,
+          "height": 8337.859375,
+          "top": -160,
+          "right": 401.984375,
+          "bottom": 8177.859375,
+          "left": 27.984375
+        },
+        "dock": {
+          "x": 404,
+          "y": 782,
+          "width": 24,
+          "height": 44,
+          "top": 782,
+          "right": 428,
+          "bottom": 826,
+          "left": 404
+        },
+        "calendar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "left": 27.984375,
+        "right": 28.015625,
+        "centerError": 0.03125,
+        "gap": 2.015625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": true,
+        "focus": "r26-calendar-show",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "restored": {
+        "body": {
+          "x": 27.984375,
+          "y": -160,
+          "width": 374,
+          "height": 8693.234375,
+          "top": -160,
+          "right": 401.984375,
+          "bottom": 8533.234375,
+          "left": 27.984375
+        },
+        "dock": {
+          "x": 404,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 428,
+          "bottom": 527.78125,
+          "left": 404
+        },
+        "calendar": {
+          "x": 27.984375,
+          "y": 304.59375,
+          "width": 374,
+          "height": 331.375,
+          "top": 304.59375,
+          "right": 401.984375,
+          "bottom": 635.96875,
+          "left": 27.984375
+        },
+        "left": 27.984375,
+        "right": 28.015625,
+        "centerError": 0.03125,
+        "gap": 2.015625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      },
+      "bottom": {
+        "body": {
+          "x": 27.984375,
+          "y": -8159,
+          "width": 374,
+          "height": 8693.234375,
+          "top": -8159,
+          "right": 401.984375,
+          "bottom": 534.234375,
+          "left": 27.984375
+        },
+        "dock": {
+          "x": 404,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 428,
+          "bottom": 527.78125,
+          "left": 404
+        },
+        "calendar": {
+          "x": 27.984375,
+          "y": -7694.40625,
+          "width": 374,
+          "height": 331.375,
+          "top": -7694.40625,
+          "right": 401.984375,
+          "bottom": -7363.03125,
+          "left": 27.984375
+        },
+        "left": 27.984375,
+        "right": 28.015625,
+        "centerError": 0.03125,
+        "gap": 2.015625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "28px",
+          "28px"
+        ]
+      }
+    },
+    {
+      "width": 768,
+      "shown": {
+        "body": {
+          "x": 38.390625,
+          "y": -322,
+          "width": 691.21875,
+          "height": 5265.234375,
+          "top": -322,
+          "right": 729.609375,
+          "bottom": 4943.234375,
+          "left": 38.390625
+        },
+        "dock": {
+          "x": 742,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 766,
+          "bottom": 527.78125,
+          "left": 742
+        },
+        "calendar": {
+          "x": 38.390625,
+          "y": 302.328125,
+          "width": 691.21875,
+          "height": 335.375,
+          "top": 302.328125,
+          "right": 729.609375,
+          "bottom": 637.703125,
+          "left": 38.390625
+        },
+        "left": 38.390625,
+        "right": 38.390625,
+        "centerError": 0,
+        "gap": 12.390625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "38.3906px",
+          "38.3906px"
+        ]
+      },
+      "hidden": {
+        "body": {
+          "x": 38.390625,
+          "y": -322,
+          "width": 691.21875,
+          "height": 4905.859375,
+          "top": -322,
+          "right": 729.609375,
+          "bottom": 4583.859375,
+          "left": 38.390625
+        },
+        "dock": {
+          "x": 742,
+          "y": 782,
+          "width": 24,
+          "height": 44,
+          "top": 782,
+          "right": 766,
+          "bottom": 826,
+          "left": 742
+        },
+        "calendar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "left": 38.390625,
+        "right": 38.390625,
+        "centerError": 0,
+        "gap": 12.390625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": true,
+        "focus": "r26-calendar-show",
+        "footerPadding": [
+          "38.3906px",
+          "38.3906px"
+        ]
+      },
+      "restored": {
+        "body": {
+          "x": 38.390625,
+          "y": -322,
+          "width": 691.21875,
+          "height": 5265.234375,
+          "top": -322,
+          "right": 729.609375,
+          "bottom": 4943.234375,
+          "left": 38.390625
+        },
+        "dock": {
+          "x": 742,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 766,
+          "bottom": 527.78125,
+          "left": 742
+        },
+        "calendar": {
+          "x": 38.390625,
+          "y": 302.328125,
+          "width": 691.21875,
+          "height": 335.375,
+          "top": 302.328125,
+          "right": 729.609375,
+          "bottom": 637.703125,
+          "left": 38.390625
+        },
+        "left": 38.390625,
+        "right": 38.390625,
+        "centerError": 0,
+        "gap": 12.390625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "38.3906px",
+          "38.3906px"
+        ]
+      },
+      "bottom": {
+        "body": {
+          "x": 38.390625,
+          "y": -4653,
+          "width": 691.21875,
+          "height": 5265.234375,
+          "top": -4653,
+          "right": 729.609375,
+          "bottom": 612.234375,
+          "left": 38.390625
+        },
+        "dock": {
+          "x": 742,
+          "y": 381,
+          "width": 24,
+          "height": 146.78125,
+          "top": 381,
+          "right": 766,
+          "bottom": 527.78125,
+          "left": 742
+        },
+        "calendar": {
+          "x": 38.390625,
+          "y": -4028.671875,
+          "width": 691.21875,
+          "height": 335.375,
+          "top": -4028.671875,
+          "right": 729.609375,
+          "bottom": -3693.296875,
+          "left": 38.390625
+        },
+        "left": 38.390625,
+        "right": 38.390625,
+        "centerError": 0,
+        "gap": 12.390625,
+        "overflow": 0,
+        "calendarOverflow": 0,
+        "dockOverflow": 0,
+        "hidden": false,
+        "focus": "r26-calendar-hide",
+        "footerPadding": [
+          "38.3906px",
+          "38.3906px"
+        ]
+      }
+    }
+  ],
+  "locales": [
+    {
+      "lang": "en",
+      "body": {
+        "x": 28,
+        "y": -192,
+        "width": 264,
+        "height": 7896.171875,
+        "top": -192,
+        "right": 292,
+        "bottom": 7704.171875,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 288.78125,
+        "width": 264,
+        "height": 361.75,
+        "top": 288.78125,
+        "right": 292,
+        "bottom": 650.53125,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "r26-calendar-hide",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "es",
+      "body": {
+        "x": 28,
+        "y": -232,
+        "width": 264,
+        "height": 7936.265625,
+        "top": -232,
+        "right": 292,
+        "bottom": 7704.265625,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 288.875,
+        "width": 264,
+        "height": 361.75,
+        "top": 288.875,
+        "right": 292,
+        "bottom": 650.625,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "pt-br",
+      "body": {
+        "x": 28,
+        "y": -232,
+        "width": 264,
+        "height": 7936.265625,
+        "top": -232,
+        "right": 292,
+        "bottom": 7704.265625,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 288.875,
+        "width": 264,
+        "height": 361.75,
+        "top": 288.875,
+        "right": 292,
+        "bottom": 650.625,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "de",
+      "body": {
+        "x": 28,
+        "y": -192,
+        "width": 264,
+        "height": 7896.171875,
+        "top": -192,
+        "right": 292,
+        "bottom": 7704.171875,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 288.78125,
+        "width": 264,
+        "height": 361.75,
+        "top": 288.78125,
+        "right": 292,
+        "bottom": 650.53125,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "fr",
+      "body": {
+        "x": 28,
+        "y": -209,
+        "width": 264,
+        "height": 7913.765625,
+        "top": -209,
+        "right": 292,
+        "bottom": 7704.765625,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 289.375,
+        "width": 264,
+        "height": 361.75,
+        "top": 289.375,
+        "right": 292,
+        "bottom": 651.125,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "it",
+      "body": {
+        "x": 28,
+        "y": -222,
+        "width": 264,
+        "height": 8022.640625,
+        "top": -222,
+        "right": 292,
+        "bottom": 7800.640625,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 298.875,
+        "width": 264,
+        "height": 342.5625,
+        "top": 298.875,
+        "right": 292,
+        "bottom": 641.4375,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    },
+    {
+      "lang": "ru",
+      "body": {
+        "x": 28,
+        "y": -231,
+        "width": 264,
+        "height": 8041.59375,
+        "top": -231,
+        "right": 292,
+        "bottom": 7810.59375,
+        "left": 28
+      },
+      "dock": {
+        "x": 294,
+        "y": 381,
+        "width": 24,
+        "height": 146.78125,
+        "top": 381,
+        "right": 318,
+        "bottom": 527.78125,
+        "left": 294
+      },
+      "calendar": {
+        "x": 28,
+        "y": 280.1875,
+        "width": 264,
+        "height": 379.75,
+        "top": 280.1875,
+        "right": 292,
+        "bottom": 659.9375,
+        "left": 28
+      },
+      "left": 28,
+      "right": 28,
+      "centerError": 0,
+      "gap": 2,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "",
+      "footerPadding": [
+        "28px",
+        "28px"
+      ]
+    }
+  ],
+  "regression": {
+    "desktop": {
+      "width": 284,
+      "gap": 24,
+      "top": 370,
+      "bottom": 716.5,
+      "overflow": 0
+    },
+    "shortHero": {
+      "visibility": "hidden",
+      "heroBottom": 574
+    },
+    "shortBottom": {
+      "body": {
+        "x": 42.1875,
+        "y": -4992,
+        "width": 759.625,
+        "height": 5149.5625,
+        "top": -4992,
+        "right": 801.8125,
+        "bottom": 157.5625,
+        "left": 42.1875
+      },
+      "dock": {
+        "x": 818,
+        "y": 328,
+        "width": 24,
+        "height": 44,
+        "top": 328,
+        "right": 842,
+        "bottom": 372,
+        "left": 818
+      },
+      "calendar": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "left": 42.1875,
+      "right": 42.1875,
+      "centerError": 0,
+      "gap": 16.1875,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": true,
+      "focus": "",
+      "footerPadding": [
+        "42.1875px",
+        "42.1875px"
+      ]
+    },
+    "reducedMotion": "0s",
+    "landscapeRestore": {
+      "body": {
+        "x": 42.1875,
+        "y": -588,
+        "width": 759.625,
+        "height": 5508.9375,
+        "top": -588,
+        "right": 801.8125,
+        "bottom": 4920.9375,
+        "left": 42.1875
+      },
+      "dock": {
+        "x": 818,
+        "y": 154,
+        "width": 24,
+        "height": 146.78125,
+        "top": 154,
+        "right": 842,
+        "bottom": 300.78125,
+        "left": 818
+      },
+      "calendar": {
+        "x": 42.1875,
+        "y": 74.8125,
+        "width": 759.625,
+        "height": 335.375,
+        "top": 74.8125,
+        "right": 801.8125,
+        "bottom": 410.1875,
+        "left": 42.1875
+      },
+      "left": 42.1875,
+      "right": 42.1875,
+      "centerError": 0,
+      "gap": 16.1875,
+      "overflow": 0,
+      "calendarOverflow": 0,
+      "dockOverflow": 0,
+      "hidden": false,
+      "focus": "r26-calendar-hide",
+      "footerPadding": [
+        "42.1875px",
+        "42.1875px"
+      ]
+    },
+    "exit": {
+      "dock": 0,
+      "footerPadding": [
+        "42.1875px",
+        "42.1875px"
+      ]
+    }
+  },
+  "finishedAt": "2026-11-14T22:54:24.403Z",
+  "notes": [
+    "On phone widths the body has equal 28px gutters and the 24px calendar strip occupies the right gutter with 2px clearance. Tablet retains natural equal gutters when wider.",
+    "The calendar control is 24px wide by44px high; full in-flow calendar retains its larger Hide button.",
+    "Music content is334px wide at390px, versus298px before item102.",
+    "Hide/Restore preserve centered body geometry.",
+    "Desktop284px rail remains unchanged with24px clearance at1440.",
+    "All seven locales pass at320 with no body, card, or strip overflow."
+  ]
+}

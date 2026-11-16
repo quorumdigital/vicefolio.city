@@ -1,0 +1,188 @@
+{
+  "checks": [
+    {
+      "lang": "en",
+      "route": "home",
+      "overflow": false,
+      "heading": "Know the city. Own the night.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "vehicles",
+      "overflow": false,
+      "heading": "VEHICLE DOSSIERS.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "items",
+      "overflow": false,
+      "heading": "WEAPONS, GEAR & MORE.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "people",
+      "overflow": false,
+      "heading": "EVERYONE HAS AN ANGLE.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "world",
+      "overflow": false,
+      "heading": "Leonida map room",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "guides",
+      "overflow": false,
+      "heading": "THE PLAYER’S BRIEFING.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "fieldguide",
+      "overflow": false,
+      "heading": "WELCOME TO LEONIDA.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "music",
+      "overflow": false,
+      "heading": "THE SOUND OF LEONIDA.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "ufos",
+      "overflow": false,
+      "heading": "THE UFO FILES.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "gallery",
+      "overflow": false,
+      "heading": "POSTCARDS FROM LEONIDA.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "saved",
+      "overflow": false,
+      "heading": "MY ATLAS.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "community",
+      "overflow": false,
+      "heading": "Leave a trail.",
+      "locale": "en"
+    },
+    {
+      "lang": "en",
+      "route": "credits",
+      "overflow": false,
+      "heading": "SOURCES & CREDITS.",
+      "locale": "en"
+    },
+    {
+      "lang": "es",
+      "route": "home",
+      "overflow": false,
+      "heading": "Conoce la ciudad. Domina la noche.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "vehicles",
+      "overflow": false,
+      "heading": "FICHAS DE VEHÍCULOS.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "items",
+      "overflow": false,
+      "heading": "ARMAS, EQUIPO Y MÁS.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "people",
+      "overflow": false,
+      "heading": "TODOS TIENEN UN PLAN.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "world",
+      "overflow": false,
+      "heading": "Mapa de Leonida",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "guides",
+      "overflow": false,
+      "heading": "LA GUÍA DEL JUGADOR.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "fieldguide",
+      "overflow": false,
+      "heading": "BIENVENIDO A LEONIDA.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "music",
+      "overflow": false,
+      "heading": "EL SONIDO DE LEONIDA.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "ufos",
+      "overflow": false,
+      "heading": "LOS EXPEDIENTES OVNI.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "gallery",
+      "overflow": false,
+      "heading": "POSTALES DE LEONIDA.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "saved",
+      "overflow": false,
+      "heading": "MI ATLAS.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "community",
+      "overflow": false,
+      "heading": "Deja una pista.",
+      "locale": "es"
+    },
+    {
+      "lang": "es",
+      "route": "credits",
+      "overflow": false,
+      "heading": "FUENTES Y CRÉDITOS.",
+      "locale": "es"
+    }
+  ],
+  "errors": [],
+  "failedAssets": []
+}

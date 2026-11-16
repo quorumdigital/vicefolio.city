@@ -1,0 +1,758 @@
+[
+  {
+    "lang": "en",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 2812,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 6255,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3553,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 982,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 7669,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3908,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3112,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3052,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 6883,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3768,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 919,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 8848,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3986,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3270,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3198,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 7165,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3961,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 989,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 9010,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4174,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3211,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3145,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 7020,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3834,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 1027,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 9388,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4381,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3259,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3365,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 7455,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4072,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 1034,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 9844,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4491,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3320,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "home",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3142,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "vehicles",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 7398,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "items",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4115,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "people",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 998,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "money",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 9321,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "fieldguide",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 4401,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "music",
+    "width": 1440,
+    "scroll": 1440,
+    "main": 3312,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 2812,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 6255,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 3553,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 982,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 7669,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 3908,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "en",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3112,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 3052,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 6883,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 3768,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 919,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 8848,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 3986,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "es",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3270,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 3198,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 7165,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 3961,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 989,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 9010,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 4174,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "pt-br",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3211,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 3145,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 7020,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 3834,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 1027,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 9388,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 4381,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "de",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3259,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 3365,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 7455,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 4072,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 1034,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 9844,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 4491,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "fr",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3320,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "home",
+    "width": 390,
+    "scroll": 390,
+    "main": 3142,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "vehicles",
+    "width": 390,
+    "scroll": 390,
+    "main": 7398,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "items",
+    "width": 390,
+    "scroll": 390,
+    "main": 4115,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "people",
+    "width": 390,
+    "scroll": 390,
+    "main": 998,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "money",
+    "width": 390,
+    "scroll": 390,
+    "main": 9321,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "fieldguide",
+    "width": 390,
+    "scroll": 390,
+    "main": 4401,
+    "hero": true,
+    "bad": []
+  },
+  {
+    "lang": "it",
+    "route": "music",
+    "width": 390,
+    "scroll": 390,
+    "main": 3312,
+    "hero": true,
+    "bad": []
+  }
+]

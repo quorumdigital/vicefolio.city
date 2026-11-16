@@ -1,0 +1,86 @@
+[
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 513,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 44,
+    "palm": true,
+    "locale": "en",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 524,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 54,
+    "palm": true,
+    "locale": "es",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 504,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 44,
+    "palm": true,
+    "locale": "pt-br",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 541,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 56,
+    "palm": true,
+    "locale": "de",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 545,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 56,
+    "palm": true,
+    "locale": "fr",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 512,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 44,
+    "palm": true,
+    "locale": "it",
+    "textOverflow": []
+  },
+  {
+    "route": "people",
+    "viewport": 320,
+    "overflow": 0,
+    "heroHeight": 576,
+    "errors": [],
+    "overlap": false,
+    "footHeight": 56,
+    "palm": true,
+    "locale": "ru",
+    "textOverflow": []
+  }
+]

@@ -1,0 +1,2895 @@
+{
+  "item": 94,
+  "status": "local-verified; production pending",
+  "reviewedAt": "2026-11-14T22:39:56.415Z",
+  "changes": [
+    "Full contained hero artwork without cropping heads; left content clear of protagonists.",
+    "Slogans above buttons with identical font scale and per-locale shared maximum-width denominator; white-to-pink and purple-to-pink coloring.",
+    "Discover Leonida subtle cyan glow, clear copy/button/stat spacing."
+  ],
+  "desktop": [
+    {
+      "lang": "en",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 157.953125,
+        "right": 364.890625,
+        "bottom": 303.6875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 341.734375,
+        "width": 313.34375,
+        "height": 93.625,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 68.09375,
+        "y": 603.359375,
+        "width": 260.234375,
+        "height": 11.1875,
+        "right": 328.328125,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 38.046875,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.438125,
+          "width": 313.34375,
+          "height": 43.8125,
+          "natural": [
+            713,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.438125,
+          "width": 313.34375,
+          "height": 43.8125,
+          "natural": [
+            715,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "es",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 183.140625,
+        "right": 364.890625,
+        "bottom": 328.875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 353.703125,
+        "width": 313.34375,
+        "height": 81.65625,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 70.109375,
+        "y": 603.359375,
+        "width": 256.1875,
+        "height": 11.1875,
+        "right": 326.296875,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 24.828125,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.37828125,
+          "width": 313.34375,
+          "height": 37.828125,
+          "natural": [
+            828,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.37828125,
+          "width": 313.34375,
+          "height": 37.828125,
+          "natural": [
+            800,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "pt-BR",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 157.953125,
+        "right": 364.890625,
+        "bottom": 303.6875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 353.859375,
+        "width": 313.34375,
+        "height": 81.5,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 48.484375,
+        "y": 603.359375,
+        "width": 299.453125,
+        "height": 11.1875,
+        "right": 347.9375,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 50.171875,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.3775,
+          "width": 313.34375,
+          "height": 37.75,
+          "natural": [
+            830,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.3775,
+          "width": 313.34375,
+          "height": 37.75,
+          "natural": [
+            721,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "de",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 157.953125,
+        "right": 364.890625,
+        "bottom": 303.6875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 357.078125,
+        "width": 313.34375,
+        "height": 78.28125,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 55.9375,
+        "y": 603.359375,
+        "width": 284.546875,
+        "height": 11.1875,
+        "right": 340.484375,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 53.390625,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.36140625,
+          "width": 313.34375,
+          "height": 36.140625,
+          "natural": [
+            768,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.36140625,
+          "width": 313.34375,
+          "height": 36.140625,
+          "natural": [
+            867,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "fr",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 157.953125,
+        "right": 364.890625,
+        "bottom": 303.6875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 359.828125,
+        "width": 313.34375,
+        "height": 75.53125,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 65.65625,
+        "y": 603.359375,
+        "width": 265.109375,
+        "height": 11.1875,
+        "right": 330.765625,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 56.140625,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.34765625,
+          "width": 313.34375,
+          "height": 34.765625,
+          "natural": [
+            877,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.34765625,
+          "width": 313.34375,
+          "height": 34.765625,
+          "natural": [
+            901,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "it",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 157.953125,
+        "right": 364.890625,
+        "bottom": 303.6875
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 363.609375,
+        "width": 313.34375,
+        "height": 71.75,
+        "right": 354.875,
+        "bottom": 435.359375
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 445.359375,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 481.359375
+      },
+      "buttons": {
+        "x": 31.53125,
+        "y": 491.359375,
+        "width": 333.359375,
+        "height": 102,
+        "right": 364.890625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 56.640625,
+        "y": 603.359375,
+        "width": 283.140625,
+        "height": 11.1875,
+        "right": 339.78125,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 59.921875,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.32875,
+          "width": 313.34375,
+          "height": 32.875,
+          "natural": [
+            819,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.32875,
+          "width": 313.34375,
+          "height": 32.875,
+          "natural": [
+            953,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "ru",
+      "viewport": [
+        901,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 506.8125,
+        "right": 901,
+        "bottom": 634.8125
+      },
+      "sign": {
+        "x": 31.53125,
+        "y": 145.734375,
+        "width": 333.359375,
+        "height": 171.28125,
+        "right": 364.890625,
+        "bottom": 317.015625
+      },
+      "slogan": {
+        "x": 41.53125,
+        "y": 403.171875,
+        "width": 313.34375,
+        "height": 85,
+        "right": 354.875,
+        "bottom": 488.171875
+      },
+      "intro": {
+        "x": 31.53125,
+        "y": 498.171875,
+        "width": 333.359375,
+        "height": 36,
+        "right": 364.890625,
+        "bottom": 534.171875
+      },
+      "buttons": {
+        "x": 32.140625,
+        "y": 544.171875,
+        "width": 332.125,
+        "height": 49.1875,
+        "right": 364.265625,
+        "bottom": 593.359375
+      },
+      "stats": {
+        "x": 57.53125,
+        "y": 603.359375,
+        "width": 281.34375,
+        "height": 11.1875,
+        "right": 338.875,
+        "bottom": 614.546875
+      },
+      "signToSlogan": 86.15625,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.35909090909090907,
+          "width": 313.34375,
+          "height": 39.5,
+          "natural": [
+            631,
+            110
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.35909090909090907,
+          "width": 313.34375,
+          "height": 39.5,
+          "natural": [
+            793,
+            110
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 901,
+        "paintedHeight": 506.8125,
+        "box": [
+          901,
+          506.8125
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "en",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 507.9375,
+        "width": 399.96875,
+        "height": 117.875,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 66.078125,
+        "y": 681.8125,
+        "width": 373.828125,
+        "height": 46,
+        "right": 439.90625,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 116.875,
+        "y": 737.8125,
+        "width": 272.234375,
+        "height": 11.1875,
+        "right": 389.109375,
+        "bottom": 749
+      },
+      "signToSlogan": 174.25,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.559375,
+          "width": 399.96875,
+          "height": 55.9375,
+          "natural": [
+            713,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.559375,
+          "width": 399.96875,
+          "height": 55.9375,
+          "natural": [
+            715,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "es",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 523.21875,
+        "width": 399.96875,
+        "height": 102.59375,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 77.71875,
+        "y": 681.8125,
+        "width": 350.546875,
+        "height": 46,
+        "right": 428.265625,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 118.90625,
+        "y": 737.8125,
+        "width": 268.1875,
+        "height": 11.1875,
+        "right": 387.09375,
+        "bottom": 749
+      },
+      "signToSlogan": 189.53125,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.48296875,
+          "width": 399.96875,
+          "height": 48.296875,
+          "natural": [
+            828,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.48296875,
+          "width": 399.96875,
+          "height": 48.296875,
+          "natural": [
+            800,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "pt-BR",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 523.4375,
+        "width": 399.96875,
+        "height": 102.375,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 72.5625,
+        "y": 681.8125,
+        "width": 360.859375,
+        "height": 46,
+        "right": 433.421875,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 97.265625,
+        "y": 737.8125,
+        "width": 311.453125,
+        "height": 11.1875,
+        "right": 408.71875,
+        "bottom": 749
+      },
+      "signToSlogan": 189.75,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.481875,
+          "width": 399.96875,
+          "height": 48.1875,
+          "natural": [
+            830,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.481875,
+          "width": 399.96875,
+          "height": 48.1875,
+          "natural": [
+            721,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "de",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 527.5625,
+        "width": 399.96875,
+        "height": 98.25,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 63.921875,
+        "y": 681.8125,
+        "width": 378.140625,
+        "height": 46,
+        "right": 442.0625,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 104.71875,
+        "y": 737.8125,
+        "width": 296.546875,
+        "height": 11.1875,
+        "right": 401.265625,
+        "bottom": 749
+      },
+      "signToSlogan": 193.875,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.46125,
+          "width": 399.96875,
+          "height": 46.125,
+          "natural": [
+            768,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.46125,
+          "width": 399.96875,
+          "height": 46.125,
+          "natural": [
+            867,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "fr",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 531.03125,
+        "width": 399.96875,
+        "height": 94.78125,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 56.359375,
+        "y": 681.8125,
+        "width": 393.265625,
+        "height": 46,
+        "right": 449.625,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 114.4375,
+        "y": 737.8125,
+        "width": 277.109375,
+        "height": 11.1875,
+        "right": 391.546875,
+        "bottom": 749
+      },
+      "signToSlogan": 197.34375,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.44390625,
+          "width": 399.96875,
+          "height": 44.390625,
+          "natural": [
+            877,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.44390625,
+          "width": 399.96875,
+          "height": 44.390625,
+          "natural": [
+            901,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "it",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 183.046875,
+        "right": 465.75,
+        "bottom": 333.6875
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 535.875,
+        "width": 399.96875,
+        "height": 89.9375,
+        "right": 452.984375,
+        "bottom": 625.8125
+      },
+      "intro": {
+        "x": 40.25,
+        "y": 635.8125,
+        "width": 425.5,
+        "height": 36,
+        "right": 465.75,
+        "bottom": 671.8125
+      },
+      "buttons": {
+        "x": 56.125,
+        "y": 681.8125,
+        "width": 393.75,
+        "height": 46,
+        "right": 449.875,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 105.421875,
+        "y": 737.8125,
+        "width": 295.140625,
+        "height": 11.1875,
+        "right": 400.5625,
+        "bottom": 749
+      },
+      "signToSlogan": 202.1875,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.4196875,
+          "width": 399.96875,
+          "height": 41.96875,
+          "natural": [
+            819,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.4196875,
+          "width": 399.96875,
+          "height": 41.96875,
+          "natural": [
+            953,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "ru",
+      "viewport": [
+        1150,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 1150,
+        "height": 646.875,
+        "right": 1150,
+        "bottom": 774.875
+      },
+      "sign": {
+        "x": 40.25,
+        "y": 150.640625,
+        "width": 425.5,
+        "height": 200.0625,
+        "right": 465.75,
+        "bottom": 350.703125
+      },
+      "slogan": {
+        "x": 53.015625,
+        "y": 533.78125,
+        "width": 399.96875,
+        "height": 106.84375,
+        "right": 452.984375,
+        "bottom": 640.625
+      },
+      "intro": {
+        "x": 48.234375,
+        "y": 650.625,
+        "width": 409.515625,
+        "height": 18,
+        "right": 457.75,
+        "bottom": 668.625
+      },
+      "buttons": {
+        "x": 86.9375,
+        "y": 678.625,
+        "width": 332.125,
+        "height": 49.1875,
+        "right": 419.0625,
+        "bottom": 727.8125
+      },
+      "stats": {
+        "x": 106.328125,
+        "y": 737.8125,
+        "width": 293.34375,
+        "height": 11.1875,
+        "right": 399.671875,
+        "bottom": 749
+      },
+      "signToSlogan": 183.078125,
+      "sloganToIntro": 10,
+      "introToButtons": 10,
+      "buttonsToStats": 10,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.4583806818181818,
+          "width": 399.96875,
+          "height": 50.421875,
+          "natural": [
+            631,
+            110
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.4583806818181818,
+          "width": 399.96875,
+          "height": 50.421875,
+          "natural": [
+            793,
+            110
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1150,
+        "paintedHeight": 646.875,
+        "box": [
+          1150,
+          646.875
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "en",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 550.9375,
+        "width": 470,
+        "height": 143.4375,
+        "right": 551.78125,
+        "bottom": 694.375
+      },
+      "intro": {
+        "x": 70.84375,
+        "y": 720.375,
+        "width": 491.875,
+        "height": 18.34375,
+        "right": 562.71875,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 111.875,
+        "y": 756.71875,
+        "width": 409.828125,
+        "height": 52,
+        "right": 521.703125,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 160.390625,
+        "y": 826.71875,
+        "width": 312.78125,
+        "height": 12.59375,
+        "right": 473.171875,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 211.96875,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.6571875,
+          "width": 470,
+          "height": 65.71875,
+          "natural": [
+            713,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.6571875,
+          "width": 470,
+          "height": 65.71875,
+          "natural": [
+            715,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "es",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 550.53125,
+        "width": 470,
+        "height": 125.5,
+        "right": 551.78125,
+        "bottom": 676.03125
+      },
+      "intro": {
+        "x": 56.78125,
+        "y": 702.03125,
+        "width": 520,
+        "height": 36.6875,
+        "right": 576.78125,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 123.515625,
+        "y": 756.71875,
+        "width": 386.546875,
+        "height": 52,
+        "right": 510.0625,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 162.671875,
+        "y": 826.71875,
+        "width": 308.21875,
+        "height": 12.59375,
+        "right": 470.890625,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 211.5625,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5675,
+          "width": 470,
+          "height": 56.75,
+          "natural": [
+            828,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5675,
+          "width": 470,
+          "height": 56.75,
+          "natural": [
+            800,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "pt-BR",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 550.78125,
+        "width": 470,
+        "height": 125.25,
+        "right": 551.78125,
+        "bottom": 676.03125
+      },
+      "intro": {
+        "x": 56.78125,
+        "y": 702.03125,
+        "width": 520,
+        "height": 36.6875,
+        "right": 576.78125,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 118.359375,
+        "y": 756.71875,
+        "width": 396.859375,
+        "height": 52,
+        "right": 515.21875,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 138.34375,
+        "y": 826.71875,
+        "width": 356.890625,
+        "height": 12.59375,
+        "right": 495.234375,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 211.8125,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.56625,
+          "width": 470,
+          "height": 56.625,
+          "natural": [
+            830,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.56625,
+          "width": 470,
+          "height": 56.625,
+          "natural": [
+            721,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "de",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 573.96875,
+        "width": 470,
+        "height": 120.40625,
+        "right": 551.78125,
+        "bottom": 694.375
+      },
+      "intro": {
+        "x": 86.515625,
+        "y": 720.375,
+        "width": 460.53125,
+        "height": 18.34375,
+        "right": 547.046875,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 109.71875,
+        "y": 756.71875,
+        "width": 414.140625,
+        "height": 52,
+        "right": 523.859375,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 146.734375,
+        "y": 826.71875,
+        "width": 340.109375,
+        "height": 12.59375,
+        "right": 486.84375,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 235,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.54203125,
+          "width": 470,
+          "height": 54.203125,
+          "natural": [
+            768,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.54203125,
+          "width": 470,
+          "height": 54.203125,
+          "natural": [
+            867,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "fr",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 559.71875,
+        "width": 470,
+        "height": 116.3125,
+        "right": 551.78125,
+        "bottom": 676.03125
+      },
+      "intro": {
+        "x": 56.78125,
+        "y": 702.03125,
+        "width": 520,
+        "height": 36.6875,
+        "right": 576.78125,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 102.15625,
+        "y": 756.71875,
+        "width": 429.265625,
+        "height": 52,
+        "right": 531.421875,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 157.65625,
+        "y": 826.71875,
+        "width": 318.25,
+        "height": 12.59375,
+        "right": 475.90625,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 220.75,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5215625,
+          "width": 470,
+          "height": 52.15625,
+          "natural": [
+            877,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5215625,
+          "width": 470,
+          "height": 52.15625,
+          "natural": [
+            901,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "it",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 224.625,
+        "right": 583.1875,
+        "bottom": 338.96875
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 583.75,
+        "width": 470,
+        "height": 110.625,
+        "right": 551.78125,
+        "bottom": 694.375
+      },
+      "intro": {
+        "x": 69.421875,
+        "y": 720.375,
+        "width": 494.71875,
+        "height": 18.34375,
+        "right": 564.140625,
+        "bottom": 738.71875
+      },
+      "buttons": {
+        "x": 101.90625,
+        "y": 756.71875,
+        "width": 429.75,
+        "height": 52,
+        "right": 531.65625,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 147.515625,
+        "y": 826.71875,
+        "width": 338.53125,
+        "height": 12.59375,
+        "right": 486.046875,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 244.78125,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.493125,
+          "width": 470,
+          "height": 49.3125,
+          "natural": [
+            819,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.493125,
+          "width": 470,
+          "height": 49.3125,
+          "natural": [
+            953,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "ru",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 810,
+        "right": 1440,
+        "bottom": 896
+      },
+      "sign": {
+        "x": 50.390625,
+        "y": 114.34375,
+        "width": 532.796875,
+        "height": 245.921875,
+        "right": 583.1875,
+        "bottom": 360.265625
+      },
+      "slogan": {
+        "x": 81.78125,
+        "y": 560.65625,
+        "width": 470,
+        "height": 130.53125,
+        "right": 551.78125,
+        "bottom": 691.1875
+      },
+      "intro": {
+        "x": 107.921875,
+        "y": 717.1875,
+        "width": 417.71875,
+        "height": 18.34375,
+        "right": 525.640625,
+        "bottom": 735.53125
+      },
+      "buttons": {
+        "x": 132.71875,
+        "y": 753.53125,
+        "width": 368.125,
+        "height": 55.1875,
+        "right": 500.84375,
+        "bottom": 808.71875
+      },
+      "stats": {
+        "x": 148.53125,
+        "y": 826.71875,
+        "width": 336.515625,
+        "height": 12.59375,
+        "right": 485.046875,
+        "bottom": 839.3125
+      },
+      "signToSlogan": 200.390625,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5387784090909091,
+          "width": 470,
+          "height": 59.265625,
+          "natural": [
+            631,
+            110
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5387784090909091,
+          "width": 470,
+          "height": 59.265625,
+          "natural": [
+            793,
+            110
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1440,
+        "paintedHeight": 810,
+        "box": [
+          1440,
+          810
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "en",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 613.546875,
+        "width": 470,
+        "height": 143.4375,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 300.109375,
+        "y": 849.921875,
+        "width": 409.828125,
+        "height": 52,
+        "right": 709.9375,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 312.6875,
+        "y": 919.921875,
+        "width": 384.671875,
+        "height": 16.109375,
+        "right": 697.359375,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 237.109375,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.6571875,
+          "width": 470,
+          "height": 65.71875,
+          "natural": [
+            713,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.6571875,
+          "width": 470,
+          "height": 65.71875,
+          "natural": [
+            715,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "es",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 631.484375,
+        "width": 470,
+        "height": 125.5,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 311.75,
+        "y": 849.921875,
+        "width": 386.546875,
+        "height": 52,
+        "right": 698.296875,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 315.59375,
+        "y": 919.921875,
+        "width": 378.84375,
+        "height": 16.109375,
+        "right": 694.4375,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 255.046875,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5675,
+          "width": 470,
+          "height": 56.75,
+          "natural": [
+            828,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5675,
+          "width": 470,
+          "height": 56.75,
+          "natural": [
+            800,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "pt-BR",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 631.734375,
+        "width": 470,
+        "height": 125.25,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 306.59375,
+        "y": 849.921875,
+        "width": 396.859375,
+        "height": 52,
+        "right": 703.453125,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 284.453125,
+        "y": 919.921875,
+        "width": 441.125,
+        "height": 16.109375,
+        "right": 725.578125,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 255.296875,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.56625,
+          "width": 470,
+          "height": 56.625,
+          "natural": [
+            830,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.56625,
+          "width": 470,
+          "height": 56.625,
+          "natural": [
+            721,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "de",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 636.578125,
+        "width": 470,
+        "height": 120.40625,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 297.953125,
+        "y": 849.921875,
+        "width": 414.140625,
+        "height": 52,
+        "right": 712.09375,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 295.1875,
+        "y": 919.921875,
+        "width": 419.65625,
+        "height": 16.109375,
+        "right": 714.84375,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 260.140625,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.54203125,
+          "width": 470,
+          "height": 54.203125,
+          "natural": [
+            768,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.54203125,
+          "width": 470,
+          "height": 54.203125,
+          "natural": [
+            867,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "fr",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 640.671875,
+        "width": 470,
+        "height": 116.3125,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 290.390625,
+        "y": 849.921875,
+        "width": 429.265625,
+        "height": 52,
+        "right": 719.65625,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 309.171875,
+        "y": 919.921875,
+        "width": 391.6875,
+        "height": 16.109375,
+        "right": 700.859375,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 264.234375,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5215625,
+          "width": 470,
+          "height": 52.15625,
+          "natural": [
+            877,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5215625,
+          "width": 470,
+          "height": 52.15625,
+          "natural": [
+            901,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "it",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 258.453125,
+        "right": 805.625,
+        "bottom": 376.4375
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 646.359375,
+        "width": 470,
+        "height": 110.625,
+        "right": 740.015625,
+        "bottom": 756.984375
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 782.984375,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 831.921875
+      },
+      "buttons": {
+        "x": 290.140625,
+        "y": 849.921875,
+        "width": 429.75,
+        "height": 52,
+        "right": 719.890625,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 296.203125,
+        "y": 919.921875,
+        "width": 417.625,
+        "height": 16.109375,
+        "right": 713.828125,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 269.921875,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.493125,
+          "width": 470,
+          "height": 49.3125,
+          "natural": [
+            819,
+            100
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.493125,
+          "width": 470,
+          "height": 49.3125,
+          "natural": [
+            953,
+            100
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    },
+    {
+      "lang": "ru",
+      "viewport": [
+        1920,
+        1000
+      ],
+      "overflow": 0,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1920,
+        "height": 914,
+        "right": 1920,
+        "bottom": 1000
+      },
+      "sign": {
+        "x": 204.421875,
+        "y": 117.984375,
+        "width": 601.203125,
+        "height": 282.484375,
+        "right": 805.625,
+        "bottom": 400.46875
+      },
+      "slogan": {
+        "x": 270.015625,
+        "y": 623.265625,
+        "width": 470,
+        "height": 130.53125,
+        "right": 740.015625,
+        "bottom": 753.796875
+      },
+      "intro": {
+        "x": 245.015625,
+        "y": 779.796875,
+        "width": 520,
+        "height": 48.9375,
+        "right": 765.015625,
+        "bottom": 828.734375
+      },
+      "buttons": {
+        "x": 320.953125,
+        "y": 846.734375,
+        "width": 368.125,
+        "height": 55.1875,
+        "right": 689.078125,
+        "bottom": 901.921875
+      },
+      "stats": {
+        "x": 297.5,
+        "y": 919.921875,
+        "width": 415.046875,
+        "height": 16.109375,
+        "right": 712.546875,
+        "bottom": 936.03125
+      },
+      "signToSlogan": 222.796875,
+      "sloganToIntro": 26,
+      "introToButtons": 18,
+      "buttonsToStats": 18,
+      "statsFirstView": true,
+      "sameSloganScale": true,
+      "sloganImages": [
+        {
+          "scale": 0.5387784090909091,
+          "width": 470,
+          "height": 59.265625,
+          "natural": [
+            631,
+            110
+          ],
+          "loaded": true
+        },
+        {
+          "scale": 0.5387784090909091,
+          "width": 470,
+          "height": 59.265625,
+          "natural": [
+            793,
+            110
+          ],
+          "loaded": true
+        }
+      ],
+      "art": {
+        "fit": "contain",
+        "natural": [
+          3840,
+          2160
+        ],
+        "paintedWidth": 1624.888888888889,
+        "paintedHeight": 914,
+        "box": [
+          1920,
+          914
+        ],
+        "src": "/assets/hd/hero-rooftop.jpg"
+      },
+      "leftContentClear": true,
+      "brokenImages": []
+    }
+  ],
+  "mobile": [
+    {
+      "lang": "en",
+      "overflow": 0,
+      "scales": [
+        0.19015625,
+        0.19015625
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "es",
+      "overflow": 0,
+      "scales": [
+        0.16421875,
+        0.16421875
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "pt-BR",
+      "overflow": 0,
+      "scales": [
+        0.16375,
+        0.16375
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "de",
+      "overflow": 0,
+      "scales": [
+        0.15671875,
+        0.15671875
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "fr",
+      "overflow": 0,
+      "scales": [
+        0.1509375,
+        0.1509375
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "it",
+      "overflow": 0,
+      "scales": [
+        0.14265625,
+        0.14265625
+      ],
+      "gap": 20
+    },
+    {
+      "lang": "ru",
+      "overflow": 0,
+      "scales": [
+        0.15582386363636364,
+        0.15582386363636364
+      ],
+      "gap": 20
+    }
+  ],
+  "russianGradientFinal": [
+    {
+      "part": "one",
+      "gradient": "<linearGradient id=\"r27-paired-gradient\" gradientUnits=\"userSpaceOnUse\" x1=\"0\" y1=\"18\" x2=\"0\" y2=\"103\"><stop offset=\"0\" stop-color=\"#FFF7FC\"/><stop offset=\".5\" stop-color=\"#F8D8ED\"/><stop offset=\"1\" stop-color=\"#F0A4D4\"/></linearGradient>",
+      "usesGradient": true
+    },
+    {
+      "part": "two",
+      "gradient": "<linearGradient id=\"r27-paired-gradient\" gradientUnits=\"userSpaceOnUse\" x1=\"0\" y1=\"18\" x2=\"0\" y2=\"103\"><stop offset=\"0\" stop-color=\"#B5A4EC\"/><stop offset=\".5\" stop-color=\"#BC8BD3\"/><stop offset=\"1\" stop-color=\"#ED75C3\"/></linearGradient>",
+      "usesGradient": true
+    }
+  ],
+  "evidence": [
+    "release26-live-qa/home94-{locale}-{width}.png",
+    "release26-live-qa/home94-ru-final.png",
+    "release26-live-qa/home94-ru-320-final.png"
+  ],
+  "unresolved": []
+}

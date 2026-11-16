@@ -1,0 +1,506 @@
+{
+  "item": 93,
+  "status": "local-verified; production pending",
+  "reviewedAt": "2026-11-14T22:39:56.415Z",
+  "changes": [
+    "White #FFF7FC to pale pink #F8C9E7 to canonical #ED75C3 gradient; SVG geometry retained.",
+    "Desktop and mobile dropdowns attached to their trigger with no positive gap.",
+    "Managed summary switching deferred from pointerdown to click so reduced-motion mobile menus do not collapse under the pointer."
+  ],
+  "desktop": [
+    {
+      "width": 901,
+      "group": 0,
+      "pointerTransferOpen": true,
+      "gap": -1,
+      "inside": true,
+      "centerOffset": 0.0078125,
+      "overflow": 0
+    },
+    {
+      "width": 901,
+      "group": 1,
+      "pointerTransferOpen": true,
+      "gap": -1,
+      "inside": true,
+      "centerOffset": 0,
+      "overflow": 0
+    },
+    {
+      "width": 1024,
+      "group": 0,
+      "pointerTransferOpen": true,
+      "gap": -1,
+      "inside": true,
+      "centerOffset": 0.0078125,
+      "overflow": 0
+    },
+    {
+      "width": 1024,
+      "group": 1,
+      "pointerTransferOpen": true,
+      "gap": -1,
+      "inside": true,
+      "centerOffset": 0,
+      "overflow": 0
+    },
+    {
+      "width": 1440,
+      "group": 0,
+      "pointerTransferOpen": true,
+      "gap": 0,
+      "inside": true,
+      "centerOffset": 0.0078125,
+      "overflow": 0
+    },
+    {
+      "width": 1440,
+      "group": 1,
+      "pointerTransferOpen": true,
+      "gap": 0,
+      "inside": true,
+      "centerOffset": 0,
+      "overflow": 0
+    },
+    {
+      "width": 1920,
+      "group": 0,
+      "pointerTransferOpen": true,
+      "gap": 0,
+      "inside": true,
+      "centerOffset": 0.0078125,
+      "overflow": 0
+    },
+    {
+      "width": 1920,
+      "group": 1,
+      "pointerTransferOpen": true,
+      "gap": 0,
+      "inside": true,
+      "centerOffset": 0,
+      "overflow": 0
+    }
+  ],
+  "mobile": [
+    {
+      "motion": "reduce",
+      "width": 320,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 320,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 320,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 390,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 390,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 390,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 768,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 768,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 768,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 900,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 900,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "reduce",
+      "width": 900,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 320,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1.2594680786132812,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 320,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 320,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 390,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1.2594490051269531,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 54.99998474121094
+    },
+    {
+      "motion": "no-preference",
+      "width": 390,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 390,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -1,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 768,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -0.25991058349609375,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 768,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 768,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 900,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": -0.2603569030761719,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 900,
+      "group": 1,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    },
+    {
+      "motion": "no-preference",
+      "width": 900,
+      "group": 0,
+      "open": true,
+      "mainOpen": "true",
+      "headerHeight": 64,
+      "mainGap": 0,
+      "nestedGap": 0,
+      "inside": true,
+      "overflow": 0,
+      "minTargetHeight": 55
+    }
+  ],
+  "locales": [
+    {
+      "lang": "en",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog.svg?v=20261114-r27-fade",
+        "assets/lettering/label-explore.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "es",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room-es.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money-es.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog-es.svg?v=20261114-r27-fade",
+        "assets/lettering/label-discover-es.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "pt-br",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room-pt-br.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money-pt-br.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog-pt-br.svg?v=20261114-r27-fade",
+        "assets/lettering/label-explore-pt-br.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "de",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room-de.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money-de.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog-de.svg?v=20261114-r27-fade",
+        "assets/lettering/label-discover-de.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "fr",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room-fr.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money-fr.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog-fr.svg?v=20261114-r27-fade",
+        "assets/lettering/label-explore-fr.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "it",
+      "open": true,
+      "overflow": 0,
+      "srcs": [
+        "assets/lettering/label-map-room-it.svg?v=20261114-r27-fade",
+        "assets/lettering/label-money-it.svg?v=20261114-r27-fade",
+        "assets/lettering/label-catalog-it.svg?v=20261114-r27-fade",
+        "assets/lettering/label-explore-it.svg?v=20261114-r27-fade"
+      ],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "none"
+    },
+    {
+      "lang": "ru",
+      "open": true,
+      "overflow": 0,
+      "srcs": [],
+      "wordmark": "/assets/lettering/vicefolio-wordmark-v26.svg?v=20261114-r27-fade",
+      "plainGradient": "linear-gradient(rgb(255, 247, 252) 30%, rgb(248, 201, 231) 45%, rgb(237, 117, 195) 70%)"
+    }
+  ],
+  "keyboard": {
+    "open": {
+      "open": true,
+      "focus": "Vehicles",
+      "outline": "rgb(145, 223, 255) solid 2px"
+    },
+    "close": {
+      "open": false,
+      "focus": "Catalog"
+    }
+  },
+  "navigation": {
+    "url": "http://127.0.0.1:4173/en/#vehicles",
+    "menus": 0
+  },
+  "evidence": [
+    "release26-live-qa/menu93-desktop.png",
+    "release26-live-qa/menu93-phone-russian-final.png"
+  ],
+  "unresolved": []
+}

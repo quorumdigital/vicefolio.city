@@ -1,0 +1,431 @@
+{
+  "checkpoint": "All root-owned local checks passed; final independent visual review and build/publication pending",
+  "items": {
+    "1": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "header-desktop.png",
+        "header-phone.png"
+      ],
+      "checks": [
+        "62px desktop /46px phone icon",
+        "original image source preserved"
+      ]
+    },
+    "2": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "header-desktop.png",
+        "header-phone.png"
+      ],
+      "checks": [
+        "wordmark top21.27px is below icon top11.5px",
+        "desktop/phone alignment inspected"
+      ]
+    },
+    "3": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "header-desktop.png",
+        "header-phone.png"
+      ],
+      "checks": [
+        "subtitle8.5px desktop,7px phone",
+        "no horizontal overflow390px"
+      ]
+    },
+    "4": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "5": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "6": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "7": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "8": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "9": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "10": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "11": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "12": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "13": {
+      "preview": "passed after correcting inherited doubleoffset",
+      "publication": "pending",
+      "evidence": [
+        "menu-0-desktop.png",
+        "menu-1-desktop.png",
+        "menu-explore-phone.png"
+      ],
+      "checks": [
+        "panels centered over respective desktoptriggers (<.01pxdelta)",
+        "phone panelwithin12..378 at390viewport",
+        "safe mouse crossing andEscape close"
+      ]
+    },
+    "14": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-lettering-integrated.png",
+        "home-composition-desktop.png",
+        "home-composition-1440.png",
+        "home-composition-phone.png"
+      ],
+      "checks": [
+        "rendered against annotated placement goals",
+        "no overflow; statistics within initial desktop and390pxphoneview",
+        "original approved lettering curves preserved except requested i-dot",
+        "latercopy-above/stats-below override applied"
+      ]
+    },
+    "19": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "palms-home-first.png",
+        "palms-home-last.png",
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "art-assets.json",
+        "regions-palms-check.json"
+      ],
+      "checks": [
+        "New dark palms asset created, recognizable foliage and restrained sunset",
+        "Shared background continues through outer margins and long pages",
+        "All opening images retained; viewport clipping begins at actual hero bottom",
+        "XFiles uses its actual xfiles-opening selector; 1001px desktop /677px phone clipping rechecked"
+      ]
+    },
+    "20": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "palms-home-first.png",
+        "palms-home-last.png",
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "art-assets.json",
+        "regions-palms-check.json"
+      ],
+      "checks": [
+        "New dark palms asset created, recognizable foliage and restrained sunset",
+        "Shared background continues through outer margins and long pages",
+        "All opening images retained; viewport clipping begins at actual hero bottom",
+        "XFiles uses its actual xfiles-opening selector; 1001px desktop /677px phone clipping rechecked"
+      ]
+    },
+    "21": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "palms-home-first.png",
+        "palms-home-last.png",
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "art-assets.json",
+        "regions-palms-check.json"
+      ],
+      "checks": [
+        "New dark palms asset created, recognizable foliage and restrained sunset",
+        "Shared background continues through outer margins and long pages",
+        "All opening images retained; viewport clipping begins at actual hero bottom",
+        "XFiles uses its actual xfiles-opening selector; 1001px desktop /677px phone clipping rechecked"
+      ]
+    },
+    "22": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-photo-labels.png",
+        "home-shared-controls.png"
+      ],
+      "checks": [
+        "Home photo labels retain region names and remove numeric suffixes/arrows",
+        "Hovered and focused cards retain visible click affordance",
+        "Actual full-card click opens loaded HD photo; viewer title also cleaned to Vice City"
+      ]
+    },
+    "23": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "home-photo-labels.png",
+        "home-shared-controls.png"
+      ],
+      "checks": [
+        "Home photo labels retain region names and remove numeric suffixes/arrows",
+        "Hovered and focused cards retain visible click affordance",
+        "Actual full-card click opens loaded HD photo; viewer title also cleaned to Vice City"
+      ]
+    },
+    "30": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "palms-home-first.png",
+        "palms-home-last.png",
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "art-assets.json",
+        "regions-palms-check.json"
+      ],
+      "checks": [
+        "New dark palms asset created, recognizable foliage and restrained sunset",
+        "Shared background continues through outer margins and long pages",
+        "All opening images retained; viewport clipping begins at actual hero bottom",
+        "XFiles uses its actual xfiles-opening selector; 1001px desktop /677px phone clipping rechecked"
+      ]
+    },
+    "34": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "regions-carousel-fixed-check.json",
+        "global-carousel-label-fix.png",
+        "money-ledger.json",
+        "catalog-ledger.json",
+        "radio-media-ledger.json",
+        "sound-ufo-ledger.json"
+      ],
+      "checks": [
+        "All13 actual page routes checked at1920 and390px",
+        "No visible text-arrow CTAs or empty text-only buttons",
+        "Expanded Money approaches, region galleries, full-resolution viewers and category tabs checked in scoped ledgers",
+        "Polished surface/border/depth; meaningful map/planning icons remain; hover/focus reviewed",
+        "Functional dropdown chevrons and map controls preserved"
+      ]
+    },
+    "38": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "regions-carousel-fixed-check.json",
+        "global-carousel-label-fix.png",
+        "money-ledger.json",
+        "catalog-ledger.json",
+        "radio-media-ledger.json",
+        "sound-ufo-ledger.json"
+      ],
+      "checks": [
+        "All13 actual page routes checked at1920 and390px",
+        "No visible text-arrow CTAs or empty text-only buttons",
+        "Expanded Money approaches, region galleries, full-resolution viewers and category tabs checked in scoped ledgers",
+        "Polished surface/border/depth; meaningful map/planning icons remain; hover/focus reviewed",
+        "Functional dropdown chevrons and map controls preserved"
+      ]
+    },
+    "51": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "generic-cream-title-audit.json",
+        "final-home-desktop.png",
+        "catalog-ledger.json",
+        "money-ledger.json",
+        "radio-media-ledger.json",
+        "regions-ledger.md"
+      ],
+      "checks": [
+        "White text hierarchy with deliberate Vice City pink and neon-blue accents",
+        "Generic cream lettering gradients recolored consistently, approved font geometry preserved",
+        "Header wordmark retains shape; new soft-pink palette relates to approved unchanged icon",
+        "Per-station artwork-derived warm accents preserved as explicit exception",
+        "Links/borders/highlights/hover/selected/focus reviewed across scoped pages"
+      ]
+    },
+    "55": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "generic-cream-title-audit.json",
+        "final-home-desktop.png",
+        "catalog-ledger.json",
+        "money-ledger.json",
+        "radio-media-ledger.json",
+        "regions-ledger.md"
+      ],
+      "checks": [
+        "White text hierarchy with deliberate Vice City pink and neon-blue accents",
+        "Generic cream lettering gradients recolored consistently, approved font geometry preserved",
+        "Header wordmark retains shape; new soft-pink palette relates to approved unchanged icon",
+        "Per-station artwork-derived warm accents preserved as explicit exception",
+        "Links/borders/highlights/hover/selected/focus reviewed across scoped pages"
+      ]
+    },
+    "56": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "generic-cream-title-audit.json",
+        "final-home-desktop.png",
+        "catalog-ledger.json",
+        "money-ledger.json",
+        "radio-media-ledger.json",
+        "regions-ledger.md"
+      ],
+      "checks": [
+        "White text hierarchy with deliberate Vice City pink and neon-blue accents",
+        "Generic cream lettering gradients recolored consistently, approved font geometry preserved",
+        "Header wordmark retains shape; new soft-pink palette relates to approved unchanged icon",
+        "Per-station artwork-derived warm accents preserved as explicit exception",
+        "Links/borders/highlights/hover/selected/focus reviewed across scoped pages"
+      ]
+    },
+    "57": {
+      "preview": "passed",
+      "publication": "pending",
+      "evidence": [
+        "palms-home-first.png",
+        "palms-home-last.png",
+        "final-shared-desktop.json",
+        "final-shared-phone.json",
+        "art-assets.json",
+        "regions-palms-check.json"
+      ],
+      "checks": [
+        "New dark palms asset created, recognizable foliage and restrained sunset",
+        "Shared background continues through outer margins and long pages",
+        "All opening images retained; viewport clipping begins at actual hero bottom",
+        "XFiles uses its actual xfiles-opening selector; 1001px desktop /677px phone clipping rechecked"
+      ]
+    }
+  },
+  "updatedAt": "2026-11-14T21:18:25.849Z"
+}

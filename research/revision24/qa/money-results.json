@@ -1,0 +1,1391 @@
+[
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "method-dialog",
+    "open": true,
+    "heading": "Regional banks",
+    "dialogOverflow": 0
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "selling-link",
+    "dialogClosed": true,
+    "heroTop": 86,
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "earning-cta",
+    "opportunitiesTop": 206,
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "map-link",
+    "hash": "#world?scope=money-fences",
+    "mapCanvas": 0
+  },
+  {
+    "locale": "en",
+    "width": 1440,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "method-dialog",
+    "open": true,
+    "heading": "Regional banks",
+    "dialogOverflow": 0
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "selling-link",
+    "dialogClosed": true,
+    "heroTop": 152,
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "earning-cta",
+    "opportunitiesTop": 206,
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "map-link",
+    "hash": "#world?scope=money-fences",
+    "mapCanvas": 0
+  },
+  {
+    "locale": "en",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "method-dialog",
+    "open": true,
+    "heading": "Regional banks",
+    "dialogOverflow": 0
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "selling-link",
+    "dialogClosed": true,
+    "heroTop": 152,
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "earning-cta",
+    "opportunitiesTop": 206,
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Keep the take— Getting paid is only half of it.",
+    "wide": []
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "map-link",
+    "hash": "#world?scope=money-fences",
+    "mapCanvas": 0
+  },
+  {
+    "locale": "en",
+    "width": 320,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Conserva las ganancias— Cobrar es solo la mitad.",
+    "wide": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Conserva las ganancias— Cobrar es solo la mitad.",
+    "wide": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Conserva las ganancias— Cobrar es solo la mitad.",
+    "wide": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Conserva las ganancias— Cobrar es solo la mitad.",
+    "wide": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Conserva las ganancias— Cobrar es solo la mitad.",
+    "wide": []
+  },
+  {
+    "locale": "es",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Proteja os ganhos— Receber é só metade do trabalho.",
+    "wide": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Proteja os ganhos— Receber é só metade do trabalho.",
+    "wide": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Proteja os ganhos— Receber é só metade do trabalho.",
+    "wide": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Proteja os ganhos— Receber é só metade do trabalho.",
+    "wide": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Proteja os ganhos— Receber é só metade do trabalho.",
+    "wide": []
+  },
+  {
+    "locale": "pt-br",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Sichere die Beute— Bezahlt zu werden ist erst die Hälfte.",
+    "wide": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Sichere die Beute— Bezahlt zu werden ist erst die Hälfte.",
+    "wide": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Sichere die Beute— Bezahlt zu werden ist erst die Hälfte.",
+    "wide": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Sichere die Beute— Bezahlt zu werden ist erst die Hälfte.",
+    "wide": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Sichere die Beute— Bezahlt zu werden ist erst die Hälfte.",
+    "wide": []
+  },
+  {
+    "locale": "de",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Gardez les gains— Être payé ne fait que la moitié du travail.",
+    "wide": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Gardez les gains— Être payé ne fait que la moitié du travail.",
+    "wide": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Gardez les gains— Être payé ne fait que la moitié du travail.",
+    "wide": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Gardez les gains— Être payé ne fait que la moitié du travail.",
+    "wide": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Gardez les gains— Être payé ne fait que la moitié du travail.",
+    "wide": []
+  },
+  {
+    "locale": "fr",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Tieniti i guadagni— Essere pagati è solo metà del lavoro.",
+    "wide": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Tieniti i guadagni— Essere pagati è solo metà del lavoro.",
+    "wide": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Tieniti i guadagni— Essere pagati è solo metà del lavoro.",
+    "wide": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Tieniti i guadagni— Essere pagati è solo metà del lavoro.",
+    "wide": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Tieniti i guadagni— Essere pagati è solo metà del lavoro.",
+    "wide": []
+  },
+  {
+    "locale": "it",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "hero",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Сохрани добычу— Получить деньги — лишь половина дела.",
+    "wide": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "rules",
+    "hash": "#money?section=rules",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "rules"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-differences",
+        "key": "rules"
+      },
+      {
+        "id": "",
+        "key": "rules"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Сохрани добычу— Получить деньги — лишь половина дела.",
+    "wide": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "essentials",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Сохрани добычу— Получить деньги — лишь половина дела.",
+    "wide": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "opportunities",
+    "hash": "#money",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "opportunities"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-opportunities",
+        "key": "opportunities"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Сохрани добычу— Получить деньги — лишь половина дела.",
+    "wide": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "keyboard-End",
+    "hash": "#money?section=essentials",
+    "overflow": 0,
+    "badImages": [],
+    "active": [
+      "essentials"
+    ],
+    "visiblePanes": [
+      {
+        "id": "money-essentials",
+        "key": "essentials"
+      }
+    ],
+    "cashVisible": true,
+    "cashBeforeTabs": true,
+    "heroVisible": true,
+    "heroImage": "assets/hd/photo-46.webp",
+    "duplicateFeature": 0,
+    "heading": "Сохрани добычу— Получить деньги — лишь половина дела.",
+    "wide": []
+  },
+  {
+    "locale": "ru",
+    "width": 390,
+    "stage": "runtime",
+    "errors": [],
+    "failedRequests": []
+  }
+]

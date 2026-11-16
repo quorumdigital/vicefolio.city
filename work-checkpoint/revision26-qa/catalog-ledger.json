@@ -1,0 +1,417 @@
+[
+  {
+    "items": [
+      15
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Neutral charcoal map chrome and white editorial heading",
+      "Pink selected filters/checkmarks and some location-category markers, cyan secondary links/focus",
+      "Semantic category distinctions preserved",
+      "Desktop and phone filter view inspected"
+    ],
+    "interaction": {
+      "layer": "true",
+      "text": "53 results · 33 pins",
+      "hover": "rgb(60, 44, 62)"
+    },
+    "focus": {
+      "outline": "rgb(162, 230, 255)",
+      "outlineWidth": "2px"
+    },
+    "evidence": [
+      "catalog-item15-map-palette-desktop.png",
+      "catalog-item15-map-palette-phone.png"
+    ]
+  },
+  {
+    "items": [
+      16
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Removed internal ViceFolio / Leonida label",
+      "Global brand preserved"
+    ],
+    "evidence": [
+      "catalog-item16-map-no-duplicate-brand.png"
+    ]
+  },
+  {
+    "items": [
+      17
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Map title enlarged from27px to44px at1920 width",
+      "Distinct AtlasRusso title and neutral white color",
+      "Phone title wraps inside banner without horizontal overflow"
+    ],
+    "evidence": [
+      "catalog-item17-map-title-desktop.png",
+      "catalog-item17-map-title-phone.png"
+    ]
+  },
+  {
+    "items": [
+      18
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Map countdown removed; single global header countdown remains",
+      "Reclaimed banner space and removed obsolete phone grid row",
+      "Desktop and phone layouts inspected",
+      "Expand and exit controls clickable; fixed-header overlap observed and corrected"
+    ],
+    "evidence": [
+      "catalog-item18-map-final-desktop.png",
+      "catalog-item18-map-final-phone.png",
+      "catalog-item18-map-expanded.png"
+    ]
+  },
+  {
+    "items": [
+      39
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Existing live count moved into search row",
+      "Research date moved below collection",
+      "Dedicated metadata strip removed",
+      "Typing Cheetah updates retained #result-count correctly"
+    ],
+    "evidence": [
+      "catalog-item39-metadata-desktop.png"
+    ]
+  },
+  {
+    "items": [
+      40
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Vehicle cover→search gap reduced from24px to14px",
+      "Removed extra category-top padding",
+      "First imagery begins materially earlier without an empty metadata row",
+      "Phone search/count/filter arrangement remains usable"
+    ],
+    "geometry": {
+      ".cinematic-vehicles": {
+        "y": 86,
+        "height": 510
+      },
+      ".toolbar": {
+        "y": 610,
+        "height": 47.1875
+      },
+      "#vehicle-group-performance .vehicle-group-heading": {
+        "y": 667.1875,
+        "height": 51
+      },
+      "#vehicle-group-performance .cards": {
+        "y": 732.1875,
+        "height": 662.5625
+      }
+    },
+    "evidence": [
+      "catalog-item40-spacing-desktop.png",
+      "catalog-item40-spacing-phone.png"
+    ]
+  },
+  {
+    "items": [
+      41
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Approved photo31 retained",
+      "Desktop object-position22% reveals full head/hair/face with clear top margin",
+      "Phone crop retains face and title readability"
+    ],
+    "evidence": [
+      "catalog-item41-vehicle-face-desktop.png",
+      "catalog-item41-vehicle-face-phone.png"
+    ]
+  },
+  {
+    "items": [
+      42
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Only Sports & muscle cars receives new reveal timing",
+      "First group starts hidden until reached, then takes1.65–1.8s to arrive",
+      "Later categories retain legacy pacing",
+      "Initial hide reverse-fade defect found and corrected"
+    ],
+    "motion": {
+      "before": {
+        "top": 745.1875,
+        "opacity": "0",
+        "classes": "vehicle-group r26-performance-enter"
+      },
+      "early": {
+        "opacity": "0.168389",
+        "transform": "matrix(1, 0, 0, 1, 0, 13.7573)"
+      },
+      "middle": {
+        "opacity": "0.835637",
+        "transform": "matrix(1, 0, 0, 1, 0, 1.99726)"
+      },
+      "complete": {
+        "opacity": "1",
+        "transform": "none"
+      }
+    },
+    "evidence": [
+      "catalog-item42-reveal-early-phone.png",
+      "catalog-item42-reveal-middle-phone.png",
+      "catalog-item42-reveal-complete-phone.png"
+    ]
+  },
+  {
+    "items": [
+      43
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Category tabs centered between Handguns and6entries on desktop",
+      "Phone tabs on compact second header line",
+      "Tabs survive search no-results and restoration",
+      "Gear/Shops/Weapons switching verified"
+    ],
+    "interaction": [
+      {
+        "tab": "gear",
+        "active": "true (verified after enhancement frame)",
+        "tabs": 3,
+        "count": "3 OF 3 ENTRIES"
+      },
+      {
+        "tab": "services",
+        "active": "true",
+        "tabs": 3,
+        "count": "7 OF 7 ENTRIES"
+      },
+      {
+        "tab": "weapons",
+        "active": "true",
+        "tabs": 3,
+        "count": "18 OF 18 ENTRIES"
+      },
+      {
+        "case": "no-results",
+        "tabs": 3,
+        "host": "r26-equipment-nav r26-equipment-heading",
+        "count": "0 OF 18 ENTRIES"
+      },
+      {
+        "case": "restored",
+        "host": "vehicle-group-heading r26-equipment-heading"
+      }
+    ],
+    "evidence": [
+      "catalog-item43-weapons-tabs-desktop.png",
+      "catalog-item43-weapons-tabs-phone.png"
+    ]
+  },
+  {
+    "items": [
+      44
+    ],
+    "status": "verified",
+    "decision": "Retained all three category controls; omission was optional. Consistent return navigation from Gear and Shops is clearer and was verified.",
+    "acceptance": [
+      "Weapons return control available after both alternate categories",
+      "Active state exposed with aria-pressed"
+    ],
+    "interaction": [
+      {
+        "tab": "gear",
+        "active": "true (verified after enhancement frame)",
+        "tabs": 3,
+        "count": "3 OF 3 ENTRIES"
+      },
+      {
+        "tab": "services",
+        "active": "true",
+        "tabs": 3,
+        "count": "7 OF 7 ENTRIES"
+      },
+      {
+        "tab": "weapons",
+        "active": "true",
+        "tabs": 3,
+        "count": "18 OF 18 ENTRIES"
+      },
+      {
+        "case": "no-results",
+        "tabs": 3,
+        "host": "r26-equipment-nav r26-equipment-heading",
+        "count": "0 OF 18 ENTRIES"
+      },
+      {
+        "case": "restored",
+        "host": "vehicle-group-heading r26-equipment-heading"
+      }
+    ]
+  },
+  {
+    "items": [
+      45
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Metadata relocated to search count and bottom research note",
+      "Removed standalone tab-row and metadata gaps",
+      "Search/category/cards form compact sequence",
+      "Filtering updates count and preserves relocated controls",
+      "Observed transient tab loss during filtering; added synchronous input restoration and verified immediate count3 for matching/no-result states"
+    ],
+    "evidence": [
+      "catalog-item45-equipment-spacing-desktop.png",
+      "catalog-item45-equipment-spacing-phone.png"
+    ]
+  },
+  {
+    "items": [
+      46
+    ],
+    "status": "verified",
+    "acceptance": [
+      "Entire desktop character copy group moved to upper-right clear area",
+      "All original eyebrow/title/description/tagline/button content retained",
+      "Jason/Lucia faces remain clear",
+      "Phone composition preserved below subject imagery"
+    ],
+    "geometry": {
+      "before": {
+        "x": 1327.84375,
+        "y": 252.578125,
+        "width": 500,
+        "height": 343.421875
+      },
+      "after": {
+        "x": 1327.84375,
+        "y": 86,
+        "width": 500,
+        "height": 351.421875
+      }
+    },
+    "evidence": [
+      "catalog-item46-characters-desktop.png",
+      "catalog-item46-characters-phone.png",
+      "catalog-item46-characters-tablet.png"
+    ]
+  },
+  {
+    "items": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "status": "regression-verified",
+    "acceptance": [
+      "JavaScript parsed successfully",
+      "1024px German equipment layout fits without horizontal overflow",
+      "Reduced-motion first vehicle group immediately visible, no entrance class",
+      "Character upper-right composition inspected at 1024px with both faces clear"
+    ],
+    "evidence": [
+      "catalog-weapons-german-tablet.png",
+      "catalog-item46-characters-tablet.png"
+    ],
+    "notes": [
+      "A diagnostic used an incorrect selector and generated one tool-injected getComputedStyle error. No application errors preceded that diagnostic.",
+      "Global arrow cleanup leaves an empty circular wrapper on equipment hero CTA; root notified because shared button module is outside this agent ownership."
+    ]
+  },
+  {
+    "items": [
+      15,
+      16,
+      17,
+      18,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "status": "integration-verified",
+    "acceptance": [
+      "Shared background/palette/button cleanup checked on all four owned routes",
+      "Map desktop and phone title remains white and prominent, duplicate branding/countdown absent",
+      "Map expand/exit controls work under sticky header; hover changes surface, keyboard focus remains visible",
+      "Vehicle crop and compact heading/search/cards sequence retained",
+      "First vehicle group has visible 1.65/1.8 second entrance; phone opacity progressed from0 to0.210 at350ms and then1",
+      "Gear/Shops/Weapons switching and no-results return retains3 tabs and live counts",
+      "Equipment hero empty circle removed; CTA focus ring remains visible",
+      "Palm background visible below Vehicles/Equipment/Characters heroes and not replacing settled hero image",
+      "Characters copy remains upper-right at desktop, below faces on phone; no overflow"
+    ],
+    "interaction": {
+      "tabs": [
+        {
+          "tab": "gear",
+          "count": "3 OF 3 ENTRIES",
+          "tabs": 3
+        },
+        {
+          "tab": "services",
+          "count": "7 OF 7 ENTRIES",
+          "tabs": 3
+        },
+        {
+          "tab": "weapons",
+          "count": "18 OF 18 ENTRIES",
+          "tabs": 3
+        }
+      ],
+      "noResults": {
+        "count": "0 OF 18 ENTRIES",
+        "tabs": 3
+      },
+      "buttonFocus": {
+        "focused": true,
+        "outline": "rgb(145, 223, 255) solid 2px",
+        "emptyAriaSpan": 0,
+        "text": "Browse equipment"
+      },
+      "mapFocus": {
+        "focused": true,
+        "outline": "rgb(162, 230, 255) solid 2px",
+        "shadow": "rgba(131, 212, 245, 0.07) 0px 0px 0px 2.04807px"
+      },
+      "firstReveal": {
+        "before": {
+          "opacity": "0",
+          "top": 745.1875
+        },
+        "early": {
+          "opacity": "0.210117",
+          "top": 429.5233154296875
+        }
+      },
+      "pageErrors": []
+    },
+    "evidence": [
+      "catalog-integration-map-desktop.png",
+      "catalog-integration-map-phone.png",
+      "catalog-integration-vehicles-desktop.png",
+      "catalog-integration-vehicles-phone.png",
+      "catalog-integration-equipment-desktop.png",
+      "catalog-integration-equipment-phone.png",
+      "catalog-integration-characters-desktop.png",
+      "catalog-integration-characters-phone.png"
+    ]
+  }
+]

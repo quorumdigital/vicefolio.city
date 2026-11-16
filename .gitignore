@@ -1,0 +1,19 @@
+node_modules/
+.sites-runtime/
+.sites-checkout/
+*.log
+
+# Server build and local-only dependencies
+node_modules/
+dist/
+.vinext/
+.wrangler/
+.sites-runtime/
+.env*
+.dev.vars*
+*.tsbuildinfo
+
+.next/
+
+# Local visual audit images; structured acceptance records remain in source.
+/work-checkpoint/revision26-qa/*.png

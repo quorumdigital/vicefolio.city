@@ -1,0 +1,21 @@
+{
+  "checked": "2026-11-13",
+  "decision": "Navigation order requested by user: en, es, pt-br, de, fr, it. Language order is an editorial choice, not a verified ranking of players or pre-orders.",
+  "sources": [
+    {
+      "url": "https://www.videogameschronicle.com/news/analytics-firm-says-gta-6-has-the-strongest-pre-order-campaign-on-record-is-on-track-to-sell-37-51-million-in-its-first-week/",
+      "finding": "Reporting attributes an estimated $180M of first-week digital pre-order spending to Newzoo across the US and five major European markets. Aggregate, not country rankings."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026072175/ttwo2q27earningsrelease.htm",
+      "finding": "Take-Two comments on unprecedented pre-order demand; the reviewed release does not provide a GTA VI country-by-country player or pre-order table."
+    }
+  ],
+  "unsupportedInReviewedSources": [
+    "Exact country ranking supplied in the prompt",
+    "US 35–40% share of total franchise players",
+    "UK lead in European digital pre-orders",
+    "Country totals or per-capita player projections"
+  ],
+  "siteTreatment": "No country ranking or unverified market figures added to public guide."
+}

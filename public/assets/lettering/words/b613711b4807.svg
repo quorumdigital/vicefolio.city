@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307" height="100">
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" d="M47.57 92C55.17 92 59.01 89.15 59.01 83.3L59.01 57.89L36.13 57.89L36.13 74.3C36.13 74.41 36.02 74.52 35.91 74.52L30.73 74.52C30.62 74.52 30.51 74.41 30.51 74.3L30.51 39.52C30.51 39.42 30.62 39.31 30.73 39.31L35.91 39.31C36.02 39.31 36.13 39.42 36.13 39.52L36.13 51.42L59.01 51.42L59.01 30.61C59.01 24.67 55.17 21.72 47.57 21.72L19.07 21.72C11.5 21.72 7.63 24.67 7.63 30.61L7.63 83.3C7.63 89.15 11.5 92 19.07 92L47.57 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" d="M92.78 74.3C92.78 74.41 92.67 74.52 92.56 74.52L87.38 74.52C87.27 74.52 87.16 74.41 87.16 74.3L87.16 39.52C87.16 39.42 87.27 39.31 87.38 39.31L92.56 39.31C92.67 39.31 92.78 39.42 92.78 39.52L92.78 74.3ZM104.22 92C111.82 92 115.66 89.15 115.66 83.3L115.66 30.61C115.66 24.67 111.82 21.72 104.22 21.72L75.72 21.72C68.15 21.72 64.28 24.67 64.28 30.61L64.28 83.3C64.28 89.15 68.15 92 75.72 92L104.22 92Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" d="M158.88 92L158.88 74.52L144.03 74.52L144.03 21.72L121.15 21.72L121.15 92L158.88 92Z"/>
+	<defs>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_3)" d="M191.88 48.87C191.88 48.98 191.77 49.11 191.67 49.11L186.27 49.11L186.27 39.31L191.67 39.31C191.77 39.31 191.88 39.42 191.88 39.52L191.88 48.87ZM186.27 92L186.27 65.71L203.32 65.71C210.92 65.71 214.76 62.73 214.76 56.79L214.76 30.61C214.76 24.67 210.92 21.72 203.32 21.72L163.39 21.72L163.39 92L186.27 92Z"/>
+	<defs>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_4)" d="M247.55 74.3C247.55 74.41 247.44 74.52 247.33 74.52L242.15 74.52C242.04 74.52 241.93 74.41 241.93 74.3L241.93 39.52C241.93 39.42 242.04 39.31 242.15 39.31L247.33 39.31C247.44 39.31 247.55 39.42 247.55 39.52L247.55 74.3ZM258.99 92C266.59 92 270.43 89.15 270.43 83.3L270.43 30.61C270.43 24.67 266.59 21.72 258.99 21.72L230.49 21.72C222.92 21.72 219.05 24.67 219.05 30.61L219.05 83.3C219.05 89.15 222.92 92 230.49 92L258.99 92Z"/>
+	<defs>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_5)" d="M298.8 92L298.8 74.52L275.92 74.52L275.92 92L298.8 92Z"/>
+</svg>

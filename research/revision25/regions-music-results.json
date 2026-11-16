@@ -1,0 +1,284 @@
+{
+  "regions": [
+    {
+      "width": 1440,
+      "base": [
+        {
+          "region": "region-vice-city",
+          "photo": "photo-104",
+          "visible": true,
+          "href": "/en/#world?pin=L456"
+        },
+        {
+          "region": "region-leonida-keys",
+          "photo": "photo-113",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-grassrivers",
+          "photo": "photo-66",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-port-gellhorn",
+          "photo": "photo-65",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-ambrosia",
+          "photo": "photo-126",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-mount-kalaga",
+          "photo": "photo-135",
+          "visible": false,
+          "href": null
+        }
+      ],
+      "anchors": [
+        {
+          "id": "region-vice-city",
+          "gap": 20,
+          "titleGap": 15
+        },
+        {
+          "id": "region-leonida-keys",
+          "gap": 20.03125,
+          "titleGap": 15
+        },
+        {
+          "id": "region-grassrivers",
+          "gap": 19.859375,
+          "titleGap": 15
+        },
+        {
+          "id": "region-port-gellhorn",
+          "gap": 19.6875,
+          "titleGap": 15
+        },
+        {
+          "id": "region-ambrosia",
+          "gap": 20.328125,
+          "titleGap": 15
+        },
+        {
+          "id": "region-mount-kalaga",
+          "gap": 19.96875,
+          "titleGap": 15
+        }
+      ],
+      "known": {
+        "label": "Map this photo: Underwater Research Station →",
+        "href": "/en/#world?pin=L447",
+        "display": "flex"
+      },
+      "unknown": {
+        "hidden": true,
+        "href": null,
+        "display": "none"
+      }
+    },
+    {
+      "width": 390,
+      "base": [
+        {
+          "region": "region-vice-city",
+          "photo": "photo-104",
+          "visible": true,
+          "href": "/en/#world?pin=L456"
+        },
+        {
+          "region": "region-leonida-keys",
+          "photo": "photo-113",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-grassrivers",
+          "photo": "photo-66",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-port-gellhorn",
+          "photo": "photo-65",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-ambrosia",
+          "photo": "photo-126",
+          "visible": false,
+          "href": null
+        },
+        {
+          "region": "region-mount-kalaga",
+          "photo": "photo-135",
+          "visible": false,
+          "href": null
+        }
+      ],
+      "anchors": [
+        {
+          "id": "region-vice-city",
+          "gap": 20,
+          "titleGap": 15
+        },
+        {
+          "id": "region-leonida-keys",
+          "gap": 19.78125,
+          "titleGap": 15
+        },
+        {
+          "id": "region-grassrivers",
+          "gap": 19.515625,
+          "titleGap": 15
+        },
+        {
+          "id": "region-port-gellhorn",
+          "gap": 20.25,
+          "titleGap": 15
+        },
+        {
+          "id": "region-ambrosia",
+          "gap": 19.796875,
+          "titleGap": 15
+        },
+        {
+          "id": "region-mount-kalaga",
+          "gap": 20.453125,
+          "titleGap": 15
+        }
+      ],
+      "known": {
+        "label": "Map this photo: Underwater Research Station →",
+        "href": "/en/#world?pin=L447",
+        "display": "flex"
+      },
+      "unknown": {
+        "hidden": true,
+        "href": null,
+        "display": "none"
+      }
+    }
+  ],
+  "music": [
+    {
+      "width": 1440,
+      "hero": {
+        "x": 0,
+        "y": 86,
+        "width": 1440,
+        "height": 610,
+        "top": 86,
+        "right": 1440,
+        "bottom": 696,
+        "left": 0
+      },
+      "copy": {
+        "x": 0,
+        "y": 236.765625,
+        "width": 1440,
+        "height": 459.234375,
+        "top": 236.765625,
+        "right": 1440,
+        "bottom": 696,
+        "left": 0
+      },
+      "ctaBottomGap": 48,
+      "titleLeft": 79.1875,
+      "calendar": {
+        "x": 998,
+        "y": 121,
+        "width": 342,
+        "height": 346.9375,
+        "top": 121,
+        "right": 1340,
+        "bottom": 467.9375,
+        "left": 998
+      },
+      "titleCalendarOverlap": 0,
+      "overflow": 0
+    },
+    {
+      "width": 901,
+      "hero": {
+        "x": 0,
+        "y": 128,
+        "width": 901,
+        "height": 610,
+        "top": 128,
+        "right": 901,
+        "bottom": 738,
+        "left": 0
+      },
+      "copy": {
+        "x": 0,
+        "y": 278.765625,
+        "width": 901,
+        "height": 459.234375,
+        "top": 278.765625,
+        "right": 901,
+        "bottom": 738,
+        "left": 0
+      },
+      "ctaBottomGap": 48,
+      "titleLeft": 49.546875,
+      "calendar": {
+        "x": 545.125,
+        "y": 163,
+        "width": 306.328125,
+        "height": 366.125,
+        "top": 163,
+        "right": 851.453125,
+        "bottom": 529.125,
+        "left": 545.125
+      },
+      "titleCalendarOverlap": 0,
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "hero": {
+        "x": 0,
+        "y": 152,
+        "width": 390,
+        "height": 840.75,
+        "top": 152,
+        "right": 390,
+        "bottom": 992.75,
+        "left": 0
+      },
+      "copy": {
+        "x": 0,
+        "y": 152,
+        "width": 390,
+        "height": 500,
+        "top": 152,
+        "right": 390,
+        "bottom": 652,
+        "left": 0
+      },
+      "ctaBottomGap": 372.75,
+      "titleLeft": 23.390625,
+      "calendar": {
+        "x": 23.390625,
+        "y": 652,
+        "width": 343.21875,
+        "height": 316.75,
+        "top": 652,
+        "right": 366.609375,
+        "bottom": 968.75,
+        "left": 23.390625
+      },
+      "titleCalendarOverlap": 0,
+      "overflow": 0
+    }
+  ],
+  "errors": []
+}

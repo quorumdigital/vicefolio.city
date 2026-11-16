@@ -1,0 +1,39 @@
+{
+  "route": "people",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 501,
+  "heroBottom": 565.21875,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Meet the people",
+      "x": 249.953125,
+      "right": 366.609375,
+      "y": 495.21875,
+      "height": 44
+    },
+    {
+      "text": "ProtagonistJason DuvalA former soldier with ties to the Keys’ smuggling trade.",
+      "x": 24.390625,
+      "right": 188,
+      "y": 591.21875,
+      "height": 347.3125
+    },
+    {
+      "text": "ProtagonistLucia CaminosOut of prison, with a plan for a different future.",
+      "x": 202,
+      "right": 365.609375,
+      "y": 591.21875,
+      "height": 347.3125
+    }
+  ],
+  "seam": {
+    "y": 345,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

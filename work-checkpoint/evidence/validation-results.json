@@ -1,0 +1,49 @@
+{
+  "checks": [
+    {
+      "name": "Guide deep link",
+      "ok": true
+    },
+    {
+      "name": "Guide search",
+      "ok": true
+    },
+    {
+      "name": "Global search reveals filtered guide",
+      "ok": true
+    },
+    {
+      "name": "Guide dossier links",
+      "ok": true
+    },
+    {
+      "name": "12 weapons and gear",
+      "ok": true
+    },
+    {
+      "name": "7 shops and activities",
+      "ok": true
+    },
+    {
+      "name": "Initial gallery",
+      "ok": true
+    },
+    {
+      "name": "Gallery pagination",
+      "ok": true
+    },
+    {
+      "name": "Gallery subject filter",
+      "ok": true
+    },
+    {
+      "name": "Region selection",
+      "ok": true
+    },
+    {
+      "name": "Mobile menu opens",
+      "ok": true
+    }
+  ],
+  "errors": []
+}

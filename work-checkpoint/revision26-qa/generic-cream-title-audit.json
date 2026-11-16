@@ -1,0 +1,61 @@
+[
+  {
+    "route": "home",
+    "warm": []
+  },
+  {
+    "route": "money",
+    "warm": []
+  },
+  {
+    "route": "vehicles",
+    "warm": []
+  },
+  {
+    "route": "items",
+    "warm": []
+  },
+  {
+    "route": "people",
+    "warm": []
+  },
+  {
+    "route": "fieldguide",
+    "warm": []
+  },
+  {
+    "route": "music",
+    "warm": []
+  },
+  {
+    "route": "ufos",
+    "warm": []
+  },
+  {
+    "route": "radio",
+    "warm": [
+      {
+        "text": "Tune into Leonida",
+        "cls": "atlas-title game-title",
+        "color": "rgb(245, 211, 187)"
+      },
+      {
+        "text": "Radio Archive",
+        "cls": "r24-title",
+        "color": "rgb(242, 212, 191)"
+      }
+    ]
+  },
+  {
+    "route": "gallery",
+    "warm": []
+  },
+  {
+    "route": "community",
+    "warm": []
+  },
+  {
+    "route": "credits",
+    "warm": []
+  }
+]

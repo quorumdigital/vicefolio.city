@@ -1,0 +1,30 @@
+{
+  "id": "/",
+  "name": "ViceFolio — GTA VI Field Guide",
+  "short_name": "ViceFolio",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#100e1b",
+  "theme_color": "#100e1b",
+  "icons": [
+    {
+      "src": "/assets/icons/vicefolio-city-192-v27.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/vicefolio-city-512-v27.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/vicefolio-city-maskable-512-v27.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "auditedAt": "2026-11-13T18:55:38.506Z",
+  "scope": "Bounded source-index and primary-edition audit, with detail-page spot checks. Not a complete review of every linked vehicle or weapon page.",
+  "currentCatalog": {
+    "total": 41,
+    "vehicles": 21,
+    "itemCards": 13,
+    "individualWeaponFamilyCards": 8,
+    "cosmeticAndGearGroupings": 5,
+    "services": 7,
+    "characterProfiles": 8,
+    "entries": [
+      {
+        "id": "cheetah",
+        "name": "’95 Grotti Cheetah",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "stanier",
+        "name": "’55 Vapid Stanier",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "buggy",
+        "name": "’67 Vapid Dominator Buggy",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "enduro",
+        "name": "Dinka Enduro",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "kayak",
+        "name": "Crest Kayak",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "squalo",
+        "name": "Shitzu Squalo",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "ganado",
+        "name": "Ganado Retro Build",
+        "category": "vehicles",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "revolvers",
+        "name": "Hawk & Little Morgan Revolvers",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "weapon-variants",
+        "name": "Personalized Weapon Variants",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "vice-style",
+        "name": "Vice City Style",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "vintage-style",
+        "name": "Vintage Outfits & Hairstyles",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "weapon-pattern",
+        "name": "Vintage Weapon Pattern",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "goodtime",
+        "name": "Goodtime Gear",
+        "category": "items",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "rideout",
+        "name": "Rideout Customs",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "saras",
+        "name": "Sara’s Unisex Salon",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "stock305",
+        "name": "Stock 305",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "electric-fang",
+        "name": "Electric Fang",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "willie",
+        "name": "One-Eyed Willie’s",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "ptt",
+        "name": "PTT YOUNGIN$",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "wyman-collection",
+        "name": "Wyman’s Classic Car Collection",
+        "category": "services",
+        "source": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "id": "airgator",
+        "name": "Airgator Airboat 09",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/airgator-airboat-09/"
+      },
+      {
+        "id": "alvino",
+        "name": "Principe Alvino V1",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/principe-alvino-v1/"
+      },
+      {
+        "id": "banshee",
+        "name": "Blue sports car",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/blue-sports-car/"
+      },
+      {
+        "id": "blazer",
+        "name": "Quad bike",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/quad-bike/"
+      },
+      {
+        "id": "cyan-convertible",
+        "name": "Cyan open-top sports car",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/cyan-open-top-sports-car/"
+      },
+      {
+        "id": "delmar",
+        "name": "Large vessel (BTN Delmar reference)",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/btn-delmar/"
+      },
+      {
+        "id": "dodo",
+        "name": "Mammoth Dodo / floatplane",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/single-engine-floatplane/"
+      },
+      {
+        "id": "lurepredator",
+        "name": "Lürepredator L35P",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/lurepredator-l35p/"
+      },
+      {
+        "id": "news-heli",
+        "name": "News helicopter",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/news-helicopter/"
+      },
+      {
+        "id": "police-montagne",
+        "name": "White police SUV",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/white-police-suv/"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher pickup",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/rancher/"
+      },
+      {
+        "id": "schafter",
+        "name": "Benefactor Schafter",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/benefactor-schafter/"
+      },
+      {
+        "id": "seashark",
+        "name": "Seashark",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/seashark/"
+      },
+      {
+        "id": "yellow-bike",
+        "name": "Yellow sport bike",
+        "category": "vehicles",
+        "source": "https://gtaplaybook.com/gta6/vehicles/yellow-sport-bike/"
+      },
+      {
+        "id": "girardi",
+        "name": "Girardi ES9",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/girardi-es9"
+      },
+      {
+        "id": "klose",
+        "name": "Klose K17",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/klose-k17"
+      },
+      {
+        "id": "mustang",
+        "name": "Duke Arms Mustang .357",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver"
+      },
+      {
+        "id": "nipper",
+        "name": "Nipper .38",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/nipper-38"
+      },
+      {
+        "id": "duke",
+        "name": "Duke Arms 556",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/service-carbine"
+      },
+      {
+        "id": "moreland",
+        "name": "Moreland 850",
+        "category": "items",
+        "source": "https://www.gtabase.com/weapons/gta-6/moreland-850"
+      },
+      {
+        "id": "m1a-inspired-rifle",
+        "name": "Scoped M1A-style rifle",
+        "category": "items"
+      }
+    ]
+  },
+  "benchmark": {
+    "vehicles": {
+      "source": "https://www.gtabase.com/gta-6/vehicles/",
+      "headlineCount": 311,
+      "meaning": "GTABase index entries; not an official Rockstar final roster.",
+      "extractedCandidateLinks": 30
+    },
+    "weapons": {
+      "source": "https://www.gtabase.com/gta-6/weapons/",
+      "headlineCount": 51,
+      "equipmentCountSeparate": 24,
+      "meaning": "Includes melee, thrown weapons and Unarmed; not directly comparable to eight firearm-family dossiers.",
+      "extractedCandidateLinks": 51
+    }
+  },
+  "sourceIntegrity": {
+    "officialEditionNamesCovered": true,
+    "editionSource": "https://www.rockstargames.com/VI/editions",
+    "supportSource": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+    "notes": [
+      "Current catalog covers the named vehicle and gear packages reviewed in Rockstar edition material. That does not cover all sightings or the final game roster.",
+      "Individual GTABase pages do not consistently share the index’s official-confirmation language. AKM cites September 2022 leaks and displays GTA V images; Coil Shocker cites August 2026 leaks.",
+      "Vehicle weight, gears and drivetrain on specialist pages cannot be assumed measured GTA VI specifications. No legacy numeric performance or gun damage values imported.",
+      "Real-world influences are specialist visual identifications unless Rockstar explicitly confirms them.",
+      "Sightings are not spawn points. Unknown acquisition details must not produce invented coordinates."
+    ]
+  },
+  "detailSpotChecks": [
+    {
+      "name": "S&M DW9",
+      "url": "https://www.gtabase.com/weapons/gta-6/dw9",
+      "sourceStatus": "Official image independently verified; specialist identity and influence",
+      "action": "Add now from existing official HD artwork."
+    },
+    {
+      "name": "Albany Buccaneer",
+      "url": "https://www.gtabase.com/gta-6/vehicles/buccaneer",
+      "sourceStatus": "Specialist identification in official trailer; direct image provenance pending",
+      "action": "Stage for clearer primary-source verification."
+    },
+    {
+      "name": "Pegassi Infernus Classic",
+      "url": "https://www.gtabase.com/vehicles/gta-6/infernus-classic",
+      "sourceStatus": "Specialist identification in official footage",
+      "action": "Find sharper image before publication."
+    },
+    {
+      "name": "AKM / Assault Rifle",
+      "url": "https://www.gtabase.com/gta-6/weapons/assault-rifle",
+      "sourceStatus": "Page cites leaks; legacy GTA V imagery also present",
+      "action": "Do not label official or import legacy stats."
+    },
+    {
+      "name": "Coil Shocker",
+      "url": "https://www.gtabase.com/weapons/gta-6/shocker",
+      "sourceStatus": "Page cites leaks",
+      "action": "Keep separate from official-imagery dossier set."
+    }
+  ],
+  "publicCoverageCopy": "Selected vehicles and weapons, documented sightings, and announced edition content. More dossiers are being added as identities and locations are checked.",
+  "statusStatement": "This revision improves selected dossiers and media. It does not yet fulfill the request for every known vehicle and weapon.",
+  "recommendedNextSteps": [
+    "Add DW9 using the existing official image and explicit acquisition limits.",
+    "Crosswalk candidate names and aliases before claiming missing totals; descriptive entries such as Blue sports car may overlap named candidates.",
+    "Verify each additional identity against official footage and keep legacy specifications separate.",
+    "Use exact-source images and provide suitable framing before adding a dossier."
+  ],
+  "candidateInventoryFile": "catalog-candidate-links.json"
+}

@@ -1,0 +1,426 @@
+{
+  "auditedAt": "2026-11-13T18:55:38.506Z",
+  "scope": "Factual names and source URLs collected as an internal research checklist. No article prose or statistics reproduced. These entries have not all been individually verified.",
+  "vehicles": {
+    "source": "https://www.gtabase.com/gta-6/vehicles/",
+    "declaredIndexCount": 311,
+    "collectedCount": 30,
+    "complete": false,
+    "reason": "The retrieved index response exposed 30 vehicle cards; further pages were not reviewed in this bounded audit.",
+    "candidates": [
+      {
+        "name": "Mercury Comet (1st Gen)",
+        "url": "https://www.gtabase.com/vehicles/gta-6/mercury-comet-1st-gen",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Declasse Granger Police",
+        "url": "https://www.gtabase.com/vehicles/gta-6/granger-police",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Buckingham Windsor Drop",
+        "url": "https://www.gtabase.com/vehicles/gta-6/windsor-drop",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "MTL Wastelander",
+        "url": "https://www.gtabase.com/vehicles/gta-6/wastelander",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Declasse Stallion",
+        "url": "https://www.gtabase.com/vehicles/gta-6/stallion",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Vysser Neo",
+        "url": "https://www.gtabase.com/vehicles/gta-6/neo",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "BF Injection",
+        "url": "https://www.gtabase.com/vehicles/gta-6/injection",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Vapid Hustler",
+        "url": "https://www.gtabase.com/vehicles/gta-6/hustler",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Stanley Fieldmaster",
+        "url": "https://www.gtabase.com/vehicles/gta-6/fieldmaster",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "HVY Dozer",
+        "url": "https://www.gtabase.com/vehicles/gta-6/dozer",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Western Cliffhanger",
+        "url": "https://www.gtabase.com/vehicles/gta-6/cliffhanger",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Grotti Bestia GTS",
+        "url": "https://www.gtabase.com/vehicles/gta-6/bestia-gts",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Hauners Rhino Tank",
+        "url": "https://www.gtabase.com/vehicles/gta-6/rhino-tank",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Polaris Ranger",
+        "url": "https://www.gtabase.com/vehicles/gta-6/polaris-ranger",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Willard Faction Custom Donk",
+        "url": "https://www.gtabase.com/vehicles/gta-6/faction-custom-donk",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Nagasaki Caddy",
+        "url": "https://www.gtabase.com/vehicles/gta-6/caddy",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Rexhall Rose Air",
+        "url": "https://www.gtabase.com/vehicles/gta-6/rexhall-rose-air",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Declasse Granger Taxi",
+        "url": "https://www.gtabase.com/vehicles/gta-6/granger-taxi",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Maibatsu Penumbra FF",
+        "url": "https://www.gtabase.com/vehicles/gta-6/penumbra-ff",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Isuzu Elf 250",
+        "url": "https://www.gtabase.com/vehicles/gta-6/isuzu-elf-250",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Progen Emerus",
+        "url": "https://www.gtabase.com/vehicles/gta-6/emerus",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Buckingham Valkyrie",
+        "url": "https://www.gtabase.com/vehicles/gta-6/valkyrie",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Principe Lectro",
+        "url": "https://www.gtabase.com/vehicles/gta-6/lectro",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "HVY Airtug",
+        "url": "https://www.gtabase.com/vehicles/gta-6/airtug",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Water Taxi",
+        "url": "https://www.gtabase.com/vehicles/gta-6/water-taxi",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Canis Terminus",
+        "url": "https://www.gtabase.com/vehicles/gta-6/terminus",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Übermacht Rebla GTS",
+        "url": "https://www.gtabase.com/vehicles/gta-6/rebla-gts",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Mammoth Patriot Mil-Spec",
+        "url": "https://www.gtabase.com/vehicles/gta-6/patriot-mil-spec",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Pfister Neon",
+        "url": "https://www.gtabase.com/vehicles/gta-6/neon",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Buckingham Luxor",
+        "url": "https://www.gtabase.com/vehicles/gta-6/luxor",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      }
+    ]
+  },
+  "weapons": {
+    "source": "https://www.gtabase.com/gta-6/weapons/",
+    "declaredIndexCount": 51,
+    "collectedCount": 51,
+    "completeForIndexLinks": true,
+    "candidates": [
+      {
+        "name": "556 Assault Rifle",
+        "url": "https://www.gtabase.com/weapons/gta-6/service-carbine",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "850 Shotgun",
+        "url": "https://www.gtabase.com/weapons/gta-6/moreland-850",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "AKM Assault Rifle",
+        "url": "https://www.gtabase.com/gta-6/weapons/assault-rifle",
+        "sourceStatus": "Detail page cites leaks; not official confirmation"
+      },
+      {
+        "name": "AR-15 Carbine",
+        "url": "https://www.gtabase.com/weapons/gta-6/carbine-rifle-mk-ii",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Baseball Bat",
+        "url": "https://www.gtabase.com/gta-6/weapons/baseball-bat",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Bolt Action Sniper",
+        "url": "https://www.gtabase.com/gta-6/weapons/bolt-action-sniper",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Carbine Rifle",
+        "url": "https://www.gtabase.com/weapons/gta-6/carbine-rifle",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Combat MG",
+        "url": "https://www.gtabase.com/weapons/gta-6/combat-mg",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Compact SMG",
+        "url": "https://www.gtabase.com/gta-6/weapons/compact-smg",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Crowbar",
+        "url": "https://www.gtabase.com/gta-6/weapons/crowbar",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Double Barrel Shotgun",
+        "url": "https://www.gtabase.com/weapons/gta-6/double-barrel-shotgun",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "DW9",
+        "url": "https://www.gtabase.com/weapons/gta-6/dw9",
+        "sourceStatus": "Official image verified; specialist identification"
+      },
+      {
+        "name": "ES9",
+        "url": "https://www.gtabase.com/weapons/gta-6/girardi-es9",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Fire Bottle",
+        "url": "https://www.gtabase.com/gta-6/weapons/fire-bottle",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Flashbang",
+        "url": "https://www.gtabase.com/gta-6/weapons/flashbang",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Flashlight",
+        "url": "https://www.gtabase.com/weapons/gta-6/flashlight",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Golf Ball",
+        "url": "https://www.gtabase.com/gta-6/weapons/golf-ball",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Golf Club",
+        "url": "https://www.gtabase.com/gta-6/weapons/golf-club",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Grenade",
+        "url": "https://www.gtabase.com/gta-6/weapons/grenade",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Grenade Launcher",
+        "url": "https://www.gtabase.com/weapons/gta-6/grenade-launcher",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Hammer",
+        "url": "https://www.gtabase.com/weapons/gta-6/hammer",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Heavy Pistol",
+        "url": "https://www.gtabase.com/weapons/gta-6/heavy-pistol",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Hunter Sniper",
+        "url": "https://www.gtabase.com/gta-6/weapons/hunter-sniper",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Hunting Knife",
+        "url": "https://www.gtabase.com/weapons/gta-6/hunting-knife",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Jerry Can",
+        "url": "https://www.gtabase.com/weapons/gta-6/jerry-can",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "K17",
+        "url": "https://www.gtabase.com/weapons/gta-6/klose-k17",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Knife",
+        "url": "https://www.gtabase.com/gta-6/weapons/knife",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Knuckle Dusters",
+        "url": "https://www.gtabase.com/weapons/gta-6/knuckle-dusters",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "MAC-11",
+        "url": "https://www.gtabase.com/weapons/gta-6/mac-11",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Micro Draco Compact Rifle",
+        "url": "https://www.gtabase.com/weapons/gta-6/compact-rifle",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Micro SMG",
+        "url": "https://www.gtabase.com/gta-6/weapons/micro-smg",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Molotov",
+        "url": "https://www.gtabase.com/gta-6/weapons/molotov",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Morgan Revolver",
+        "url": "https://www.gtabase.com/weapons/gta-6/morgan-revolver",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "MP5 SMG",
+        "url": "https://www.gtabase.com/weapons/gta-6/smg",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Mustang .357 Revolver",
+        "url": "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Nipper .38",
+        "url": "https://www.gtabase.com/weapons/gta-6/nipper-38",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Pipe Wrench",
+        "url": "https://www.gtabase.com/weapons/gta-6/pipe-wrench",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Pistol",
+        "url": "https://www.gtabase.com/gta-6/weapons/pistol",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Pool Cue",
+        "url": "https://www.gtabase.com/gta-6/weapons/pool-cue",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Pump Action Shotgun",
+        "url": "https://www.gtabase.com/gta-6/weapons/pump-action-shotgun",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "RPG (Rocket Launcher)",
+        "url": "https://www.gtabase.com/gta-6/weapons/rpg-rocket-launcher",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Ruger 10/22 Sniper",
+        "url": "https://www.gtabase.com/weapons/gta-6/ruger-10-22-sniper",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Scar Assault Rifle",
+        "url": "https://www.gtabase.com/weapons/gta-6/scar-assault-rifle",
+        "sourceStatus": "Detail page cites leaks; not official confirmation"
+      },
+      {
+        "name": "Shocker",
+        "url": "https://www.gtabase.com/weapons/gta-6/shocker",
+        "sourceStatus": "Detail page cites leaks; not official confirmation"
+      },
+      {
+        "name": "Smoke Grenade",
+        "url": "https://www.gtabase.com/gta-6/weapons/smoke-grenade",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Speargun",
+        "url": "https://www.gtabase.com/gta-6/weapons/speargun",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "SPP / MP9",
+        "url": "https://www.gtabase.com/weapons/gta-6/spp-mp9",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Springfield Armory M1A Sniper",
+        "url": "https://www.gtabase.com/weapons/gta-6/springfield-armory-m1a-sniper",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Sticky Bomb",
+        "url": "https://www.gtabase.com/weapons/gta-6/sticky-bomb",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Switchblade",
+        "url": "https://www.gtabase.com/weapons/gta-6/switchblade",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      },
+      {
+        "name": "Unarmed (Fist)",
+        "url": "https://www.gtabase.com/gta-6/weapons/unarmed-fist",
+        "sourceStatus": "Index listing only; individual evidence unreviewed"
+      }
+    ]
+  }
+}

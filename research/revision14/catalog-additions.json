@@ -1,0 +1,81 @@
+{
+  "auditedAt": "2026-11-13T18:55:38.505Z",
+  "recommendedForThisPublication": [
+    "dw9"
+  ],
+  "entries": [
+    {
+      "id": "dw9",
+      "name": "S&M DW9",
+      "category": "items",
+      "type": "Submachine gun",
+      "status": "Official imagery",
+      "evidence": "Rockstar imagery; specialist identification",
+      "image": "assets/item-gallery/edition-61.jpg",
+      "imageSource": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_WEAPON_PATTERN_01.0gybtumgwdcoi.jpg?akim=1&imdensity=1&imwidth=3840",
+      "imageCaption": "The larger weapon on the right, pictured with the Vintage Vice City Weapon Pattern.",
+      "source": "https://www.rockstargames.com/VI/editions",
+      "description": "A compact submachine gun pictured in Rockstar’s Vintage Vice City Weapon Pattern artwork.",
+      "manufacturer": "S&M",
+      "influencePreview": "GTABase identifies the Brügger & Thomet APC9 K PRO as its real-world design influence.",
+      "whereToFind": "The weapon is visible in official artwork. Its acquisition route and exact locations will be checked at release.",
+      "unlock": "The artwork promotes a weapon pattern; it does not establish that the underlying weapon is exclusive to that pack.",
+      "performance": "Ammo capacity, damage, recoil and range are awaiting release confirmation.",
+      "location": null,
+      "spawnStart": null,
+      "spawnEnd": null,
+      "weather": null,
+      "frequency": null,
+      "respawn": null,
+      "price": null,
+      "character": null,
+      "region": null,
+      "access": "Acquisition details at release",
+      "sources": [
+        {
+          "name": "Rockstar — edition artwork",
+          "url": "https://www.rockstargames.com/VI/editions"
+        },
+        {
+          "name": "GTABase — identification and influence",
+          "url": "https://www.gtabase.com/weapons/gta-6/dw9"
+        },
+        {
+          "name": "GTADB — screenshot context",
+          "url": "https://gtadb.net/gta-6/weapons/dw9/"
+        }
+      ],
+      "qa": {
+        "imageVisuallyInspected": true,
+        "officialImageOrigin": true,
+        "specialistIdentity": true,
+        "officialModelNameSeparatelyAnnounced": false,
+        "doNotCreateSpeculativeMapPin": true
+      }
+    }
+  ],
+  "stagedButNotRecommended": [
+    {
+      "id": "buccaneer",
+      "name": "Albany Buccaneer",
+      "type": "Muscle car",
+      "source": "https://www.gtabase.com/gta-6/vehicles/buccaneer",
+      "image": "catalog-additions/buccaneer.jpg",
+      "imageSource": "https://www.gtabase.com/igallery/gta-6-images/gta-6-albany-buccaneer-1080.jpg",
+      "influence": "GTABase identifies Ford Fairlane and Buick Riviera styling.",
+      "evidence": "GTABase identifies a Trailer 1 appearance. Downloaded image shows green lowrider with Buccaneer badge.",
+      "holdReason": "Image is promotional imagery republished by GTABase; direct Rockstar source for this exact image still needs resolving. Do not call it a verified gameplay screenshot. Do not transfer listed legacy-looking mass/gears/performance."
+    },
+    {
+      "id": "infernus-classic",
+      "name": "Pegassi Infernus Classic",
+      "type": "Sports classic",
+      "source": "https://www.gtabase.com/vehicles/gta-6/infernus-classic",
+      "image": "catalog-additions/infernus-classic.jpg",
+      "imageSource": "https://www.gtabase.com/igallery/gta-6-screenshots-trailer/gta-6-launch-trailer-19-1080.jpg",
+      "influence": "GTABase identifies Lamborghini Diablo, Cizeta V16T and Ferrari Testarossa styling.",
+      "evidence": "GTABase identifies the model in the Extended Look; downloaded image is a night traffic frame.",
+      "holdReason": "Frame is motion-blurred and contains several cars; fails the user’s clear, well-composed item-image requirement. Use a clearer verified shot before publication."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-13",
+  "locales": [
+    {
+      "lang": "en",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "Tune into Leonida"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Store robberies",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "es",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "Sintoniza Leonida"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Robos a tiendas",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "pt-br",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "Sintonize Leonida"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Assaltos a lojas",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "de",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "Leonida auf Empfang"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Ladenüberfälle",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "fr",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "À l’écoute de Leonida"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Braquages de commerces",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "it",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "Sintonizzati su Leonida"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Rapine ai negozi",
+        "forms": 0
+      },
+      "errs": []
+    },
+    {
+      "lang": "ru",
+      "radio": {
+        "overflow": false,
+        "stations": 6,
+        "heading": "На волне Леониды"
+      },
+      "money": {
+        "steps": 4,
+        "overflow": false,
+        "heading": "Ограбления магазинов",
+        "forms": 0
+      },
+      "errs": []
+    }
+  ],
+  "checked": [
+    "Desktop1440 and mobile390",
+    "No money/community forms",
+    "4 recommended steps per earning route",
+    "136 isolated shop/fuel leads",
+    "Single exact pin zoom5, one marker",
+    "Squalo search area, unrelated pins hidden",
+    "Zero-pin money route hides all unrelated pins",
+    "Map reset restores3442 records",
+    "Character controls outside photo; full thumbnail height",
+    "4-image Cheetah gallery advances",
+    "11 soundtrack artworks enlarge",
+    "Fitness guide four steps and official gym photo",
+    "Guide language switch preserves selection",
+    "Reduced motion: all stories visible, animations disabled",
+    "Catalog asset references resolve"
+  ],
+  "errors": []
+}

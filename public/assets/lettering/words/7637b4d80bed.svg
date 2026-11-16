@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="100">
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" d="M36.23 48.12L30.62 48.12L30.62 39.52C30.62 39.42 30.73 39.31 30.86 39.31L36.02 39.31C36.13 39.31 36.23 39.42 36.23 39.52L36.23 48.12ZM59.11 92L59.11 30.61C59.11 24.67 55.27 21.72 47.67 21.72L19.18 21.72C11.61 21.72 7.74 24.67 7.74 30.61L7.74 92L30.62 92L30.62 65.71L36.23 65.71L36.23 92L59.11 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" d="M144.58 92L144.58 31.49C144.58 25.77 138.43 21.72 130.51 21.72C123.37 21.72 118.4 22.71 114.99 26.98C112.47 23.46 109.16 21.72 102.45 21.72C95.87 21.72 90.36 23.25 87.6 26.23L87.6 21.72L64.72 21.72L64.72 92L87.6 92L87.6 39.52C87.6 39.42 87.73 39.31 87.84 39.31L93 39.31C93.1 39.31 93.21 39.42 93.21 39.52L93.21 92L116.09 92L116.09 39.52C116.09 39.42 116.2 39.31 116.33 39.31L121.7 39.31C121.81 39.31 121.92 39.42 121.92 39.52L121.92 92L144.58 92Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" d="M178.68 48.87C178.68 48.98 178.57 49.11 178.47 49.11L173.07 49.11L173.07 39.31L178.47 39.31C178.57 39.31 178.68 39.42 178.68 39.52L178.68 48.87ZM173.07 92L173.07 65.71L190.12 65.71C197.72 65.71 201.56 62.73 201.56 56.79L201.56 30.61C201.56 24.67 197.72 21.72 190.12 21.72L150.19 21.72L150.19 92L173.07 92Z"/>
+	<defs>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_3)" d="M228.95 92L228.95 21.72L206.07 21.72L206.07 92L228.95 92Z"/>
+	<defs>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_4)" d="M262.95 74.3C262.95 74.41 262.84 74.52 262.73 74.52L257.55 74.52C257.44 74.52 257.33 74.41 257.33 74.3L257.33 39.52C257.33 39.42 257.44 39.31 257.55 39.31L262.73 39.31C262.84 39.31 262.95 39.42 262.95 39.52L262.95 74.3ZM274.39 92C281.99 92 285.83 89.15 285.83 83.3L285.83 30.61C285.83 24.67 281.99 21.72 274.39 21.72L245.89 21.72C238.32 21.72 234.45 24.67 234.45 30.61L234.45 83.3C234.45 89.15 238.32 92 245.89 92L274.39 92Z"/>
+	<defs>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_5)" d="M314.44 92L314.44 74.52L291.56 74.52L291.56 92L314.44 92ZM330.61 65.71C338.18 65.71 342.05 62.73 342.05 56.79L342.05 30.61C342.05 24.67 338.18 21.72 330.61 21.72L302.11 21.72C294.51 21.72 290.67 24.67 290.67 30.61L290.67 43.61L313.55 43.61L313.55 39.52C313.55 39.42 313.66 39.31 313.77 39.31L318.95 39.31C319.06 39.31 319.17 39.42 319.17 39.52L319.17 47.9C319.17 48.01 319.06 48.12 318.95 48.12L303 48.12C295.4 48.12 291.56 50.96 291.56 56.79L291.56 70.11L314.44 70.11L314.44 65.92C314.44 65.82 314.55 65.71 314.65 65.71L330.61 65.71Z"/>
+</svg>

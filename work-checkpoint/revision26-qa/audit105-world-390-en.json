@@ -1,0 +1,67 @@
+{
+  "route": "world",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 0,
+  "heroBottom": 64,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Filters & search",
+      "x": 14,
+      "right": 130.65625,
+      "y": 156.9375,
+      "height": 37
+    },
+    {
+      "text": "Whole map",
+      "x": 136.65625,
+      "right": 253.328125,
+      "y": 156.9375,
+      "height": 37
+    },
+    {
+      "text": "Expand map",
+      "x": 259.328125,
+      "right": 376,
+      "y": 156.9375,
+      "height": 37
+    },
+    {
+      "text": "+",
+      "x": 343,
+      "right": 377,
+      "y": 221.9375,
+      "height": 34
+    },
+    {
+      "text": "−",
+      "x": 343,
+      "right": 377,
+      "y": 255.9375,
+      "height": 34
+    },
+    {
+      "text": "Hide markers",
+      "x": 12,
+      "right": 126.671875,
+      "y": 220.9375,
+      "height": 38
+    },
+    {
+      "text": "Icon key & credits",
+      "x": 12,
+      "right": 109.78125,
+      "y": 769.9375,
+      "height": 29
+    }
+  ],
+  "seam": {
+    "y": 0,
+    "start": "64px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 64px, rgb(0, 0, 0) 160px)"
+  },
+  "locale": "en"
+}

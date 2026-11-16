@@ -1,0 +1,1842 @@
+{
+  "desktop": [
+    {
+      "lang": "en",
+      "route": "home",
+      "heading": "Know the city. Own the night.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "The map comes first.",
+          "size": "36px"
+        },
+        {
+          "text": "Your next payday.",
+          "size": "36px"
+        },
+        {
+          "text": "Your countdown to Leonida.",
+          "size": "36px"
+        },
+        {
+          "text": "Find your next ride.",
+          "size": "36px"
+        },
+        {
+          "text": "’95 Grotti Cheetah",
+          "size": "24px"
+        },
+        {
+          "text": "’55 Vapid Stanier",
+          "size": "24px"
+        },
+        {
+          "text": "’67 Vapid Dominator Buggy",
+          "size": "24px"
+        },
+        {
+          "text": "Six sides of Leonida.",
+          "size": "36px"
+        },
+        {
+          "text": "Vice City",
+          "size": "25px"
+        },
+        {
+          "text": "Leonida Keys",
+          "size": "25px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "vehicles",
+      "heading": "VEHICLE DOSSIERS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "’95 Grotti Cheetah",
+          "size": "24px"
+        },
+        {
+          "text": "’55 Vapid Stanier",
+          "size": "24px"
+        },
+        {
+          "text": "’67 Vapid Dominator Buggy",
+          "size": "24px"
+        },
+        {
+          "text": "Dinka Enduro",
+          "size": "24px"
+        },
+        {
+          "text": "Crest Kayak",
+          "size": "24px"
+        },
+        {
+          "text": "Shitzu Squalo",
+          "size": "24px"
+        },
+        {
+          "text": "Ganado Retro Build",
+          "size": "24px"
+        },
+        {
+          "text": "Airgator Airboat 09",
+          "size": "24px"
+        },
+        {
+          "text": "Principe Alvino V1",
+          "size": "24px"
+        },
+        {
+          "text": "Blue sports car",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "items",
+      "heading": "WEAPONS, GEAR & MORE.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Hawk & Little Morgan Revolvers",
+          "size": "24px"
+        },
+        {
+          "text": "Personalized Weapon Variants",
+          "size": "24px"
+        },
+        {
+          "text": "Vice City Style",
+          "size": "24px"
+        },
+        {
+          "text": "Vintage Outfits & Hairstyles",
+          "size": "24px"
+        },
+        {
+          "text": "Vintage Weapon Pattern",
+          "size": "24px"
+        },
+        {
+          "text": "Goodtime Gear",
+          "size": "24px"
+        },
+        {
+          "text": "Girardi ES9",
+          "size": "24px"
+        },
+        {
+          "text": "Klose K17",
+          "size": "24px"
+        },
+        {
+          "text": "Duke Arms Mustang .357",
+          "size": "24px"
+        },
+        {
+          "text": "Nipper .38",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "people",
+      "heading": "EVERYONE HAS AN ANGLE.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Jason Duval",
+          "size": "24px"
+        },
+        {
+          "text": "Lucia Caminos",
+          "size": "24px"
+        },
+        {
+          "text": "Cal Hampton",
+          "size": "24px"
+        },
+        {
+          "text": "Boobie Ike",
+          "size": "24px"
+        },
+        {
+          "text": "Dre’Quan Priest",
+          "size": "24px"
+        },
+        {
+          "text": "Real Dimez",
+          "size": "24px"
+        },
+        {
+          "text": "Raul Bautista",
+          "size": "24px"
+        },
+        {
+          "text": "Brian Heder",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "fieldguide",
+      "heading": "WELCOME TO LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Vice City",
+          "size": "36px"
+        },
+        {
+          "text": "Leonida Keys",
+          "size": "36px"
+        },
+        {
+          "text": "Grassrivers",
+          "size": "36px"
+        },
+        {
+          "text": "Port Gellhorn",
+          "size": "36px"
+        },
+        {
+          "text": "Ambrosia",
+          "size": "36px"
+        },
+        {
+          "text": "Mount Kalaga National Park",
+          "size": "36px"
+        },
+        {
+          "text": "Counties and towns",
+          "size": "24px"
+        },
+        {
+          "text": "The road-trip notebook",
+          "size": "24px"
+        },
+        {
+          "text": "Catalan Bay",
+          "size": "24px"
+        },
+        {
+          "text": "Florida through a fictional lens",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "money",
+      "heading": "MAKE YOUR NEXT MOVE.",
+      "overflow": false,
+      "minLabel": 11,
+      "headings": [
+        {
+          "text": "Every take has a cost.",
+          "size": "36px"
+        },
+        {
+          "text": "Choose your opportunity.",
+          "size": "36px"
+        },
+        {
+          "text": "Store robberies",
+          "size": "24px"
+        },
+        {
+          "text": "Jewelry stores & small banks",
+          "size": "24px"
+        },
+        {
+          "text": "Gang compounds",
+          "size": "24px"
+        },
+        {
+          "text": "Steal, sell or keep",
+          "size": "24px"
+        },
+        {
+          "text": "Vehicle-fence requests",
+          "size": "24px"
+        },
+        {
+          "text": "Security vans",
+          "size": "24px"
+        },
+        {
+          "text": "Paid hunting",
+          "size": "24px"
+        },
+        {
+          "text": "Plan the whole job.",
+          "size": "36px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "guides",
+      "heading": "THE PLAYER’S BRIEFING.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Pick a ride. Make a plan.",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "music",
+      "heading": "THE SOUND OF LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "A soundtrack for the getaway.",
+          "size": "36px"
+        },
+        {
+          "text": "That’s It",
+          "size": "24px"
+        },
+        {
+          "text": "RHYNO",
+          "size": "24px"
+        },
+        {
+          "text": "Sexy Magic",
+          "size": "24px"
+        },
+        {
+          "text": "Flower in a Hurricane",
+          "size": "24px"
+        },
+        {
+          "text": "Last Thing You Need",
+          "size": "24px"
+        },
+        {
+          "text": "Suzuki",
+          "size": "24px"
+        },
+        {
+          "text": "Macacoa 2000",
+          "size": "24px"
+        },
+        {
+          "text": "Don’t Chart",
+          "size": "24px"
+        },
+        {
+          "text": "Blood In Your Eyes",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "ufos",
+      "heading": "THE UFO FILES.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Something above the mountain.",
+          "size": "36px"
+        },
+        {
+          "text": "Conspiracy country.",
+          "size": "36px"
+        },
+        {
+          "text": "Choose your investigation.",
+          "size": "36px"
+        },
+        {
+          "text": "Mount Chiliad",
+          "size": "24px"
+        },
+        {
+          "text": "The sunken saucer",
+          "size": "24px"
+        },
+        {
+          "text": "Above Sandy Shores",
+          "size": "24px"
+        },
+        {
+          "text": "The Zancudo craft",
+          "size": "24px"
+        },
+        {
+          "text": "Lil’ Probe’Inn",
+          "size": "24px"
+        },
+        {
+          "text": "UFO Business Battles",
+          "size": "24px"
+        },
+        {
+          "text": "Escape the experiment",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "credits",
+      "heading": "SOURCES & CREDITS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Official information",
+          "size": "28px"
+        },
+        {
+          "text": "Vehicles, weapons and items",
+          "size": "28px"
+        },
+        {
+          "text": "World and map research",
+          "size": "28px"
+        },
+        {
+          "text": "Player guides",
+          "size": "28px"
+        },
+        {
+          "text": "UFO and alien history",
+          "size": "28px"
+        },
+        {
+          "text": "Music",
+          "size": "28px"
+        },
+        {
+          "text": "Art, maps and typography",
+          "size": "36px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "community",
+      "heading": "Leave a trail.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Document your discovery.",
+          "size": "30px"
+        },
+        {
+          "text": "Make every clue count.",
+          "size": "30px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "saved",
+      "heading": "MY ATLAS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Your next discovery starts here.",
+          "size": "32px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "en",
+      "route": "gallery",
+      "heading": "POSTCARDS FROM LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "home",
+      "heading": "Conoce la ciudad. Domina la noche.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "El mapa es el punto de partida.",
+          "size": "36px"
+        },
+        {
+          "text": "Tu próximo pago.",
+          "size": "36px"
+        },
+        {
+          "text": "Tu cuenta regresiva a Leonida.",
+          "size": "36px"
+        },
+        {
+          "text": "Encuentra tu próximo vehículo.",
+          "size": "36px"
+        },
+        {
+          "text": "’95 Grotti Cheetah",
+          "size": "24px"
+        },
+        {
+          "text": "’55 Vapid Stanier",
+          "size": "24px"
+        },
+        {
+          "text": "’67 Vapid Dominator Buggy",
+          "size": "24px"
+        },
+        {
+          "text": "Seis caras de Leonida.",
+          "size": "36px"
+        },
+        {
+          "text": "Vice City",
+          "size": "25px"
+        },
+        {
+          "text": "Leonida Keys",
+          "size": "25px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "vehicles",
+      "heading": "FICHAS DE VEHÍCULOS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "’95 Grotti Cheetah",
+          "size": "24px"
+        },
+        {
+          "text": "’55 Vapid Stanier",
+          "size": "24px"
+        },
+        {
+          "text": "’67 Vapid Dominator Buggy",
+          "size": "24px"
+        },
+        {
+          "text": "Dinka Enduro",
+          "size": "24px"
+        },
+        {
+          "text": "Crest Kayak",
+          "size": "24px"
+        },
+        {
+          "text": "Shitzu Squalo",
+          "size": "24px"
+        },
+        {
+          "text": "Preparación retro del Ganado",
+          "size": "24px"
+        },
+        {
+          "text": "Airgator Airboat 09",
+          "size": "24px"
+        },
+        {
+          "text": "Principe Alvino V1",
+          "size": "24px"
+        },
+        {
+          "text": "Deportivo azul",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "items",
+      "heading": "ARMAS, EQUIPO Y MÁS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Hawk & Little Morgan Revolvers",
+          "size": "24px"
+        },
+        {
+          "text": "Variantes de armas personalizadas",
+          "size": "24px"
+        },
+        {
+          "text": "Estilo Vice City",
+          "size": "24px"
+        },
+        {
+          "text": "Ropa y peinados retro",
+          "size": "24px"
+        },
+        {
+          "text": "Diseño retro para armas",
+          "size": "24px"
+        },
+        {
+          "text": "Goodtime Gear",
+          "size": "24px"
+        },
+        {
+          "text": "Girardi ES9",
+          "size": "24px"
+        },
+        {
+          "text": "Klose K17",
+          "size": "24px"
+        },
+        {
+          "text": "Duke Arms Mustang .357",
+          "size": "24px"
+        },
+        {
+          "text": "Nipper .38",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "people",
+      "heading": "TODOS TIENEN UN PLAN.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Jason Duval",
+          "size": "24px"
+        },
+        {
+          "text": "Lucia Caminos",
+          "size": "24px"
+        },
+        {
+          "text": "Cal Hampton",
+          "size": "24px"
+        },
+        {
+          "text": "Boobie Ike",
+          "size": "24px"
+        },
+        {
+          "text": "Dre’Quan Priest",
+          "size": "24px"
+        },
+        {
+          "text": "Real Dimez",
+          "size": "24px"
+        },
+        {
+          "text": "Raul Bautista",
+          "size": "24px"
+        },
+        {
+          "text": "Brian Heder",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "fieldguide",
+      "heading": "BIENVENIDO A LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Vice City",
+          "size": "36px"
+        },
+        {
+          "text": "Leonida Keys",
+          "size": "36px"
+        },
+        {
+          "text": "Grassrivers",
+          "size": "36px"
+        },
+        {
+          "text": "Port Gellhorn",
+          "size": "36px"
+        },
+        {
+          "text": "Ambrosia",
+          "size": "36px"
+        },
+        {
+          "text": "Mount Kalaga National Park",
+          "size": "36px"
+        },
+        {
+          "text": "Condados y poblaciones",
+          "size": "24px"
+        },
+        {
+          "text": "Cuaderno de carretera",
+          "size": "24px"
+        },
+        {
+          "text": "Catalan Bay",
+          "size": "24px"
+        },
+        {
+          "text": "Florida vista desde Leonida",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "money",
+      "heading": "PREPARA TU PRÓXIMA JUGADA.",
+      "overflow": false,
+      "minLabel": 11,
+      "headings": [
+        {
+          "text": "Todo botín tiene un coste.",
+          "size": "36px"
+        },
+        {
+          "text": "Elige tu oportunidad.",
+          "size": "36px"
+        },
+        {
+          "text": "Robos a comercios",
+          "size": "24px"
+        },
+        {
+          "text": "Joyerías y bancos pequeños",
+          "size": "24px"
+        },
+        {
+          "text": "Bases de pandillas",
+          "size": "24px"
+        },
+        {
+          "text": "Robar, vender o conservar",
+          "size": "24px"
+        },
+        {
+          "text": "Encargos de compradores",
+          "size": "24px"
+        },
+        {
+          "text": "Vehículos de valores",
+          "size": "24px"
+        },
+        {
+          "text": "Trabajos de caza",
+          "size": "24px"
+        },
+        {
+          "text": "Prepara el trabajo completo.",
+          "size": "36px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "guides",
+      "heading": "LA GUÍA DEL JUGADOR.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Elige un vehículo. Prepara un plan.",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "music",
+      "heading": "EL SONIDO DE LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Música para la escapada.",
+          "size": "36px"
+        },
+        {
+          "text": "That’s It",
+          "size": "24px"
+        },
+        {
+          "text": "RHYNO",
+          "size": "24px"
+        },
+        {
+          "text": "Sexy Magic",
+          "size": "24px"
+        },
+        {
+          "text": "Flower in a Hurricane",
+          "size": "24px"
+        },
+        {
+          "text": "Last Thing You Need",
+          "size": "24px"
+        },
+        {
+          "text": "Suzuki",
+          "size": "24px"
+        },
+        {
+          "text": "Macacoa 2000",
+          "size": "24px"
+        },
+        {
+          "text": "Don’t Chart",
+          "size": "24px"
+        },
+        {
+          "text": "Blood In Your Eyes",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "ufos",
+      "heading": "LOS EXPEDIENTES OVNI.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Algo sobre la montaña.",
+          "size": "36px"
+        },
+        {
+          "text": "Tierra de conspiraciones.",
+          "size": "36px"
+        },
+        {
+          "text": "Elige tu investigación.",
+          "size": "36px"
+        },
+        {
+          "text": "La señal en la cumbre",
+          "size": "24px"
+        },
+        {
+          "text": "El naufragio bajo las olas",
+          "size": "24px"
+        },
+        {
+          "text": "Una señal en el desierto",
+          "size": "24px"
+        },
+        {
+          "text": "Sobre el espacio aéreo restringido",
+          "size": "24px"
+        },
+        {
+          "text": "El bar de los creyentes",
+          "size": "24px"
+        },
+        {
+          "text": "Encuentros de otra temporada",
+          "size": "24px"
+        },
+        {
+          "text": "Escapa del experimento",
+          "size": "24px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "credits",
+      "heading": "FUENTES Y CRÉDITOS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Información oficial",
+          "size": "28px"
+        },
+        {
+          "text": "Vehículos, armas y objetos",
+          "size": "28px"
+        },
+        {
+          "text": "Investigación del mundo y el mapa",
+          "size": "28px"
+        },
+        {
+          "text": "Guías del jugador",
+          "size": "28px"
+        },
+        {
+          "text": "Historia de ovnis y extraterrestres",
+          "size": "28px"
+        },
+        {
+          "text": "Música",
+          "size": "28px"
+        },
+        {
+          "text": "Arte, mapas y tipografía",
+          "size": "36px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "community",
+      "heading": "Deja una pista.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Documenta tu descubrimiento.",
+          "size": "30px"
+        },
+        {
+          "text": "Haz que cada pista cuente.",
+          "size": "30px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "saved",
+      "heading": "MI ATLAS.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [
+        {
+          "text": "Tu próximo descubrimiento empieza aquí.",
+          "size": "32px"
+        }
+      ],
+      "badWords": 0
+    },
+    {
+      "lang": "es",
+      "route": "gallery",
+      "heading": "POSTALES DE LEONIDA.",
+      "overflow": false,
+      "minLabel": 12,
+      "headings": [],
+      "badWords": 0
+    }
+  ],
+  "phone": [
+    {
+      "lang": "en",
+      "route": "home",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "vehicles",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "items",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "people",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "fieldguide",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "money",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "guides",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "music",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "ufos",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "credits",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "community",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "saved",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "en",
+      "route": "gallery",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "home",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "vehicles",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "items",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "people",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "fieldguide",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "money",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "guides",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "music",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "ufos",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "credits",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "community",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "saved",
+      "overflow": false,
+      "oversize": []
+    },
+    {
+      "lang": "es",
+      "route": "gallery",
+      "overflow": false,
+      "oversize": []
+    }
+  ],
+  "assets": [
+    {
+      "id": "photo-0",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-1",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-2",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-3",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-4",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-5",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-6",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-7",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-8",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-9",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-10",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-11",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-12",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-13",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-14",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-15",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-16",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-17",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-18",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-19",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-20",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-21",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-22",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-23",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-24",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-25",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-26",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-27",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-28",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-29",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-30",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-31",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-32",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-33",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-34",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-35",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-36",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-37",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-38",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-39",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-40",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-41",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-42",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-43",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-44",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-45",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-46",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-47",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-48",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-49",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-50",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-51",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-52",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-53",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-54",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-55",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-56",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-57",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-58",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-59",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-60",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-61",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-62",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-63",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-64",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-65",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-66",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-67",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-68",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-69",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-70",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-71",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-72",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-73",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-74",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-75",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-76",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-77",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-78",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-79",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-80",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-81",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-82",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-83",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-84",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-85",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-86",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-87",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-88",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-89",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-90",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-91",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-92",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-93",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-94",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-95",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-96",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-97",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-98",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-99",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-100",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-101",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-102",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-103",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-104",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-105",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-106",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-107",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-108",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-109",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-110",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-111",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-112",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-113",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-114",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-115",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-116",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-117",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-118",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-119",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-120",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-121",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-122",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-123",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-124",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-125",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-126",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-127",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-128",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-129",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-130",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-131",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-132",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-133",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-134",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-135",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-136",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "photo-137",
+      "width": 3840,
+      "height": 2160
+    }
+  ],
+  "validation": {
+    "syntaxScripts": 14,
+    "desktopRoutes": 26,
+    "phoneRoutes": 26,
+    "overflowFailures": 0,
+    "runtimeErrors": [],
+    "localAssetFailures": [],
+    "hdImages": 138,
+    "minimumHDWidth": 3840,
+    "functional": [
+      "Selected entry-buggy isolated to one marker at max native zoom 5 (desktop), max 3 at DPR3 (phone).",
+      "Map saved/found progress retained; nearby/focus/recenter controls work.",
+      "Gallery keyboard wraps first to138; touch wraps138to1; language switch retains selected photo.",
+      "Clock timezone changed on hero, propagated to full band and map.",
+      "Calculator inputs gross1000, expenses400, 30minutes return600net/1200hour.",
+      "Vehicle and weapon access sections precede influence and performance."
+    ]
+  }
+}

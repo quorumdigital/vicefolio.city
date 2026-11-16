@@ -1,0 +1,53 @@
+[
+  {
+    "group": "Catalog",
+    "centerDelta": 0.0078125,
+    "inViewport": true,
+    "panel": {
+      "x": 1383.046875,
+      "y": 91.5,
+      "width": 278,
+      "height": 184,
+      "top": 91.5,
+      "right": 1661.046875,
+      "bottom": 275.5,
+      "left": 1383.046875
+    }
+  },
+  {
+    "pointerCrossingOpen": true
+  },
+  {
+    "group": "Explore",
+    "centerDelta": 0,
+    "inViewport": true,
+    "panel": {
+      "x": 1421.96875,
+      "y": 91.5,
+      "width": 426,
+      "height": 228,
+      "top": 91.5,
+      "right": 1847.96875,
+      "bottom": 319.5,
+      "left": 1421.96875
+    }
+  },
+  {
+    "pointerCrossingOpen": true
+  },
+  {
+    "phone": true,
+    "panel": {
+      "x": 12,
+      "y": 157.94781494140625,
+      "width": 366,
+      "height": 223,
+      "top": 157.94781494140625,
+      "right": 378,
+      "bottom": 380.94781494140625,
+      "left": 12
+    },
+    "viewport": 390,
+    "overflow": 0
+  }
+]

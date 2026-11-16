@@ -1,0 +1,30 @@
+{
+  "checked": "2026-11-14",
+  "retained": [
+    {
+      "id": "blood-in-your-eyes",
+      "status": 200,
+      "source": "https://linkstorage.linkfire.com/medialinks/images/cdda039b-98ee-459f-b107-9842d46bed6c/artwork-440x440.jpg",
+      "bytes": 92198
+    },
+    {
+      "id": "dont-chart",
+      "status": 200,
+      "source": "https://linkstorage.linkfire.com/medialinks/images/b685dc30-fe68-455d-86e9-b43a921546cd/artwork-440x440.jpg",
+      "bytes": 37914
+    },
+    {
+      "id": "suzuki",
+      "status": 200,
+      "source": "https://linkstorage.linkfire.com/medialinks/images/c84c8312-e122-4a4c-b537-540c7ca11099/artwork-440x440.jpg",
+      "bytes": 37914
+    }
+  ],
+  "pusher": {
+    "status": 200,
+    "url": "https://linkstorage.linkfire.com/medialinks/images/8871bf18-34f8-4c1a-ae3d-d3b9d437b86d/artwork-440x440.jpg",
+    "bytes": 54652,
+    "decision": "Retain official score cover; add separate HTML sleeve title Pusher, not a fabricated official replacement."
+  },
+  "newImageBytes": 0
+}

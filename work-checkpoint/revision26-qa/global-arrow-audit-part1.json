@@ -1,0 +1,38 @@
+[
+  {
+    "route": "money",
+    "overflow": 0,
+    "textArrows": [],
+    "emptyHeroDecor": [
+      "<span aria-hidden=\"true\"></span>"
+    ],
+    "pseudoArrows": []
+  },
+  {
+    "route": "vehicles",
+    "overflow": 0,
+    "textArrows": [],
+    "emptyHeroDecor": [
+      "<span aria-hidden=\"true\"></span>"
+    ],
+    "pseudoArrows": []
+  },
+  {
+    "route": "items",
+    "overflow": 0,
+    "textArrows": [],
+    "emptyHeroDecor": [
+      "<span aria-hidden=\"true\"></span>"
+    ],
+    "pseudoArrows": []
+  },
+  {
+    "route": "people",
+    "overflow": 0,
+    "textArrows": [],
+    "emptyHeroDecor": [
+      "<span aria-hidden=\"true\"></span>"
+    ],
+    "pseudoArrows": []
+  }
+]

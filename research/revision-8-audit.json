@@ -1,0 +1,94 @@
+{
+  "revision": 8,
+  "checkedAt": "2026-11-13T14:29:45.255Z",
+  "changes": [
+    "Sitewide title scale: page/section/card tiers; readable 11–12px category labels; long titles wrap without overflow.",
+    "Three synchronized countdowns: hero, full homepage band and map toolbar.",
+    "Official 3840×2160 rooftop hero and outlined Leonida sign.",
+    "All 138 gallery screenshots in 3840px with onsite arrows, keyboard, swipe, wraparound and language continuity.",
+    "Acquisition and location first across catalog cards, dossiers and comparisons; mission trigger and prerequisite sections.",
+    "Dossier-to-map links isolate one labelled pin, use native-detail zoom, collapse details, recenter and restore nearby places.",
+    "Six detailed money briefings and expense breakdown calculator."
+  ],
+  "validation": {
+    "syntaxScripts": 14,
+    "desktopRoutes": 26,
+    "phoneRoutes": 26,
+    "overflowFailures": 0,
+    "runtimeErrors": [],
+    "localAssetFailures": [],
+    "hdImages": 138,
+    "minimumHDWidth": 3840,
+    "functional": [
+      "Selected entry-buggy isolated to one marker at max native zoom 5 (desktop), max 3 at DPR3 (phone).",
+      "Map saved/found progress retained; nearby/focus/recenter controls work.",
+      "Gallery keyboard wraps first to138; touch wraps138to1; language switch retains selected photo.",
+      "Clock timezone changed on hero, propagated to full band and map.",
+      "Calculator inputs gross1000, expenses400, 30minutes return600net/1200hour.",
+      "Vehicle and weapon access sections precede influence and performance."
+    ]
+  },
+  "research": {
+    "moneySources": [
+      {
+        "name": "IGN — developer interview (licensed republication)",
+        "url": "https://www.bestbuy.com/gamers/gamers-articles/pcmcat1791490206931"
+      },
+      {
+        "name": "Famitsu — developer interview and demonstration",
+        "url": "https://www.famitsu.com/article/202608/85753"
+      },
+      {
+        "name": "GTABase — vehicle theft, sales and registration",
+        "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+      },
+      {
+        "name": "GTABase — properties and safehouses",
+        "url": "https://www.gtabase.com/gta-6/properties/"
+      },
+      {
+        "name": "TweakTown — criminal economy preview reporting",
+        "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html"
+      },
+      {
+        "name": "TGG preview recap — money and hunting",
+        "url": "https://gta6.vi.ki/money"
+      },
+      {
+        "name": "GTABase — money, loot and buyers",
+        "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide"
+      },
+      {
+        "name": "GTABase — fuel and operating costs",
+        "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works"
+      },
+      {
+        "name": "GTABase — Paradise Garage",
+        "url": "https://www.gtabase.com/properties/gta-6/paradise-garage"
+      },
+      {
+        "name": "GTABase — Shore Court Garage",
+        "url": "https://www.gtabase.com/properties/gta-6/shore-court-garage"
+      }
+    ],
+    "wymanSources": [
+      {
+        "name": "Rockstar — edition details",
+        "url": "https://www.rockstargames.com/VI/editions"
+      },
+      {
+        "name": "GTABase — Wyman commission and workshop",
+        "url": "https://www.gtabase.com/side-missions/gta-6/wyman-s-classic-car-collection"
+      },
+      {
+        "name": "GTABase — Wyman character profile",
+        "url": "https://www.gtabase.com/characters/gta-6/wyman"
+      }
+    ],
+    "limits": [
+      "No invented payout rankings, cash caps or mission prerequisite chains.",
+      "Wiki access restrictions and source gaps retained in prior audit.",
+      "Community map positions remain estimates, not proven item spawns."
+    ]
+  }
+}

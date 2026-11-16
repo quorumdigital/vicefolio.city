@@ -1,0 +1,69 @@
+{
+  "checked": "2026-11-13",
+  "question": "Language expansion: GTA audience countries and GTA VI preorder leaders",
+  "conclusion": "No verified current country ranking for all-platform GTA players or GTA VI preorders found. Use official regional demand proxies, not a fabricated sales league table.",
+  "sources": [
+    {
+      "url": "https://blog.playstation.com/?p=414035",
+      "finding": "GTA V ranks3 US/Canada and2 EU in2025 PS5 paid-download chart.",
+      "limits": "Regional chart positions, not active players, volumes or country shares."
+    },
+    {
+      "url": "https://blog.br.playstation.com/2026/09/04/conheca-os-jogos-mais-baixados-da-playstation-store-em-agosto-3/",
+      "finding": "GTA V ranks1 in Brazilian PS5 downloads for August2026.",
+      "limits": "One-month platform chart; cannot compare country unit volumes."
+    },
+    {
+      "url": "https://blog.latam.playstation.com/?p=97000",
+      "finding": "GTA V ranks2 in LATAM PS5 downloads for January2026.",
+      "limits": "Regional, not country-level."
+    },
+    {
+      "url": "https://blog.ja.playstation.com/2026/01/20/20260120-downloadranking/",
+      "finding": "GTA V outside Japanese PS5 top20 in2025, rank10 PS4.",
+      "limits": "Platform purchase ranking, not total Japanese audience."
+    },
+    {
+      "url": "https://blog.ko.playstation.com/2026/11/12/20261112-gta/",
+      "finding": "Official Korea-specific campaign published12November2026.",
+      "limits": "Marketing investment signal; not preorder quantity and not confirmation of leaks."
+    },
+    {
+      "url": "https://sensortower.com/grand-theft-auto-VI/sales-tracker",
+      "finding": "Public tracker describes estimated worldwide digital sales/preorders and platform comparison.",
+      "limits": "No accessible country breakdown verified; secondary sites conflict about US versus worldwide scope."
+    },
+    {
+      "url": "https://www.take2games.com/ir/news/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
+      "finding": "Official preorder announcement; no country sales table."
+    },
+    {
+      "url": "https://newzoo.com/faq",
+      "finding": "Title-level telemetry spans37 markets; commercial data may support deeper country comparisons.",
+      "limits": "Did not access paid data."
+    },
+    {
+      "url": "https://www.quantumrun.com/consulting/grand-theft-auto-v/",
+      "finding": "Country table reports relative interest, not national player counts. Google AI Overview counts of24M US/18M Brazil/13M Russia were not verified.",
+      "limits": "Trends scores cannot be converted to player counts or purchase totals."
+    },
+    {
+      "url": "https://support.google.com/publisherpolicies/answer/15766875?hl=en-GB",
+      "finding": "Google policy continues to list paused ads serving to users located in Russia and paused monetization for Russia-based publishers.",
+      "limits": "Russian language is not equivalent to location in Russia; other networks or audiences may differ."
+    }
+  ],
+  "excluded": [
+    {
+      "url": "https://gamstat.com/games/GTA_5/",
+      "reason": "Archived PlayStation-only estimates with conflicting2020/2024 timestamps; unsuitable as a current2026 ranking."
+    }
+  ],
+  "recommendation": {
+    "existing": "Maintain English and Spanish.",
+    "nextPilot": "Brazilian Portuguese implemented as revision9; prioritize content quality and measure actual traffic before further expansion.",
+    "later": "Use actual Vice Atlas search traffic and fluent-language review capacity to compare French, German, Japanese and Korean.",
+    "seo": "Separate crawlable language URLs and equivalent-page annotations; current hash-based guide routes need a dedicated search-indexing pass before broad expansion.",
+    "russian": "Possible audience expansion, but lower priority for a Google-ad-led strategy focused on users located in Russia; no Russian release yet."
+  }
+}

@@ -1,0 +1,45 @@
+/* Item88: calendar occupies a reserved rail, never the artwork. */
+body[data-atlas-route="music"] .r26-calendar-content .r26-music-intro{grid-template-columns:minmax(0,1fr)!important;overflow:visible}
+body[data-atlas-route="music"] .r26-calendar-fixed{border-color:#c1a9d85e!important;background:linear-gradient(145deg,#201a2bf7,#11121bf7)!important;box-shadow:0 14px 40px #0006,inset 0 1px 0 #ffffff0d!important}
+body[data-atlas-route="music"] .r26-calendar-fixed[hidden]{display:none!important}
+body[data-atlas-route="music"] .r26-calendar-fixed>header{display:flex;align-items:flex-start;gap:10px;margin-bottom:15px}
+body[data-atlas-route="music"] .r26-calendar-fixed>header h2{font-size:17px!important;line-height:1.25!important;margin:0!important;flex:1;color:#f3edf7!important}
+body[data-atlas-route="music"] .r26-calendar-fixed .r24-calendar-line{display:none}
+body[data-atlas-route="music"] .r26-calendar-hide,body[data-atlas-route="music"] .r26-calendar-show{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:9px 12px;border:1px solid #ad99b76b;border-radius:8px;background:linear-gradient(145deg,#3b293ee8,#211b30f5);color:#f5eef6;font:600 12px/1.25 Outfit,Arial,sans-serif;box-shadow:inset 0 1px 0 #ffffff14,0 3px 0 #07050b;cursor:pointer;white-space:normal;text-align:center;transition:border-color .2s,background .2s}
+body[data-atlas-route="music"] .r26-calendar-hide{min-width:46px;font-size:10px;padding:7px 9px;max-width:94px}
+body[data-atlas-route="music"] .r26-calendar-hide:hover,body[data-atlas-route="music"] .r26-calendar-show:hover{border-color:#ed75c3;background:#432e45}
+body[data-atlas-route="music"] .r26-calendar-hide:focus-visible,body[data-atlas-route="music"] .r26-calendar-show:focus-visible{outline:2px solid #91dfff;outline-offset:3px}
+body[data-atlas-route="music"] .r26-calendar-dock{position:fixed;right:12px;z-index:25;width:48px;display:flex;flex-direction:column;align-items:stretch;gap:9px}
+body[data-atlas-route="music"] .r26-calendar-dock .r26-calendar-show{flex-direction:column;width:48px;padding:9px 3px;gap:5px;font-size:8px;overflow-wrap:anywhere}
+body[data-atlas-route="music"] .r26-calendar-show svg{width:21px;height:21px;fill:none;stroke:#91dfff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+body[data-atlas-route="music"] .r26-calendar-mini-dates{display:flex;flex-direction:column;gap:7px}
+body[data-atlas-route="music"] .r26-calendar-mini-dates>span{display:flex;flex-direction:column;align-items:center;padding:9px 3px;border:1px solid #ed75c34a;border-radius:7px;background:#16131eef;color:#f5eafa;box-shadow:0 3px 10px #0004}
+body[data-atlas-route="music"] .r26-calendar-mini-dates strong{font-size:18px;line-height:1.05;color:#ed92cc}
+body[data-atlas-route="music"] .r26-calendar-mini-dates small{font-size:9px;text-transform:uppercase;line-height:1.3;margin-top:3px;color:#a9ddea}
+body[data-atlas-route="music"] .r26-calendar-is-hidden .r26-calendar-mini-dates{display:none}
+@media(min-width:1100px){body[data-atlas-route="music"] .r26-calendar-content .r26-calendar-fixed{position:fixed!important;left:auto!important;right:16px!important;top:var(--r26-calendar-top,730px)!important;bottom:auto!important;width:284px!important;max-height:calc(100vh - 118px);overflow:auto;padding:18px!important;z-index:25;margin:0!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-list{grid-template-columns:1fr!important;gap:0!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row{gap:11px!important;padding:14px 0!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row h3{font-size:14px!important;line-height:1.25!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row p{font-size:11px!important;line-height:1.5!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-track-count{font-size:11px!important}body[data-atlas-route="music"] .r26-calendar-dock:not(.r26-calendar-is-hidden){display:none}body[data-atlas-route="music"] .r26-calendar-dock{right:12px}body[data-atlas-route="music"] .r26-calendar-dock .r26-calendar-show>span{display:none}}
+@media(max-width:1099px){body[data-atlas-route="music"] .r26-calendar-content .r26-calendar-fixed{position:relative!important;inset:auto!important;width:100%!important;max-width:none!important;margin:0!important;padding:18px!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-list{grid-template-columns:1fr!important;gap:0!important}body[data-atlas-route="music"] .r26-calendar-content .music-banner{grid-template-columns:1fr!important;padding:20px!important}body[data-atlas-route="music"] .r26-calendar-content .r26-music-intro{gap:24px!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row{gap:10px!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row h3{font-size:15px!important}body[data-atlas-route="music"] .r26-calendar-fixed .r24-release-row p{font-size:12px!important}}
+@media(prefers-reduced-motion:reduce){body[data-atlas-route="music"] .r26-calendar-hide,body[data-atlas-route="music"] .r26-calendar-show{transition:none!important}}
+
+body[data-atlas-route="music"] footer{padding-right:var(--r26-calendar-footer-reserve,80px)!important}
+
+/* Item102: center mobile music within equal gutters; slim calendar remains outside artwork. */
+@media(max-width:1099px){
+ body[data-atlas-route="music"] .r26-calendar-dock{right:2px;width:24px;gap:7px}
+ body[data-atlas-route="music"] .r26-calendar-dock .r26-calendar-show{width:24px;min-height:44px;padding:7px 2px}
+ body[data-atlas-route="music"] .r26-calendar-dock .r26-calendar-show>span{display:none}
+ body[data-atlas-route="music"] .r26-calendar-mini-dates{gap:6px}
+ body[data-atlas-route="music"] .r26-calendar-mini-dates>span{padding:7px 1px}
+ body[data-atlas-route="music"] .r26-calendar-mini-dates strong{font-size:16px}
+ body[data-atlas-route="music"] .r26-calendar-mini-dates small{font-size:7px}
+ body[data-atlas-route="music"] footer{padding-left:var(--r26-calendar-mobile-gutter,28px)!important;padding-right:var(--r26-calendar-mobile-gutter,28px)!important}
+}
+@media(max-width:360px){
+ body[data-atlas-route="music"] .r26-calendar-content .r26-calendar-fixed{padding:14px!important}
+ body[data-atlas-route="music"] .r26-calendar-fixed>header{gap:7px}
+ body[data-atlas-route="music"] .r26-calendar-fixed>header h2{font-size:15px!important}
+ body[data-atlas-route="music"] .r26-calendar-hide{max-width:78px;padding:6px}
+ body[data-atlas-route="music"] .r26-calendar-content .music-banner{padding:16px!important}
+}
+
+@media(max-width:1099px){body[data-atlas-route="music"] .r26-calendar-dock .r26-calendar-show svg{width:16px;height:18px}}

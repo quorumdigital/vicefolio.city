@@ -1,0 +1,24 @@
+{
+  "reviewed": "2026-11-12",
+  "source": "https://map.stateofleonida.net/solmain2809_4.js",
+  "findings": {
+    "defaultCategories": {
+      "hotel": "#FF6B00",
+      "residential": "#4CAF50",
+      "landmark": "#2196F3",
+      "shop": "#9C27B0",
+      "restaurant": "#FF9800",
+      "other": "#757575"
+    },
+    "overrides": "Markers can override their default color; site-color and custom modes are supported.",
+    "categoryTags": "Confirmed/unconfirmed and media-source tags have their own colors; not a universal rarity scale."
+  },
+  "implementation": "Consistent category families and distinct icons; found checkmark retains category color.",
+  "gtabase": {
+    "source": "https://www.gtabase.com/gta-6/map/",
+    "locations": 106,
+    "categories": 24,
+    "ammuNationRecords": 2,
+    "note": "Mapped record counts, not game totals."
+  }
+}

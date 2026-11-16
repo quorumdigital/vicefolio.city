@@ -1,0 +1,297 @@
+[
+  {
+    "items": [
+      72
+    ],
+    "status": "verified-local",
+    "checks": [
+      "1920x1080: hero copy x69px, constrained to460px in left negative space; scene subjects remain clear",
+      "390x844: image retained above readable hero copy, no horizontal overflow",
+      "Explore radio stations clicked; #radio-stations reached with header clearance"
+    ],
+    "evidence": [
+      "radio-72-desktop.png",
+      "radio-72-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      73
+    ],
+    "status": "verified-local",
+    "checks": [
+      "All six station panels visually inspected at1440px; artwork-derived genre/host palettes; alternating art/copy preserved",
+      "Flash host remains pink and Chamber remains red; Cocoteo pink/cyan, Country blue/red, AfroBank gold/green, Dirty South artwork-neutral",
+      "All six native audio controls remain present; playback source data unchanged"
+    ],
+    "evidence": [
+      "radio-73-cocoteo.png",
+      "radio-73-country.png",
+      "radio-73-afrobank.png",
+      "radio-73-chamber.png",
+      "radio-73-flash.png",
+      "radio-73-dirty-south.png"
+    ]
+  },
+  {
+    "items": [
+      74
+    ],
+    "status": "verified-local",
+    "checks": [
+      "New larger pink editorial headline with localized copy; existing listening facts retained",
+      "Desktop two-column art/copy inspected; both faces visible",
+      "Mobile image followed by text; no clipping/overflow"
+    ],
+    "evidence": [
+      "radio-74-listening.png",
+      "radio-74-listening-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      75
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Radio Archive SVG word artwork preserved",
+      "GTA FM enlarged12px to22px desktop and19px phone;3px/2px optical inset accounts for Radio SVG left sidebearing",
+      "Actual screenshot inspected for visible left-edge alignment"
+    ],
+    "evidence": [
+      "radio-75-archive-heading.png"
+    ]
+  },
+  {
+    "items": [
+      76
+    ],
+    "status": "verified-local",
+    "checks": [
+      "1440px and390px: station, listening, archive intro and console content edges aligned; deliberate far-left hero exception retained",
+      "Choose-a-game selector remains within archive and responsive",
+      "No horizontal page overflow; alternating station layout unchanged"
+    ],
+    "evidence": [
+      "radio-76-alignment-1440.png",
+      "radio-76-alignment-390.png"
+    ]
+  },
+  {
+    "items": [
+      77
+    ],
+    "status": "verified-local-with-external-media-limit",
+    "checks": [
+      "Desktop and390px archive outer surfaces/selector/station list pink; selected and hover state visually inspected after overriding legacy !important cyan",
+      "Station click changes title/pressed state and YouTube iframe video; game selector changes playlist iframe URL",
+      "Both hidden playback controller hooks retained",
+      "Native YouTube iframe reports video unavailable in this local environment, including baseline; actual media playback cannot be certified locally. Live deployment must recheck."
+    ],
+    "evidence": [
+      "radio-77-pink-console.png",
+      "radio-77-pink-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      78
+    ],
+    "status": "verified-local",
+    "checks": [
+      "All visible grid photo labels/numeric suffixes/arrows removed; image alt/accessible names retained",
+      "18→36 load-more and search re-render retain zero overlay captions",
+      "First image opens HD viewer with loaded full-size image and original full-resolution link",
+      "Phone grid remains caption-free and has no overflow"
+    ],
+    "evidence": [
+      "gallery-78-grid.png",
+      "gallery-78-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      79
+    ],
+    "status": "verified-local",
+    "checks": [
+      "All138 photos loaded as a clean collection; no visible per-photo titles, numeric sequence labels or new group headings",
+      "Existing optional subject filter/search retained; no unnecessary reordering introduced",
+      "Grid text is limited to functional Full resolution controls"
+    ],
+    "evidence": [
+      "gallery-78-grid.png",
+      "gallery-78-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      80
+    ],
+    "status": "verified-local",
+    "checks": [
+      "1920px: hero copy anchored x48,width320 over permitted left couple, central trio clear; blue Community21px",
+      "390px: artwork shown above content, blue Community18px, no overflow"
+    ],
+    "evidence": [
+      "community-80-desktop.png",
+      "community-80-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      81
+    ],
+    "status": "verified-local",
+    "checks": [
+      "English headline reads Join us on Discord in approved SVG letter shapes; missing US composed from original USE glyph paths with no redrawing",
+      "Missing translated invitation words composed from existing approved Latin vector glyphs; six Latin locales retain artwork mode",
+      "All seven locales rendered/inspected with no title overflow; Russian retains existing site-wide Cyrillic text fallback with concise natural invitation"
+    ],
+    "evidence": [
+      "community-81-headline.png",
+      "community-81-es.png",
+      "community-81-pt-br.png",
+      "community-81-de.png",
+      "community-81-fr.png",
+      "community-81-it.png",
+      "community-81-ru.png"
+    ]
+  },
+  {
+    "items": [
+      82
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Concise supporting sentence explicitly includes community, discoveries, suggestions and player tips",
+      "Localized equivalents supplied for all seven locales; no duplication of the invitation title",
+      "English rendered paragraph verified within320px left hero group"
+    ],
+    "evidence": [
+      "community-82-intro.png"
+    ]
+  },
+  {
+    "items": [
+      83
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Approved Good discoveries deserve good company wording retained",
+      "Warm cream replaced by readable cool-blue #9edff4; checked rendered group balance"
+    ],
+    "evidence": [
+      "community-83-tagline.png"
+    ]
+  },
+  {
+    "items": [
+      84
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Desktop logo enlarged76px→205px, introduction uses available width with220px logo column",
+      "Phone logo150px centered above copy; text remains readable and uncrowded",
+      "Coming Soon status and not-yet-available invite copy preserved"
+    ],
+    "evidence": [
+      "community-84-panel.png",
+      "community-84-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      85
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Root shared redesign already supplies r26-btn, visible border, layered fill and raised shadow; no redundant scoped override added",
+      "Arrow absent, hover and keyboard focus visible, phone fit verified",
+      "Actual Explore the map click navigated to /en/#world"
+    ],
+    "evidence": [
+      "community-85-button.png",
+      "community-85-button-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "status": "final-scoped-regression-local",
+    "checks": [
+      "All seven Community locales rendered on390px mobile without overflow, broken heading artwork or page errors",
+      "Radio1920px/390px placement, palettes, listening title and archive label rechecked after shared modules",
+      "Gallery clean cards and opening interaction rechecked; Community1920px negative-space placement rechecked",
+      "Local source/preview verification only; publication and published YouTube playback remain root integration checks"
+    ],
+    "evidence": [
+      "radio-final-desktop.png",
+      "radio-final-mobile.png",
+      "community-final-desktop.png",
+      "community-final-en-mobile.png",
+      "community-final-es-mobile.png",
+      "community-final-pt-br-mobile.png",
+      "community-final-de-mobile.png",
+      "community-final-fr-mobile.png",
+      "community-final-it-mobile.png",
+      "community-final-ru-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      78,
+      79
+    ],
+    "status": "verified-local",
+    "checks": [
+      "Extended image-only treatment to opened gallery viewer: filename-style title and numeric position visually hidden while retained for screen readers",
+      "Localized visible Previous/Next buttons replace blank navigation after shared arrow cleanup",
+      "Actual next/previous navigation updates HD image; title/counter stay visually hidden; desktop1920 and phone390 screenshots inspected",
+      "Spanish translated labels and post-navigation idempotence checked"
+    ],
+    "evidence": [
+      "gallery-78-viewer-desktop.png",
+      "gallery-78-viewer-mobile.png"
+    ]
+  },
+  {
+    "items": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "status": "shared-background-regression-local",
+    "checks": [
+      "New shared palm backdrop inspected on rendered Radio page after integration; station panel, text and controls remain readable"
+    ],
+    "evidence": [
+      "radio-final-background.png"
+    ]
+  }
+]

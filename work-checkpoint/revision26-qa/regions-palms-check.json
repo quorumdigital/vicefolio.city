@@ -1,0 +1,95 @@
+{
+  "credits": [
+    {
+      "viewport": {
+        "width": 1919,
+        "height": 1080
+      },
+      "overflow": 0,
+      "creditsLinks": 5,
+      "creditText": "Region photography\n5 references\n+\n\nGame images © Rockstar Games. Real photographs: Georgia Department of Natural Resources and the U.S. National Park Service.\n\nThe comparison photographs illustrate visual parallels; the specific real-world matches are not confirmed by Rockstar. Community geography: GTADB.ORG and contributors, CC BY 4.0.\n\nRockstar Games — Only in Leonida\nProvidence Canyon — Georgia Department of Natural Resources\nEverglades National Park — U.S. National Park Service\nGTADB.ORG & contributors\nCreative Commons Attribution 4.0",
+      "palmBackground": "radial-gradient(at 80% 0px, rgba(33, 25, 46, 0.333), rgba(0, 0, 0, 0) 50%), linear-gradient(rgb(11, 10, 16), rgb(9, 9, 13))"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "overflow": 0,
+      "creditsLinks": 5,
+      "creditText": "Region photography\n5 references\n+\n\nGame images © Rockstar Games. Real photographs: Georgia Department of Natural Resources and the U.S. National Park Service.\n\nThe comparison photographs illustrate visual parallels; the specific real-world matches are not confirmed by Rockstar. Community geography: GTADB.ORG and contributors, CC BY 4.0.\n\nRockstar Games — Only in Leonida\nProvidence Canyon — Georgia Department of Natural Resources\nEverglades National Park — U.S. National Park Service\nGTADB.ORG & contributors\nCreative Commons Attribution 4.0",
+      "palmBackground": "radial-gradient(at 80% 0px, rgba(33, 25, 46, 0.333), rgba(0, 0, 0, 0) 50%), linear-gradient(rgb(11, 10, 16), rgb(9, 9, 13))"
+    }
+  ],
+  "regions": [
+    {
+      "viewport": {
+        "width": 1919,
+        "height": 1080
+      },
+      "overflow": 0,
+      "titleAsset": "/assets/lettering/state-integrated-en-v26.svg",
+      "heroImage": "assets/hd/photo-113.webp",
+      "titleRect": {
+        "x": 1166.8416748046875,
+        "y": 135.77239990234375,
+        "width": 680,
+        "height": 185.15625,
+        "top": 135.77239990234375,
+        "right": 1846.8416748046875,
+        "bottom": 320.92864990234375,
+        "left": 1166.8416748046875
+      },
+      "introRect": {
+        "x": 1498.482177734375,
+        "y": 489.4129333496094,
+        "width": 345,
+        "height": 131.18753051757812,
+        "top": 489.4129333496094,
+        "right": 1843.482177734375,
+        "bottom": 620.6004638671875,
+        "left": 1498.482177734375
+      },
+      "background": "linear-gradient(90deg, rgba(8, 7, 13, 0.07), rgba(8, 7, 13, 0.408) 42%, rgba(8, 7, 13, 0.408) 58%, rgba(8, 7, 13, 0.07)), url(\"http://127.0.0.1:4173/assets/revision26/vice-city-palms.webp\")",
+      "blankGalleryControls": 12
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "overflow": 0,
+      "titleAsset": "/assets/lettering/state-integrated-en-v26.svg",
+      "heroImage": "assets/hd/photo-113.webp",
+      "titleRect": {
+        "x": 16.174999237060547,
+        "y": 188.87655639648438,
+        "width": 358.796875,
+        "height": 97.6875,
+        "top": 188.87655639648438,
+        "right": 374.97187423706055,
+        "bottom": 286.5640563964844,
+        "left": 16.174999237060547
+      },
+      "introRect": {
+        "x": 24.373807907104492,
+        "y": 603.4134521484375,
+        "width": 343.1875,
+        "height": 116.375,
+        "top": 603.4134521484375,
+        "right": 367.5613079071045,
+        "bottom": 719.7884521484375,
+        "left": 24.373807907104492
+      },
+      "background": "linear-gradient(rgba(8, 7, 13, 0.333), rgba(8, 7, 13, 0.4)), url(\"http://127.0.0.1:4173/assets/revision26/vice-city-palms.webp\")",
+      "blankGalleryControls": 12
+    }
+  ],
+  "visualFindings": {
+    "palmVisibleBelowHero": true,
+    "heroLayoutPreserved": true,
+    "contentReadable": true,
+    "creditsReadable": true,
+    "outstanding": "12 empty region carousel step buttons from shared arrow removal; root notified"
+  }
+}

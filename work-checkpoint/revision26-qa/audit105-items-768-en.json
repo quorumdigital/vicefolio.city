@@ -1,0 +1,60 @@
+{
+  "route": "items",
+  "width": 768,
+  "overflow": 0,
+  "heroHeight": 576,
+  "heroBottom": 640.1875,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Browse equipment",
+      "x": 588.21875,
+      "right": 721.921875,
+      "y": 570.1875,
+      "height": 44
+    },
+    {
+      "text": "Weapons",
+      "x": 373.625,
+      "right": 445.4375,
+      "y": 743.375,
+      "height": 44
+    },
+    {
+      "text": "Gear & apparel",
+      "x": 451.4375,
+      "right": 555.296875,
+      "y": 743.375,
+      "height": 44
+    },
+    {
+      "text": "Shops & activities",
+      "x": 561.296875,
+      "right": 675.734375,
+      "y": 743.375,
+      "height": 44
+    },
+    {
+      "text": "Official detailsHawk & Little Morgan RevolversPaired engraved revolvers with scopes; Verce",
+      "x": 39.390625,
+      "right": 373,
+      "y": 815.375,
+      "height": 341.609375
+    },
+    {
+      "text": "Specialist referenceGirardi ES9Jason’s pistol; Ultimate Edition adds an engraved variant.",
+      "x": 395,
+      "right": 728.609375,
+      "y": 815.375,
+      "height": 341.609375
+    }
+  ],
+  "seam": {
+    "y": 420,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

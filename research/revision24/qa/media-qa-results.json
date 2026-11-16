@@ -1,0 +1,370 @@
+[
+  {
+    "width": 1440,
+    "route": "ufos",
+    "filters": [
+      {
+        "name": "GTA V",
+        "visible": 6
+      },
+      {
+        "name": "GTA VI",
+        "visible": 1
+      },
+      {
+        "name": "All files",
+        "visible": 12
+      }
+    ],
+    "layout": {
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "bodyWidth": 1440,
+      "overflow": [
+        {
+          "tag": "IMG",
+          "class": "r24-evidence-shot",
+          "left": 701,
+          "right": 1983
+        }
+      ],
+      "brokenImages": [],
+      "pendingImages": []
+    },
+    "errors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "failedRequests": [
+      {
+        "url": "http://127.0.0.1:4173/revision24-regions.css?v=24",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "http://127.0.0.1:4173/revision24-regions.js?v=24",
+        "reason": "net::ERR_ABORTED"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "music",
+    "ctaTarget": 206,
+    "preview": {
+      "expanded": "true",
+      "hidden": false,
+      "status": ""
+    },
+    "layout": {
+      "viewport": 1440,
+      "documentWidth": 1441,
+      "bodyWidth": 1441,
+      "overflow": [],
+      "brokenImages": [],
+      "pendingImages": []
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "width": 1440,
+    "route": "radio",
+    "switches": [
+      {
+        "game": "vice-city",
+        "title": "Flash FM",
+        "description": "80s pop · 1:03:12",
+        "iframe": "https://www.youtube.com/embed/B-8EORB783c?list=PL-vB0QZpsqn5GOYHr3N2YG5qEdj07wFzk&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": [
+          "Flash FM",
+          "V-Rock",
+          "Wave 103",
+          "Emotion 98.3",
+          "Fever 105"
+        ]
+      },
+      {
+        "game": "vice-city",
+        "stationChanged": true,
+        "title": "V-Rock",
+        "description": "Hard rock · 1:09:25",
+        "pressed": "1",
+        "iframe": "https://www.youtube.com/embed/Up2qr5K6zc4?list=PL-vB0QZpsqn5GOYHr3N2YG5qEdj07wFzk&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173"
+      },
+      {
+        "game": "vice-city-stories",
+        "title": "Flash FM",
+        "description": "80s pop · 1:04:50",
+        "iframe": "https://www.youtube.com/embed/039FXJYvJXw?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": [
+          "Flash FM",
+          "Paradise FM",
+          "Fresh 105 FM",
+          "Espantoso",
+          "V-Rock"
+        ]
+      },
+      {
+        "game": "vice-city-stories",
+        "stationChanged": true,
+        "title": "Paradise FM",
+        "description": "Radio archive · 35:13",
+        "pressed": "1",
+        "iframe": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173"
+      },
+      {
+        "game": "san-andreas",
+        "title": "San Andreas",
+        "description": "Radio stations from San Andreas",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn5YOxOaCIKCjoNxtgARzgFs&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      },
+      {
+        "game": "gta-iv",
+        "title": "GTA IV",
+        "description": "Radio stations from GTA IV",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn5bf1UQIRvDIazlDCjVKPdP&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      },
+      {
+        "game": "gta-v",
+        "title": "GTA V",
+        "description": "Radio stations from GTA V",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn4TguQJ9MK0nvCAov-AHtFG&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      }
+    ],
+    "radioUI": {
+      "visibleFooter": "By @GTAVFM",
+      "visibleLinks": [
+        "@GTAVFM"
+      ],
+      "hintHidden": true,
+      "undefinedLabels": false
+    },
+    "layout": {
+      "viewport": 1440,
+      "documentWidth": 1441,
+      "bodyWidth": 1441,
+      "overflow": [],
+      "brokenImages": [],
+      "pendingImages": []
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "failedRequests": [
+      {
+        "url": "https://www.youtube.com/s/player/fad7e4e9/player_embed.vflset/en_US/base.js",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.fxd8fRq9O_o.es5.O/am=AAAAAAAAGAMACA/d=1/excm=base,root/br=1/rs=AGKMywF7_aQa-2VRV14y8znpNbPs18w1Bw/m=root,base",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/Up2qr5K6zc4?list=PL-vB0QZpsqn5GOYHr3N2YG5qEdj07wFzk&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/039FXJYvJXw?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn4TguQJ9MK0nvCAov-AHtFG&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "ufos",
+    "filters": [
+      {
+        "name": "GTA V",
+        "visible": 6
+      },
+      {
+        "name": "GTA VI",
+        "visible": 1
+      },
+      {
+        "name": "All files",
+        "visible": 12
+      }
+    ],
+    "layout": {
+      "viewport": 390,
+      "documentWidth": 390,
+      "bodyWidth": 390,
+      "overflow": [
+        {
+          "tag": "IMG",
+          "class": "r24-evidence-shot",
+          "left": 24,
+          "right": 707
+        }
+      ],
+      "brokenImages": [],
+      "pendingImages": []
+    },
+    "errors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "failedRequests": [
+      {
+        "url": "http://127.0.0.1:4173/revision24-regions.css?v=24",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "http://127.0.0.1:4173/revision24-regions.js?v=24",
+        "reason": "net::ERR_ABORTED"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "music",
+    "ctaTarget": 261,
+    "preview": {
+      "expanded": "true",
+      "hidden": false,
+      "status": ""
+    },
+    "layout": {
+      "viewport": 390,
+      "documentWidth": 391,
+      "bodyWidth": 391,
+      "overflow": [],
+      "brokenImages": [],
+      "pendingImages": []
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "width": 390,
+    "route": "radio",
+    "switches": [
+      {
+        "game": "vice-city",
+        "title": "Flash FM",
+        "description": "80s pop · 1:03:12",
+        "iframe": "https://www.youtube.com/embed/B-8EORB783c?list=PL-vB0QZpsqn5GOYHr3N2YG5qEdj07wFzk&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": [
+          "Flash FM",
+          "V-Rock",
+          "Wave 103",
+          "Emotion 98.3",
+          "Fever 105"
+        ]
+      },
+      {
+        "game": "vice-city",
+        "stationChanged": true,
+        "title": "V-Rock",
+        "description": "Hard rock · 1:09:25",
+        "pressed": "1",
+        "iframe": "https://www.youtube.com/embed/Up2qr5K6zc4?list=PL-vB0QZpsqn5GOYHr3N2YG5qEdj07wFzk&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173"
+      },
+      {
+        "game": "vice-city-stories",
+        "title": "Flash FM",
+        "description": "80s pop · 1:04:50",
+        "iframe": "https://www.youtube.com/embed/039FXJYvJXw?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": [
+          "Flash FM",
+          "Paradise FM",
+          "Fresh 105 FM",
+          "Espantoso",
+          "V-Rock"
+        ]
+      },
+      {
+        "game": "vice-city-stories",
+        "stationChanged": true,
+        "title": "Paradise FM",
+        "description": "Radio archive · 35:13",
+        "pressed": "1",
+        "iframe": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173"
+      },
+      {
+        "game": "san-andreas",
+        "title": "San Andreas",
+        "description": "Radio stations from San Andreas",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn5YOxOaCIKCjoNxtgARzgFs&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      },
+      {
+        "game": "gta-iv",
+        "title": "GTA IV",
+        "description": "Radio stations from GTA IV",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn5bf1UQIRvDIazlDCjVKPdP&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      },
+      {
+        "game": "gta-v",
+        "title": "GTA V",
+        "description": "Radio stations from GTA V",
+        "iframe": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn4TguQJ9MK0nvCAov-AHtFG&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "stations": []
+      }
+    ],
+    "radioUI": {
+      "visibleFooter": "By @GTAVFM",
+      "visibleLinks": [
+        "@GTAVFM"
+      ],
+      "hintHidden": true,
+      "undefinedLabels": false
+    },
+    "layout": {
+      "viewport": 390,
+      "documentWidth": 391,
+      "bodyWidth": 391,
+      "overflow": [],
+      "brokenImages": [],
+      "pendingImages": [
+        "assets/radio/chamber-logo.png"
+      ]
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "failedRequests": [
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.fxd8fRq9O_o.es5.O/ck=ytembeds.base.BMVdYHuuIjI.L.W.O/am=AAAAAAAAGAMACA/d=1/exm=DlvF1d,base,n7eo2,root/excm=base,root/ed=1/br=1/rs=AGKMywGeLCYhjb5OT-9oLF4fdcxz69kiIw/m=OtKSJe",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/qoe?cpn=Z5I__nvyfzEgmZ6G&el=embedded&ns=yt&fexp=v1%2C100673025%2C1884%2C364%2C-76670629%2C494889%2C26564110%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C69796%2C30906%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13016%2C1190%2C14236%2C661%2C9404%2C6629%2C17197%2C9500%2C55472%2C41206%2C20588%2C4200%2C39294%2C59015%2C1168%2C8131%2C1538%2C28666%2C4116%2C11462%2C46288%2C13330%2C26539%2C3844%2C18499%2C28975%2C2513%2C1180%2C33292%2C18135%2C3%2C5701%2C6957%2C2008%2C121%2C14809%2C6901%2C4594%2C6341%2C2939%2C760%2C967%2C7237%2C2266%2C4783%2C8892%2C10736%2C3884%2C9786%2C2263%2C6635%2C3421%2C1814%2C4270%2C451%2C3811%2C751%2C1626%2C441%2C4822%2C974%2C2528%2C3124%2C1646%2C10675%2C7555%2C4565%2C490%2C7778%2C3040%2C1576%2C579%2C206%2C779%2C1018%2C1386%2C255%2C315%2C380%2C10462%2C2080%2C109%2C707%2C258%2C6968%2C1040%2C398%2C67%2C205%2C826%2C571%2C1599%2C28%2C774%2C5984%2C2803%2C4362%2C7927%2C10758&cl=1018714565&seq=1&event=streamingstats&docid=039FXJYvJXw&cbr=HeadlessChrome&cbrver=157.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261113.01.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.000:ER&cmt=0.000:0.000,0.000:0.000&error=0.000:auth::0.000:0;a6s.0;r.This_video_is_unavailable&vis=0.000:0&bh=0.000:0.000&qclc=ChBaNUlfX252eWZ6RWdtWjZHEAE",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn5bf1UQIRvDIazlDCjVKPdP&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.youtube.com/embed/videoseries?list=PL-vB0QZpsqn4TguQJ9MK0nvCAov-AHtFG&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "reason": "net::ERR_ABORTED"
+      }
+    ]
+  }
+]

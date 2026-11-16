@@ -1,0 +1,94 @@
+{
+  "syntax": [
+    {
+      "module": "shared",
+      "pass": true
+    },
+    {
+      "module": "home",
+      "pass": true
+    },
+    {
+      "module": "money",
+      "pass": true
+    },
+    {
+      "module": "catalog-map",
+      "pass": true
+    },
+    {
+      "module": "regions",
+      "pass": true
+    },
+    {
+      "module": "radio-media",
+      "pass": true
+    },
+    {
+      "module": "sound-ufo",
+      "pass": true
+    },
+    {
+      "module": "mobile-header",
+      "pass": true
+    }
+  ],
+  "shellAudit": [
+    {
+      "file": "index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "en/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "es/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "pt-br/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "de/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "fr/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "it/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    },
+    {
+      "file": "ru/index.html",
+      "r26Scripts": 8,
+      "r26CSS": 8,
+      "wordmarkV26": true,
+      "oldCache": false
+    }
+  ]
+}

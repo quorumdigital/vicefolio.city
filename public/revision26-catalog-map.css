@@ -1,0 +1,103 @@
+/* Revision 26: balanced map surfaces; semantic category colors remain distinct. */
+.r26-map-room.atlas-map-room{--r26-pink:#ef87c7;--r26-blue:#91dfff;--r26-line:#b4aabc33;background:#101017;border-color:var(--r26-line);color:#eeedf3}
+.r26-map-room .map-topline,.r26-map-room.map-expanded .map-topline{background:linear-gradient(110deg,#15131d,#191722);border-bottom-color:var(--r26-line)}
+.r26-map-room .map-heading h1.r24-title{color:#f4f1f7!important}
+.r26-map-room .map-heading .eyebrow{color:#ef87c7}
+.r26-map-room .map-sidebar{background:linear-gradient(145deg,#191720,#12121b 75%);border-color:var(--r26-line)}
+.r26-map-room .map-search input{background:#22202b;border-color:#aaa1b347;color:#f3f0f7}
+.r26-map-room .map-search input::placeholder{color:#b9b3c2}
+.r26-map-room .map-search>svg{stroke:#c5bbce}
+.r26-map-room .map-sidebar-tabs{border-color:var(--r26-line)}
+.r26-map-room .map-sidebar-tabs button{color:#bdb7c7}
+.r26-map-room .map-sidebar-tabs button[aria-pressed=true]{color:#f6e4f0}
+.r26-map-room .map-sidebar-tabs button[aria-pressed=true]:after{background:var(--r26-pink);box-shadow:0 0 9px #ef87c72a}
+.r26-map-room .map-layers button{background:#25212d;border-color:#a995b338;color:#dfd9e5}
+.r26-map-room .map-layers button[aria-pressed=true]{background:linear-gradient(125deg,#5b3052,#382840);border-color:#ef87c7a0;color:#fff0f9;box-shadow:inset 0 1px 0 #ffd5ee20}
+.r26-map-room .map-tool,.r26-map-room .map-action,.r26-map-room .map-focus-bar button{background:#25232e;border-color:#bcb0c34d;color:#eeebf4}
+.r26-map-room #map-filters-toggle{background:#58334f;border-color:#ef87c78a;color:#fff0f9}
+.r26-map-room .map-tool:hover,.r26-map-room .map-action:hover,.r26-map-room .map-focus-bar button:hover,.r26-map-room .map-layers button:hover{background:#3c2c3e;border-color:#ef87c7bc;color:#fff}
+.r26-map-room .map-action[aria-pressed=true]{background:#4b2d46;border-color:#ef87c78a;color:#fff0f9}
+.r26-map-room .map-category-head strong,.r26-map-room .map-group-title strong{color:#ddd5e6}
+.r26-map-room .map-category-head button,.r26-map-room .map-group-title button{color:#91dfff}
+.r26-map-room .map-category-option,.r26-map-room .map-category-option:has(input:checked){color:#e9e3ed}
+.r26-map-room .map-category-option:hover,.r26-map-room .map-category-option:focus-within{background:#332737}
+.r26-map-room input[type=checkbox]{accent-color:#ef87c7}
+.r26-map-room .map-category-option small{color:#b9b2c3}
+.r26-map-room .map-result{border-color:#b5a6c129;color:#eee7f2}
+.r26-map-room .map-result:hover,.r26-map-room .map-result.selected{background:#332737}
+.r26-map-room .map-result.selected{box-shadow:inset 2px 0 0 #ef87c7}
+.r26-map-room .map-result small,.r26-map-room .map-result em,.r26-map-room .map-progress,.r26-map-room .map-toggles,.r26-map-room .map-empty{color:#bfb8c9}
+.r26-map-room .map-count{color:#f0c0df}
+.r26-map-room .map-sidebar-bottom{border-color:var(--r26-line)}
+.r26-map-room .map-scroll,.r26-map-room .map-results,.r26-map-room .map-selection{scrollbar-color:#76677f #16131c}
+.r26-map-room ::-webkit-scrollbar-track{background:#16131c}.r26-map-room ::-webkit-scrollbar-thumb{background:#76677f;border-color:#16131c}
+.r26-map-room .map-focus-bar,.r26-map-room .map-selection,.r26-map-room .map-position-pending{background:#1c1825f7;border-color:#bd8dac70}
+.r26-map-room .map-overlay-toolbar .map-tool,.r26-map-room .map-legend .map-tool,.r26-map-room .map-north,.r26-map-room .map-zoom-status,.r26-map-room .map-close,.r26-map-room .map-detail-toggle{background:#24202ded;color:#f2edf6;border-color:#b9a7c347}
+.r26-map-room .leaflet-control-zoom{border-color:#b9a7c36b!important}.r26-map-room .leaflet-control-zoom a{background:#25212d!important;color:#f2edf6!important;border-color:#b9a7c347!important}.r26-map-room .leaflet-control-zoom a:hover{background:#473047!important}
+.r26-map-room .map-detail-body h3.soft-title{color:#f1e9f3!important}.r26-map-room .map-detail-body p{color:#c9bfce}.r26-map-room .map-detail-body .eyebrow{color:#ef87c7!important}
+.r26-map-room .map-help-note,.r26-map-room .map-coverage-note,.r26-map-room .map-attribution{background:#15131d;border-color:var(--r26-line);color:#bcb4c6}
+.r26-map-room .map-copy-field{background:#24202d;border-color:#a78ab6;color:#eee7f4}
+
+/* 17: use the available map-banner width for a distinctive editorial heading. */
+.r26-map-room .map-heading h1.r24-title{font-family:AtlasRusso,Outfit,Arial,sans-serif!important;font-size:clamp(30px,2.8vw,44px)!important;font-weight:400!important;line-height:1.15!important;letter-spacing:-.025em!important;max-width:none;text-wrap:balance}
+@media(max-width:700px){.r26-map-room .map-heading h1.r24-title{font-size:29px!important;line-height:1.12!important;text-wrap:initial;max-width:340px}}
+
+/* 18: one countdown in the global header; title and controls fill the map banner. */
+.r26-map-room .map-topline,.r26-map-room.map-expanded .map-topline{grid-template-columns:minmax(0,1fr) auto;gap:16px 28px}.r26-map-room .map-toolbar{grid-column:auto;flex-direction:row}
+.r26-map-room .map-workspace{height:calc(100svh - var(--r26-header-height,85px) - var(--r26-topline-height,82px));min-height:420px}.r26-map-room.map-expanded .map-workspace{height:auto;min-height:0}
+@media(max-width:700px){.r26-map-room .map-topline,.r26-map-room.map-expanded .map-topline{grid-template-columns:1fr;gap:14px;padding:14px}.r26-map-room .map-toolbar{grid-column:auto}.r26-map-room .map-workspace{min-height:390px}}
+
+/* Keep the expanded map controls below the persistent site header. */
+.r26-map-room.map-expanded{top:calc(var(--r26-header-height,85px) + 8px)}
+
+.r26-map-room .map-toolbar{grid-row:auto}
+
+/* 39: results remain near search, research date lives beneath the collection. */
+.r26-catalog .search-box{min-width:0;gap:12px}.r26-catalog .search-box input{min-width:0}
+.r26-catalog .r26-result-count{font:500 10px/1.3 Outfit,Arial,sans-serif;color:#d5bfd7;white-space:nowrap;flex:0 0 auto;border-left:1px solid #a398b440;padding-left:12px}
+.r26-catalog-research{font:400 10px/1.6 Outfit,Arial,sans-serif;color:#a99eb3;margin:18px 0 28px}
+@media(max-width:700px){.r26-catalog .search-box{gap:8px}.r26-catalog .r26-result-count{font-size:9px;padding-left:8px}}
+
+/* 40: compact progression from the vehicle cover to search and imagery. */
+body[data-scene='vehicles'] .cinematic-vehicles{margin-bottom:14px}
+body[data-scene='vehicles'] .r26-catalog>.toolbar{margin:0 0 10px}
+body[data-scene='vehicles'] #vehicle-group-performance>.vehicle-group-heading{padding:0 0 10px;margin:0 0 14px;min-height:49px}
+@media(max-width:700px){body[data-scene='vehicles'] .cinematic-vehicles{margin-bottom:12px}body[data-scene='vehicles'] #vehicle-group-performance>.vehicle-group-heading{gap:8px 12px;padding-top:0}}
+
+/* 41: lower the source within the crop so the selfie-taker's whole face is visible. */
+.cinematic-vehicles .scene-image{object-position:50% 22%!important}
+@media(max-width:700px){.cinematic-vehicles .scene-image{object-position:61% 22%!important}}
+
+/* 42: the first vehicle category now receives its own visible entrance. */
+#vehicle-group-performance.r26-performance-enter{opacity:0;transform:translateY(28px);transition:none}
+#vehicle-group-performance.r26-performance-enter.r26-performance-arrived{opacity:1;transform:none;transition:opacity 1.65s ease,transform 1.8s cubic-bezier(.16,.7,.2,1);transition-delay:0ms}
+@media(prefers-reduced-motion:reduce){#vehicle-group-performance.r26-performance-enter{opacity:1!important;transform:none!important;transition:none!important}}
+
+/* 43–44: persistent equipment switching beside the first category heading. */
+.r26-equipment .r26-equipment-heading{display:grid;grid-template-columns:minmax(140px,1fr) auto minmax(55px,1fr);align-items:center;gap:12px}
+.r26-equipment .r26-equipment-heading>h2{margin:0;min-width:0}
+.r26-equipment .r26-equipment-heading>span{margin:0;justify-self:end}
+.r26-equipment .r26-equipment-tabs{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:7px;margin:0}
+.r26-equipment .r26-equipment-tabs .tab{font:500 12px/1.4 Outfit,Arial,sans-serif!important;letter-spacing:0!important;min-height:36px;padding:8px 12px;white-space:nowrap}
+.r26-equipment-nav{padding:0 0 13px;margin:0 0 16px;border-bottom:1px solid #c4a0bf33}
+.r26-equipment-nav>h2{font:600 22px/1.3 Outfit,Arial,sans-serif!important;color:#91dfff!important}
+@media(max-width:850px){.r26-equipment .r26-equipment-heading{grid-template-columns:minmax(0,1fr) auto;gap:10px}.r26-equipment .r26-equipment-heading>h2{grid-column:1;grid-row:1;flex-basis:auto}.r26-equipment .r26-equipment-heading>span{grid-column:2;grid-row:1}.r26-equipment .r26-equipment-tabs{grid-column:1/-1;grid-row:2;justify-content:center;width:100%}.r26-equipment .r26-equipment-tabs .tab{font-size:11px!important;padding:7px 9px}}
+
+/* 45: the equipment cover flows directly into filters and its category row. */
+body[data-scene='items'] .cinematic-items.r24-equipment-hero{margin-bottom:14px}
+body[data-scene='items'] #main>.wrap.r26-catalog>.toolbar{margin:0 0 10px}
+.r26-equipment .weapon-group:first-child>.vehicle-group-heading{padding:0 0 10px;margin:0 0 14px;min-height:48px}
+@media(max-width:700px){body[data-scene='items'] .cinematic-items.r24-equipment-hero{margin-bottom:12px}.r26-equipment .weapon-group:first-child>.vehicle-group-heading{gap:10px;padding-top:0}}
+
+/* 46: raise the complete character introduction into the clear upper-right area. */
+@media(min-width:701px){.cinematic-people.r24-people-hero{align-items:flex-start}.cinematic-people.r24-people-hero .scene-copy{padding-top:clamp(40px,3.4vw,64px);padding-bottom:28px}}
+
+/*96: mobile vehicle controls follow the annotated composition. */
+@media(max-width:900px){.cinematic-vehicles .scene-foot{display:grid!important;grid-template-columns:minmax(0,1fr) auto;align-items:center!important;gap:14px!important;width:100%!important}.cinematic-vehicles .scene-foot>span{margin:0!important;max-width:100%;font-size:12px;line-height:1.5}.cinematic-vehicles .scene-scroll{justify-self:end;margin:0!important;max-width:100%;padding:12px 15px!important;min-height:44px;font-size:12px!important}.r26-catalog:has(.cinematic-vehicles) .toolbar{padding-top:22px!important}.r26-catalog:has(.cinematic-vehicles) .search-box{position:relative;overflow:visible!important}.r26-catalog:has(.cinematic-vehicles) .r26-result-count{position:absolute!important;right:0;top:-23px;border:0!important;padding:0!important;margin:0!important;font-size:10px!important;line-height:18px;white-space:nowrap}.r26-catalog:has(.cinematic-vehicles) .search-box input{width:100%!important;min-width:0;padding-right:8px!important}.r26-catalog:has(.cinematic-vehicles) .vehicle-group-heading{display:grid!important;grid-template-columns:minmax(0,1fr) auto;column-gap:12px;row-gap:5px;align-items:center!important;padding:12px 0!important;margin-bottom:14px!important}.r26-catalog:has(.cinematic-vehicles) .vehicle-group-heading h2{grid-column:1;grid-row:1;margin:0!important;font-size:18px!important;line-height:1.25!important}.r26-catalog:has(.cinematic-vehicles) .vehicle-group-heading>span{grid-column:1;grid-row:2;justify-self:start;margin:0!important;font-size:11px!important}.r26-catalog:has(.cinematic-vehicles) .vehicle-compare-button{grid-column:2;grid-row:1/3;justify-self:end;margin:0!important;min-height:44px;padding:10px 12px!important;font-size:11px!important;max-width:135px;text-align:center}}
+
+/*97: equipment uses the same mobile control rhythm as vehicles. */
+@media(max-width:900px){.cinematic-items .scene-foot{display:grid!important;grid-template-columns:minmax(0,1fr) auto;align-items:center!important;gap:14px!important;width:100%!important}.cinematic-items .scene-foot>span{margin:0!important;max-width:100%;font-size:12px;line-height:1.5}.cinematic-items .scene-scroll{justify-self:end;margin:0!important;max-width:100%;padding:12px 15px!important;min-height:44px;font-size:12px!important}.r26-catalog.r26-equipment>.toolbar{padding-top:22px!important}.r26-equipment .search-box{position:relative;overflow:visible!important}.r26-equipment .r26-result-count{position:absolute!important;right:0;top:-23px;border:0!important;padding:0!important;margin:0!important;font-size:10px!important;line-height:18px;white-space:nowrap}.r26-equipment .search-box input{width:100%!important;min-width:0;padding-right:8px!important}.r26-equipment .vehicle-group-heading,.r26-equipment .r26-equipment-nav{padding:12px 0!important;margin-bottom:14px!important;min-height:0!important;gap:8px 12px!important}.r26-equipment .vehicle-group-heading>h2,.r26-equipment .r26-equipment-nav>h2{margin:0!important;font-size:18px!important;line-height:1.25!important;min-width:0}.r26-equipment .vehicle-group-heading>span{margin:0!important;font-size:11px!important;white-space:nowrap}.r26-equipment .r26-equipment-tabs{gap:6px!important;margin:0!important}.r26-equipment .r26-equipment-tabs .tab{min-height:44px!important;padding:8px 10px!important;font-size:11px!important;line-height:1.3!important;white-space:normal!important;text-align:center}}
+@media(max-width:600px){.r26-equipment .r26-equipment-heading{grid-template-columns:minmax(0,1fr) auto!important}.r26-equipment .r26-equipment-heading>h2{grid-column:1!important;grid-row:1!important}.r26-equipment .r26-equipment-heading>span{grid-column:2!important;grid-row:1!important}.r26-equipment .r26-equipment-tabs{grid-column:1/-1!important;grid-row:2!important;display:grid!important;grid-template-columns:.8fr 1fr 1.2fr!important;width:100%!important}.r26-equipment .r26-equipment-tabs .tab{width:100%;min-width:0}}
+@media(min-width:601px) and (max-width:900px){.r26-equipment .r26-equipment-heading{grid-template-columns:minmax(100px,1fr) auto auto!important}.r26-equipment .r26-equipment-heading>h2{grid-column:1!important;grid-row:1!important}.r26-equipment .r26-equipment-heading>span{grid-column:3!important;grid-row:1!important}.r26-equipment .r26-equipment-tabs{grid-column:2!important;grid-row:1!important;width:auto!important}}
+
+@media(max-width:360px){.r26-equipment .r26-equipment-tabs{grid-template-columns:.75fr 1.2fr 1.05fr!important}.r26-equipment .r26-equipment-tabs .tab{padding-inline:7px!important;overflow-wrap:anywhere}}

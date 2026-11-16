@@ -1,0 +1,125 @@
+{
+  "at": "2026-11-14T21:20:58.323Z",
+  "pages": {
+    "local": {
+      "before": {
+        "url": "https://www.youtube.com/embed/039FXJYvJXw?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "title": "YouTube",
+        "text": "This video is unavailable\nWatch on YouTube",
+        "buttons": [
+          {
+            "label": null,
+            "title": ""
+          }
+        ],
+        "videos": [
+          {
+            "paused": true,
+            "readyState": 0,
+            "currentTime": 0
+          }
+        ]
+      },
+      "stationChange": {
+        "src": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A4173",
+        "title": "YouTube video player"
+      },
+      "afterStation": {
+        "text": "This video is unavailable\nWatch on YouTube",
+        "configStatus": null,
+        "video": [
+          {
+            "paused": true,
+            "readyState": 0,
+            "currentTime": 0,
+            "networkState": 0,
+            "hasSrc": false
+          }
+        ]
+      }
+    },
+    "live": {
+      "before": {
+        "url": "https://www.youtube.com/embed/039FXJYvJXw?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=https%3A%2F%2Fvice-atlas-gta-vi.q68tmbfkyq.chatgpt.site",
+        "title": "Flash FM (GTA Vice City Stories) - YouTube",
+        "text": "Flash FM (GTA Vice City Stories)\nGTA FM\nGTA FM\n154K subscribers\nWatch on",
+        "buttons": [
+          {
+            "label": null,
+            "title": ""
+          },
+          {
+            "label": "Play video",
+            "title": "Play video"
+          },
+          {
+            "label": "Hide player controls",
+            "title": ""
+          },
+          {
+            "label": null,
+            "title": ""
+          },
+          {
+            "label": "Close",
+            "title": ""
+          },
+          {
+            "label": "Share",
+            "title": ""
+          }
+        ],
+        "videos": [
+          {
+            "paused": true,
+            "readyState": 0,
+            "currentTime": 0
+          }
+        ]
+      },
+      "stationChange": {
+        "src": "https://www.youtube.com/embed/WkyCRene4e8?list=PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE&autoplay=0&enablejsapi=1&playsinline=1&rel=0&origin=https%3A%2F%2Fvice-atlas-gta-vi.q68tmbfkyq.chatgpt.site",
+        "title": "Paradise FM — GTA Vice City Stories / GTA FM / YouTube"
+      },
+      "playback": {
+        "text": "Flash FM (GTA Vice City Stories)\nGTA FM\nGTA FM\n154K subscribers\nWatch on",
+        "videos": [
+          {
+            "paused": true,
+            "readyState": 0,
+            "currentTime": 0
+          }
+        ]
+      },
+      "afterStation": {
+        "text": "Paradise FM [Grand Theft Auto: Vice City Stories]\nGTA FM\nGTA FM\n154K subscribers\nWatch on",
+        "configStatus": null,
+        "video": [
+          {
+            "paused": true,
+            "readyState": 0,
+            "currentTime": 0,
+            "networkState": 0,
+            "hasSrc": false
+          }
+        ]
+      },
+      "afterPlay": {
+        "state": 1,
+        "text": "",
+        "videos": [
+          {
+            "readyState": 4,
+            "currentTime": 4.610715,
+            "paused": false,
+            "networkState": 2
+          }
+        ]
+      }
+    }
+  },
+  "failedHosts": [],
+  "conclusion": "Public baseline playback passes: actual Paradise FM Play click reached player state1 (playing), readyState4, pausedfalse and currentTime4.610715 seconds. Localhost reports unavailable, so that failure is origin/environment-specific. Revision26 and baseline station selection produce identical video/list/embed parameters except origin. Recheck hosted revision26 after deployment to confirm playback there.",
+  "baselinePlaybackVerified": true,
+  "localUnavailableIsRegression": false
+}

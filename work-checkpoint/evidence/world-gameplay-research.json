@@ -1,0 +1,215 @@
+{
+  "guides": [
+    {
+      "id": "wanted-level",
+      "name": "Wanted Level & Heat",
+      "type": "POLICE / ESCAPE",
+      "summary": "Read police clues and understand what follows you after a chase.",
+      "status": "Preview-reported",
+      "body": [
+        "Heat adds identifying clues alongside wanted stars. Reports describe camera footage, accomplice, clothing, face, weapon and vehicle evidence.",
+        "An escape can mean breaking the description as well as leaving the search area. Clothing, a visible weapon and a recognized vehicle are separate clues.",
+        "Preview reports describe separating the protagonists as a response to an accomplice clue, while an arrest can still end the shared escape. Exact timers and guaranteed escape recipes require released-game testing."
+      ],
+      "sources": [
+        {
+          "name": "GamesRadar — Wanted levels and Heat",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/"
+        }
+      ]
+    },
+    {
+      "id": "relationship-status",
+      "name": "Relationship Status",
+      "type": "JASON / LUCIA",
+      "summary": "How the partnership develops outside the next job.",
+      "status": "Preview-reported",
+      "body": [
+        "Reports describe ordinary activities together, including kayaking and beach walks, alongside the criminal partnership.",
+        "Messages, affection and a visible Hold Hands prompt give the relationship small moments between jobs. The precise thresholds for those interactions have not been published.",
+        "The relationship is separate from each character’s Criminal Profile. Previews describe romantic and partners-in-crime approaches; specific ending consequences are not established."
+      ],
+      "sources": [
+        {
+          "name": "GTA6.how — Relationship",
+          "url": "https://gta6.how/gameplay/relationship/"
+        },
+        {
+          "name": "Dazed — Rockstar deep dive",
+          "url": "https://www.dazeddigital.com/life-culture/article/70859/1/gta-6-grand-theft-auto-vi-rockstar-exclusive-deep-dive-game-unparalleled-world"
+        }
+      ]
+    },
+    {
+      "id": "criminal-profile",
+      "name": "Criminal Profile",
+      "type": "BEHAVIOR / CONSEQUENCES",
+      "summary": "Two protagonists, two evolving criminal reputations.",
+      "status": "Preview-reported",
+      "body": [
+        "Jason and Lucia each have a separate Criminal Profile. It describes behavioral patterns rather than the immediate police pursuit or their shared relationship.",
+        "Developer interviews distinguish controlled criminal work from repeated unnecessary escalation. The two characters’ profiles can diverge during one playthrough.",
+        "Preview commentary reports Professional, Aggressive, Violent and Psycho states. Final thresholds, recovery rules and exact mission or ending effects have not been published."
+      ],
+      "sources": [
+        {
+          "name": "PlayingVI — Criminal Profile explained",
+          "url": "https://playingvi.com/gameplay/gta-6-criminal-profile-explained"
+        }
+      ]
+    }
+  ],
+  "world": {
+    "intro": "A Florida-inspired state with Vice City at its urban heart. Follow the coastline, island chain, wetlands and inland industry into six officially featured regions.",
+    "sections": [
+      {
+        "title": "Vice City",
+        "label": "City & coast",
+        "body": [
+          "Beachfront nightlife, Ocean Beach and the urban districts of Vice City."
+        ],
+        "image": "assets/vice-city.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Vice City",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Leonida Keys",
+        "label": "Islands & ocean",
+        "body": [
+          "Island communities, marinas and Brian’s boat-yard smuggling operation."
+        ],
+        "image": "assets/leonida-keys.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Leonida Keys",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Grassrivers",
+        "label": "Wetlands",
+        "body": [
+          "Wetlands, airboats and alligator country."
+        ],
+        "image": "assets/grassrivers.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Grassrivers",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Port Gellhorn",
+        "label": "Coastal region",
+        "body": [
+          "A coastal community of low-cost motels and roadside businesses."
+        ],
+        "image": "assets/port-gellhorn.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Port Gellhorn",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Ambrosia",
+        "label": "Inland region",
+        "body": [
+          "Industrial Leonida, with sugar production and biker activity."
+        ],
+        "image": "assets/ambrosia.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Ambrosia",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Mount Kalaga National Park",
+        "label": "National park",
+        "body": [
+          "Forested national park, mountain trails and off-road terrain."
+        ],
+        "image": "assets/mount-kalaga.jpg",
+        "sources": [
+          {
+            "name": "Rockstar — Mount Kalaga National Park",
+            "url": "https://www.rockstargames.com/VI/only-in-leonida"
+          }
+        ]
+      },
+      {
+        "title": "Counties and towns",
+        "label": "COMMUNITY GEOGRAPHY",
+        "image": "assets/vice-city.jpg",
+        "body": [
+          "Community references organize Leonida into Vice-Dale, Leonard, Ambrosia, Kelly, Mariana and Lummox counties. Vice City anchors Vice-Dale; Port Gellhorn is associated with Kelly, and the Keys and Grassrivers with Mariana.",
+          "The evidence is mixed: Lummox is identified through leaked material in GTABase’s list. County borders remain community reconstructions."
+        ],
+        "sources": [
+          {
+            "name": "GTABase — Leonida locations",
+            "url": "https://www.gtabase.com/gta-6/map-locations/"
+          }
+        ]
+      },
+      {
+        "title": "The road-trip notebook",
+        "label": "HIGHWAYS / CONNECTIONS",
+        "image": "assets/photo-29.jpg",
+        "body": [
+          "The community road catalog includes Interstate 97, U.S. Route 1, Leonida State Route 1A, Vice-Dale County Road 561 and Forest Route 88.",
+          "Recorded signs and names help connect landmarks, but do not verify every junction or the final road layout."
+        ],
+        "sources": [
+          {
+            "name": "GTASixHub — Numbered highways",
+            "url": "https://gtasixhub.com/wiki/landmarks/numbered-highways-in-gta-vi"
+          }
+        ]
+      },
+      {
+        "title": "Catalan Bay",
+        "label": "WATERFRONT / REAL-WORLD INFLUENCE",
+        "image": "assets/photo-22.jpg",
+        "body": [
+          "Community mappers identify Catalan Bay in Vice-Dale County with Florida’s Biscayne Bay. Its waterfront sits among the port, causeways and islands.",
+          "The comparison explains the setting; it is not a one-to-one navigation guide to the real bay."
+        ],
+        "sources": [
+          {
+            "name": "GTADB — Catalan Bay L1500",
+            "url": "https://map.stateofleonida.net/?marker=L1500"
+          },
+          {
+            "name": "Catalan Bay community guide",
+            "url": "https://gta-6-map.com/place/catalan-bay"
+          }
+        ]
+      },
+      {
+        "title": "Florida through a fictional lens",
+        "label": "INFLUENCE / TRIVIA",
+        "image": "assets/photo-2.jpg",
+        "body": [
+          "Vice City reflects Miami, while Leonida draws from a wider Florida palette. The geography combines city beaches, islands, wetlands, industrial towns and wild country.",
+          "Real-world comparisons reveal architectural and scenic inspirations. The game rearranges those influences into its own state."
+        ],
+        "sources": [
+          {
+            "name": "GTABase — Leonida locations",
+            "url": "https://www.gtabase.com/gta-6/map-locations/"
+          }
+        ]
+      }
+    ]
+  }
+}

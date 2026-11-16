@@ -1,0 +1,46 @@
+{
+  "route": "home",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 483,
+  "heroBottom": 546.703125,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Welcome toThe State of LeonidaDiscover Leonida",
+      "x": 11.6875,
+      "right": 191.078125,
+      "y": 86,
+      "height": 92.84375
+    },
+    {
+      "text": "Map room",
+      "x": 19.5,
+      "right": 190,
+      "y": 443.109375,
+      "height": 48
+    },
+    {
+      "text": "Money guide",
+      "x": 200,
+      "right": 370.5,
+      "y": 443.109375,
+      "height": 48
+    },
+    {
+      "text": "01 / YOUR WAY THROUGH LEONIDAThe map comes first.Explore documented places, filter by cate",
+      "x": 23.390625,
+      "right": 366.609375,
+      "y": 663.703125,
+      "height": 345
+    }
+  ],
+  "seam": {
+    "y": 327,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

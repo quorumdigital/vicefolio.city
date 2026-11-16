@@ -1,0 +1,7 @@
+/* Full-size map lettering and safe equipment-hero inset. */
+html body #atlas-map-room .map-heading h1.r30-map-heading{max-width:100%!important;width:auto!important;margin:0!important}
+html body #atlas-map-room .map-heading h1 img.r30-map-art{display:block!important;width:min(760px,75vw)!important;max-width:100%!important;height:auto!important;max-height:none!important;filter:none!important}
+@media(max-width:700px){html body #atlas-map-room .map-heading h1 img.r30-map-art{width:min(540px,88vw)!important}}
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-items>.scene-copy{left:clamp(32px,5vw,96px)!important;right:auto!important;width:min(46vw,700px)!important;max-width:calc(100% - 64px)!important;margin-left:0!important;padding-left:0!important;transform:none!important}}
+
+@media(max-width:900px){html body .site-header .nav-group .nav-dropdown>a[data-nav="people"]{grid-column:1/-1!important;justify-self:stretch!important;align-self:stretch!important;width:100%!important;min-height:55px!important;box-sizing:border-box!important}}

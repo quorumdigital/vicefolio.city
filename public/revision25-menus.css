@@ -1,0 +1,18 @@
+/* Keep the native details open while its panel fades, then finish the close. */
+.site-header .nav-group[open].menu-is-closing>.nav-dropdown,
+.language-menu[open].menu-is-closing>.language-options,
+.release-mini-settings[open].menu-is-closing>label{
+ animation:r25MenuLeave .17s ease-in both!important;
+ pointer-events:none;
+}
+.nav-group.menu-is-closing .nav-chevron{transform:rotate(45deg);margin-top:-3px}
+.release-mini-settings.menu-is-closing .release-chevron{transform:rotate(0deg)}
+@keyframes r25MenuLeave{
+ from{opacity:var(--menu-close-opacity,1);transform:var(--menu-close-transform,translateY(0))}
+ to{opacity:0;transform:translateY(-5px)}
+}
+@media(prefers-reduced-motion:reduce){
+ .site-header .nav-group[open].menu-is-closing>.nav-dropdown,
+ .language-menu[open].menu-is-closing>.language-options,
+ .release-mini-settings[open].menu-is-closing>label{animation:none!important}
+}

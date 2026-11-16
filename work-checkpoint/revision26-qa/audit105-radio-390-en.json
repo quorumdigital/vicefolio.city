@@ -1,0 +1,67 @@
+{
+  "route": "radio",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 570,
+  "heroBottom": 633.6875,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Explore radio stations",
+      "x": 218.46875,
+      "right": 366.609375,
+      "y": 555.6875,
+      "height": 44
+    },
+    {
+      "text": "",
+      "x": 23.390625,
+      "right": 131.125,
+      "y": 667.6875,
+      "height": 107.734375
+    },
+    {
+      "text": "",
+      "x": 141.125,
+      "right": 248.859375,
+      "y": 667.6875,
+      "height": 107.734375
+    },
+    {
+      "text": "",
+      "x": 258.859375,
+      "right": 366.609375,
+      "y": 667.6875,
+      "height": 107.75
+    },
+    {
+      "text": "",
+      "x": 23.390625,
+      "right": 131.125,
+      "y": 785.4375,
+      "height": 107.734375
+    },
+    {
+      "text": "",
+      "x": 141.125,
+      "right": 248.859375,
+      "y": 785.4375,
+      "height": 107.734375
+    },
+    {
+      "text": "",
+      "x": 258.859375,
+      "right": 366.609375,
+      "y": 785.4375,
+      "height": 107.75
+    }
+  ],
+  "seam": {
+    "y": 414,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

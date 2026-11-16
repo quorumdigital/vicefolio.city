@@ -1,0 +1,67 @@
+/* Revision26 Radio, Gallery and Community: scoped requested corrections. */
+.radio-page .cinematic-radio .scene-copy{width:min(460px,34vw);max-width:none;margin:0 0 0 clamp(28px,3.6vw,76px);padding:48px 0 68px;align-self:flex-start}
+.radio-page .cinematic-radio h1.atlas-title[data-title-role][data-title-role]{font-size:clamp(38px,3.3vw,53px)!important;max-width:370px;line-height:1.12!important}
+.radio-page .cinematic-radio .scene-copy>p{max-width:435px;font-size:15px;line-height:1.75}
+.radio-page .cinematic-radio .scene-foot{gap:13px 18px;max-width:435px}
+@media(max-width:1000px) and (min-width:701px){.radio-page .cinematic-radio .scene-copy{width:39vw;margin-left:4%;padding-top:42px}.radio-page .cinematic-radio h1.atlas-title[data-title-role][data-title-role]{font-size:40px!important}}
+@media(max-width:700px){.radio-page .cinematic-radio{display:block;min-height:0;padding-top:230px}.radio-page .cinematic-radio .scene-image{height:420px;object-position:64% center!important}.radio-page .cinematic-radio .scene-copy{width:100%;margin:0;padding:24px 6% 34px;background:linear-gradient(0deg,#0b0b13 72%,#0b0b1300)}.radio-page .cinematic-radio h1.atlas-title[data-title-role][data-title-role]{font-size:40px!important;max-width:340px}.radio-page .cinematic-radio .scene-copy>p{font-size:14px}}
+
+/*73: station accents follow each station's own sleeve. */
+.radio-page #station-cocoteo{--r26-station-primary:#ff8bd5;--r26-station-secondary:#8fe4f3}
+.radio-page #station-country{--r26-station-primary:#96b5ff;--r26-station-secondary:#ff999f}
+.radio-page #station-afrobank{--r26-station-primary:#f2c961;--r26-station-secondary:#8fdaa8}
+.radio-page #station-chamber{--r26-station-primary:#ff7974;--r26-station-secondary:#ff7974}
+.radio-page #station-flash{--r26-station-primary:#ff86ca;--r26-station-secondary:#ff86ca}
+.radio-page #station-dirty-south{--r26-station-primary:#f4efe4;--r26-station-secondary:#d0c5ae}
+.radio-page .radio-station{border-top-color:color-mix(in srgb,var(--r26-station-primary) 42%,transparent)}
+.radio-page .radio-station .station-copy>.eyebrow{color:var(--r26-station-primary)!important}
+.radio-page .radio-station .station-host span{color:var(--r26-station-secondary)!important}
+
+/*74: a spacious listening interlude, with the existing photograph retained. */
+.radio-page .radio-on-foot{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr)}
+.radio-page .r24-radio-listening-copy{padding:clamp(28px,3.7vw,52px);align-self:center}
+.radio-page .r24-radio-listening-copy h2.r24-title{font-size:clamp(34px,3.2vw,46px)!important;line-height:1.12!important;color:#f27bc1;max-width:520px;margin-bottom:22px}
+.radio-page .r24-radio-listening-copy .r24-radio-listening-lead{color:#eff0f5;font-size:18px;line-height:1.55;margin-bottom:16px}
+.radio-page .r24-radio-listening-copy>p:last-child{font-size:15px;line-height:1.8;max-width:520px}
+@media(max-width:760px){.radio-page .radio-on-foot{grid-template-columns:1fr}.radio-page .r24-radio-listening-art{min-height:0;aspect-ratio:16/9}.radio-page .r24-radio-listening-copy{padding:30px 24px}.radio-page .r24-radio-listening-copy h2.r24-title{font-size:34px!important}.radio-page .r24-radio-listening-copy .r24-radio-listening-lead{font-size:17px}}
+
+/*75: preserve Radio Archive artwork; enlarge and optically align GTA FM. */
+.radio-page .gtfm-intro .gtfm-source-name{font-size:22px!important;font-weight:500!important;line-height:1.35!important;letter-spacing:.2em!important;padding-left:3px;margin-top:-5px;margin-bottom:18px;color:#93ddf4!important}
+@media(max-width:600px){.radio-page .gtfm-intro .gtfm-source-name{font-size:19px!important;padding-left:2px;letter-spacing:.18em!important}}
+
+/*77: Flash FM-inspired translucent pink archive surfaces; native player untouched. */
+.radio-page .gtfm-console{background:linear-gradient(125deg,rgba(66,24,51,.8),rgba(29,20,36,.9));border-color:#f27bc144;box-shadow:0 22px 58px #0003,inset 0 1px 0 #f9c7e609}
+.radio-page .gtfm-dial{background:#35152973;border-left-color:#f27bc12e}
+.radio-page .gtfm-station{background:#471c354a;border-color:#ed8ac129}
+.radio-page .gtfm-station:hover{background:#6b2c515e;border-color:#f5a0d47d}
+.radio-page .gtfm-station[aria-pressed="true"]{background:linear-gradient(105deg,#78355789,#44263c9c)!important;border-color:#ee8ec587!important;box-shadow:inset 3px 0 #ff8fd0,0 0 15px #e45fa915!important}
+.radio-page .gtfm-current-label,.radio-page .gtfm-dial-heading{color:#efafd6}
+.radio-page .gtfm-station strong{color:#fff2fa}.radio-page .gtfm-station small,.radio-page .gtfm-duration{color:#d6c4d2}
+.radio-page .gtfm-playlist-label select{background-color:#2c1b2b;border-color:#d37cac59;color:#fff2fa}.radio-page .gtfm-playlist-label select:hover{background-color:#412237;border-color:#f294ca88}.radio-page .gtfm-playlist-label option{background:#291a29;color:#fff2fa}
+.radio-page .gtfm-screen{border-color:#ec97c72b;background:#09080c}
+
+/*80: move Community over the permitted far-left couple, leaving the central trio clear. */
+.community-page .cinematic-community .scene-copy{width:min(320px,27vw);max-width:none;margin:0 0 0 clamp(24px,2.5vw,52px);padding:30px 0 46px;align-self:flex-end}
+.community-page .cinematic-community .scene-copy>.eyebrow{font-size:21px!important;line-height:1.4!important;letter-spacing:.16em!important;color:#91dfff!important;margin-bottom:16px}
+.community-page .cinematic-community h1.atlas-title[data-title-role][data-title-role]{font-size:clamp(36px,2.6vw,46px)!important;line-height:1.12!important;max-width:320px;margin-bottom:22px}
+.community-page .cinematic-community .scene-copy>p{max-width:320px;font-size:15px;line-height:1.7}
+.community-page .cinematic-community .scene-foot{margin-top:23px}
+.community-page .cinematic-community .scene-foot>span{font-size:12px;line-height:1.7}
+@media(max-width:1100px) and (min-width:701px){.community-page .cinematic-community .scene-copy{width:30vw;margin-left:3%}.community-page .cinematic-community h1.atlas-title[data-title-role][data-title-role]{font-size:38px!important}.community-page .cinematic-community .scene-copy>p{font-size:14px}}
+@media(max-width:700px){.community-page .cinematic-community{display:block;min-height:0;padding-top:250px}.community-page .cinematic-community .scene-image{height:350px;object-position:49% center!important}.community-page .cinematic-community .scene-copy{width:100%;max-width:none;margin:0;padding:24px 6% 34px;background:linear-gradient(0deg,#0b0b13 76%,#0b0b1300)}.community-page .cinematic-community .scene-copy>.eyebrow{font-size:18px!important}.community-page .cinematic-community h1.atlas-title[data-title-role][data-title-role]{font-size:39px!important;max-width:340px}.community-page .cinematic-community .scene-copy>p{max-width:360px;font-size:14px}}
+
+/*83: retain the approved tagline with a cool-blue accent. */
+.community-page .cinematic-community .scene-foot>span{color:#9edff4;text-shadow:0 2px 8px #0005}
+
+/*84: make the Coming Soon Discord mark a substantial part of the introduction. */
+.community-page .discord-intro{grid-template-columns:220px minmax(0,1fr);max-width:none;gap:42px;align-items:center}
+.community-page .discord-mark svg{width:205px;max-width:100%;height:auto}
+.community-page .discord-intro>div:last-child{max-width:800px}
+@media(max-width:1050px){.community-page .discord-intro{grid-template-columns:170px minmax(0,1fr);gap:30px}.community-page .discord-mark svg{width:165px}}
+@media(max-width:700px){.community-page .discord-intro{grid-template-columns:1fr;gap:26px;text-align:center}.community-page .discord-mark svg{width:150px}.community-page .discord-intro>div:last-child{max-width:100%}.community-page .discord-intro p{font-size:14px;line-height:1.8}}
+
+/*78: image-only viewing; retain descriptive and position metadata for assistive technology. */
+.r26-gallery-viewer .photo-viewer-meta h2,.r26-gallery-viewer .photo-viewer-counter{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.r26-gallery-viewer .photo-viewer-nav{display:flex;gap:10px;justify-content:flex-end}
+.r26-gallery-viewer .photo-viewer-nav button{width:auto;min-width:92px;padding:10px 16px;font-size:13px}
+@media(max-width:600px){.r26-gallery-viewer .photo-viewer-nav{justify-content:space-between;width:100%}.r26-gallery-viewer .photo-viewer-nav button{flex:1;min-width:0;padding:10px 12px;font-size:12px}}

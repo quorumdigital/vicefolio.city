@@ -1,0 +1,182 @@
+[
+  {
+    "id": "online-abduction",
+    "game": "GTA Online",
+    "name": "Escape the experiment",
+    "status": "Halloween 2024 · seasonal event",
+    "image": "assets/ufo-abduction.jpg",
+    "imageCaption": "Official GTA Online Halloween 2024 promotional image · Rockstar Games",
+    "description": "Abductees wake beneath Fort Zancudo with up to three other players. Clues and a power-restoration puzzle turn the sighting into an escape room.",
+    "facts": [
+      [
+        "Location",
+        "Fort Zancudo underground facility"
+      ],
+      [
+        "Availability",
+        "Only when Rockstar enables the seasonal event"
+      ],
+      [
+        "Objective",
+        "Restore power and escape"
+      ],
+      [
+        "Historical reward",
+        "The Shocker · less-than-lethal weapon"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Rockstar — Escape Alien Abduction",
+        "url": "https://www.rockstargames.com/newswire/article/o3335k2ok38135/escape-alien-abduction-in-gta-online-this-halloween"
+      }
+    ]
+  },
+  {
+    "id": "online-ufo-business-battle",
+    "game": "GTA Online",
+    "name": "Steal the wreckage",
+    "status": "Limited-time Business Battle",
+    "description": "Merryweather brings a crashed craft to Fort Zancudo. Players raid the operation, recover parts and take them to Omega’s shack.",
+    "facts": [
+      [
+        "Route",
+        "Fort Zancudo → Omega’s shack"
+      ],
+      [
+        "Objective",
+        "Recover and deliver UFO parts"
+      ],
+      [
+        "Availability",
+        "Seasonal competitive event; not permanently available"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Rockstar — Halloween UFO Business Battle",
+        "url": "https://www.rockstargames.com/newswire/article/o3335k2ok38135/escape-alien-abduction-in-gta-online-this-halloween"
+      }
+    ]
+  },
+  {
+    "id": "online-alien-egg",
+    "game": "GTA Online",
+    "name": "The six-hundred-run secret",
+    "status": "Rare Gunrunning resupply",
+    "description": "After a long Bunker resupply grind, a supply run can become an alien-egg recovery job at a crashed UFO.",
+    "facts": [
+      [
+        "Eligibility",
+        "At least 600 Bunker resupply missions completed"
+      ],
+      [
+        "In-game window",
+        "Start a resupply between 21:00 and 23:00"
+      ],
+      [
+        "Chance",
+        "Random after eligibility; the next mission is not guaranteed"
+      ],
+      [
+        "Objective",
+        "Recover the alien egg as supplies"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "GTA Wiki — Alien Egg",
+        "url": "https://gta.fandom.com/wiki/Alien_Egg"
+      },
+      {
+        "name": "GTALens — Bunker resupply missions",
+        "url": "https://gtalens.com/map/bunker-resupply-missions"
+      }
+    ]
+  },
+  {
+    "id": "v-frozen-alien",
+    "game": "GTA V",
+    "name": "Something beneath the ice",
+    "status": "Environmental Easter egg",
+    "description": "A frozen alien lies below the river surface in North Yankton. It is a hidden model, not a living encounter.",
+    "facts": [
+      [
+        "Location",
+        "Under the railway bridge near Ludendorff"
+      ],
+      [
+        "Story visits",
+        "Prologue or Bury the Hatchet"
+      ],
+      [
+        "Look for",
+        "The body beneath the frozen river surface"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "GTA Wiki — GTA V secrets",
+        "url": "https://gta.wiki/w/Secrets_and_Easter_Eggs_in_GTA_V"
+      }
+    ]
+  },
+  {
+    "id": "v-grass-roots",
+    "game": "GTA V",
+    "name": "Michael’s alien invasion",
+    "status": "Scripted hallucination",
+    "description": "Barry’s sample sends Michael into a minigun battle against aliens. The mission presents a hallucination rather than a literal invasion.",
+    "facts": [
+      [
+        "Mission",
+        "Grass Roots · Michael"
+      ],
+      [
+        "Location",
+        "Legion Square, Los Santos"
+      ],
+      [
+        "Progress",
+        "After Complications and Pulling Favors"
+      ],
+      [
+        "Gold challenge",
+        "Kill seven aliens within ten seconds"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Grand Theft Wiki — Grass Roots",
+        "url": "https://www.grandtheftwiki.com/Grass_Roots_-_Michael"
+      }
+    ]
+  },
+  {
+    "id": "vi-breakwater-watch",
+    "game": "GTA VI",
+    "name": "Breakwater: a clue on paper",
+    "status": "Reported pre-release clue",
+    "description": "A November 12 GamesRadar report describes a UFO illustration above Breakwater Quarry on a photographed physical map. That is a visual lead, not proof of a playable encounter.",
+    "facts": [
+      [
+        "Evidence",
+        "Reported printed-map illustration"
+      ],
+      [
+        "Encounter / trigger",
+        "Not established by this report"
+      ],
+      [
+        "Map treatment",
+        "No confirmed UFO encounter pin"
+      ]
+    ],
+    "sources": [
+      {
+        "name": "GamesRadar — Physical map UFO illustration",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/"
+      }
+    ]
+  }
+]

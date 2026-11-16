@@ -1,0 +1,45 @@
+/* Shared surface and motion language; each section retains its own imagery. */
+:root{--atlas-cyan:#91dfff;--atlas-pink:#ef9dce;--atlas-edge:#b8cde126;--atlas-shadow:0 18px 48px #00000038,0 2px 8px #00000026;--atlas-ease:cubic-bezier(.2,.7,.25,1)}
+body{background-color:#0b0a11;background-image:radial-gradient(ellipse at 7% 30%,#452a6a12,transparent 48%),radial-gradient(ellipse at 96% 65%,#164b6010,transparent 40%)}
+body:not([data-atlas-route="ufos"]) main .section{margin-block:clamp(56px,7vw,94px)}
+.section-head{gap:24px;align-items:end}
+:where(.card,.quick-link,.music-card,.release-band,.music-banner,.finish-feature,.cash-safety,.essential-guide,.money-story-panel,.radio-history,.discord-community){box-shadow:var(--atlas-shadow);border-color:var(--atlas-edge);isolation:isolate}
+:where(.card,.quick-link,.music-card,.essential-guide){background:linear-gradient(145deg,#211b2b,#13111b 65%);transition:border-color .4s ease,box-shadow .55s var(--atlas-ease),transform .55s var(--atlas-ease)}
+:where(.card,.music-card) .card-image{overflow:hidden}
+:where(.card,.music-card) .card-image>img{transition:transform 1s var(--atlas-ease)}
+.quick-link{background:linear-gradient(140deg,#231a2b,#14131f);border-color:#bd94c833}
+.quick-link>.icon{color:var(--atlas-pink);filter:drop-shadow(0 0 8px #e991c72b);transition:color .35s,filter .35s}
+.quick-link:nth-child(3n)>.icon{color:var(--atlas-cyan)}
+:where(.cash-safety,.music-banner,.money-story-panel,.radio-history,.discord-community){background-color:#171420;border-top-color:#9ed7f04d;box-shadow:inset 0 1px 0 #c6e9ff08,0 25px 65px #0005}
+.region-chapter,.vehicle-group,.weapon-group{position:relative}
+.region-chapter+.region-chapter{padding-top:clamp(32px,5vw,64px);border-top:1px solid #a3c5da1c}
+.region-viewer,.radio-station-art,.score-art,.finish-visual{box-shadow:0 22px 50px #0005}
+.money-opportunity{box-shadow:0 20px 48px #0003;border-color:#b4b3d126}
+:where(.button,.text-link,.icon-btn,.region-map-inline){transition:color .25s ease,background-color .3s ease,border-color .3s ease,box-shadow .4s ease,transform .35s var(--atlas-ease)}
+:where(button,a,input,select,summary):focus-visible{outline:2px solid var(--atlas-cyan);outline-offset:4px}
+:where(.card-main,.photo-tile):focus-visible{outline-offset:-4px}
+:where(.chip,.status-tag){box-shadow:0 4px 16px #0003;backdrop-filter:blur(8px)}
+dialog{border-color:#bdd6eb30;box-shadow:0 28px 100px #000b,0 0 45px #7d56981a}
+dialog::backdrop{background:#05070cb8;backdrop-filter:blur(8px)}
+.dialog-toolbar{background:linear-gradient(100deg,#17131f,#10131d);border-bottom:1px solid #b1d5e71c}
+.detail-body .spawn-heading{border-bottom-color:#b6cfdf24}
+footer{border-top:1px solid #b2cadb24;background:linear-gradient(140deg,#12101b,#0b0d14)}
+@media(hover:hover) and (pointer:fine){
+:where(.card,.quick-link,.music-card,.essential-guide):hover{transform:translateY(-4px);border-color:#99d7ed66;box-shadow:0 24px 60px #0006,0 0 26px #79d4ff0c}
+.card:hover .card-image>img{transform:scale(1.025)}
+.quick-link:hover>.icon{color:#bcecff;filter:drop-shadow(0 0 12px #91dfff4d)}
+.button:hover,.region-map-inline:hover{transform:translateY(-2px);box-shadow:0 9px 24px #0004}
+.icon-btn:hover{box-shadow:0 0 18px #94dfff18}
+}
+@media(max-width:700px){
+.section-head{gap:18px;align-items:start}
+:where(.card,.quick-link,.music-card,.essential-guide){box-shadow:0 12px 30px #0003}
+dialog::backdrop{backdrop-filter:blur(4px)}
+}
+@media(prefers-reduced-motion:reduce){
+:where(.card,.quick-link,.music-card,.essential-guide,.button,.text-link,.icon-btn,.region-map-inline),.card .card-image>img,.quick-link>.icon{transition:none!important;transform:none!important}
+}
+
+.cash-safety{margin-bottom:clamp(38px,4vw,58px)}
+.section-heading{margin-bottom:26px}
+.section-heading .eyebrow{margin-bottom:12px}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="426" height="100">
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" d="M59.22 92L59.22 21.72L7.85 21.72L7.85 92L30.73 92L30.73 39.31L36.34 39.31L36.34 92L59.22 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" d="M93.43 48.87C93.43 48.98 93.32 49.11 93.22 49.11L87.82 49.11L87.82 39.31L93.22 39.31C93.32 39.31 93.43 39.42 93.43 39.52L93.43 48.87ZM87.82 92L87.82 65.71L104.87 65.71C112.47 65.71 116.31 62.73 116.31 56.79L116.31 30.61C116.31 24.67 112.47 21.72 104.87 21.72L64.94 21.72L64.94 92L87.82 92Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" d="M149.1 74.3C149.1 74.41 148.99 74.52 148.88 74.52L143.7 74.52C143.59 74.52 143.48 74.41 143.48 74.3L143.48 39.52C143.48 39.42 143.59 39.31 143.7 39.31L148.88 39.31C148.99 39.31 149.1 39.42 149.1 39.52L149.1 74.3ZM160.54 92C168.14 92 171.98 89.15 171.98 83.3L171.98 30.61C171.98 24.67 168.14 21.72 160.54 21.72L132.04 21.72C124.47 21.72 120.6 24.67 120.6 30.61L120.6 83.3C120.6 89.15 124.47 92 132.04 92L160.54 92Z"/>
+	<defs>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_3)" d="M196.51 21.72L187.83 74.52L176.26 74.52L176.26 113.89L193.55 113.89L193.55 92L233.25 92L233.25 113.89L250.51 113.89L250.51 74.52L239.18 74.52L230.72 21.72L196.51 21.72ZM213.02 49.54L216.41 74.52L209.61 74.52L213.02 49.54Z"/>
+	<defs>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_4)" d="M283.4 48.12L277.79 48.12L277.79 39.52C277.79 39.42 277.9 39.31 278.03 39.31L283.19 39.31C283.3 39.31 283.4 39.42 283.4 39.52L283.4 48.12ZM306.28 92L306.28 30.61C306.28 24.67 302.44 21.72 294.84 21.72L266.35 21.72C258.78 21.72 254.91 24.67 254.91 30.61L254.91 92L277.79 92L277.79 65.71L283.4 65.71L283.4 92L306.28 92Z"/>
+	<defs>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_5)" d="M347.44 38.64L362.72 38.64L362.72 21.72L311.24 21.72L311.24 38.64L326.52 38.64L326.52 92L347.44 92L347.44 38.64Z"/>
+	<defs>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_6)" d="M367.88 21.72L367.88 92L407.81 92C415.41 92 419.25 89.02 419.25 83.08L419.25 56.36C419.25 50.43 415.41 47.45 407.81 47.45L390.76 47.45L390.76 21.72L367.88 21.72ZM396.37 74.17C396.37 74.3 396.26 74.41 396.16 74.41L390.76 74.41L390.76 64.07L396.16 64.07C396.26 64.07 396.37 64.18 396.37 64.29L396.37 74.17Z"/>
+</svg>

@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-14",
+  "status": "Assets created, decoded and visually inspected; page integration verification owned by root and Soundtrack agent.",
+  "items": {
+    "64": {
+      "asset": "/assets/revision26/pusher.webp",
+      "fullImage": "/assets/revision26/pusher-original.png",
+      "source": "public/assets/music/hd/pusher.jpg",
+      "reference": "public/assets/music/campaign/flower-in-a-hurricane.webp",
+      "creation": "Imagegen title edit. Local Windows paths were rejected; freshly supplied conversation references were used.",
+      "visualChecks": [
+        "PUSHER alone centered at original upper-title position",
+        "No ORIGINAL SCORE BY JUSTICE or bottom title",
+        "Square framing, main VI scale/position, vivid purple/pink/blue/orange family, drops and Rockstar mark retained closely"
+      ],
+      "limitation": "Generative edit preserves design visually, not pixel-identical outside title. Credit as a title-adapted ViceFolio display, not an official alternate sleeve."
+    },
+    "30/57": {
+      "asset": "/assets/revision26/vice-city-palms.webp",
+      "creation": "New imagegen scenery; no previous hero reused.",
+      "visualChecks": [
+        "Layered recognizable palms on both edges with plausible connected/cropped trunks",
+        "Dark quiet center supports site text/cards",
+        "Restrained pink dusk horizon and navy/charcoal base, no bright pink wash",
+        "Natural irregular fronds and water; no obvious tiled/repeated graphic pattern",
+        "No people, text, logos or performers"
+      ],
+      "integration": "Use viewport-proportioned background rather than stretching to total long-page height. Preserve opaque hero imagery above atmosphere."
+    }
+  },
+  "validation": {
+    "formats": "All PNG and WebP assets decoded successfully through Sharp; WebP quality92, no resize/crop/manual redraw.",
+    "transfer": "Background validated by successful complete PNG/WebP decode. Pusher final chunks used explicit expected-offset checks, previous-tail verification, idempotent positioned writes, and byte comparisons after an automatic review rejected unverified append repetition. No blocker remains."
+  },
+  "files": [
+    {
+      "file": "public/assets/revision26/vice-city-palms-original.png",
+      "bytes": 1952739,
+      "width": 1672,
+      "height": 941,
+      "sha256": "f95825699912687b34bfa2067443806bd2154932c95ba71e00d24bf6dd06f13d"
+    },
+    {
+      "file": "public/assets/revision26/vice-city-palms.webp",
+      "bytes": 132970,
+      "width": 1672,
+      "height": 941,
+      "sha256": "e1e1af19bd051496793726e936464dcf58388fcbc300cf65708b0459005de80e"
+    },
+    {
+      "file": "public/assets/revision26/pusher-original.png",
+      "bytes": 1870024,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5bfcfbd20a20139dbf0b212e9fb2bdc6c0d9d029378b48d4104613e552b3fcf9"
+    },
+    {
+      "file": "public/assets/revision26/pusher.webp",
+      "bytes": 144506,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cee871bbcf58eda96f485138d4dbd270b3e683dfe91a166e30bf13d7b7f3b66d"
+    }
+  ]
+}

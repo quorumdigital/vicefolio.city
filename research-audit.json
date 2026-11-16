@@ -1,0 +1,302 @@
+{
+  "reviewed": "November 12, 2026",
+  "counts": {
+    "vehicles": 21,
+    "items": 12,
+    "services": 7,
+    "people": 8,
+    "regions": 6,
+    "gallery": 138,
+    "guides": 12,
+    "ufoFiles": 6
+  },
+  "clarifications": [
+    "Published acquisition locations are not tested repeatable spawn routes.",
+    "Digital preload date uses the newer Rockstar Support answer over the older store copy.",
+    "Small vehicle markings and shape comparisons remain community identifications.",
+    "Duke Arms 556 illustration is a GTA Online reference, labeled in its card and details.",
+    "Nipper .38 uses the actual official cover-art weapon detail.",
+    "No publicly verified schedules were found for spawn hours, weather or respawn intervals.",
+    "UFO archive distinguishes scenery and alien lore from actual encounters; no verified GTA VI encounter was established.",
+    "GTA Online 2026 Halloween archive is labeled ended, October 1 to November 4."
+  ],
+  "accessLimits": [
+    "GTA Wiki older Fandom host restricted; gta.wiki pages and images retrieved",
+    "GTAForums direct access restricted"
+  ],
+  "sources": [
+    {
+      "name": "Rockstar — release, trailers and announcements",
+      "url": "https://www.rockstargames.com/VI"
+    },
+    {
+      "name": "Rockstar — editions and acquisition details",
+      "url": "https://www.rockstargames.com/VI/editions"
+    },
+    {
+      "name": "Rockstar Support — platforms, editions and preload",
+      "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    },
+    {
+      "name": "Rockstar — people and regions",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    },
+    {
+      "name": "Rockstar — official screenshot archive",
+      "url": "https://www.rockstargames.com/VI/media/screenshots"
+    },
+    {
+      "name": "GTABase — vehicle and weapon reference",
+      "url": "https://www.gtabase.com/gta-6/"
+    },
+    {
+      "name": "GTA Playbook — annotated footage analysis",
+      "url": "https://gtaplaybook.com/gta6/vehicles/"
+    },
+    {
+      "name": "Famitsu — developer interview and preview",
+      "url": "https://www.famitsu.com/article/202608/85753"
+    },
+    {
+      "name": "GamesRadar — vehicle-theft interview reporting",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-says-gta-6-wont-let-you-magically-hotwire-every-car-you-acquire-certain-tools-to-get-into-them/"
+    },
+    {
+      "name": "GTADB — weapon-wheel footage analysis",
+      "url": "https://gtadb.gg/features/weapon-wheel/"
+    },
+    {
+      "name": "Reddit — community repost of TGG preview notes",
+      "url": "https://www.reddit.com/r/GTAVI/comments/1w7wrjy/tgg_previews_summary_written_by_himself/"
+    },
+    {
+      "name": "Reddit — mapper explains the 3D map reconstruction",
+      "url": "https://www.reddit.com/r/GTA6/comments/1g8sys2/my_3d_gta_6_mapping_project/"
+    },
+    {
+      "name": "GTAForums — vehicle research thread (access restricted during audit)",
+      "url": "https://gtaforums.com/topic/985628-gta-vi-vehicle-database/"
+    },
+    {
+      "name": "GTA Wiki — GTA VI reference (direct page access restricted during audit)",
+      "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_VI"
+    }
+  ],
+  "validation": {
+    "desktopWidth": 1440,
+    "mobileWidth": 390,
+    "routes": 9,
+    "contentImages": 199,
+    "javascriptErrors": 0,
+    "mapChecks": [
+      {
+        "name": "Map records loaded",
+        "ok": true
+      },
+      {
+        "name": "Search finds location and linked vehicle",
+        "ok": true
+      },
+      {
+        "name": "Selected item evidence visible",
+        "ok": true
+      },
+      {
+        "name": "Map opens full item dossier",
+        "ok": true
+      },
+      {
+        "name": "Dialog title uses GTA lettering",
+        "ok": true
+      },
+      {
+        "name": "Saved place persisted",
+        "ok": true
+      },
+      {
+        "name": "Found state persisted",
+        "ok": true
+      },
+      {
+        "name": "Hide found works",
+        "ok": true
+      },
+      {
+        "name": "Weapon stores and dossiers layer",
+        "ok": true
+      },
+      {
+        "name": "Unlocated item does not invent a pin",
+        "ok": true
+      },
+      {
+        "name": "Expanded map opens",
+        "ok": true
+      },
+      {
+        "name": "Shareable marker deep link",
+        "ok": true
+      },
+      {
+        "name": "Mobile tiles visible",
+        "ok": true
+      },
+      {
+        "name": "Mobile width",
+        "ok": true
+      },
+      {
+        "name": "Mobile selected card visible",
+        "ok": true
+      },
+      {
+        "name": "Category filter narrows locations",
+        "ok": true
+      },
+      {
+        "name": "All mobile routes fit",
+        "ok": true
+      },
+      {
+        "name": "Guide search survives typography",
+        "ok": true
+      },
+      {
+        "name": "Export contains map checklist",
+        "ok": true
+      },
+      {
+        "name": "Escape exits expanded map",
+        "ok": true
+      },
+      {
+        "name": "Location shows linked discoveries",
+        "ok": true
+      },
+      {
+        "name": "Direct marker selection works",
+        "ok": true
+      }
+    ],
+    "typographyCoverage": [
+      {
+        "route": "home",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "vehicles",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "items",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "people",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "world",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "gallery",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "guides",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "ufos",
+        "unlettered": [],
+        "overflow": false
+      },
+      {
+        "route": "saved",
+        "unlettered": [],
+        "overflow": false
+      }
+    ],
+    "mobileLayouts": [
+      {
+        "route": "home",
+        "overflow": false
+      },
+      {
+        "route": "vehicles",
+        "overflow": false
+      },
+      {
+        "route": "items",
+        "overflow": false
+      },
+      {
+        "route": "people",
+        "overflow": false
+      },
+      {
+        "route": "world",
+        "overflow": false
+      },
+      {
+        "route": "gallery",
+        "overflow": false
+      },
+      {
+        "route": "guides",
+        "overflow": false
+      },
+      {
+        "route": "ufos",
+        "overflow": false
+      },
+      {
+        "route": "saved",
+        "overflow": false
+      }
+    ]
+  },
+  "ufoSources": [
+    {
+      "name": "Grand Theft Wiki — UFOs in GTA V",
+      "url": "https://www.grandtheftwiki.com/UFOs_in_GTA_V"
+    },
+    {
+      "name": "GTA Wiki — pictured Easter eggs",
+      "url": "https://gta.wiki/w/Secrets_and_Easter_Eggs_in_GTA_V"
+    },
+    {
+      "name": "GTA VI UFO evidence review · October 2026",
+      "url": "https://www.gta6everything.com/questions/are-there-ufos-in-gta-6"
+    },
+    {
+      "name": "Rockstar — Cal Hampton profile",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    },
+    {
+      "name": "Rockstar — Halloween 2026",
+      "url": "https://www.rockstargames.com/newswire/article/39a22k25434a53/experience-halloween-thrills-all-throughout-october-in-gta-online"
+    },
+    {
+      "name": "Rockstar Support — event dates",
+      "url": "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy"
+    }
+  ],
+  "map": {
+    "landmarks": 3401,
+    "dossiers": 40,
+    "positioned": 3315,
+    "unpositioned": 126,
+    "sourceCommit": "6acc1b555ed68255078b850f5d4a984610fa1910",
+    "officialFinalMap": false,
+    "completeItemSpawns": false
+  }
+}

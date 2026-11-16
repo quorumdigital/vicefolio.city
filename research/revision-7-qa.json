@@ -1,0 +1,152 @@
+{
+  "status": "complete",
+  "checks": [
+    {
+      "lang": "en",
+      "route": "home",
+      "layout": true,
+      "heading": "Know the city. Own the night."
+    },
+    {
+      "lang": "en",
+      "route": "money",
+      "layout": true,
+      "heading": "MAKE YOUR NEXT MOVE."
+    },
+    {
+      "lang": "en",
+      "route": "fieldguide",
+      "layout": true,
+      "heading": "WELCOME TO LEONIDA."
+    },
+    {
+      "lang": "en",
+      "route": "vehicles",
+      "layout": true,
+      "heading": "VEHICLE DOSSIERS."
+    },
+    {
+      "lang": "en",
+      "route": "items",
+      "layout": true,
+      "heading": "WEAPONS, GEAR & MORE."
+    },
+    {
+      "lang": "en",
+      "route": "credits",
+      "layout": true,
+      "heading": "SOURCES & CREDITS."
+    },
+    {
+      "lang": "es",
+      "route": "home",
+      "layout": true,
+      "heading": "Conoce la ciudad. Domina la noche."
+    },
+    {
+      "lang": "es",
+      "route": "money",
+      "layout": true,
+      "heading": "PREPARA TU PRÓXIMA JUGADA."
+    },
+    {
+      "lang": "es",
+      "route": "fieldguide",
+      "layout": true,
+      "heading": "BIENVENIDO A LEONIDA."
+    },
+    {
+      "lang": "es",
+      "route": "vehicles",
+      "layout": true,
+      "heading": "FICHAS DE VEHÍCULOS."
+    },
+    {
+      "lang": "es",
+      "route": "items",
+      "layout": true,
+      "heading": "ARMAS, EQUIPO Y MÁS."
+    },
+    {
+      "lang": "es",
+      "route": "credits",
+      "layout": true,
+      "heading": "FUENTES Y CRÉDITOS."
+    },
+    {
+      "lang": "en",
+      "route": "home",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "en",
+      "route": "money",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "en",
+      "route": "fieldguide",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "en",
+      "route": "vehicles",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "es",
+      "route": "home",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "es",
+      "route": "money",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "es",
+      "route": "fieldguide",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "lang": "es",
+      "route": "vehicles",
+      "phone": true,
+      "layout": true
+    },
+    {
+      "test": "Spanish phone gallery",
+      "value": "02 / 07"
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "syntax": [
+    "app.js",
+    "data-es.js",
+    "data.js",
+    "dossiers.js",
+    "exploration.js",
+    "extra-data-es.js",
+    "extra-data.js",
+    "heading-words.js",
+    "locale.js",
+    "map-evidence.js",
+    "map-room.js",
+    "map-types.js",
+    "release-community.js",
+    "ui-es.js"
+  ],
+  "additionalChecks": [
+    "English money calculator: 1200 gross - 250 costs over 20 minutes = 950 net, 2850/hour extrapolation",
+    "English HD gallery: next arrow and enlarged 3840px source",
+    "Open Cheetah dossier switches to Spanish with the same entry retained"
+  ]
+}

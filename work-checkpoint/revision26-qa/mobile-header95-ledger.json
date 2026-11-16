@@ -1,0 +1,683 @@
+{
+  "item": 95,
+  "status": "verified locally; production pending",
+  "updatedAt": "2026-11-14T22:36:03.801Z",
+  "requirement": "Align the mobile icon, countdown numbers, language, account and hamburger on one common vertical centerline. Keep the single64px header row. Give the day/hour/minute/second captions clear separation from their numbers and make the release heading explicitly read GTA VI RELEASE · NOV19, with concise localized equivalents. Preserve mobile menus, language, sign-in and timezone behavior.",
+  "implementation": [
+    "Allfive visualcenters are32px within64pxrow",
+    "Localized Days/Hrs/Min/Sec captions sit below numbers with3px box gap; originalfullunittext remains accessible",
+    "Release heading is a fullwidth timezone trigger; timezonecity remains in accessibletext/tooltip",
+    "Originaldesktopheader text/layout are unchanged"
+  ],
+  "checks": [
+    {
+      "key": "en-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI RELEASE · NOV 19",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "es-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTRENO · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "pt-br-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTREIA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "de-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI START · 19. NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "fr-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI SORTIE · 19 NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "it-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI USCITA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "ru-320",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI РЕЛИЗ · 19 НОЯ.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "en-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI RELEASE · NOV 19",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "es-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTRENO · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "pt-br-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTREIA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "de-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI START · 19. NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "fr-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI SORTIE · 19 NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "it-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI USCITA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "ru-390",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI РЕЛИЗ · 19 НОЯ.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "en-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI RELEASE · NOV 19",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "es-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTRENO · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "pt-br-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTREIA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "de-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI START · 19. NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "fr-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI SORTIE · 19 NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "it-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI USCITA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "ru-430",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI РЕЛИЗ · 19 НОЯ.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "en-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI RELEASE · NOV 19",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "es-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTRENO · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "pt-br-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI ESTREIA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "de-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI START · 19. NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "fr-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI SORTIE · 19 NOV.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "it-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI USCITA · 19 NOV",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    },
+    {
+      "key": "ru-768",
+      "height": 64,
+      "centers": [
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "unitGap": 3,
+      "releaseText": "GTA VI РЕЛИЗ · 19 НОЯ.",
+      "headingOverflow": 0,
+      "unitOverflow": 0,
+      "pageOverflow": 0
+    }
+  ],
+  "controls": {
+    "timezonePanel": {
+      "rect": {
+        "x": 12,
+        "y": 68.941162109375,
+        "width": 286,
+        "height": 116,
+        "top": 68.941162109375,
+        "right": 298,
+        "bottom": 184.941162109375,
+        "left": 12
+      },
+      "select": "America/New_York"
+    },
+    "timezoneChanged": {
+      "title": "UTC",
+      "selected": "UTC"
+    },
+    "timezoneRestored": "America/New_York",
+    "menu": {
+      "x": 20,
+      "y": 63,
+      "width": 350,
+      "height": 349,
+      "top": 63,
+      "right": 370,
+      "bottom": 412,
+      "left": 20
+    },
+    "menuNavigation": {
+      "route": "#radio",
+      "menu": "false"
+    },
+    "language": {
+      "path": "/es/",
+      "label": "GTA VI ESTRENO · 19 NOV"
+    },
+    "account": {
+      "hash": "#account",
+      "height": 64
+    }
+  },
+  "desktop": {
+    "height": 86,
+    "originalLabel": "GTA VI · NOV 19",
+    "originalDisplay": "block",
+    "newDisplay": "none",
+    "overflow": 0
+  },
+  "adjacentHome94": [
+    {
+      "lang": "en",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 23.421875,
+          "art": "/assets/lettering/r27-hero-one.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 23.421875,
+          "art": "/assets/lettering/r27-hero-two.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 20.21875,
+          "art": "/assets/lettering/r27-hero-one-es.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 20.21875,
+          "art": "/assets/lettering/r27-hero-two-es.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "pt-br",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 20.171875,
+          "art": "/assets/lettering/r27-hero-one-pt-br.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 20.171875,
+          "art": "/assets/lettering/r27-hero-two-pt-br.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "de",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 19.3125,
+          "art": "/assets/lettering/r27-hero-one-de.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 19.3125,
+          "art": "/assets/lettering/r27-hero-two-de.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 18.578125,
+          "art": "/assets/lettering/r27-hero-one-fr.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 18.578125,
+          "art": "/assets/lettering/r27-hero-two-fr.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "it",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 17.5625,
+          "art": "/assets/lettering/r27-hero-one-it.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 17.5625,
+          "art": "/assets/lettering/r27-hero-two-it.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "lang": "ru",
+      "overflow": 0,
+      "titleInside": true,
+      "slogans": [
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 21.109375,
+          "art": "/assets/lettering/r27-hero-one-ru.svg",
+          "text": ""
+        },
+        {
+          "font": "Outfit, Arial, sans-serif",
+          "size": "46px",
+          "width": 167.5,
+          "height": 21.109375,
+          "art": "/assets/lettering/r27-hero-two-ru.svg",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    "item95-header-en-320.png",
+    "item95-header-en-390.png",
+    "item95-header-en-430.png",
+    "item95-header-en-768.png",
+    "item95-header-ru-320.png",
+    "item95-home-390-final.png"
+  ]
+}

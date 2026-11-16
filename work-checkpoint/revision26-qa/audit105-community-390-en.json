@@ -1,0 +1,17 @@
+{
+  "route": "community",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 573,
+  "heroBottom": 637.09375,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [],
+  "seam": {
+    "y": 417,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

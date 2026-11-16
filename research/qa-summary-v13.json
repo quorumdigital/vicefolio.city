@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-13",
+  "responsiveChecks": 84,
+  "russianChecks": 30,
+  "resolved": [
+    {
+      "page": "ru/ufos",
+      "width": 390,
+      "issue": "4px counter overflow",
+      "fix": "wrap section header",
+      "recheck": "no horizontal overflow"
+    }
+  ],
+  "backendTests": 4,
+  "planner": {
+    "net": 900,
+    "netPerHour": 3600,
+    "persistence": "reload and language switch passed"
+  },
+  "map": {
+    "exactPin": {
+      "markers": 1,
+      "zoom": 5,
+      "maxZoom": 5
+    },
+    "area": {
+      "otherMarkers": 0
+    },
+    "normal": {
+      "markers": 596
+    }
+  },
+  "errors": []
+}

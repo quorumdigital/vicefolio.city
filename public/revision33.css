@@ -1,0 +1,7 @@
+/* Header finishing and clearer saving controls. */
+html body header.site-header{border-bottom:0!important;box-shadow:none!important}
+html body header.site-header .brand-wordmark{transform:scale(.95);transform-origin:center bottom}
+html body header.site-header .brand-copy>small{margin-top:2px!important}
+.r33-save-help{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px;margin:12px 0 20px;font:500 13px/1.6 Outfit,sans-serif;color:#c9bed0}.r33-save-help a{color:#a5dded;text-decoration:underline;text-underline-offset:4px}.r33-account-help{font-size:14px;line-height:1.7;color:#d8cddd}
+
+html body header.site-header .brand-copy>small{transform:translateY(-3px)!important}

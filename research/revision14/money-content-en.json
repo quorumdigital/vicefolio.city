@@ -1,0 +1,422 @@
+{
+  "version": 14,
+  "checked": "2026-11-13",
+  "language": "en",
+  "intro": {
+    "title": "Make the score. Keep the take.",
+    "body": "Money can move the story forward: Rockstar says some jobs require Jason and Lucia to earn funds in the open world first. Choose an opportunity, understand the escape and know where the proceeds belong. These recommended approaches build on documented systems; exact payouts and repeatable routes will be checked when the game releases.",
+    "sourceIds": [
+      "ign",
+      "edge"
+    ]
+  },
+  "methods": [
+    {
+      "id": "store",
+      "title": "Store robberies",
+      "summary": "A small storefront can become a complicated getaway. Employees, customers, security and exits all matter.",
+      "steps": [
+        {
+          "title": "Read the location",
+          "text": "Check entrances, the counter and surrounding streets before committing. A store marker identifies a place, not a completed robbery walkthrough."
+        },
+        {
+          "title": "Leave yourself an exit",
+          "text": "Choose a nearby getaway spot and a second direction out. IGN’s demonstrated robbery ended through a back door when police gathered outside."
+        },
+        {
+          "title": "Protect the contents",
+          "text": "If a safe is involved, look for its combination. In the demonstrated safe, an explosive would have damaged part of the take."
+        },
+        {
+          "title": "Finish the job",
+          "text": "Escape first, then separate cash from valuables. Sell goods to the appropriate buyer and bank the proceeds."
+        }
+      ],
+      "mapLabel": "Find stores on the map",
+      "caveat": "Individual entrances, safe codes and robbery availability will be checked at release.",
+      "sourceIds": [
+        "ign",
+        "trois",
+        "gtabase-money"
+      ]
+    },
+    {
+      "id": "banks",
+      "title": "Jewelry stores & banks",
+      "summary": "Plan the sale as carefully as the entry. Jewelry is valuable loot; it is not automatically money in your account.",
+      "steps": [
+        {
+          "title": "Follow a real lead",
+          "text": "Use a discovered target or an in-game tip. A building’s name alone does not establish its robbery trigger."
+        },
+        {
+          "title": "Check your readiness",
+          "text": "Review the target’s security and available tools. Decide whether to bring your partner before starting."
+        },
+        {
+          "title": "Know the buyer",
+          "text": "For jewelry, identify an available fence before taking on a longer trip. Contact access can depend on progression."
+        },
+        {
+          "title": "Make the return count",
+          "text": "Complete the escape, sell the goods and deposit the cash before heading for another score."
+        }
+      ],
+      "mapLabel": "Find banks & jewelry locations",
+      "caveat": "Target prerequisites, interiors and take amounts are awaiting release confirmation.",
+      "sourceIds": [
+        "gtabase-money",
+        "tweaktown"
+      ]
+    },
+    {
+      "id": "gangs",
+      "title": "Gang compounds",
+      "summary": "Reported compound targets can hold cash and contraband. Taking it is only the first part of earning from it.",
+      "steps": [
+        {
+          "title": "Start with a discovered target",
+          "text": "Follow a compound lead rather than treating every gang-associated place as a robbery."
+        },
+        {
+          "title": "Plan the whole trip",
+          "text": "Check the approach, exit and destination for whatever you intend to collect."
+        },
+        {
+          "title": "Match goods to contacts",
+          "text": "Confirm an available buyer for contraband. A valuable haul is less useful when its buyer is still locked."
+        },
+        {
+          "title": "Leave room for the return",
+          "text": "Keep the escape and delivery in your plan; cash and unsold goods need different next stops."
+        }
+      ],
+      "mapLabel": "Explore gang-related locations",
+      "caveat": "Compound unlocks, enemy layouts and repeat conditions need release testing.",
+      "sourceIds": [
+        "ign",
+        "tweaktown",
+        "gtabase-money"
+      ]
+    },
+    {
+      "id": "vehicles",
+      "title": "Steal, sell or keep",
+      "summary": "A car’s value is only part of the decision. Security, trackers, damage and registration can change the result.",
+      "steps": [
+        {
+          "title": "Scan before choosing",
+          "text": "Use WAINK to check the model, value, security and ownership cost."
+        },
+        {
+          "title": "Match the tool to the car",
+          "text": "Some parked vehicles need equipment gained later. Choose a target your current tools can handle."
+        },
+        {
+          "title": "Preserve its condition",
+          "text": "Plan a manageable drive to the buyer; damage reduces the offer."
+        },
+        {
+          "title": "Choose its future",
+          "text": "Compare selling with tracker removal and registration. Street parking alone does not make a stolen car permanent."
+        }
+      ],
+      "mapLabel": "Find vehicle sightings & services",
+      "caveat": "Sightings are evidence leads; dependable spawn schedules and individual sale values await release.",
+      "sourceIds": [
+        "gtabase-theft",
+        "famitsu"
+      ]
+    },
+    {
+      "id": "requests",
+      "title": "Vehicle-fence requests",
+      "summary": "A buyer’s request gives the theft a destination. WAINK lists wanted models and their security details.",
+      "steps": [
+        {
+          "title": "Check the current request",
+          "text": "Choose a model your fence wants instead of assuming every expensive car offers the best return."
+        },
+        {
+          "title": "Use the contact’s lead",
+          "text": "IGN showed a fence directing the pair to an impound car and supplying an access code."
+        },
+        {
+          "title": "Read the tracker warning",
+          "text": "Some advanced trackers reveal your position under particular driving conditions. Account for that before setting out."
+        },
+        {
+          "title": "Deliver carefully",
+          "text": "Follow the buyer’s destination and protect the car. Check repair costs against the offer before spending."
+        }
+      ],
+      "mapLabel": "Explore vehicle services & leads",
+      "caveat": "The demonstrated impound job does not establish a permanent Infernus spawn or a universal access code.",
+      "sourceIds": [
+        "edge",
+        "ign"
+      ]
+    },
+    {
+      "id": "vans",
+      "title": "Security vans",
+      "summary": "Money-transport robberies are reported as an earning route. Exact encounters still need to be tested.",
+      "steps": [
+        {
+          "title": "Find an actual encounter",
+          "text": "Follow an in-game lead or encountered vehicle; a bank marker is not a van spawn."
+        },
+        {
+          "title": "Read the objective",
+          "text": "Check the encounter’s instructions before choosing equipment or an approach."
+        },
+        {
+          "title": "Plan your exit",
+          "text": "Choose a departure route and a fallback vehicle before committing."
+        },
+        {
+          "title": "Secure the proceeds",
+          "text": "After escaping, follow the game’s cash or loot instructions and finish at the appropriate buyer or deposit point."
+        }
+      ],
+      "mapLabel": "Explore money-related locations",
+      "caveat": "No verified van circuit, opening method, respawn timer or payout is available yet.",
+      "sourceIds": [
+        "tweaktown"
+      ],
+      "mapNote": "Use relevant location leads only; do not fabricate security-van pins."
+    },
+    {
+      "id": "hunting",
+      "title": "Paid hunting",
+      "summary": "TGG’s account of Rockstar’s presentation describes paid hunting through a contact who knows Jason.",
+      "steps": [
+        {
+          "title": "Meet the contact",
+          "text": "Follow the story or contact introduction when it becomes available; wildlife alone does not trigger a paid job."
+        },
+        {
+          "title": "Read the request",
+          "text": "Check the requested animal and conditions before travelling."
+        },
+        {
+          "title": "Prepare for the region",
+          "text": "Choose transport and equipment suited to the brief and terrain."
+        },
+        {
+          "title": "Complete the handoff",
+          "text": "Follow the contract’s delivery instructions before counting it as income."
+        }
+      ],
+      "mapLabel": "Explore wilderness regions",
+      "caveat": "The contact’s identity, contract requirements and delivery locations await release confirmation.",
+      "sourceIds": [
+        "tgg-recap"
+      ],
+      "mapNote": "Region exploration is useful; do not present generic animal sightings as paid-hunt triggers."
+    }
+  ],
+  "chaptersTitle": "The details that change the job",
+  "chaptersIntro": "A score is more than the moment you take something. These systems shape what you bring, how you escape and what you keep.",
+  "chapters": [
+    {
+      "id": "cash-loot",
+      "title": "Cash is not the same as loot",
+      "body": "Bank funds, carried cash and unsold goods have different roles. Valuables need a suitable buyer. Rockstar demonstrated losing carried cash on death and recommended an ATM deposit. Treat the trip to the buyer and bank as part of the job.",
+      "takeaway": "Sell the goods. Deposit the cash.",
+      "imageHint": "Official jewelry-store or duffel-bag scene; no play icon.",
+      "sourceIds": [
+        "trois",
+        "gtabase-money"
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Read the room before the register",
+      "body": "Check what makes this particular place risky: cameras, alarms, witnesses and blocked exits. IGN’s safe had a discoverable combination; Famitsu’s store approach included security preparation. These are location-specific possibilities, not one universal sequence for every shop.",
+      "takeaway": "Look first. Choose the approach second.",
+      "imageHint": "Official storefront or robbery interior, framed wide enough to show the setting.",
+      "sourceIds": [
+        "ign",
+        "famitsu",
+        "gtabase-money"
+      ]
+    },
+    {
+      "id": "escape-kit",
+      "title": "Lose the description, too",
+      "body": "Rockstar describes police recognition as more sophisticated than in GTA V. Clothing and the vehicle can identify you; changing transport unseen can help. Prepare an escape option and spare outfit, then watch what the police actually know instead of assuming one turn clears the problem.",
+      "takeaway": "Plan for recognition as well as pursuit.",
+      "imageHint": "Official police search, pursuit or changing-outfit image.",
+      "sourceIds": [
+        "trois",
+        "ign"
+      ]
+    },
+    {
+      "id": "keep-or-sell",
+      "title": "A getaway car is not yet your car",
+      "body": "Temporary stolen transport can disappear. Keeping a vehicle involves ownership requirements, including registration and tracker removal where needed. Selling introduces a different calculation: condition affects value, and Famitsu reports a wait before another sale at the same Pay’n’Spray.",
+      "takeaway": "Decide whether it earns money or earns a garage space.",
+      "imageHint": "Official garage or customs scene with a full vehicle visible.",
+      "sourceIds": [
+        "gtabase-theft",
+        "famitsu"
+      ]
+    },
+    {
+      "id": "journey-costs",
+      "title": "The drive changes the return",
+      "body": "Edge confirms fuel and engine-health readings; a hastily stolen car may have little fuel left. A prepared getaway avoids that gamble. Keep fuel, damage and any service spending in mind when comparing a clean delivery with an apparently bigger score.",
+      "takeaway": "Check the car before it becomes the escape plan.",
+      "imageHint": "Official gas-station, roadside or vehicle-repair scene.",
+      "sourceIds": [
+        "edge",
+        "gtabase-fuel"
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "Give the take a safe destination",
+      "body": "Garage features are worth checking individually. Shore Court’s published description includes a weapon locker and storage for goods awaiting a fence. Vehicle capacity and access differ between properties. Choose storage for what it actually supports; do not assume every garage has the same facilities.",
+      "takeaway": "Check access, capacity and storage before relying on it.",
+      "imageHint": "Official Shore Court/garage image, otherwise clearly contextual safehouse art.",
+      "sourceIds": [
+        "shore-court",
+        "rockstar-editions"
+      ]
+    }
+  ],
+  "implementationNotes": [
+    "Use Recommended approach as a plain in-card heading, not a source-status badge. Steps are advice derived from documented systems, not a tested speedrun.",
+    "Each map CTA should activate relevant categories only. Include a clear reset/all-locations control. If no matching records exist, show an honest useful region/lead view rather than unrelated pins.",
+    "Do not label map locations robbable solely because their category is store, bank, jewelry or gang.",
+    "Money methods and chapters must use still images without video play controls unless there is a real playable video.",
+    "Only escape chapter makes an explicit GTA V comparison, supported by Rockstar's direct interview. Other chapters describe VI without claiming every mechanic is franchise-first.",
+    "Do not import the cash-loss-on-arrest claim from secondary recaps; the directly checked interview establishes death loss.",
+    "Do not add fixed payouts, exact security thresholds, robbery refresh times or mission unlock names."
+  ],
+  "sourceAudit": [
+    {
+      "id": "ign",
+      "name": "IGN — The Big Interview, licensed Best Buy republication",
+      "url": "https://www.bestbuy.com/gamers/gamers-articles/pcmcat1791490206931",
+      "checked": "read",
+      "evidence": "Rob Nelson interview: money gates some story progression; witness/alarm reporting; police recognition; impound request and code; condition affects car sale; safe combination avoids explosive damage; jewelry fence.",
+      "caution": "Demonstrated situations are examples, not guaranteed repeatable routes."
+    },
+    {
+      "id": "famitsu",
+      "name": "Famitsu — Rob Nelson interview and demonstration",
+      "url": "https://www.famitsu.com/article/202608/85753",
+      "checked": "read",
+      "evidence": "Vehicle tools and trackers, identifying heat, condition-based sale value, same-shop sale cooldown, personal-vehicle storage and temporary stolen transport.",
+      "caution": "No sale cooldown duration or universal vehicle/robbery timings."
+    },
+    {
+      "id": "edge",
+      "name": "Edge / GamesRadar — The state that never sleeps",
+      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
+      "checked": "read",
+      "evidence": "WAINK wanted models/security/tracking; condition-dependent payment; fuel/engine-health readings; prepared getaway versus uncertain stolen replacement.",
+      "caution": "No fuel-economy tables or profit ranking."
+    },
+    {
+      "id": "trois",
+      "name": "TroisCouleurs — Rockstar North interview and demonstration",
+      "url": "https://www.troiscouleurs.fr/cinema/exclu-on-a-vu-gtavi-tourner-chez-rockstar-north-preview-et-interview/",
+      "checked": "read",
+      "evidence": "Police more sophisticated than GTA V; clothing/vehicle recognition; cash on person lost upon death before deposit; ATM; two robberies played differently.",
+      "caution": "Death-loss statement does not establish an arrest-loss rule."
+    },
+    {
+      "id": "gtabase-money",
+      "name": "GTABase — Money guide",
+      "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide",
+      "checked": "read",
+      "evidence": "Cash versus loot, distinct fences and contact progression, robbery leads, context for bank/jewelry/gang targets.",
+      "caution": "Omitted universal any-store eligibility and uncorroborated cash cap."
+    },
+    {
+      "id": "gtabase-theft",
+      "name": "GTABase — Vehicle theft guide",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+      "checked": "read",
+      "evidence": "Scanning security/value/registration, specialized tools, selling versus ownership, tracker removal, temporary unregistered vehicles.",
+      "caution": "No individual spawn guarantee or numerical sale values."
+    },
+    {
+      "id": "gtabase-fuel",
+      "name": "GTABase — Fuel system",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works",
+      "checked": "read",
+      "evidence": "Refueling/repair context; primary Edge directly corroborates fuel management.",
+      "caution": "No consumption model or running-cost estimates supplied."
+    },
+    {
+      "id": "tweaktown",
+      "name": "TweakTown — Criminal economy",
+      "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html",
+      "checked": "read",
+      "evidence": "TGG summary names gang compounds, banks, jewelry, stores and security vans; leads discovered through story/exploration.",
+      "caution": "Do not reproduce claimed few-thousand payouts. One gallery photo explicitly depicts GTA V; exclude it."
+    },
+    {
+      "id": "tgg-recap",
+      "name": "Vi.ki — TGG money recap",
+      "url": "https://gta6.vi.ki/money",
+      "checked": "read",
+      "evidence": "Attributed paid-hunting statement through a contact who knows Jason; direct video linked.",
+      "caution": "Secondary report; contract identity, target conditions and location not confirmed. Do not lift arrest-loss claim."
+    },
+    {
+      "id": "tgg-video",
+      "name": "TGG — Hunting deep dive",
+      "url": "https://www.youtube.com/watch?v=4imTpB82edE",
+      "checked": "attempted; throttled",
+      "evidence": "Linked from the TGG recap; direct video could not be independently reviewed.",
+      "caution": "Hunting stays attributed to TGG's account; no claims of primary video verification."
+    },
+    {
+      "id": "rockstar-editions",
+      "name": "Rockstar — GTA VI editions",
+      "url": "https://www.rockstargames.com/VI/editions",
+      "checked": "read",
+      "evidence": "Official edition items and preorder-pack context.",
+      "caution": "Static retrieval does not expose every interactive benefit slide."
+    },
+    {
+      "id": "rockstar-support",
+      "name": "Rockstar — Platforms, Editions and Versions",
+      "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "checked": "read",
+      "evidence": "Edition/garage bundles; Ultimate bonuses uncovered across story chapters.",
+      "caution": "Do not imply all bonus properties are immediately accessible."
+    },
+    {
+      "id": "shore-court",
+      "name": "GTABase — Shore Court Garage",
+      "url": "https://www.gtabase.com/properties/gta-6/shore-court-garage",
+      "checked": "read",
+      "evidence": "Published description states weapon locker and stolen-goods storage.",
+      "caution": "Specific property features do not establish features of every garage."
+    },
+    {
+      "id": "paradise",
+      "name": "GTABase — Paradise Garage",
+      "url": "https://www.gtabase.com/properties/gta-6/paradise-garage",
+      "checked": "attempted; unavailable",
+      "evidence": "Not used for new factual claims in this revision."
+    },
+    {
+      "id": "gta-wiki",
+      "name": "GTA Wiki — Grand Theft Auto VI",
+      "url": "https://gta.wiki/w/Grand_Theft_Auto_VI",
+      "checked": "attempted; restricted URL",
+      "evidence": "Direct retrieval unavailable. Search returned unrelated wiki domains; not treated as the user's GTA Wiki.",
+      "caution": "Do not claim a complete re-review of GTA Wiki."
+    }
+  ],
+  "publicWordCount": 1186
+}

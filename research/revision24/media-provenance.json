@@ -1,0 +1,72 @@
+{
+  "reviewed": "2026-11-14",
+  "scope": "Confirmed revision item 33 plus sourced radio item 28 candidate. Existing source data, sections, animations and frozen-alien asset are untouched.",
+  "assets": [
+    {
+      "path": "public/assets/revision24-media/grass-roots-michael.jpg",
+      "bytes": 59594,
+      "dimensions": [
+        984,
+        550
+      ],
+      "sourcePage": "https://www.techtudo.com.br/listas/2020/04/gta-5-tem-missoes-escondidas-pouco-conhecidas-pelos-jogadores.ghtml",
+      "downloadUrl": "https://s2-techtudo.glbimg.com/nrxRSOVhOZJNTv2I6YYGoJGQus8%3D/0x0%3A1105x618/984x0/smart/filters%3Astrip_icc%28%29/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/n/N/C76cTZRXesjZZVElnxmQ/captura-de-tela-2020-04-16-as-13.29.09.png",
+      "credit": "TechTudo credits this screenshot to ScreenRant. GTA V game imagery copyright Rockstar Games.",
+      "visualVerification": "Michael holding minigun at left; a green alien approaches in Legion Square. In-game HUD and hallucination effect visible. Selected over original Area GTA image because alien is larger and more visible.",
+      "treatment": "Original CDN bytes; no generated image, retouching, painted detail or content edits. Full screenshot is displayed with contain framing.",
+      "license": "No open license or independent redistribution grant was found. Used as credited editorial game imagery; no claim of ownership or permission is made."
+    },
+    {
+      "path": "public/assets/revision24-media/breakwater-souvenir-report.jpg",
+      "bytes": 153763,
+      "dimensions": [
+        1024,
+        576
+      ],
+      "sourcePage": "https://beebom.com/gta-6-physical-map-collectors-box-leaked/",
+      "downloadUrl": "https://static.beebom.com/wp-content/uploads/2026/11/GTA-6-collectors-map-leak-alongside-the-poster.jpg?w=1024",
+      "supportingReport": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
+      "upstreamPhoto": "https://x.com/Top5Gamingx/status/2120883126818013568",
+      "credit": "Beebom image caption credits X/@Top5Gamingx & Rockstar Games. Photograph via Top5Gaming; souvenir art copyright Rockstar Games.",
+      "visualVerification": "Left half is a photograph of a yellow Leonida souvenir map. Small saucer is visibly drawn immediately above BREAKWATER QUARRY. Right half is poster artwork and is excluded from the displayed detail with CSS.",
+      "treatment": "Original downloaded JPEG preserved. CSS frame shows left half only; image source link opens full article. No map recreation, drawing, upscaling, generative fill, or alteration of evidence.",
+      "limitations": "Reported pre-release printed-map photograph, not independently authenticated gameplay or a confirmed encounter. GamesRadar expressly distinguishes this version from a second circulating map it suspects may be AI-generated or Photoshopped; that suspect version is not used.",
+      "license": "No open license or independent redistribution grant was found. Credited editorial excerpt; no claim of ownership or permission."
+    }
+  ],
+  "radioCandidate": {
+    "localAsset": "public/assets/photo-41.jpg",
+    "bytes": 106279,
+    "hiResAsset": "public/assets/hd/photo-41.webp",
+    "catalogTitle": "Jason and Lucia 03",
+    "sourcePage": "https://www.rockstargames.com/VI/media/screenshots",
+    "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_03.15z-.c0tptrzs.jpg?imwidth=1000",
+    "verification": "Fetched original Rockstar URL successfully (200 image/jpeg) and visually matched to the existing local photo. Jason and Lucia seated in an open convertible; Jason holds a beverage and sits at the wheel. A relaxed car scene, with no verified claim of listening to music.",
+    "recommendedCaption": "Jason and Lucia in a convertible · Rockstar Games",
+    "sentTo": "implement_radio24",
+    "license": "Existing official screenshot asset; copyright Rockstar Games. No claim of open license."
+  },
+  "implementation": {
+    "module": "public/revision24-media.js",
+    "css": "public/revision24-media.css",
+    "registration": "ViceRev24.register evidence-media; runs only on ufos; per-locale idempotence marker.",
+    "locales": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt-br",
+      "ru"
+    ],
+    "checks": [
+      "JavaScript parsed with Node vm.Script",
+      "All source images visually inspected",
+      "Downloaded images compact: 213357 bytes combined",
+      "All caption, alt text and added source-link strings present for all seven locales"
+    ],
+    "notRun": [
+      "Browser visual verification delegated to root QA."
+    ]
+  }
+}

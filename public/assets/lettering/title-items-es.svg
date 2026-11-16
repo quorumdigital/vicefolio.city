@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1007" height="100"><defs><filter id="atlas-fine" color-interpolation-filters="sRGB"><feMorphology operator="erode" radius="0.450"/></filter></defs>
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_0)" d="M36.23 48.12L30.62 48.12L30.62 39.52C30.62 39.42 30.73 39.31 30.86 39.31L36.02 39.31C36.13 39.31 36.23 39.42 36.23 39.52L36.23 48.12ZM59.11 92L59.11 30.61C59.11 24.67 55.27 21.72 47.67 21.72L19.18 21.72C11.61 21.72 7.74 24.67 7.74 30.61L7.74 92L30.62 92L30.62 65.71L36.23 65.71L36.23 92L59.11 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_1)" d="M116.09 92L116.09 62.62C116.09 59.21 114.24 57.36 110.37 56.79C114.13 56.36 115.98 54.48 115.98 51.07L115.98 30.61C115.98 24.67 112.25 21.72 104.65 21.72L64.72 21.72L64.72 92L87.6 92L87.6 63.83L93 63.83C93.1 63.83 93.21 63.96 93.21 64.07L93.21 92L116.09 92ZM93.21 49.65C93.21 49.76 93.1 49.86 93 49.86L87.6 49.86L87.6 39.31L93 39.31C93.1 39.31 93.21 39.42 93.21 39.52L93.21 49.65Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_2)" d="M201.56 92L201.56 31.49C201.56 25.77 195.41 21.72 187.49 21.72C180.35 21.72 175.38 22.71 171.97 26.98C169.45 23.46 166.14 21.72 159.43 21.72C152.85 21.72 147.34 23.25 144.58 26.23L144.58 21.72L121.7 21.72L121.7 92L144.58 92L144.58 39.52C144.58 39.42 144.71 39.31 144.82 39.31L149.98 39.31C150.08 39.31 150.19 39.42 150.19 39.52L150.19 92L173.07 92L173.07 39.52C173.07 39.42 173.18 39.31 173.31 39.31L178.68 39.31C178.79 39.31 178.9 39.42 178.9 39.52L178.9 92L201.56 92Z"/>
+	<defs>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_3)" d="M235.55 48.12L229.94 48.12L229.94 39.52C229.94 39.42 230.05 39.31 230.18 39.31L235.34 39.31C235.45 39.31 235.55 39.42 235.55 39.52L235.55 48.12ZM258.43 92L258.43 30.61C258.43 24.67 254.59 21.72 246.99 21.72L218.5 21.72C210.93 21.72 207.06 24.67 207.06 30.61L207.06 92L229.94 92L229.94 65.71L235.55 65.71L235.55 92L258.43 92Z"/>
+	<defs>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_4)" d="M303.76 92C311.36 92 315.2 89.15 315.2 83.3L315.2 56.79C315.2 50.96 311.36 48.12 303.76 48.12L286.92 48.12C286.81 48.12 286.7 48.01 286.7 47.9L286.7 39.52C286.7 39.42 286.81 39.31 286.92 39.31L292.1 39.31C292.21 39.31 292.32 39.42 292.32 39.52L292.32 43.61L315.2 43.61L315.2 30.61C315.2 24.67 311.36 21.72 303.76 21.72L275.26 21.72C267.69 21.72 263.82 24.67 263.82 30.61L263.82 56.79C263.82 62.73 267.69 65.71 275.26 65.71L292.1 65.71C292.21 65.71 292.32 65.82 292.32 65.92L292.32 74.3C292.32 74.41 292.21 74.52 292.1 74.52L286.92 74.52C286.81 74.52 286.7 74.41 286.7 74.3L286.7 70.11L263.82 70.11L263.82 83.3C263.82 89.15 267.69 92 275.26 92L303.76 92Z"/>
+	<defs>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_5)" d="M332.13 105.21C339.73 105.21 343.57 102.23 343.57 96.4L343.57 74.52L320.69 74.52L320.69 92L332.13 92L332.13 96.19C332.13 96.3 332.02 96.4 331.91 96.4L320.69 96.4L320.69 105.21L332.13 105.21Z"/>
+	<defs>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_6)" d="M412.65 92L412.65 74.52L396.7 74.52L396.7 65.71L412.33 65.71L412.33 48.12L396.7 48.12L396.7 39.31L412.54 39.31L412.54 21.72L373.82 21.72L373.82 92L412.65 92Z"/>
+	<defs>
+		<linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_7)" d="M469.31 113.89L469.31 21.72L429.37 21.72C421.8 21.72 417.93 24.67 417.93 30.61L417.93 83.3C417.93 89.15 421.45 92 429.37 92L446.43 92L446.43 113.89L469.31 113.89ZM446.43 74.52L441.03 74.52C440.92 74.52 440.81 74.41 440.81 74.3L440.81 39.52C440.81 39.42 440.92 39.31 441.03 39.31L446.43 39.31L446.43 74.52Z"/>
+	<defs>
+		<linearGradient id="gradient_8" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_8)" d="M514.84 92C522.44 92 526.28 89.15 526.28 83.3L526.28 21.72L503.4 21.72L503.4 74.3C503.4 74.41 503.3 74.52 503.19 74.52L498.03 74.52C497.9 74.52 497.79 74.41 497.79 74.3L497.79 21.72L474.91 21.72L474.91 83.3C474.91 89.15 478.78 92 486.35 92L514.84 92Z"/>
+	<defs>
+		<linearGradient id="gradient_9" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_9)" d="M554.77 92L554.77 21.72L531.89 21.72L531.89 92L554.77 92Z"/>
+	<defs>
+		<linearGradient id="gradient_10" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_10)" d="M588.98 48.87C588.98 48.98 588.87 49.11 588.77 49.11L583.37 49.11L583.37 39.31L588.77 39.31C588.87 39.31 588.98 39.42 588.98 39.52L588.98 48.87ZM583.37 92L583.37 65.71L600.42 65.71C608.02 65.71 611.86 62.73 611.86 56.79L611.86 30.61C611.86 24.67 608.02 21.72 600.42 21.72L560.49 21.72L560.49 92L583.37 92Z"/>
+	<defs>
+		<linearGradient id="gradient_11" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_11)" d="M644.65 74.3C644.65 74.41 644.54 74.52 644.43 74.52L639.25 74.52C639.14 74.52 639.03 74.41 639.03 74.3L639.03 39.52C639.03 39.42 639.14 39.31 639.25 39.31L644.43 39.31C644.54 39.31 644.65 39.42 644.65 39.52L644.65 74.3ZM656.09 92C663.69 92 667.53 89.15 667.53 83.3L667.53 30.61C667.53 24.67 663.69 21.72 656.09 21.72L627.59 21.72C620.02 21.72 616.15 24.67 616.15 30.61L616.15 83.3C616.15 89.15 620.02 92 627.59 92L656.09 92Z"/>
+	<defs>
+		<linearGradient id="gradient_12" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_12)" d="M733.96 92L733.96 66.92C743.31 66.92 748.06 62.19 748.06 52.63L748.06 21.72L725.18 21.72L725.18 50.21C725.18 50.32 725.05 50.43 724.94 50.43L719.78 50.43C719.68 50.43 719.57 50.32 719.57 50.21L719.57 21.72L696.69 21.72L696.69 52.63C696.69 62.19 701.52 66.92 711.08 66.92L711.08 92L733.96 92Z"/>
+	<defs>
+		<linearGradient id="gradient_13" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_13)" d="M857.05 92L857.05 31.49C857.05 25.77 850.9 21.72 842.98 21.72C835.84 21.72 830.87 22.71 827.46 26.98C824.94 23.46 821.63 21.72 814.92 21.72C808.34 21.72 802.83 23.25 800.07 26.23L800.07 21.72L777.19 21.72L777.19 92L800.07 92L800.07 39.52C800.07 39.42 800.2 39.31 800.31 39.31L805.47 39.31C805.57 39.31 805.68 39.42 805.68 39.52L805.68 92L828.56 92L828.56 39.52C828.56 39.42 828.67 39.31 828.8 39.31L834.17 39.31C834.28 39.31 834.39 39.42 834.39 39.52L834.39 92L857.05 92Z"/>
+	<defs>
+		<linearGradient id="gradient_14" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_14)" d="M891.04 48.12L885.43 48.12L885.43 39.52C885.43 39.42 885.54 39.31 885.67 39.31L890.83 39.31C890.94 39.31 891.04 39.42 891.04 39.52L891.04 48.12ZM913.92 92L913.92 30.61C913.92 24.67 910.08 21.72 902.48 21.72L873.99 21.72C866.42 21.72 862.55 24.67 862.55 30.61L862.55 92L885.43 92L885.43 65.71L891.04 65.71L891.04 92L913.92 92ZM907.1 14.68L907.1 3L875.98 10.6L875.98 18.31L907.1 14.68Z"/>
+	<defs>
+		<linearGradient id="gradient_15" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_15)" d="M959.25 92C966.85 92 970.69 89.15 970.69 83.3L970.69 56.79C970.69 50.96 966.85 48.12 959.25 48.12L942.41 48.12C942.3 48.12 942.19 48.01 942.19 47.9L942.19 39.52C942.19 39.42 942.3 39.31 942.41 39.31L947.59 39.31C947.7 39.31 947.81 39.42 947.81 39.52L947.81 43.61L970.69 43.61L970.69 30.61C970.69 24.67 966.85 21.72 959.25 21.72L930.75 21.72C923.18 21.72 919.31 24.67 919.31 30.61L919.31 56.79C919.31 62.73 923.18 65.71 930.75 65.71L947.59 65.71C947.7 65.71 947.81 65.82 947.81 65.92L947.81 74.3C947.81 74.41 947.7 74.52 947.59 74.52L942.41 74.52C942.3 74.52 942.19 74.41 942.19 74.3L942.19 70.11L919.31 70.11L919.31 83.3C919.31 89.15 923.18 92 930.75 92L959.25 92Z"/>
+	<defs>
+		<linearGradient id="gradient_16" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path filter="url(#atlas-fine)" fill="url(#gradient_16)" d="M999.06 92L999.06 74.52L976.18 74.52L976.18 92L999.06 92Z"/>
+</svg>

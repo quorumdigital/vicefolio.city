@@ -1,0 +1,190 @@
+/* Revision 24: scoped map palette, catalog density and character hero. */
+.r24-map-room.atlas-map-room{--r24-map-cyan:#91dfff;--r24-map-edge:#89b8d647;--r24-map-panel:#101b28;--r24-map-muted:#acc0ce;background:#101925;border-color:#8db5ce2e;color:#e0edf4}
+.r24-map-room .map-topline,.r24-map-room.map-expanded .map-topline{display:grid;grid-template-columns:minmax(250px,1fr) minmax(205px,230px) auto;align-items:center;gap:12px 22px;height:auto;min-height:82px;padding:12px 24px;border-bottom-color:#95bed427;background:linear-gradient(110deg,#111d2a,#152336 65%,#172332)}
+.r24-map-room .map-heading{display:flex;flex-direction:column;align-items:flex-start;gap:5px;min-width:0;margin:0}
+.r24-map-room .map-heading .eyebrow{display:block;max-width:none;font-size:9px;line-height:1.35;letter-spacing:.07em;color:#8bbacf;text-transform:uppercase}
+.r24-map-room .map-heading h1.r24-title{font-family:Outfit,Arial,sans-serif!important;font-size:clamp(20px,1.85vw,27px)!important;font-weight:600!important;letter-spacing:-.025em!important;line-height:1.12!important;text-transform:none!important;color:#e5f4fb;margin:0!important;max-width:410px;overflow-wrap:normal}
+.r24-map-room .map-toolbar{display:flex;flex-wrap:wrap;gap:7px;justify-content:flex-end}
+.r24-map-room .map-toolbar .map-tool{min-height:38px;padding:8px 12px;font-size:11px;white-space:normal}
+.r24-map-room .release-mini-map{min-width:0;width:100%;margin:0;padding:8px 12px;display:block;border:1px solid #8db5ce2d;border-radius:8px;background:#09172466;box-shadow:inset 0 1px 0 #b6e6fc09}
+.r24-map-room .release-mini-map .release-mini-heading{width:100%;gap:8px;font-size:9px;line-height:1.2;justify-content:space-between}
+.r24-map-room .release-mini-map .release-mini-heading>span{color:#b9d5e4;white-space:nowrap}
+.r24-map-room .release-mini-map .release-mini-clock{display:flex;justify-content:space-between;gap:9px;width:100%;margin:5px 0 0}
+.r24-map-room .release-mini-map .release-mini-clock>span{display:flex;flex-direction:row;align-items:baseline;gap:3px;min-width:0}
+.r24-map-room .release-mini-map .release-mini-clock strong{font-size:18px;font-weight:500;line-height:1.15;color:#edf8ff}
+.r24-map-room .release-mini-map .release-mini-clock small{font-size:7px;margin:0;color:#a9c5d5}
+.r24-map-room .release-mini-settings summary,.r24-map-room .release-mini-settings[open]>summary{color:#bedceb!important}
+.r24-map-room .release-mini-settings>label{background:linear-gradient(130deg,#1c3043f8,#101b2af8)!important;border-color:#91dfff45!important;border-top-color:#91dfff70!important;scrollbar-color:#5b8ba3 transparent}
+.r24-map-room .release-mini-settings select{background:#142334!important;border-color:#7eb7d458!important;color:#e4f3fb!important}
+.r24-map-room .map-sidebar{background:linear-gradient(150deg,#142233,#101a28 70%);border-color:#81b6ce38}
+.r24-map-room .map-search input{background:#172b3b;border-color:#7fa7be3f;color:#e9f5fc}
+.r24-map-room .map-search input::placeholder{color:#a3baca}
+.r24-map-room .map-search>svg{stroke:#a4ccdf}
+.r24-map-room .map-sidebar-tabs{border-bottom-color:#9abbd32e}
+.r24-map-room .map-sidebar-tabs button{color:#a5bdce}
+.r24-map-room .map-sidebar-tabs button[aria-pressed=true]{color:#d7f2ff}
+.r24-map-room .map-sidebar-tabs button[aria-pressed=true]:after{background:#91dfff;box-shadow:0 0 9px #91dfff38}
+.r24-map-room .map-layers button{background:#17283a;border-color:#81b3d22b;color:#b8ccd9}
+.r24-map-room .map-layers button[aria-pressed=true]{background:linear-gradient(125deg,#21465a,#1d3550);border-color:#91dfff9c;color:#e4f8ff;box-shadow:inset 0 0 0 1px #91dfff13}
+.r24-map-room .map-tool,.r24-map-room .map-action,.r24-map-room .map-focus-bar button{background:#192e41;color:#d5ebf8;border-color:#83b9d54f;transition:background-color .2s,border-color .2s,color .2s,box-shadow .2s}
+.r24-map-room #map-filters-toggle{background:#20445a;color:#e4f6ff;border-color:#91dfff80}
+.r24-map-room .map-tool:hover,.r24-map-room .map-action:hover,.r24-map-room .map-focus-bar button:hover,.r24-map-room .map-layers button:hover{background:#264b62;border-color:#91dfffc4;color:#f0fbff}
+.r24-map-room .map-action[aria-pressed=true]{background:#21475b;border-color:#91dfff9c;color:#dcf6ff}
+.r24-map-room :is(button,a,input,select,summary,[tabindex]):focus-visible{outline:2px solid #a2e6ff!important;outline-offset:3px;box-shadow:0 0 0 5px #83d4f52b}
+.r24-map-room .map-search input:focus{outline-color:#91dfff}
+.r24-map-room .map-category-head strong,.r24-map-room .map-group-title strong{color:#bdcfdd}
+.r24-map-room .map-category-head button,.r24-map-room .map-group-title button{color:#9dd8ef}
+.r24-map-room .map-category-head button:hover,.r24-map-room .map-group-title button:hover{color:#e3f8ff;text-decoration:underline;text-underline-offset:3px}
+.r24-map-room .map-category-option{color:#cbdce5}
+.r24-map-room .map-category-option:hover,.r24-map-room .map-category-option:focus-within{background:#223e53}
+.r24-map-room .map-category-option:has(input:checked){color:#e1edf5}
+.r24-map-room input[type=checkbox]{accent-color:#79cce8}
+.r24-map-room .map-category-option small{color:#a3bbca}
+.r24-map-room .map-result{border-color:#83adc61c;color:#e2eff7}
+.r24-map-room .map-result:hover,.r24-map-room .map-result.selected{background:#223e53}
+.r24-map-room .map-result.selected{box-shadow:inset 2px 0 0 #91dfff}
+.r24-map-room .map-result small{color:#b6cad6}
+.r24-map-room .map-result em,.r24-map-room .map-progress,.r24-map-room .map-toggles,.r24-map-room .map-empty{color:#a6bece}
+.r24-map-room .map-count{color:#b3e2f3}
+.r24-map-room .map-sidebar-bottom{border-color:#91b7ce2b}
+.r24-map-room .map-scroll,.r24-map-room .map-results,.r24-map-room .map-selection{scrollbar-color:#57869f #101c2a;scrollbar-width:thin}
+.r24-map-room ::-webkit-scrollbar{width:7px;height:7px}
+.r24-map-room ::-webkit-scrollbar-track{background:#101c2a}
+.r24-map-room ::-webkit-scrollbar-thumb{background:#57869f;border:2px solid #101c2a;border-radius:9px}
+.r24-map-room ::-webkit-scrollbar-thumb:hover{background:#8bc5dd}
+.r24-map-room .leaflet-control-zoom{border-color:#91dfff75!important}
+.r24-map-room .leaflet-control-zoom a{background:#14283a!important;color:#d9f2ff!important;border-color:#79a6c14f!important}
+.r24-map-room .leaflet-control-zoom a:hover{background:#25485e!important;color:#fff!important}
+.r24-map-room .leaflet-control-zoom a.leaflet-disabled{color:#687f91!important;background:#172532!important}
+.r24-map-room .leaflet-tooltip{background:#142637;border-color:#91dfff8a;color:#e0f5ff}
+.r24-map-room .leaflet-tooltip-top:before{border-top-color:#91dfff8a}
+.r24-map-room .map-cluster{background:#142d40ed;border-color:#9bdaf3;color:#effbff;box-shadow:0 0 0 3px #09162265,0 3px 10px #00152444}
+.r24-map-room .map-cluster:hover,.r24-map-room .map-cluster:focus-visible{background:#286482;border-color:#c4efff;box-shadow:0 0 0 4px #91dfff35}
+.r24-map-room .map-pin-shape{border-color:#112c3c;box-shadow:0 2px 5px #07172466}
+.r24-map-room .map-pin-shape svg{stroke:#152e3a}
+.r24-map-room .map-pin.is-selected .map-pin-shape{outline:3px solid #e9faff;box-shadow:0 0 0 6px #83d6ff65,0 3px 10px #0b253999}
+.r24-map-room .map-pin.is-found:after{background:#1b5067;color:#ecfaff;border:1px solid #99d9ed}
+.r24-map-room .map-focus-ring{fill:#7dd8ff!important;stroke:#d4f4ff!important;filter:drop-shadow(0 0 5px #91dfff)}
+.r24-map-room .map-focus-bar,.r24-map-room .map-selection,.r24-map-room .map-position-pending{background:#102435f7;border-color:#91dfff77}
+.r24-map-room .map-focus-bar small{color:#a5d5e8}
+.r24-map-room .map-focus-bar strong{color:#e6f6ff}
+.r24-map-room .map-overlay-toolbar .map-tool,.r24-map-room .map-legend .map-tool,.r24-map-room .map-north,.r24-map-room .map-zoom-status{background:#132638ed;color:#d7effb;border-color:#91dfff4f}
+.r24-map-room .map-overlay-toolbar .map-tool[aria-pressed=false]{color:#afc4d2;border-color:#6f98ae}
+.r24-map-room .map-close,.r24-map-room .map-detail-toggle{background:#152b3ee8;border-color:#81bdd85f;color:#d8effa}
+.r24-map-room .map-detail-body h3.soft-title{color:#e0f4fe}
+.r24-map-room .map-detail-body p{color:#b9cedc}
+.r24-map-room .map-detail-body .eyebrow,.r24-map-room .map-detail-body p.map-pin-status{color:#a5d1e4}
+.r24-map-room .map-detail-body p.map-pin-status{border-left-color:#79bdd8}
+.r24-map-room .map-detail-links>*,.r24-map-room .map-reference summary,.r24-map-room .map-related strong,.r24-map-room .map-related .related-entry,.r24-map-room .evidence-links a,.r24-map-room .evidence-enlarge{color:#a9dff3}
+.r24-map-room .map-attribution{background:#0e1823;color:#98b2c3}
+.r24-map-room .map-attribution a,.r24-map-room .map-credit-link,.r24-map-room .map-help-note a{color:#b3dbea}
+.r24-map-room .map-help-note{color:#b8cdda;border-color:#84adca25;background:#101b27}
+.r24-map-room .map-coverage-note{background:#142333;border-color:#80acc32e;color:#b5cad7}
+.r24-map-room .map-copy-field{background:#1b3447;border-color:#77b7d4;color:#e1f5ff}
+/* Vehicle dialogs: same card surface, tighter content rhythm, no evidence data loss. */
+#dialog-content .r24-vehicle-dossier .dossier-opening{gap:16px;margin:19px 0 8px;align-items:stretch}
+#dialog-content .r24-vehicle-dossier .dossier-opening>.dossier-access,#dialog-content .r24-vehicle-dossier .dossier-opening>.dossier-overview{padding:20px!important;border:1px solid #a7bbc331!important;background:linear-gradient(130deg,#26303b9c,#171c278c)!important;border-radius:10px}
+#dialog-content .r24-vehicle-dossier .dossier-opening h3{margin:8px 0 12px!important}
+#dialog-content .r24-vehicle-dossier .dossier-opening .eyebrow{font-size:10px;letter-spacing:.11em;line-height:1.45}
+#dialog-content .r24-vehicle-dossier .dossier-opening p{font-size:14px;line-height:1.65;margin:10px 0}
+#dialog-content .r24-vehicle-dossier .dossier-overview .dossier-influence{padding:0 0 15px!important;border-bottom-color:#aac3d52b}
+#dialog-content .r24-vehicle-dossier .dossier-overview .dossier-glance{padding:15px 0 0!important}
+#dialog-content .r24-vehicle-dossier .dossier-opening .dossier-facts{margin:12px 0 0}
+#dialog-content .r24-vehicle-dossier .dossier-opening .dossier-facts>div{padding:9px 0}
+#dialog-content .r24-vehicle-dossier .dossier-opening .dossier-facts dt{font-size:11px;margin-bottom:3px;line-height:1.4}
+#dialog-content .r24-vehicle-dossier .dossier-opening .dossier-facts dd{font-size:13px;line-height:1.55}
+#dialog-content .r24-vehicle-dossier .dossier-glance .dossier-facts{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 14px}
+#dialog-content .r24-vehicle-dossier .dossier-compare{margin-top:13px;padding:9px 13px;font-size:12px}
+#dialog-content .r24-vehicle-dossier .dossier-access .access-map-action{gap:6px;margin:13px 0}
+#dialog-content .r24-vehicle-dossier .dossier-access .access-map-action .button{padding:11px 13px;font-size:12px}
+#dialog-content .r24-vehicle-dossier .dossier-access .acquisition-note,#dialog-content .r24-vehicle-dossier .dossier-access .access-trigger{padding:11px 13px!important;margin:13px 0!important;line-height:1.6}
+#dialog-content .r24-vehicle-dossier .dossier-access .location-imagery{margin-top:13px}
+#dialog-content .r24-vehicle-dossier .dossier-access .location-imagery>summary{padding-top:10px!important;padding-bottom:10px!important}
+#dialog-content .r24-vehicle-dossier .dossier-deep,#dialog-content .r24-vehicle-dossier .dossier-background{padding:20px 0!important}
+#dialog-content .r24-vehicle-dossier .dossier-deep h3,#dialog-content .r24-vehicle-dossier .dossier-background>h3{margin:8px 0 13px!important}
+#dialog-content .r24-vehicle-dossier .dossier-deep p,#dialog-content .r24-vehicle-dossier .dossier-background p,#dialog-content .r24-vehicle-dossier .dossier-background li{font-size:14px;line-height:1.7;margin-top:10px;margin-bottom:10px}
+#dialog-content .r24-vehicle-dossier .dossier-performance .dossier-facts{margin-top:15px;margin-bottom:15px;gap:12px 20px}
+#dialog-content .r24-vehicle-dossier .dossier-performance .dossier-facts>div{padding:8px 0}
+#dialog-content .r24-vehicle-dossier .dossier-history{margin-top:8px;padding-top:20px}
+#dialog-content .r24-vehicle-dossier .dossier-history>h3{margin-top:8px;margin-bottom:10px}
+#dialog-content .r24-vehicle-dossier .dossier-history>p{font-size:14px;line-height:1.65;margin:10px 0 16px}
+/* Equipment: preserved official HD image, deliberate right-side hierarchy. */
+body[data-scene='items'] .cinematic-items.r24-equipment-hero{min-height:440px;margin-bottom:18px;border-bottom:0;background:#101b21}
+body[data-scene='items'] .r24-equipment-hero .scene-image{object-position:50% 32%!important}
+body[data-scene='items'] .r24-equipment-hero .scene-shade{background:linear-gradient(90deg,#0711130a 12%,#09121a26 40%,#0a1722d6 68%,#0a121deb),linear-gradient(0deg,#0c111c 0%,transparent 32%)}
+body[data-scene='items'] .r24-equipment-hero .scene-copy{width:min(570px,45%);margin:0 5% 0 auto;padding:42px 0 34px}
+body[data-scene='items'] .r24-equipment-hero .scene-copy>h1{margin-bottom:15px;max-width:100%;--atlas-title-page:clamp(33px,3.4vw,49px)}
+body[data-scene='items'] .r24-equipment-hero .scene-copy>p{margin:12px 0;line-height:1.65;max-width:45ch;color:#e3edf1}
+body[data-scene='items'] .r24-equipment-hero .scene-foot{display:flex;align-items:flex-start;flex-direction:column;gap:12px;margin-top:16px}
+body[data-scene='items'] .r24-equipment-hero .scene-foot>span{margin:0;color:#dec6a7;font-size:12px}
+body[data-scene='items'] .r24-equipment-hero .r24-equipment-cta{display:inline-flex;align-items:center;justify-content:space-between;gap:20px;min-height:45px;padding:11px 16px;border:1px solid #95d7ef9c!important;border-radius:7px;background:linear-gradient(110deg,#224b5feb,#1e354ce8)!important;color:#eefaff!important;box-shadow:0 5px 20px #03131d66,inset 0 1px 0 #d3f4ff24;font-size:13px;font-weight:500;line-height:1.4}
+body[data-scene='items'] .r24-equipment-hero .r24-equipment-cta>span{display:grid;place-items:center;width:25px;height:25px;border:1px solid #b5eaff48;border-radius:50%;font-size:15px;color:#bceaff}
+body[data-scene='items'] .r24-equipment-hero .r24-equipment-cta:hover{background:linear-gradient(110deg,#2b6077,#274461)!important;border-color:#b5edff!important;box-shadow:0 6px 22px #03131d77,0 0 18px #8ddcff22}
+body[data-scene='items'] #main>.wrap>.catalog-tabs{gap:7px;margin:12px 0 0;align-items:center}
+body[data-scene='items'] .catalog-tabs .tab{min-height:38px;padding:8px 14px;border-radius:7px;background:#15233182;color:#becfda;font-size:12px}
+body[data-scene='items'] .catalog-tabs .tab.active{background:#1f4255;border-color:#8ed4ef88;color:#e0f6ff;box-shadow:inset 0 -2px 0 #91dfff}
+body[data-scene='items'] #main>.wrap>.toolbar{margin:10px 0 8px;gap:9px}
+body[data-scene='items'] .toolbar .search-box,body[data-scene='items'] .toolbar select{min-height:42px}
+body[data-scene='items'] .toolbar .search-box{padding:11px 14px}
+body[data-scene='items'] .toolbar .search-box input{padding:0;min-height:20px}
+body[data-scene='items'] #main>.wrap>.results-meta{margin:8px 0 15px;gap:12px}
+body[data-scene='items'] .weapon-group{margin-bottom:30px!important}
+body[data-scene='items'] .weapon-group .vehicle-group-heading{margin-bottom:14px;padding-bottom:10px;gap:10px}
+body[data-scene='items'] #catalog-grid{scroll-margin-top:120px}
+/* Character hero only: copy clears the faces; profile grid and dialogs untouched. */
+.cinematic-people.r24-people-hero .scene-copy{width:min(500px,38%);margin:0 4.8% 0 auto;padding:44px 0 40px}
+.cinematic-people.r24-people-hero .scene-copy>h1{max-width:100%;--atlas-title-page:clamp(33px,3.4vw,49px)}
+.cinematic-people.r24-people-hero .scene-copy>p{max-width:100%}
+.cinematic-people.r24-people-hero .scene-foot{flex-wrap:wrap;gap:14px 20px}
+.cinematic-people.r24-people-hero .scene-shade{background:linear-gradient(90deg,#11131b12 15%,#10152315 43%,#121724ba 66%,#101422ef),linear-gradient(0deg,#0c1019df,transparent 60%)}
+@media(max-width:1050px){
+ .r24-map-room .map-topline,.r24-map-room.map-expanded .map-topline{grid-template-columns:minmax(200px,1fr) minmax(190px,215px);gap:9px 16px;padding:10px 18px}
+ .r24-map-room .map-toolbar{grid-column:1/-1;justify-content:flex-end}
+ .r24-map-room .map-heading h1.r24-title{font-size:23px!important}
+ .r24-map-room .map-workspace{height:calc(100svh - 222px)}
+ .cinematic-people.r24-people-hero .scene-copy{width:41%;margin-right:4%}
+}
+@media(max-width:700px){
+ .r24-map-room .map-topline,.r24-map-room.map-expanded .map-topline{grid-template-columns:1fr;gap:10px;min-height:0;padding:12px 14px}
+ .r24-map-room .map-heading{gap:3px}
+ .r24-map-room .map-heading h1.r24-title{font-size:22px!important;max-width:100%}
+ .r24-map-room .map-heading .eyebrow{font-size:8px}
+ .r24-map-room .release-mini-map{display:flex;align-items:center;justify-content:space-between;gap:8px 14px;flex-wrap:wrap;padding:7px 9px}
+ .r24-map-room .release-mini-map .release-mini-heading{width:auto;flex:1;min-width:135px;font-size:8px}
+ .r24-map-room .release-mini-map .release-mini-clock{width:auto;flex:1;min-width:145px;gap:9px;margin:0}
+ .r24-map-room .release-mini-map .release-mini-clock strong{font-size:17px}
+ .r24-map-room .release-mini-map .release-mini-clock small{font-size:7px}
+ .r24-map-room .map-toolbar{width:100%;grid-column:auto;justify-content:space-between;gap:6px}
+ .r24-map-room .map-toolbar .map-tool{flex:1;padding:8px 7px;min-height:37px;font-size:10px;line-height:1.4}
+ .r24-map-room .map-workspace{height:calc(100svh - 276px);min-height:410px}
+ .r24-map-room.map-expanded .map-workspace{height:auto;min-height:0}
+ #dialog-content .r24-vehicle-dossier .dossier-opening{gap:13px}
+ #dialog-content .r24-vehicle-dossier .dossier-opening>.dossier-access,#dialog-content .r24-vehicle-dossier .dossier-opening>.dossier-overview{padding:17px!important}
+ #dialog-content .r24-vehicle-dossier .dossier-deep,#dialog-content .r24-vehicle-dossier .dossier-background{padding:17px 0!important}
+ body[data-scene='items'] .cinematic-items.r24-equipment-hero{min-height:510px;margin-bottom:12px}
+ body[data-scene='items'] .r24-equipment-hero .scene-image{height:60%;object-position:32% 28%!important;opacity:1}
+ body[data-scene='items'] .r24-equipment-hero .scene-shade{background:linear-gradient(0deg,#0c111c 3%,#0c111ce8 37%,#0c111c08 76%)}
+ body[data-scene='items'] .r24-equipment-hero .scene-copy{width:auto;margin:0;padding:235px 6% 23px}
+ body[data-scene='items'] .r24-equipment-hero .scene-copy>h1{--atlas-title-page:clamp(29px,7vw,40px);margin-bottom:12px}
+ body[data-scene='items'] .r24-equipment-hero .scene-copy>p{font-size:13px;margin:8px 0}
+ body[data-scene='items'] .r24-equipment-hero .scene-foot{gap:10px;margin-top:12px}
+ body[data-scene='items'] .r24-equipment-hero .r24-equipment-cta{min-height:43px;padding:9px 13px;font-size:12px}
+ body[data-scene='items'] #main>.wrap>.catalog-tabs{margin-top:8px;gap:6px}
+ body[data-scene='items'] .catalog-tabs .tab{padding:7px 10px;font-size:11px}
+ body[data-scene='items'] #main>.wrap>.toolbar{margin:9px 0 7px;gap:7px}
+ body[data-scene='items'] #main>.wrap>.results-meta{margin:7px 0 12px}
+ .cinematic-people.r24-people-hero{min-height:570px}
+ .cinematic-people.r24-people-hero .scene-image{height:59%;object-position:32% 22%!important;opacity:1}
+ .cinematic-people.r24-people-hero .scene-copy{width:100%;margin:0;padding:300px 6% 28px;text-align:left}
+ .cinematic-people.r24-people-hero .scene-copy>h1{--atlas-title-page:clamp(30px,7vw,40px);max-width:100%}
+ .cinematic-people.r24-people-hero .scene-shade{background:linear-gradient(0deg,#0c1019 5%,#0c1019eb 38%,#0c101908 82%)}
+ .cinematic-people.r24-people-hero .scene-foot{display:flex;flex-direction:column;align-items:flex-start;gap:12px}
+ .cinematic-people.r24-people-hero .scene-foot>span{margin-bottom:0}
+}
+@media(prefers-reduced-motion:reduce){.r24-map-room .map-tool,.r24-map-room .map-action,.r24-map-room .map-focus-bar button,body[data-scene='items'] .r24-equipment-cta{transition:none!important}}
+
+/* Screenshot refinement: remove legacy toolbar gaps and mixed tab lettering. */
+#dialog-content .r24-vehicle-dossier .dossier-glance .dossier-toolbar{margin:0 0 8px;gap:10px}
+body[data-scene='items'] .catalog-tabs .tab.r24-title{font-family:Outfit,Arial,sans-serif!important;font-size:12px!important;font-weight:500!important;line-height:1.4!important;text-transform:none!important;letter-spacing:0!important}
+.r24-map-room .map-help-note summary:after,.r24-map-room .map-help-note summary::marker{color:#91dfff}
+@media(max-width:700px){body[data-scene='items'] .catalog-tabs .tab.r24-title{font-size:11px!important}}

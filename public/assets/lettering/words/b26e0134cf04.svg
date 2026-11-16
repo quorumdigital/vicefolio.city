@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187" height="100">
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" d="M36.34 48.87C36.34 48.98 36.23 49.11 36.13 49.11L30.73 49.11L30.73 39.31L36.13 39.31C36.23 39.31 36.34 39.42 36.34 39.52L36.34 48.87ZM30.73 92L30.73 65.71L47.78 65.71C55.38 65.71 59.22 62.73 59.22 56.79L59.22 30.61C59.22 24.67 55.38 21.72 47.78 21.72L7.85 21.72L7.85 92L30.73 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" d="M107.07 92C114.67 92 118.51 89.15 118.51 83.3L118.51 48.12L95.74 48.12L95.74 74.3C95.74 74.41 95.63 74.52 95.52 74.52L90.26 74.52C90.15 74.52 90.02 74.41 90.02 74.3L90.02 43.61L118.51 43.61L118.51 26.23L90.02 26.23L90.02 21.72L67.14 21.72L67.14 26.23L61.55 26.23L61.55 43.61L67.14 43.61L67.14 83.3C67.14 89.15 71 92 78.58 92L107.07 92Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" d="M167.46 92C175.06 92 178.9 89.15 178.9 83.3L178.9 48.12L156.13 48.12L156.13 74.3C156.13 74.41 156.02 74.52 155.91 74.52L150.65 74.52C150.54 74.52 150.41 74.41 150.41 74.3L150.41 43.61L178.9 43.61L178.9 26.23L150.41 26.23L150.41 21.72L127.53 21.72L127.53 26.23L121.94 26.23L121.94 43.61L127.53 43.61L127.53 83.3C127.53 89.15 131.39 92 138.97 92L167.46 92Z"/>
+</svg>

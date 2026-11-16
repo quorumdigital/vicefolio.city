@@ -1,0 +1,37 @@
+[
+  {
+    "check": "Map language switch",
+    "url": "http://127.0.0.1:4190/es/#world?pin=L266",
+    "selected": "L266",
+    "note": "QA cross-language note",
+    "saved": "true",
+    "found": "true"
+  },
+  {
+    "check": "Spanish category search",
+    "results": "3 resultados · 3 marcadores"
+  },
+  {
+    "check": "Spanish map legend",
+    "text": "LEYENDA DEL MAPA Y FUENTES\nInterpreta el mapa.\n\nLos colores agrupan las categorías de lugares y objetos; los símbolos identifican cada tipo. Una marca de verificación indica que lo encontraste. El color no representa rareza ni grado de certeza. Las cifras cuentan los registros de esta guía, no el total de GTA VI. Un cero indica que aún no hay registros de VI con fuentes en esa categoría; no confirma que esa actividad exista en el juego.\n\nLugares\nPuntos de interés\nRefugios\nViviendas\nHoteles\nInstituciones y seguridad\nGobierno\nInstalaciones públicas\nBases aéreas\nIndustria y oficinas\nOficinas\nObras en construcción\nBase de pandilla\nGarajes\nBarrios"
+  },
+  {
+    "check": "Spanish type filter",
+    "count": "3 DE 21 FICHAS"
+  },
+  {
+    "check": "Saved items shared between languages",
+    "saved": "true"
+  },
+  {
+    "check": "Vehicle comparison",
+    "columns": 2
+  },
+  {
+    "check": "Comparison choice",
+    "names": [
+      "’95 Grotti Cheetah",
+      "Dinka Enduro"
+    ]
+  }
+]

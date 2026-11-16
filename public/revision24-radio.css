@@ -1,0 +1,90 @@
+/* Radio #26–32: scoped layout, familiar lettering and an uninterrupted archive. */
+.radio-page.r24-radio-page{--r24-radio-ink:#f8e8db;--r24-radio-muted:#c2bec8;position:relative;padding-bottom:0}
+/* Upper-left copy leaves the street gathering and lights visible. */
+.radio-page .cinematic-radio{min-height:550px;align-items:flex-start;border-bottom:0;margin-bottom:34px;background:#10131b}
+.radio-page .cinematic-radio .scene-copy{align-self:flex-start;padding:48px 5% 78px;--entry-x:-28px;--entry-y:8px}
+.radio-page .cinematic-radio .scene-copy>.eyebrow{margin:0 0 17px;color:#a4dce8!important;font:500 12px/1.5 Outfit,Arial,sans-serif!important;letter-spacing:.22em!important}
+.radio-page .cinematic-radio h1{max-width:540px;margin:0 0 19px;color:#f5d3bb}
+.radio-page .cinematic-radio h1.atlas-title[data-title-role][data-title-role]{font-size:clamp(38px,4.1vw,59px)!important;line-height:1.13!important}
+.radio-page .cinematic-radio h1 .title-words{gap:.05em .14em}
+.radio-page .cinematic-radio h1 .title-words>img{filter:drop-shadow(0 3px 8px #0005)}
+.radio-page .cinematic-radio .scene-copy>p{max-width:495px;font:400 16px/1.8 Outfit,Arial,sans-serif;color:#e4dfdf;margin:0;text-wrap:pretty}
+.radio-page .cinematic-radio .scene-foot{display:flex;align-items:center;flex-wrap:wrap;gap:15px 24px;margin-top:25px;max-width:540px}
+.radio-page .cinematic-radio .scene-foot>span{color:#b7ced0;font:500 11px/1.5 Outfit,Arial,sans-serif;margin:0;letter-spacing:.09em}
+.radio-page .cinematic-radio .scene-scroll{min-height:44px;margin:0}
+.radio-page .cinematic-radio .scene-shade{background:linear-gradient(90deg,#10131be8 0%,#10131b83 42%,#10131b06 75%),linear-gradient(0deg,#10131b 0%,#10131b00 24%)}
+.radio-page .radio-dial{max-width:1000px;margin:30px auto 19px}
+.radio-page .radio-dial a{width:100%;max-width:none;aspect-ratio:1;border-color:#b5b0bb36;box-shadow:0 12px 25px #0003}
+.radio-page .radio-status{font:400 12px/1.7 Outfit,Arial,sans-serif;color:#a9b8be;margin:0 auto 50px;max-width:650px;padding:0 8px}
+/* Alternate panels, retaining reading order and every native audio element. */
+.radio-page #radio-stations{display:grid;gap:32px}
+.radio-page .radio-station{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-areas:'art copy';min-height:405px;margin:0;border:1px solid #b3c5cd26;border-radius:12px;background:linear-gradient(120deg,#151c22ea,#17161dea);box-shadow:0 20px 48px #0003}
+.radio-page .radio-station:nth-child(even){grid-template-areas:'copy art'}
+.radio-page .radio-station .station-brand{grid-area:art;min-width:0;position:relative;padding:12%;background-position:center}
+.radio-page .radio-station .station-copy{grid-area:copy;min-width:0;padding:clamp(28px,3.4vw,48px);align-self:center}
+.radio-page .radio-station .station-copy>.eyebrow{font:500 11px/1.6 Outfit,Arial,sans-serif;letter-spacing:.16em;margin:0 0 13px}
+.radio-page .radio-station .station-copy h2{margin:0 0 22px}
+.radio-page .radio-station .station-copy h2.atlas-title[data-title-role][data-title-role]{font-size:clamp(27px,3vw,41px)!important}
+.radio-page .radio-station .station-copy p{font:400 15px/1.8 Outfit,Arial,sans-serif;color:#c7c7ce}
+.radio-page .radio-station .station-host{margin:0 0 16px!important;font-size:15px!important}
+.radio-page .radio-station .station-host span{font:500 10px/1.6 Outfit,Arial,sans-serif;letter-spacing:.11em;margin-bottom:3px}
+.radio-page .radio-station .station-audio-label{font:400 11px/1.5 Outfit,Arial,sans-serif;color:#afb9c2;margin:21px 0 10px}
+.radio-page .radio-station audio{display:block;max-width:100%;min-width:0;height:39px;border-radius:24px}
+/* A photographic listening interlude with a legible, compact text column. */
+.radio-page .radio-on-foot{display:grid;grid-template-columns:minmax(0,1.16fr) minmax(0,1fr);align-items:stretch;gap:0;margin:70px 0 25px;padding:0;overflow:hidden;background:linear-gradient(115deg,#18212b,#201a26)!important;border:1px solid #b2c4cf26!important;border-radius:12px!important;box-shadow:0 24px 55px #0003}
+.radio-page .r24-radio-listening-art{position:relative;min-width:0;min-height:355px;margin:0;overflow:hidden}
+.radio-page .r24-radio-listening-art:after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,transparent 68%,#19202b99),linear-gradient(0deg,#0b111bd9,transparent 35%)}
+.radio-page .r24-radio-listening-art img{width:100%;height:100%;object-fit:cover;object-position:52% 50%;position:absolute;inset:0}
+.radio-page .r24-radio-listening-art figcaption{position:absolute;z-index:1;bottom:17px;left:22px;right:18px;color:#d0d6db;font:400 10px/1.6 Outfit,Arial,sans-serif;text-shadow:0 1px 4px #000}
+.radio-page .r24-radio-listening-copy{min-width:0;padding:clamp(27px,3.7vw,49px);align-self:center}
+.radio-page .r24-radio-listening-copy h2.r24-title{font:600 clamp(28px,2.7vw,39px)/1.15 Outfit,Arial,sans-serif!important;letter-spacing:-.025em!important;color:#f3d4c1;margin:0 0 19px;text-wrap:balance}
+.radio-page .r24-radio-listening-copy .r24-radio-listening-lead{font:500 18px/1.5 Outfit,Arial,sans-serif;color:#e1e7e9;margin:0 0 14px}
+.radio-page .r24-radio-listening-copy p{font:400 14px/1.8 Outfit,Arial,sans-serif;color:#bfc6cc;margin:0;text-wrap:pretty}
+/* Classic GTA forms, without ornamental strokes or a second large banner. */
+.radio-page #gta-fm.gtfm-section{position:relative;isolation:isolate;margin:30px 0 0;padding:38px 0 28px;scroll-margin-top:110px}
+.radio-page .gtfm-intro{align-items:flex-end;gap:30px;margin-bottom:29px}
+.radio-page .gtfm-intro>div{min-width:0;max-width:710px}
+.radio-page .gtfm-intro #gtfm-heading{margin:0 0 18px;font:600 clamp(34px,3.8vw,51px)/1.12 Outfit,Arial,sans-serif!important;letter-spacing:-.02em;color:#f2d4bf}
+.radio-page .gtfm-intro #gtfm-heading:before,.radio-page .gtfm-intro #gtfm-heading:after{content:none!important}
+.radio-page .r24-radio-lettering{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;max-width:100%}
+.radio-page .r24-radio-lettering>img{display:block;height:1em;width:auto;max-width:100%;object-fit:contain;filter:brightness(0) saturate(100%) invert(92%) sepia(18%) saturate(372%) hue-rotate(325deg) brightness(103%) contrast(89%)}
+.radio-page .gtfm-intro .gtfm-source-name{display:block;margin:0 0 15px;color:#a9dfe9!important;letter-spacing:.34em!important;font:500 12px/1.5 Outfit,Arial,sans-serif!important;text-shadow:0 0 15px #82cddd28}
+.radio-page .gtfm-intro>div>p{font:400 15px/1.8 Outfit,Arial,sans-serif;color:#bfc6cc;max-width:590px;text-wrap:pretty}
+.radio-page .gtfm-playlist-label{min-width:230px;max-width:100%;gap:10px;font:500 11px/1.5 Outfit,Arial,sans-serif;letter-spacing:.06em;color:#acbdc7}
+.radio-page .gtfm-playlist-label select{appearance:none;cursor:pointer;min-height:48px;border:1px solid #a9ccda55;border-radius:8px;padding:12px 42px 12px 16px;background-color:#15222d;background-image:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath d="m5 7 5 5 5-5" fill="none" stroke="%23b4d9e6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/%3E%3C/svg%3E');background-size:20px;background-repeat:no-repeat;background-position:right 13px center;color:#f0e9e3;font:500 14px/1.4 Outfit,Arial,sans-serif;box-shadow:inset 0 1px 0 #ffffff06;transition:border-color .2s,background-color .2s}
+.radio-page .gtfm-playlist-label select:hover{background-color:#1b2c38;border-color:#a9d7e988}
+.radio-page .gtfm-playlist-label option{background:#15222d;color:#f0e9e3}
+.radio-page .gtfm-console{grid-template-columns:minmax(0,1.6fr) minmax(285px,.9fr);border-radius:12px;background:linear-gradient(125deg,#121e28eb,#1e1a25e8);border-color:#acc4d130;box-shadow:0 22px 58px #0003}
+.radio-page .gtfm-player-column{padding:28px;min-width:0}
+.radio-page .gtfm-current{gap:22px;margin-bottom:21px}
+.radio-page .gtfm-current h3{margin:7px 0 8px}
+.radio-page .gtfm-current-label{color:#a2cdd9;letter-spacing:.12em;font-size:10px}
+.radio-page .gtfm-current p{color:#b9c2cd;font-size:12px;line-height:1.6}
+.radio-page .gtfm-emblem{opacity:.75;gap:5px}
+.radio-page .gtfm-emblem i{background:#bd9aa8}
+.radio-page .gtfm-emblem i:nth-child(2),.radio-page .gtfm-emblem i:nth-child(4){background:#87b8c5}
+.radio-page .gtfm-emblem i:nth-child(3){background:#d2ad9c}
+.radio-page .gtfm-screen{border-radius:8px;border-color:#a9c2d227;min-height:200px}
+.radio-page .gtfm-dial{padding:28px 22px;gap:20px;background:#0c131b68;border-left-color:#a5c5d022}
+.radio-page .gtfm-dial-heading{font:500 11px/1.6 Outfit,Arial,sans-serif;letter-spacing:.1em;color:#bfd0d9}
+.radio-page .gtfm-stations{gap:10px}
+.radio-page .gtfm-station{grid-template-columns:23px minmax(0,1fr) auto;gap:12px;min-height:76px;padding:15px 13px;border-radius:7px;border:1px solid #a5c4d019;background:#14212b8c;transition:background .25s,border-color .25s,box-shadow .25s}
+.radio-page .gtfm-station>span:nth-child(2){min-width:0}
+.radio-page .gtfm-station-number{font-size:11px;color:#91a9b7}
+.radio-page .gtfm-station strong{font:500 16px/1.4 Outfit,Arial,sans-serif;color:#f3e8e2}
+.radio-page .gtfm-station small{margin-top:5px;font:400 11px/1.5 Outfit,Arial,sans-serif;color:#acbbc4}
+.radio-page .gtfm-duration{padding-left:4px;font:400 11px/1.4 Outfit,Arial,sans-serif;color:#aebbc6;font-variant-numeric:tabular-nums}
+.radio-page .gtfm-station:hover{background:#21323e;border-color:#8fbecd6b}
+.radio-page .gtfm-station[aria-pressed="true"]{background:linear-gradient(105deg,#35303b,#1c303c);border-color:#ccb0b667;box-shadow:inset 2px 0 #dbbfae,0 0 15px #c7b2c00a}
+.radio-page .gtfm-playlist-note{font:400 15px/1.8 Outfit,Arial,sans-serif;color:#c3cbd1;padding:7px 0}
+.radio-page .gtfm-footer{display:flex;justify-content:flex-end;padding:15px 2px 0;border:0;background:none;box-shadow:none;min-height:0}
+.radio-page .gtfm-footer .r24-radio-credit{flex-basis:auto;padding:0;margin:0;border:0;border-radius:0;background:none;box-shadow:none;font:400 11px/1.6 Outfit,Arial,sans-serif;color:#9eaeb9}
+.radio-page .r24-radio-credit a{font:500 11px/1.6 Outfit,Arial,sans-serif;color:#bfd5df;text-decoration:underline;text-decoration-color:#bfd5df45;text-underline-offset:3px}
+.radio-page .r24-radio-credit a:hover{color:#f3d4c1}
+.radio-page .gtfm-play-hint,.radio-page .r24-radio-controller-hooks{display:none!important}
+:lang(ru) .radio-page .gtfm-intro #gtfm-heading{font-family:AtlasRusso,Arial,sans-serif!important;font-weight:400!important;font-size:clamp(29px,3.5vw,44px)!important;letter-spacing:0}
+.radio-page .gtfm-section :is(button,a,select):focus-visible,.radio-page .radio-dial a:focus-visible{outline:2px solid #a8deec;outline-offset:4px}
+@media(max-width:1000px){.radio-page .gtfm-console{grid-template-columns:minmax(0,1fr)}.radio-page .gtfm-dial{border-left:0;border-top:1px solid #a5c5d022}.radio-page .gtfm-stations{grid-template-columns:repeat(2,minmax(0,1fr))}.radio-page .radio-on-foot{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.radio-page .r24-radio-listening-art{min-height:390px}.radio-page .r24-radio-listening-copy{padding:30px}.radio-page .gtfm-intro>div{max-width:62%}}
+@media(max-width:700px){.radio-page .cinematic-radio{min-height:500px}.radio-page .cinematic-radio .scene-copy{padding:35px 6% 75px}.radio-page .cinematic-radio .scene-image{object-position:55% 55%!important}.radio-page .cinematic-radio .scene-shade{background:linear-gradient(90deg,#10131be0,#10131b65 75%),linear-gradient(0deg,#10131b,transparent 36%)}.radio-page .cinematic-radio h1.atlas-title[data-title-role][data-title-role]{font-size:clamp(32px,8vw,46px)!important}.radio-page .cinematic-radio .scene-copy>p{font-size:14px;line-height:1.8;max-width:410px}.radio-page .cinematic-radio .scene-copy>.eyebrow{font-size:10px!important;letter-spacing:.18em!important}.radio-page .cinematic-radio .scene-foot{align-items:flex-start;flex-direction:column;gap:16px;margin-top:22px}.radio-page .radio-status{margin-bottom:34px}.radio-page #radio-stations{gap:25px}.radio-page .radio-station,.radio-page .radio-station:nth-child(even){grid-template-columns:minmax(0,1fr);grid-template-areas:'art' 'copy';min-height:0}.radio-page .radio-station .station-brand{min-height:260px;padding:35px}.radio-page .radio-station .station-copy{padding:29px 25px}.radio-page .radio-station .station-copy h2{margin-bottom:20px}.radio-page .radio-on-foot{grid-template-columns:minmax(0,1fr);margin:46px 0 12px}.radio-page .r24-radio-listening-art{min-height:0;aspect-ratio:16/10}.radio-page .r24-radio-listening-art:after{background:linear-gradient(0deg,#19202b,transparent 44%)}.radio-page .r24-radio-listening-copy{padding:25px}.radio-page .r24-radio-listening-copy h2.r24-title{font-size:30px!important}.radio-page .r24-radio-listening-copy .r24-radio-listening-lead{font-size:17px}.radio-page #gta-fm.gtfm-section{margin-top:15px;padding-top:32px;padding-bottom:23px}.radio-page .gtfm-intro{flex-direction:column;align-items:stretch;gap:23px;margin-bottom:23px}.radio-page .gtfm-intro>div{max-width:none}.radio-page .gtfm-intro #gtfm-heading{font-size:clamp(31px,7.5vw,43px)!important;margin-bottom:17px}.radio-page .gtfm-intro>div>p{font-size:14px}.radio-page .gtfm-playlist-label{min-width:0;width:100%;max-width:none;gap:9px}.radio-page .gtfm-player-column{padding:23px 15px}.radio-page .gtfm-dial{padding:22px 15px}.radio-page .gtfm-stations{grid-template-columns:minmax(0,1fr)}.radio-page .gtfm-station{min-height:72px}.radio-page .gtfm-screen{min-height:200px}.radio-page .gtfm-footer{padding-top:13px}.radio-page .gtfm-current h3.atlas-title[data-title-role][data-title-role]{font-size:26px!important}}
+@media(max-width:360px){.radio-page .radio-station .station-copy{padding:25px 18px}.radio-page .r24-radio-listening-copy{padding:23px 19px}.radio-page .gtfm-station{grid-template-columns:18px minmax(0,1fr) auto;gap:8px;padding:14px 10px}.radio-page .gtfm-station strong{font-size:15px}.radio-page .gtfm-duration{font-size:10px}.radio-page .r24-radio-listening-art figcaption{left:16px;right:14px;font-size:9px}.radio-page .gtfm-current{gap:12px}.radio-page .gtfm-emblem{gap:3px}}
+@media(prefers-reduced-motion:reduce){.radio-page .gtfm-playlist-label select,.radio-page .gtfm-station,.radio-page .radio-dial a{transition:none!important}.radio-page .cinematic-radio .scene-copy>*{animation:none!important}}

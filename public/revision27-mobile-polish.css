@@ -1,0 +1,33 @@
+/*99 is site-wide;98/100–105 layout corrections are mobile only. */
+:root{--r27-ground:#0b0b13}
+body[data-r24-route]{background-color:var(--r27-ground)!important}
+#main>.r26-site-atmosphere{background:radial-gradient(ellipse at 50% 40%,#21182940,transparent 65%)!important;clip-path:none!important;mask-image:linear-gradient(to bottom,transparent var(--r27-atmosphere-start,64px),#000 calc(var(--r27-atmosphere-start,64px) + 96px))!important}
+#main>.r26-site-atmosphere::before,#main>.r26-site-atmosphere::after{content:'';position:absolute;top:var(--r27-atmosphere-start,64px);width:clamp(140px,18vw,260px);height:100%;background-image:url('/assets/music/campaign/justice.webp');background-size:auto 1280px;background-repeat:no-repeat;filter:brightness(.45) saturate(.65);opacity:.4;pointer-events:none}
+#main>.r26-site-atmosphere::before{left:0;background-position:left top;mask-image:linear-gradient(90deg,#000 20%,transparent 100%)}
+#main>.r26-site-atmosphere::after{right:0;background-position:right top;mask-image:linear-gradient(270deg,#000 20%,transparent 100%)}
+@media(max-width:900px){
+#main>.r26-site-atmosphere::before,#main>.r26-site-atmosphere::after{width:min(28vw,140px);background-size:auto 760px}
+body[data-r24-route] .cinematic-head{background:var(--r27-ground)!important;border-bottom:0!important}
+body[data-r24-route] .cinematic-head::after{content:'';display:block!important;position:absolute;inset:auto 0 -1px;height:64px;pointer-events:none;z-index:-1;background:linear-gradient(transparent,var(--r27-ground))}
+body[data-r24-route] .cinematic-head .scene-copy{background:transparent!important}
+.cinematic-gallery .scene-foot,.cinematic-people .scene-foot,.cinematic-radio .scene-foot{display:grid!important;grid-template-columns:minmax(0,1fr) auto;align-items:center!important;gap:12px!important;width:100%!important;margin-top:16px!important}
+.cinematic-gallery .scene-foot>span,.cinematic-people .scene-foot>span,.cinematic-radio .scene-foot>span{font-size:12px!important;line-height:1.5!important;margin:0!important}
+.cinematic-gallery .scene-scroll,.cinematic-people .scene-scroll,.cinematic-radio .scene-scroll{margin:0!important;justify-self:end;max-width:165px;min-height:44px!important;padding:10px 13px!important;font-size:12px!important;line-height:1.4!important;white-space:normal!important;text-align:center}
+.cinematic-gallery .scene-foot{width:fit-content!important;max-width:100%;column-gap:16px!important}
+.cinematic-gallery.r24-atmosphere-hero{min-height:0!important;height:auto!important;margin-bottom:16px!important}
+.cinematic-gallery.r24-atmosphere-hero .scene-copy{padding-bottom:26px!important}
+.cinematic-vehicles{min-height:0!important;height:auto!important}
+.cinematic-vehicles .scene-copy{padding-bottom:26px!important}
+.cinematic-items.r24-equipment-hero,.cinematic-people.r24-people-hero{display:block!important;height:auto!important;min-height:0!important;--r27-photo-space:clamp(220px,60vw,330px)}
+.cinematic-items.r24-equipment-hero .scene-image,.cinematic-people.r24-people-hero .scene-image{height:calc(var(--r27-photo-space) + 115px)!important;max-height:100%;transform:none!important;mask-image:linear-gradient(#000 68%,transparent 100%)}
+.cinematic-items.r24-equipment-hero .scene-copy,.cinematic-people.r24-people-hero .scene-copy{position:relative!important;width:100%!important;margin:0!important;padding:var(--r27-photo-space) 6% 26px!important}
+.cinematic-items.r24-equipment-hero .scene-shade,.cinematic-people.r24-people-hero .scene-shade{background:linear-gradient(0deg,var(--r27-ground) 3%,#0b0b13b0 35%,#0b0b1300 80%)!important}
+.cinematic-people.r24-people-hero{--r27-photo-space:clamp(250px,65vw,360px)}
+.cinematic-people.r24-people-hero .scene-copy>p{font-size:13px;line-height:1.6;margin:10px 0!important}
+.cinematic-people.r24-people-hero .scene-copy>h1,.cinematic-items.r24-equipment-hero .scene-copy>h1{margin-block:12px!important}
+.hero.rooftop-hero.r26-home,.hero.rooftop-hero.r26-home .hero-content{background:var(--r27-ground)!important}
+}
+
+/* Keep the longer Russian character category inside narrow mobile cards. */
+@media(max-width:400px){html[lang="ru"] body[data-r24-route="people"] .card-type{font-size:10px;letter-spacing:.01em}}
+@media(max-width:360px){body[data-r24-route="people"] #main .card-info h3.atlas-title[data-title-role="card"]{font-size:18px!important;line-height:1.25!important;overflow-wrap:normal}}

@@ -1,0 +1,179 @@
+{
+  "mapChecks": [
+    {
+      "name": "Map records loaded",
+      "ok": true
+    },
+    {
+      "name": "Search finds location and linked vehicle",
+      "ok": true
+    },
+    {
+      "name": "Selected item evidence visible",
+      "ok": true
+    },
+    {
+      "name": "Map opens full item dossier",
+      "ok": true
+    },
+    {
+      "name": "Dialog title uses GTA lettering",
+      "ok": true
+    },
+    {
+      "name": "Saved place persisted",
+      "ok": true
+    },
+    {
+      "name": "Found state persisted",
+      "ok": true
+    },
+    {
+      "name": "Hide found works",
+      "ok": true
+    },
+    {
+      "name": "Weapon stores and dossiers layer",
+      "ok": true
+    },
+    {
+      "name": "Unlocated item does not invent a pin",
+      "ok": true
+    },
+    {
+      "name": "Expanded map opens",
+      "ok": true
+    },
+    {
+      "name": "Shareable marker deep link",
+      "ok": true
+    },
+    {
+      "name": "Mobile tiles visible",
+      "ok": true
+    },
+    {
+      "name": "Mobile width",
+      "ok": true
+    },
+    {
+      "name": "Mobile selected card visible",
+      "ok": true
+    },
+    {
+      "name": "Category filter narrows locations",
+      "ok": true
+    },
+    {
+      "name": "All mobile routes fit",
+      "ok": true
+    },
+    {
+      "name": "Guide search survives typography",
+      "ok": true
+    },
+    {
+      "name": "Export contains map checklist",
+      "ok": true
+    },
+    {
+      "name": "Escape exits expanded map",
+      "ok": true
+    },
+    {
+      "name": "Location shows linked discoveries",
+      "ok": true
+    },
+    {
+      "name": "Direct marker selection works",
+      "ok": true
+    }
+  ],
+  "typographyQA": [
+    {
+      "route": "home",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "vehicles",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "items",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "people",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "world",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "gallery",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "guides",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "ufos",
+      "unlettered": [],
+      "overflow": false
+    },
+    {
+      "route": "saved",
+      "unlettered": [],
+      "overflow": false
+    }
+  ],
+  "mobileLayouts": [
+    {
+      "route": "home",
+      "overflow": false
+    },
+    {
+      "route": "vehicles",
+      "overflow": false
+    },
+    {
+      "route": "items",
+      "overflow": false
+    },
+    {
+      "route": "people",
+      "overflow": false
+    },
+    {
+      "route": "world",
+      "overflow": false
+    },
+    {
+      "route": "gallery",
+      "overflow": false
+    },
+    {
+      "route": "guides",
+      "overflow": false
+    },
+    {
+      "route": "ufos",
+      "overflow": false
+    },
+    {
+      "route": "saved",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "failedRequests": []
+}

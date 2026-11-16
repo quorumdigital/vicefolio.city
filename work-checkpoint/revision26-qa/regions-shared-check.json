@@ -1,0 +1,237 @@
+{
+  "jumps": [
+    {
+      "tag": "desktop",
+      "id": "vice-city",
+      "ys": [
+        997,
+        997,
+        997,
+        997,
+        997
+      ],
+      "top": 106,
+      "header": 86,
+      "focus": "region-vice-city"
+    },
+    {
+      "tag": "desktop",
+      "id": "leonida-keys",
+      "ys": [
+        2235,
+        2235,
+        2235,
+        2235,
+        2235
+      ],
+      "top": 105.703125,
+      "header": 86,
+      "focus": "region-leonida-keys"
+    },
+    {
+      "tag": "desktop",
+      "id": "grassrivers",
+      "ys": [
+        3575,
+        3575,
+        3575,
+        3575,
+        3575
+      ],
+      "top": 105.59375,
+      "header": 86,
+      "focus": "region-grassrivers"
+    },
+    {
+      "tag": "desktop",
+      "id": "port-gellhorn",
+      "ys": [
+        4914,
+        4914,
+        4914,
+        4914,
+        4914
+      ],
+      "top": 106.484375,
+      "header": 86,
+      "focus": "region-port-gellhorn"
+    },
+    {
+      "tag": "desktop",
+      "id": "ambrosia",
+      "ys": [
+        6142,
+        6142,
+        6142,
+        6142,
+        6142
+      ],
+      "top": 106.1875,
+      "header": 86,
+      "focus": "region-ambrosia"
+    },
+    {
+      "tag": "desktop",
+      "id": "mount-kalaga",
+      "ys": [
+        7370,
+        7370,
+        7370,
+        7370,
+        7370
+      ],
+      "top": 105.890625,
+      "header": 86,
+      "focus": "region-mount-kalaga"
+    },
+    {
+      "tag": "phone",
+      "id": "vice-city",
+      "ys": [
+        1010,
+        1010,
+        1010,
+        1010,
+        1010
+      ],
+      "top": 172,
+      "header": 152,
+      "focus": "region-vice-city"
+    },
+    {
+      "tag": "phone",
+      "id": "leonida-keys",
+      "ys": [
+        1824,
+        1824,
+        1824,
+        1824,
+        1824
+      ],
+      "top": 171.84375,
+      "header": 152,
+      "focus": "region-leonida-keys"
+    },
+    {
+      "tag": "phone",
+      "id": "grassrivers",
+      "ys": [
+        2697,
+        2697,
+        2697,
+        2697,
+        2697
+      ],
+      "top": 171.578125,
+      "header": 152,
+      "focus": "region-grassrivers"
+    },
+    {
+      "tag": "phone",
+      "id": "port-gellhorn",
+      "ys": [
+        3569,
+        3569,
+        3569,
+        3569,
+        3569
+      ],
+      "top": 172.3125,
+      "header": 152,
+      "focus": "region-port-gellhorn"
+    },
+    {
+      "tag": "phone",
+      "id": "ambrosia",
+      "ys": [
+        4330,
+        4330,
+        4330,
+        4330,
+        4330
+      ],
+      "top": 171.859375,
+      "header": 152,
+      "focus": "region-ambrosia"
+    },
+    {
+      "tag": "phone",
+      "id": "mount-kalaga",
+      "ys": [
+        5065,
+        5065,
+        5065,
+        5065,
+        5065
+      ],
+      "top": 171.515625,
+      "header": 152,
+      "focus": "region-mount-kalaga"
+    }
+  ],
+  "errors": [],
+  "desktop": {
+    "overflow": 0,
+    "sourceRows": 0,
+    "footerGap": 68,
+    "arrowCTAs": []
+  },
+  "desktopCredits": {
+    "open": true,
+    "links": [
+      {
+        "text": "Rockstar Games — Only in Leonida",
+        "href": "https://www.rockstargames.com/VI/only-in-leonida"
+      },
+      {
+        "text": "Providence Canyon — Georgia Department of Natural Resources",
+        "href": "https://gastateparks.org/Providencecanyon"
+      },
+      {
+        "text": "Everglades National Park — U.S. National Park Service",
+        "href": "https://www.nps.gov/ever/index.htm"
+      },
+      {
+        "text": "GTADB.ORG & contributors",
+        "href": "https://github.com/rolux/gtadb.org"
+      },
+      {
+        "text": "Creative Commons Attribution 4.0",
+        "href": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "overflow": 0
+  },
+  "phone": {
+    "overflow": 0,
+    "sourceRows": 0,
+    "footerGap": 60,
+    "arrowCTAs": []
+  },
+  "phoneCredits": {
+    "open": true,
+    "links": [
+      {
+        "text": "Rockstar Games — Only in Leonida",
+        "href": "https://www.rockstargames.com/VI/only-in-leonida"
+      },
+      {
+        "text": "Providence Canyon — Georgia Department of Natural Resources",
+        "href": "https://gastateparks.org/Providencecanyon"
+      },
+      {
+        "text": "Everglades National Park — U.S. National Park Service",
+        "href": "https://www.nps.gov/ever/index.htm"
+      },
+      {
+        "text": "GTADB.ORG & contributors",
+        "href": "https://github.com/rolux/gtadb.org"
+      },
+      {
+        "text": "Creative Commons Attribution 4.0",
+        "href": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "overflow": 0
+  }
+}

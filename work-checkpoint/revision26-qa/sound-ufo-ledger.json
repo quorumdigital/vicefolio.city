@@ -1,0 +1,153 @@
+{
+  "61": {
+    "status": "verified-local",
+    "checks": [
+      "Removed only the music CTA arrow; waveform icon and readable label retained",
+      "Gradient/border/depth retained",
+      "Existing hero heading duration stays1.4s",
+      "Actual click reaches listening room"
+    ],
+    "evidence": [
+      "sound61-hero-desktop.png",
+      "sound61-hero-mobile.png"
+    ]
+  },
+  "62": {
+    "status": "verified-local",
+    "checks": [
+      "Calendar removed from hero; hero artwork unobstructed",
+      "310px right-side content panel at1440px; no overlap with Justice banner",
+      "Mobile stacks below banner with readable single-column release rows",
+      "Content/date/links retained; calendar scrolls normally with content"
+    ],
+    "evidence": [
+      "sound62-calendar-desktop.png",
+      "sound62-calendar-mobile.png"
+    ]
+  },
+  "63": {
+    "status": "resolved-optional",
+    "decision": "Retain the liked calendar without an extra December countdown; user offered countdown as optional alternative. No release-date changes introduced."
+  },
+  "64": {
+    "status": "verified-local",
+    "checks": [
+      "Corrected generated sleeve visibly says only PUSHER above VI; no Original Score by Justice title remains in artwork",
+      "Removed bottom Pusher overlay and disabled historical reinsertion in revision24-music.js",
+      "Desktop/mobile inline cover decodes at1254×1254; actual artwork button opens corrected original PNG",
+      "Justice feat. Gesaffelstein attribution and all18 Music source links preserved",
+      "Removed obsolete Official release artwork label; localized title-adaptation provenance is visibly available inside actual Credits Music disclosure"
+    ],
+    "evidence": [
+      "sound64-pusher-desktop.png",
+      "sound64-pusher-mobile.png",
+      "sound64-pusher-fullresolution.png",
+      "sound64-pusher-credits.png"
+    ]
+  },
+  "65": {
+    "status": "verified-local",
+    "checks": [
+      "2.4s directional drift from64px left with a restrained vertical float",
+      "Measured opacity/transform during real page-load motion; finishes fully visible and stationary",
+      "Reduced motion disables animation and exposes copy immediately",
+      "Lower archive reveal code untouched"
+    ],
+    "evidence": [
+      "ufo65-motion-start.png",
+      "ufo65-motion-middle.png",
+      "ufo65-motion-end.png"
+    ]
+  },
+  "66": {
+    "status": "verified-local",
+    "checks": [
+      "Eyebrow, title image, paragraph and button share measured center316.78px at1440px",
+      "Open Case Files has no arrow; styled button retained",
+      "Actual button click reaches #ufo-files",
+      "Mobile hero copy moves beneath artwork and remains centered/readable without overflow"
+    ],
+    "evidence": [
+      "ufo66-centered-desktop.png",
+      "ufo66-centered-mobile.png"
+    ]
+  },
+  "67": {
+    "status": "verified-local",
+    "checks": [
+      "Removed the below-button original-illustration text",
+      "Strange skies / Hidden encounters / Unsolved stories preserved",
+      "Topics-to-button gap reduced to10px",
+      "Introductory paragraph above button retained",
+      "Desktop/mobile visible group checked"
+    ],
+    "evidence": [
+      "ufo67-compact-desktop.png",
+      "ufo67-compact-mobile.png"
+    ]
+  },
+  "68": {
+    "status": "verified-local",
+    "checks": [
+      "Displayed crop removes165px top band containing GTA V logo",
+      "Michael head/minigun and alien remain visible",
+      "Native aspect ratio preserved; original asset retained",
+      "Desktop/mobile crop inspected"
+    ],
+    "evidence": [
+      "ufo68-michael-crop-desktop.png",
+      "ufo68-michael-crop-mobile.png"
+    ]
+  },
+  "69": {
+    "status": "verified-local",
+    "checks": [
+      "Long source figcaption removed from Michael picture",
+      "Michael/alien image remains clean and uncropped by overlay text",
+      "Original TechTudo/ScreenRant/Rockstar credit retained in expanded Credits imagery group",
+      "Actual Credits disclosure opens and shows working original hrefs"
+    ],
+    "evidence": [
+      "ufo69-clean-michael-desktop.png",
+      "ufo69-clean-michael-mobile.png",
+      "ufo69-credits-desktop.png"
+    ]
+  },
+  "70": {
+    "status": "verified-local",
+    "checks": [
+      "Desktop case height reduced from820.75px to466.75px",
+      "Map image remains native16:9 before left-half clipping; no stretching",
+      "Relevant left map stays visible at294×330.75px desktop and284×319.5px mobile",
+      "Added accessible full-resolution image opener and verified actual modal opens original map source"
+    ],
+    "evidence": [
+      "ufo70-breakwater-desktop.png",
+      "ufo70-breakwater-mobile.png",
+      "ufo70-map-fullresolution-desktop.png"
+    ]
+  },
+  "71": {
+    "status": "verified-local",
+    "checks": [
+      "Compared13 unchanged lower sections/cards with revision26-sound-ufo disabled: text, images, grid columns and transition timings identical",
+      "Actual GTA V filter returns6 matching cases; GTA VI returns1 matching case; All files restores12",
+      "Existing lower reveal implementation retained",
+      "No page JavaScript errors during interactions"
+    ],
+    "evidence": [
+      "ufo71-preserved-archive-desktop.png"
+    ]
+  },
+  "integration": {
+    "status": "verified-local-current-shared-styles",
+    "checks": [
+      "Music: one calendar outside hero; original1.4s title motion and waveform CTA retained; no horizontal overflow at1440px",
+      "X-Files:2.4s title motion, centered eyebrow, no below-button credit, no Michael figcaption; no horizontal overflow at1440px"
+    ],
+    "evidence": [
+      "sound-integration-hero-desktop.png",
+      "ufo-integration-hero-desktop.png"
+    ]
+  }
+}

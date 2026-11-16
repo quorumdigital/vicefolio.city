@@ -1,0 +1,282 @@
+{
+  "revision": 19,
+  "preparedAt": "2026-11-14T04:45:11.900Z",
+  "locales": [
+    "en",
+    "es",
+    "pt-br",
+    "de",
+    "fr",
+    "it",
+    "ru"
+  ],
+  "zoom": "100% / deviceScaleFactor 1",
+  "browsers": {
+    "chrome": "157.0.8103.51",
+    "edge": "157.0.4341.46",
+    "firefox": "159.0.1"
+  },
+  "responsive": {
+    "chromeStates": 273,
+    "firefoxStates": 126,
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "pageOverflow": 0,
+    "headingOverflow": 0,
+    "missingLocalImageFiles": 0,
+    "uniqueImageFiles": 393
+  },
+  "expandedControls": {
+    "states": 280,
+    "dialogFit": true,
+    "controlsReachable": true,
+    "horizontalFilmstripsReachable": true,
+    "escapeCloses": true,
+    "issues": []
+  },
+  "interactionStyles": {
+    "nativeEdgeHover": [
+      {
+        "route": "home",
+        "hover": true,
+        "border": "rgba(145, 223, 255, 0.4)",
+        "shadow": "rgba(0, 0, 0, 0.333) 0px 14px 32px 0px, rgba(145, 223, 255, 0.094) 0px 0px 22px 0px",
+        "background": "linear-gradient(140deg, rgb(35, 26, 43), rgb(20, 19, 31))",
+        "childrenFit": true
+      },
+      {
+        "route": "vehicles",
+        "hover": true,
+        "border": "rgba(145, 223, 255, 0.6)",
+        "shadow": "rgba(185, 230, 255, 0.07) 0px 1px 0px 0px inset, rgba(4, 8, 13, 0.14) 0px 3px 12px 0px",
+        "background": "none",
+        "childrenFit": true
+      },
+      {
+        "route": "fieldguide",
+        "hover": true,
+        "border": "rgba(145, 223, 255, 0.8)",
+        "shadow": "rgba(145, 223, 255, 0.094) 0px 0px 18px 0px",
+        "background": "none",
+        "childrenFit": true
+      },
+      {
+        "route": "ufos",
+        "hover": true,
+        "border": "rgb(177, 234, 255)",
+        "shadow": "rgba(7, 19, 37, 0.44) 0px 4px 18px 0px, rgba(145, 223, 255, 0.133) 0px 0px 18px 0px",
+        "background": "linear-gradient(110deg, rgba(28, 72, 96, 0.92), rgba(38, 59, 89, 0.92))",
+        "childrenFit": true
+      },
+      {
+        "route": "money",
+        "hover": true,
+        "border": "rgba(145, 223, 255, 0.6)",
+        "shadow": "rgba(0, 0, 0, 0.267) 0px 9px 24px 0px",
+        "background": "none",
+        "childrenFit": true
+      }
+    ],
+    "primaryButtons": "Existing branded treatments retained; blue focus indicators verified",
+    "selectedTabsMenusAndBorders": "Blue / neutral treatments verified"
+  },
+  "motion": {
+    "intros": [
+      {
+        "route": "money",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -42, 20)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      },
+      {
+        "route": "vehicles",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -65, 0)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      },
+      {
+        "route": "fieldguide",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -38, 12)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      },
+      {
+        "route": "music",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -50, 14)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      },
+      {
+        "route": "ufos",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -48, 0)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      },
+      {
+        "route": "radio",
+        "start": {
+          "animation": "atlas-copy-arrival",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 35, 24)"
+        },
+        "end": {
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      }
+    ],
+    "reducedMotion": "Visible content and disabled entrance motion verified during reduced-motion responsive audit"
+  },
+  "localization": {
+    "archiveCredits": [
+      {
+        "locale": "en",
+        "credit": "Archive screenshots: Rockstar Games. Image sources are linked in each file. Older-game images are labeled; they are not GTA VI sightings. Reviewed November 13, 2026."
+      },
+      {
+        "locale": "es",
+        "credit": "Capturas de archivo: Rockstar Games. Las fuentes de las imágenes se enlazan en cada expediente. Las imágenes de juegos anteriores están identificadas; no son avistamientos de GTA VI. Revisado el 13 de noviembre de 2026."
+      },
+      {
+        "locale": "pt-br",
+        "credit": "Imagens de arquivo: Rockstar Games. As fontes das imagens estão em cada arquivo. Imagens de jogos anteriores estão identificadas; não são avistamentos de GTA VI. Revisado em 13 de novembro de 2026."
+      },
+      {
+        "locale": "de",
+        "credit": "Archivbilder: Rockstar Games. Die Bildquellen sind in jeder Akte verlinkt. Bilder aus älteren Spielen sind gekennzeichnet; sie zeigen keine GTA-VI-Sichtungen. Geprüft am 13. November 2026."
+      },
+      {
+        "locale": "fr",
+        "credit": "Images d’archive : Rockstar Games. Les sources des images figurent dans chaque dossier. Les images des anciens jeux sont identifiées ; ce ne sont pas des observations dans GTA VI. Vérifié le 13 novembre 2026."
+      },
+      {
+        "locale": "it",
+        "credit": "Immagini d’archivio: Rockstar Games. Le fonti sono collegate in ogni fascicolo. Le immagini dei giochi precedenti sono identificate; non sono avvistamenti di GTA VI. Verificato il 13 novembre 2026."
+      },
+      {
+        "locale": "ru",
+        "credit": "Архивные снимки: Rockstar Games. Источники изображений указаны в каждом досье. Кадры из предыдущих игр отмечены; это не наблюдения в GTA VI. Проверено 13 ноября 2026 года."
+      }
+    ],
+    "routeTitles": "Route-specific document titles restored",
+    "radioArchiveOrder": "Station information precedes GTA FM archive in every locale"
+  },
+  "sourceSyntax": {
+    "javascriptFiles": 69,
+    "failures": []
+  },
+  "limitations": [
+    "Native Safari and iOS are unavailable in this Windows environment.",
+    "Local guest-preview API responses are stubbed; authentication/backend implementation is unchanged."
+  ],
+  "contentNotes": [
+    "Michael alien invasion, frozen alien, UFO Business Battle and alien egg archive imagery added with per-file sources.",
+    "Reported pre-release Breakwater lead remains without an invented sighting image."
+  ],
+  "finalMobileMotion": {
+    "fix": "16px side travel stays inside the mobile gutter",
+    "phoneMotion": [
+      {
+        "width": 320,
+        "scrollWidth": 320,
+        "hiddenCards": 12
+      },
+      {
+        "width": 360,
+        "scrollWidth": 360,
+        "hiddenCards": 12
+      },
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "hiddenCards": 12
+      },
+      {
+        "width": 430,
+        "scrollWidth": 430,
+        "hiddenCards": 12
+      }
+    ],
+    "mobileMotionFinal": [
+      {
+        "locale": "en",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "es",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "pt-br",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "de",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "fr",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "it",
+        "width": 320,
+        "maxScrollWidth": 320
+      },
+      {
+        "locale": "ru",
+        "width": 320,
+        "maxScrollWidth": 320
+      }
+    ],
+    "reducedFinal": {
+      "opacity": "1",
+      "transform": "none",
+      "width": 320,
+      "scrollWidth": 320
+    }
+  },
+  "build": "Vinext production build passed",
+  "liveVerification": {
+    "version19": "Published assets HTTP200, no page errors, all7 localized route titles, stations before Radio archive, actual Flash FM playback time advancing",
+    "followup": "Mobile X-Files travel reduced after the live motion check"
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="100">
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" d="M36.34 74.3C36.34 74.41 36.23 74.52 36.13 74.52L30.73 74.52L30.73 39.31L36.13 39.31C36.23 39.31 36.34 39.42 36.34 39.52L36.34 74.3ZM47.78 92C55.38 92 59.22 89.15 59.22 83.3L59.22 30.61C59.22 24.67 55.38 21.72 47.78 21.72L7.85 21.72L7.85 92L47.78 92Z"/>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" d="M142.17 92L153.61 21.72L131.51 21.72L125.68 61.2L120.07 21.72L97.29 21.72L91.57 61.2L85.74 21.72L62.19 21.72L73.63 92L102.34 92L108.17 56.79L113.89 92L142.17 92Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="100">
+			<stop offset="0" stop-color="#FFE4F4"/>
+			<stop offset="0.5" stop-color="#F4A1D6"/>
+			<stop offset="1" stop-color="#DE71C3"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" d="M196.51 92C204.11 92 207.95 89.02 207.95 83.08L207.95 30.39C207.95 24.57 204.11 21.72 196.51 21.72L168.01 21.72C160.44 21.72 156.57 24.57 156.57 30.39L156.57 56.9C156.57 62.73 160.44 65.6 168.01 65.6L185.07 65.6L185.07 74.17C185.07 74.3 184.96 74.41 184.85 74.41L179.67 74.41C179.56 74.41 179.45 74.3 179.45 74.17L179.45 70.11L156.57 70.11L156.57 83.08C156.57 89.02 160.44 92 168.01 92L196.51 92ZM185.07 49.11L179.67 49.11C179.56 49.11 179.45 48.98 179.45 48.87L179.45 39.42C179.45 39.31 179.56 39.2 179.67 39.2L184.85 39.2C184.96 39.2 185.07 39.31 185.07 39.42L185.07 49.11Z"/>
+</svg>

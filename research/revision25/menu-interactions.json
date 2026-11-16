@@ -1,0 +1,132 @@
+{
+  "testedAt": "2026-11-14T16:35:26.125Z",
+  "origin": "http://127.0.0.1:4173/en/",
+  "checks": [
+    {
+      "label": "pointer opens catalog",
+      "pass": true
+    },
+    {
+      "label": "summary close enters live animation",
+      "pass": true,
+      "state": {
+        "open": true,
+        "closing": true,
+        "inert": true,
+        "opacity": 1,
+        "animation": "r25MenuLeave",
+        "focused": true
+      }
+    },
+    {
+      "label": "close visibly fades before hiding",
+      "pass": true,
+      "state": {
+        "open": true,
+        "closing": true,
+        "inert": true,
+        "opacity": 0.874421,
+        "animation": "r25MenuLeave",
+        "focused": true
+      }
+    },
+    {
+      "label": "summary close finishes",
+      "pass": true
+    },
+    {
+      "label": "keyboard Space close animates",
+      "pass": true
+    },
+    {
+      "label": "Escape closes and restores summary focus",
+      "pass": true,
+      "state": {
+        "open": true,
+        "closing": true,
+        "inert": true,
+        "opacity": 0.999289,
+        "animation": "r25MenuLeave",
+        "focused": true
+      }
+    },
+    {
+      "label": "outside pointer close animates despite legacy handler",
+      "pass": true
+    },
+    {
+      "label": "zero-gap pointer crossing stays open",
+      "pass": true,
+      "gap": 0
+    },
+    {
+      "label": "switching menus fades previous menu",
+      "pass": true
+    },
+    {
+      "label": "previous menu finishes while new menu stays open",
+      "pass": true
+    },
+    {
+      "label": "quick reopen cancels pending close",
+      "pass": true,
+      "state": {
+        "open": true,
+        "closing": false,
+        "inert": false,
+        "opacity": 0.982983,
+        "animation": "atlasMenuArrive",
+        "focused": true
+      }
+    },
+    {
+      "label": "language menu uses animated close",
+      "pass": true
+    },
+    {
+      "label": "timezone details uses animated native-summary close",
+      "pass": true
+    },
+    {
+      "label": "menu link navigates and closes",
+      "pass": true
+    },
+    {
+      "label": "reduced-motion closes immediately",
+      "pass": true,
+      "state": {
+        "open": false,
+        "closing": false,
+        "inert": false,
+        "opacity": 1,
+        "animation": "none",
+        "focused": true
+      }
+    },
+    {
+      "label": "mobile tap opens catalog",
+      "pass": true
+    },
+    {
+      "label": "mobile tap close animates",
+      "pass": true
+    },
+    {
+      "label": "mobile tap close completes",
+      "pass": true
+    },
+    {
+      "label": "mobile touch link still navigates",
+      "pass": true
+    },
+    {
+      "label": "keyboard Enter close animates",
+      "pass": true
+    },
+    {
+      "label": "enabling reduced motion finishes pending close",
+      "pass": true
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,3 @@
+# Revision 34
+Full-width desktop supporting-cast collage with active non-profile imagery; mobile layout unchanged. Vice City playlist label, proportionate play button and stronger fallback text. Early route-specific hero preloads, responsive home preload, intent warming, synchronous refinements, no hero-image or containing-page fade. Existing eager YouTube/API startup retained; direct click now unmutes and plays without iframe replacement, including pending-ready intent.
+Validation: JS syntax, desktop visual review, mobile two-column grid and radio labels/sizes. Real iPhone audio autoplay and external network startup time not verified; browser restrictions and network downloads still apply.

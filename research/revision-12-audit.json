@@ -1,0 +1,731 @@
+{
+  "revision": 12,
+  "checkedAt": "2026-11-13T16:39:26.055Z",
+  "scope": [
+    "Visible four-part navigation",
+    "Guest/signed-in header controls",
+    "Matching warm-white hero headlines and higher introduction",
+    "Italian full edition and six-language ordering",
+    "Coordinate-aware map focus, selected-only markers and clear unpinned states"
+  ],
+  "locales": [
+    "en",
+    "es",
+    "pt-br",
+    "de",
+    "fr",
+    "it"
+  ],
+  "italian": {
+    "protectedDataParity": true,
+    "protectedExtraParity": true,
+    "uiKeys": 821,
+    "note": "Money-method status fields are human-readable labels and are localized; enums, IDs, URLs and numeric values remain stable."
+  },
+  "checks": {
+    "syntaxFiles": 27,
+    "backendTests": 4,
+    "guestLayouts": [
+      {
+        "lang": "en",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "en",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "en",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "en",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "en",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "en",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "es",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "pt-br",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "de",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "fr",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 1912,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 1280,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 1152,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 1024,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 390,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      },
+      {
+        "lang": "it",
+        "width": 320,
+        "overflow": false,
+        "navVisible": true,
+        "labelsFit": true,
+        "savesHidden": true,
+        "heroMatch": true
+      }
+    ],
+    "signedLayouts": [
+      {
+        "lang": "es",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "es",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "es",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      },
+      {
+        "lang": "pt-br",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "pt-br",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "pt-br",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      },
+      {
+        "lang": "de",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "de",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "de",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      },
+      {
+        "lang": "fr",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "fr",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "fr",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      },
+      {
+        "lang": "it",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "it",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "it",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      },
+      {
+        "lang": "en",
+        "width": 1152,
+        "overflow": false,
+        "signedIn": true,
+        "right": 1128
+      },
+      {
+        "lang": "en",
+        "width": 390,
+        "overflow": false,
+        "signedIn": true,
+        "right": 374
+      },
+      {
+        "lang": "en",
+        "width": 320,
+        "overflow": false,
+        "signedIn": true,
+        "right": 310
+      }
+    ],
+    "dropdowns": {
+      "catalogOpen": true,
+      "exclusive": true,
+      "escapeCloses": true,
+      "outsideCloses": true,
+      "keyboardOpens": true,
+      "navigationWorks": true,
+      "routeCloses": true,
+      "catalogActive": true,
+      "sectionSearch": true
+    },
+    "italianRoutes": [
+      {
+        "route": "#vehicles",
+        "main": "IL DATABASE DELLA GUIDA\nSCHEDE DEI VEICOLI.\n\nDettagli pubblicati sull’acquisizione, avvistamenti e fonti per ogni veicolo di questa raccolta.\n\nScegli le prove da consultare. I dett",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#items",
+        "main": "IL DATABASE DELLA GUIDA\nARMI, EQUIPAGGIAMENTO E ALTRO.\n\nArmi, personalizzazioni e attività commerciali, con accesso per edizione e luoghi noti.\n\nScegli le prove da consultare. I de",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#money",
+        "main": "LA GUIDA AI GUADAGNI DI LEONIDA\nPREPARA LA PROSSIMA MOSSA.\n\nGuadagna. Conserva. Vai avanti.\n\nIL DENARO CONTA\nOgni bottino ha un costo.\n\nRockstar afferma che in alcuni punti della s",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#fieldguide",
+        "main": "LA GUIDA DELLO STATO\nBENVENUTO A LEONIDA.\n\nSei regioni. Sessantuno vedute ufficiali. Trova il tuo angolo di stato.\n\nVice City\nLeonida Keys\nGrassrivers\nPort Gellhorn\nAmbrosia\nMount ",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#music",
+        "main": "LA SALA D’ASCOLTO DI LEONIDA\nIL SUONO DI LEONIDA.\n\nMusica con fonti verificabili. Le uscite ufficiali e i brani dei trailer sono distinti dalla musica confermata per la radio del g",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#guides",
+        "main": "RICERCA VERIFICATA / 13 NOVEMBRE 2026\nIL BRIEFING DEL GIOCATORE.\n\nAcquisizione, armi, furti d’auto, ricerche della polizia e progressione. Apri una guida per trovare risposte conci",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#ufos",
+        "main": "UFO / ALIENI / STORIA DELLA SERIE\nI DOSSIER UFO.\n\nCieli misteriosi, velivoli nascosti e le storie che li circondano. Segui le prove nella storia degli UFO di GTA.\n\nGTA V · screensh",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#gallery",
+        "main": "L’ARCHIVIO DELLE IMMAGINI UFFICIALI\nCARTOLINE DA LEONIDA.\n\nSfoglia tutti i 138 screenshot principali presenti nella galleria multimediale di GTA VI di Rockstar al momento di questa",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#people",
+        "main": "GLI ABITANTI DI LEONIDA\nOGNUNO HA IL SUO GIOCO.\n\nConosci i protagonisti e i personaggi secondari presentati da Rockstar. Questi profili raccolgono le informazioni biografiche annun",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#account",
+        "main": "IL TUO ACCOUNT\nIL MIO ATLAS.\n\nScegli come conservare le tue scoperte.\n\nMODALITÀ OSPITE\nIl tuo Atlas, ovunque tu vada.\n\nLe voci salvate, i luoghi trovati e le note restano nel tuo a",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#saved",
+        "main": "LA TUA COLLEZIONE PERSONALE\nIL MIO ATLAS.\n\nSalva le tue scoperte.\n\nSalvato in questo browser\nAccedi per sincronizzare ↗\n0 SCHEDE SALVATE\nEsporta voci e note ↓\nLa tua prossima scope",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#community",
+        "main": "L’OSSERVATORIO DELLA COMMUNITY\nLascia una traccia.\n\nTrasforma una scoperta in una segnalazione utile: luogo, condizioni, prove e istruzioni per riprodurla.\n\nDocumenta la tua scoper",
+        "overflow": false,
+        "broken": []
+      },
+      {
+        "route": "#credits",
+        "main": "RICERCA / ATTRIBUZIONI\nFONTI E CREDITI.\n\nI riferimenti di Vice Atlas, raccolti in un unico posto.\n\nVice Atlas è un progetto indipendente realizzato dai fan. Illustrazioni e screens",
+        "overflow": false,
+        "broken": []
+      }
+    ],
+    "accountHeader": {
+      "signedIn": true,
+      "savedVisible": true,
+      "label": "Account",
+      "overflow": false,
+      "afterSignOut": {
+        "signedIn": false,
+        "savedHidden": true,
+        "label": "Sign in"
+      }
+    },
+    "mapFocus": [
+      {
+        "selected": "entry-buggy",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-kayak",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-enduro",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-electric-fang",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-ptt",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-rideout",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-saras",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-stock305",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 1
+      },
+      {
+        "selected": "entry-squalo",
+        "focusMode": true,
+        "focusKind": "area",
+        "zoom": 3,
+        "maxZoom": 5,
+        "markerCount": 0,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 0
+      },
+      {
+        "selected": "entry-stanier",
+        "focusMode": true,
+        "focusKind": "area",
+        "zoom": 2,
+        "maxZoom": 5,
+        "markerCount": 0,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 0
+      },
+      {
+        "selected": "entry-cheetah",
+        "focusMode": true,
+        "focusKind": "pending",
+        "zoom": 2,
+        "maxZoom": 5,
+        "markerCount": 0,
+        "listCount": 1,
+        "locatorVisible": "block",
+        "focusedPins": 0
+      }
+    ],
+    "languageContinuity": {
+      "url": "#world?pin=entry-buggy",
+      "state": {
+        "selected": "entry-buggy",
+        "focusMode": true,
+        "focusKind": "pin",
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1
+      },
+      "saved": true,
+      "languageOrder": [
+        "en",
+        "es",
+        "pt-br",
+        "de",
+        "fr",
+        "it"
+      ]
+    },
+    "runtimeErrors": []
+  },
+  "mapCaveat": "Squalo and Stanier have named search areas, not exact pickup coordinates. Shaded extents are inferred from community address-labeled records and are not authoritative neighborhood boundaries or item spawns.",
+  "publication": "Source helper build and native publication follow this checkpoint."
+}

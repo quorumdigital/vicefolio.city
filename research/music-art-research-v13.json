@@ -1,0 +1,483 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "All 11 existing soundtrack cards; exact artist campaign artwork, source identification, and official music verification",
+  "summary": {
+    "officialTracksVerified": 11,
+    "artistCampaignIllustrationsDownloaded": 6,
+    "additionalOfficialArtAssetsDownloaded": 2,
+    "unresolvedSeparateArtistIllustrations": [
+      "flower-in-a-hurricane",
+      "suzuki",
+      "dont-chart",
+      "blood-in-your-eyes",
+      "pusher"
+    ],
+    "importantDistinction": "Artist teaser images, official single covers, and general composer promotional illustrations are different assets. Do not present a shared album cover as the artist-specific teaser. No in-game radio station assignment should be inferred from soundtrack-album inclusion."
+  },
+  "tracks": [
+    {
+      "id": "thats-it",
+      "title": "That’s It",
+      "artist": "Yung Lean feat. Future & Metro Boomin",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/thatsit",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/thats-it.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/bd1bcd7b-cce8-49b5-8beb-229b6d465b27/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdUC6hqtkEI/",
+      "additionalArtistPostUrls": [
+        "https://www.instagram.com/p/DdUFwQ5jGDb/",
+        "https://www.instagram.com/p/DdUD_I0NbBB/"
+      ],
+      "postOwner": "Future / Freebandz; shared by Metro Boomin and Yung Lean",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Purple Coquette with a VCE BBY Leonida plate",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-3-future.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-3-future/w960.webp",
+        "officialHostImageUrl": null,
+        "width": 960,
+        "height": 960,
+        "sourceOriginalDimensions": [
+          1440,
+          1440
+        ],
+        "objectPosition": "50% 50%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-3-future",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "rhyno",
+      "title": "RHYNO",
+      "artist": "Travis Scott",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/rhyno",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/rhyno.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/12b57fe4-bbdc-4c00-8211-0fa07e45b951/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdT73c5ubnj/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Travis Scott",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Purple heels beside a dance pole",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-1-travis-scott.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-1-travis-scott/w960.webp",
+        "officialHostImageUrl": null,
+        "width": 960,
+        "height": 960,
+        "sourceOriginalDimensions": [
+          1440,
+          1440
+        ],
+        "objectPosition": "50% 50%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-1-travis-scott",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "sexy-magic",
+      "title": "Sexy Magic",
+      "artist": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Etienne de Crécy",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/sexymagic",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/sexy-magic.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/4f124911-52cb-4b36-b462-eb8ed7116e48/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdUChWhs0t6/",
+      "additionalArtistPostUrls": [
+        "https://www.instagram.com/p/DdUGoHsyecI/"
+      ],
+      "postOwner": "CA7RIEL & Paco Amoroso; shared by PinkPantheress official fan account",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Yacht against a blue sky",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-4-ca7riel-and-paco-amoroso.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-4-ca7riel-and-paco-amoroso/w1920.webp",
+        "officialHostImageUrl": null,
+        "width": 1920,
+        "height": 2400,
+        "sourceOriginalDimensions": [
+          2700,
+          3375
+        ],
+        "objectPosition": "50% 75%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-4-ca7riel-and-paco-amoroso",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "flower-in-a-hurricane",
+      "title": "Flower in a Hurricane",
+      "artist": "Justice feat. Tame Impala, SZA, King Gizzard & The Lizard Wizard",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/FIAH",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/flower-in-a-hurricane.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/4e23464c-92b1-47cd-9764-38a74c097713/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": null,
+      "additionalArtistPostUrls": [],
+      "postOwner": null,
+      "postDate": null,
+      "postAccess": null,
+      "recommendedArtwork": {
+        "kind": "official single cover",
+        "caption": "Official single artwork",
+        "description": "GTA VI logo with water droplets",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/justice-flower-in-a-hurricane.webp",
+        "archivedImageUrl": "https://gtasixhub.com/files/media/gv-justice-flower-in-a-hurricane-709531/w1440.webp",
+        "width": 1440,
+        "height": 1440,
+        "sourceUrl": "https://gtasixhub.com/media/gv-justice-flower-in-a-hurricane",
+        "confidence": "official release art corroborated by Rockstar single announcement"
+      },
+      "gaps": [
+        "No distinct artist-posted teaser illustration or exact artist post was established for this single."
+      ]
+    },
+    {
+      "id": "last-thing-you-need",
+      "title": "Last Thing You Need",
+      "artist": "Morgan Wallen",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/lastthingyouneed",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/last-thing-you-need.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/a16cfb87-e315-4bf8-ae42-0d3f2ddb4fb7/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdUAvfrOTvp/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Morgan Wallen official fan club",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Empty pool with ladder and lounge chairs",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-2-morgan-wallen.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-2-morgan-wallen/w960.webp",
+        "officialHostImageUrl": null,
+        "width": 960,
+        "height": 960,
+        "sourceOriginalDimensions": [
+          1440,
+          1440
+        ],
+        "objectPosition": "50% 50%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-2-morgan-wallen",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "suzuki",
+      "title": "Suzuki",
+      "artist": "Fuerza Regida",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/suzuki",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/suzuki.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/c84c8312-e122-4a4c-b537-540c7ca11099/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/reel/DeMutd8MF2v/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Fuerza Regida",
+      "postDate": "2026-10-07",
+      "postAccess": "Exact reel link recovered from the source article embed.",
+      "recommendedArtwork": {
+        "kind": "official release cover fallback",
+        "caption": "Official release artwork",
+        "localSitePath": "assets/music/suzuki.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/c84c8312-e122-4a4c-b537-540c7ca11099/artwork-440x440.jpg",
+        "confidence": "confirmed song and official listening-page cover; separate artist teaser not established"
+      },
+      "gaps": [
+        "No separate static artist illustration located. The real teaser is a video, so do not label the album cover as that teaser."
+      ],
+      "teaserKind": "Live-action promotional video",
+      "teaserDescription": "Jesús Ortiz Paz driving a Ferrari with a Vice City / Leonida plate",
+      "sourceEvidence": [
+        "https://consequence.net/2026/10/fuerza-regida-grand-theft-auto-vi-soundtrack/",
+        "https://gta.com.ua/en/news/gta6/cardi-b-and-fuerza-regida-release-tracks-for-music-album"
+      ]
+    },
+    {
+      "id": "macacoa-2000",
+      "title": "Macacoa 2000",
+      "artist": "Rauw Alejandro",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/macacoa2000",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/macacoa-2000.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/0134aee2-0e3d-4343-a023-9ea55d7ff2e6/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdUFuFeuzOI/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Rauw Alejandro",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Pink flamingo pool float",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-5-raul-alejandro.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-5-raul-alejandro/w960.webp",
+        "officialHostImageUrl": null,
+        "width": 960,
+        "height": 960,
+        "sourceOriginalDimensions": [
+          1440,
+          1440
+        ],
+        "objectPosition": "50% 50%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-5-raul-alejandro",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "dont-chart",
+      "title": "Don’t Chart",
+      "artist": "Cardi B",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/dontchart",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/dont-chart.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/b685dc30-fe68-455d-86e9-b43a921546cd/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DeQie3tMwgW/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Cardi B (@iamcardib)",
+      "postDate": "2026-10-08",
+      "postAccess": "Release announcement found in indexed mirror; mirror now returns 410. This is not the earlier Story permalink.",
+      "recommendedArtwork": {
+        "kind": "official release cover fallback",
+        "caption": "Official release artwork",
+        "localSitePath": "assets/music/dont-chart.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/b685dc30-fe68-455d-86e9-b43a921546cd/artwork-440x440.jpg",
+        "confidence": "confirmed song and official listening-page cover; separate artist teaser not established"
+      },
+      "gaps": [
+        "The earlier hoodie Story is ephemeral; no original permalink or reliable full-resolution static file recovered."
+      ],
+      "teaserKind": "Instagram Story photograph",
+      "teaserDescription": "A gray BADDIE hoodie, matching Lucia’s in-game clothing",
+      "teaserPostUrl": null,
+      "sourceEvidence": [
+        "https://imginn.com/p/DeQie3tMwgW/",
+        "https://thebreakfastclub.iheart.com/content/2026-10-09-rap-rising-cardi-b-debuts-new-song-dont-chart-from-gta-vi-soundtrack/"
+      ]
+    },
+    {
+      "id": "blood-in-your-eyes",
+      "title": "Blood In Your Eyes",
+      "artist": "Tove Lo",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/bloodinyoureyes",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/blood-in-your-eyes.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/cdda039b-98ee-459f-b107-9842d46bed6c/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://x.com/ToveLo/status/2120164613383958966",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Tove Lo",
+      "postDate": "2026-11-10",
+      "postAccess": "Exact artist X announcement identified; X fetch blocked.",
+      "recommendedArtwork": {
+        "kind": "official release cover fallback",
+        "caption": "Official release artwork",
+        "localSitePath": "assets/music/blood-in-your-eyes.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/cdda039b-98ee-459f-b107-9842d46bed6c/artwork-440x440.jpg",
+        "confidence": "confirmed song and official listening-page cover; separate artist teaser not established"
+      },
+      "gaps": [
+        "No separate artist-shared illustrated teaser recovered; song confirmed in Rockstar’s Pre-Load Now video."
+      ],
+      "sourceEvidence": [
+        "https://gtaplaybook.com/news/gta-6-the-album-tove-lo-blood-in-your-eyes/"
+      ]
+    },
+    {
+      "id": "bright-lights-big-city",
+      "title": "Bright Lights, Big City",
+      "artist": "Keith Richards",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://gtavi-thealbum.lnk.to/brightlightsbigcity",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/bright-lights-big-city.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/62fabadc-32c1-467c-89de-fd763cf84b6c/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DdUFptdRWBp/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Keith Richards",
+      "postDate": "2026-09-15",
+      "postAccess": "Original Instagram URL recovered from embedded source; direct Instagram fetch blocked. Artwork attribution corroborated by archive and contemporaneous reporting.",
+      "recommendedArtwork": {
+        "kind": "artist-shared campaign teaser illustration",
+        "caption": "Artist campaign artwork",
+        "description": "Iguana artwork",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gta-6-artwork-6-keith-richards.webp",
+        "archivedImageUrl": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-6-keith-richards/w1920.webp",
+        "officialHostImageUrl": null,
+        "width": 1920,
+        "height": 2400,
+        "sourceOriginalDimensions": [
+          2700,
+          3375
+        ],
+        "objectPosition": "50% 72%",
+        "confidence": "corroborated archived artwork; original post URL identified",
+        "sourceUrl": "https://gtasixhub.com/media/gv-gta-6-artwork-6-keith-richards",
+        "sourceEvidence": [
+          "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+          "https://www.gtavice.net/galleries/soundtrack-artwork"
+        ]
+      },
+      "gaps": [
+        "Direct primary social-post content unavailable in this research environment; do not describe source as directly inspected."
+      ]
+    },
+    {
+      "id": "pusher",
+      "title": "Pusher",
+      "artist": "Justice feat. Gesaffelstein",
+      "officialTrackVerified": true,
+      "officialSource": "https://www.rockstargames.com/VI/music",
+      "officialListeningUrl": "https://justice.lnk.to/pusher",
+      "existingOfficialReleaseCover": {
+        "localSitePath": "assets/music/pusher.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/62a6da49-6c5c-44cc-96ef-5f9ebcdfbba9/artwork-440x440.jpg",
+        "type": "official release cover; not automatically a teaser"
+      },
+      "artistPostUrl": "https://www.instagram.com/p/DfF0FeztnlH/",
+      "additionalArtistPostUrls": [],
+      "postOwner": "Justice (@etjusticepourtous)",
+      "postDate": "2026-10-29",
+      "postAccess": "Original post inaccessible; indexed mirror quotes release announcement and artwork credit to Warren Fu.",
+      "recommendedArtwork": {
+        "kind": "official release cover fallback",
+        "caption": "Official release artwork",
+        "localSitePath": "assets/music/pusher.jpg",
+        "sourceImageUrl": "https://linkstorage.linkfire.com/medialinks/images/62a6da49-6c5c-44cc-96ef-5f9ebcdfbba9/artwork-440x440.jpg",
+        "confidence": "confirmed song and official listening-page cover; separate artist teaser not established"
+      },
+      "gaps": [
+        "The artist-post image CDN returns 403; the exact post image could not be downloaded or visually compared. Keep the official release cover labeled accurately."
+      ],
+      "sourceEvidence": [
+        "https://imginn.com/p/DfF0FeztnlH/"
+      ],
+      "artistPostImageUrl": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/879454197_18495031222106063_6333111502662356318_n.jpg?_nc_cat=101&_nc_gid=B-3of5KUDR65QNyY5TYHlw&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_oc=AdrdVYkG4CFUIznd28NaZYuS2EIrEvJj-cJH-90ZKW1vm6HcSh8avCdcvLpCatK9oQwTyW1Ds4BJkUH1qluSbXL6&_nc_ohc=Rjga2AWT6a4Q7kNvwF5OhyY&_nc_sid=58cdad&_nc_ss=70580&_nc_zt=23&ccb=7-5&dl=1&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&ig_cache_key=NDAxODg0NzMxNzU5Mzg0ODEzNQ%3D%3D.3-ccb7-5&oe=6AEED7B3&oh=00_AQRQAxtuQERhddsRueF9pTMZ0bJ2t-FqAGmFUJLDCedBdA&stp=dst-jpg_e35_tt6"
+    }
+  ],
+  "additionalAssets": [
+    {
+      "name": "gtavi-justice-illustration",
+      "path": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision13/music-art/gtavi-justice-illustration.webp",
+      "url": "https://gtasixhub.com/files/media/gv-gtavi-justice-illustration-2437d0/w1920.webp",
+      "bytes": 194212,
+      "width": 1920,
+      "height": 1080,
+      "tag": "VP8 ",
+      "kind": "Composer promotional illustration",
+      "description": "Justice illustrated against a palm-lined sunset",
+      "sourceUrl": "https://gtasixhub.com/media/gv-gtavi-justice-illustration",
+      "corroboratingSource": "https://rockstarintel.com/new-gta-6-screenshot-and-launch-trailer-artwork-released/",
+      "artistPostUrl": null,
+      "note": "Suitable for the score/composer section. Not established as Pusher-specific or artist-posted teaser."
+    }
+  ],
+  "implementationNotes": [
+    "Prefer the six artist campaign illustrations on their matching song cards.",
+    "Use object-position 50% 75% for the yacht so the subject survives square cropping.",
+    "The four square initial teasers downloaded are 960x960, sufficient for compact cards but not full-screen HD; original archive metadata lists 1440x1440.",
+    "Yacht and iguana downloads are 1920x2400; Justice composer illustration 1920x1080; Flower single cover 1440x1440.",
+    "Keep sources in the site credits or source drawer. Artwork captions can be compact and accurate.",
+    "Do not convert the live-action Fuerza teaser or Cardi hoodie Story into invented illustration."
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.rockstargames.com/VI/music",
+      "result": "11 current tracks confirmed: 10 album singles plus Pusher score single"
+    },
+    {
+      "url": "https://www.soleretriever.com/news/articles/travis-scott-morgan-wallen-future-more-tease-grand-theft-auto-6-soundtrack",
+      "result": "Original Instagram embed URLs and six teaser subject associations retrieved from article HTML"
+    },
+    {
+      "url": "https://www.gtavice.net/galleries/soundtrack-artwork",
+      "result": "Gallery explicitly describes artist/Spotify teaser campaign artwork"
+    },
+    {
+      "url": "https://gtasixhub.com/collections/soundtrack-artwork",
+      "result": "Individual artwork pages, dimensions, archive URLs, and downloads inspected"
+    }
+  ]
+}

@@ -1,0 +1,1488 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-11-13",
+  "language": "en",
+  "sources": {
+    "rockstar": {
+      "title": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida",
+      "type": "official",
+      "ref": "turn238view0",
+      "notes": "All eight official character biographies; supporting rather than lengthy reproduced prose."
+    },
+    "media": {
+      "title": "Rockstar Games — Screenshots",
+      "url": "https://www.rockstargames.com/VI/media/screenshots",
+      "type": "official",
+      "notes": "Existing gallery assets visually reviewed; selected portraits measured 3840×2160."
+    },
+    "videos": {
+      "title": "Rockstar Games — Videos",
+      "url": "https://www.rockstargames.com/VI/media/videos",
+      "type": "official",
+      "ref": "turn209view0"
+    },
+    "wikiCharacters": {
+      "title": "GTA Wiki — Characters in GTA VI",
+      "url": "https://gta.wiki/w/Characters_in_GTA_VI",
+      "type": "community-reference",
+      "ref": "turn205search0",
+      "access": "Search-index extract; direct page access blocked."
+    },
+    "wikiJason": {
+      "title": "GTA Wiki — Jason Duval",
+      "url": "https://gta.wiki/w/Jason_Duval",
+      "type": "community-reference",
+      "ref": "turn205search5",
+      "access": "Search-index extract; direct page access blocked."
+    },
+    "wikiLucia": {
+      "title": "GTA Wiki — Lucia Caminos",
+      "url": "https://gta.wiki/w/Lucia_Caminos",
+      "type": "community-reference",
+      "ref": "turn206search11",
+      "access": "Search-index extract; direct page access blocked."
+    },
+    "wikiProtagonists": {
+      "title": "GTA Wiki — Protagonist",
+      "url": "https://gta.wiki/w/Protagonist",
+      "type": "community-reference",
+      "ref": "turn206search1"
+    },
+    "wikiExtended": {
+      "title": "GTA Wiki — An Extended Look",
+      "url": "https://gta.wiki/w/An_Extended_Look",
+      "type": "community-reference",
+      "ref": "turn205search4",
+      "notes": "Scene descriptions are promotional-story context, not final mission titles or unlock instructions."
+    },
+    "baseJason": {
+      "title": "GTABase — Jason Duval",
+      "url": "https://www.gtabase.com/gta-6/characters/jason",
+      "type": "community-reference",
+      "ref": "turn209view1"
+    },
+    "baseLucia": {
+      "title": "GTABase — Lucia Caminos",
+      "url": "https://www.gtabase.com/gta-6/characters/lucia",
+      "type": "community-reference",
+      "ref": "turn209view2"
+    },
+    "baseCal": {
+      "title": "GTABase — Cal Hampton",
+      "url": "https://www.gtabase.com/characters/gta-6/cal-hampton",
+      "type": "community-reference",
+      "ref": "turn209view3"
+    },
+    "baseBoobie": {
+      "title": "GTABase — Boobie Ike",
+      "url": "https://www.gtabase.com/characters/gta-6/boobie-ike",
+      "type": "community-reference",
+      "ref": "turn199view0"
+    },
+    "baseDrequan": {
+      "title": "GTABase — Dre’Quan Priest",
+      "url": "https://www.gtabase.com/characters/gta-6/dre-quan-priest",
+      "type": "community-reference",
+      "ref": "turn201view0"
+    },
+    "baseRoxy": {
+      "title": "GTABase — Roxy",
+      "url": "https://www.gtabase.com/characters/gta-6/roxy",
+      "type": "community-reference",
+      "ref": "turn201view1"
+    },
+    "baseBae": {
+      "title": "GTABase — Bae-Luxe",
+      "url": "https://www.gtabase.com/characters/gta-6/bae-luxe",
+      "type": "community-reference",
+      "ref": "turn206view0"
+    },
+    "baseRaul": {
+      "title": "GTABase — Raul Bautista",
+      "url": "https://www.gtabase.com/characters/gta-6/raul-bautista",
+      "type": "community-reference",
+      "ref": "turn199view3"
+    },
+    "baseBrian": {
+      "title": "GTABase — Brian Heder",
+      "url": "https://www.gtabase.com/characters/gta-6/brian-heder",
+      "type": "community-reference",
+      "ref": "turn199view4"
+    },
+    "baseLori": {
+      "title": "GTABase — Lori Heder",
+      "url": "https://www.gtabase.com/characters/gta-6/lori-heder",
+      "type": "community-reference",
+      "ref": "turn201view2"
+    }
+  },
+  "characters": [
+    {
+      "id": "jason",
+      "name": "Jason Duval",
+      "role": "Playable protagonist",
+      "tagline": "A former soldier with ties to the Keys’ smuggling trade.",
+      "sections": [
+        {
+          "heading": "His corner of Leonida",
+          "body": "Jason’s established base is in the Leonida Keys. He stays at a property owned by Brian Heder in exchange for helping with local criminal work, tying his home life to the same smuggling circle that includes his friend Cal.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "rockstar",
+            "baseJason"
+          ]
+        },
+        {
+          "heading": "Before Lucia",
+          "body": "Crime was part of Jason’s upbringing. A spell in the Army offered a route out of his troubled teenage years, but he eventually returned to drug-running work. He wants a more comfortable future; Lucia becomes both his romantic partner and his partner in crime.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseJason",
+            "wikiCharacters"
+          ]
+        },
+        {
+          "heading": "What the footage shows",
+          "body": "Promotional scenes place him alongside Lucia in robberies and armed escapes, while quieter screenshots show fishing and pool with Cal. His everyday friendships matter alongside the action.",
+          "evidence": "official-image-observation",
+          "sources": [
+            "media",
+            "wikiJason"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Home region",
+          "Leonida Keys"
+        ],
+        [
+          "Background",
+          "Former Army service"
+        ],
+        [
+          "Work",
+          "Drug running and local criminal jobs"
+        ],
+        [
+          "Vehicle connection",
+          "Turquoise Vapid Ganado"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Lucia Caminos",
+          "relation": "Romantic and criminal partner",
+          "id": "lucia"
+        },
+        {
+          "name": "Cal Hampton",
+          "relation": "Friend and fellow Brian associate",
+          "id": "cal"
+        },
+        {
+          "name": "Brian Heder",
+          "relation": "Employer and landlord",
+          "id": "brian"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "His Marauder tattoo and military-themed clothing echo the Army background described in his biography.",
+          "evidence": "official-image-observation",
+          "sources": [
+            "wikiJason",
+            "media"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseJason",
+        "wikiJason",
+        "wikiCharacters"
+      ],
+      "portraitId": "photo-69",
+      "galleryIds": [
+        "photo-69",
+        "photo-7",
+        "photo-13",
+        "photo-71",
+        "photo-52",
+        "photo-53",
+        "photo-54",
+        "photo-55",
+        "photo-68",
+        "photo-70",
+        "photo-72",
+        "photo-73",
+        "photo-8",
+        "photo-9",
+        "photo-10",
+        "photo-11",
+        "photo-12",
+        "photo-14",
+        "photo-15"
+      ],
+      "portraitPosition": "50% 34%",
+      "portraitReason": "Warm, recognizable face; stronger profile lead than a distant action frame.",
+      "images": [
+        {
+          "id": "photo-69",
+          "name": "Jason Duval 02",
+          "image": "assets/photo-69.jpg",
+          "fullImage": "assets/hd/photo-69.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-7",
+          "name": "Jason Duval 11",
+          "image": "assets/photo-7.jpg",
+          "fullImage": "assets/hd/photo-7.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_11.019l5gj6~0~0v.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-13",
+          "name": "Jason Duval 17",
+          "image": "assets/photo-13.jpg",
+          "fullImage": "assets/hd/photo-13.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_17.0tp7hiuz.e385.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-71",
+          "name": "Jason Duval 04",
+          "image": "assets/photo-71.jpg",
+          "fullImage": "assets/hd/photo-71.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-52",
+          "name": "Jason Duval 07",
+          "image": "assets/photo-52.jpg",
+          "fullImage": "assets/hd/photo-52.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_07.0ca326xbl~oyh.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-53",
+          "name": "Jason Duval 08",
+          "image": "assets/photo-53.jpg",
+          "fullImage": "assets/hd/photo-53.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_08.0841zdqaobvhd.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-54",
+          "name": "Jason Duval 09",
+          "image": "assets/photo-54.jpg",
+          "fullImage": "assets/hd/photo-54.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_09.0to5nepm39efn.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-55",
+          "name": "Jason Duval 10",
+          "image": "assets/photo-55.jpg",
+          "fullImage": "assets/hd/photo-55.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_10.14zid5kee4hy..jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-68",
+          "name": "Jason Duval 01",
+          "image": "assets/photo-68.jpg",
+          "fullImage": "assets/hd/photo-68.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-70",
+          "name": "Jason Duval 03",
+          "image": "assets/photo-70.jpg",
+          "fullImage": "assets/hd/photo-70.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-72",
+          "name": "Jason Duval 05",
+          "image": "assets/photo-72.jpg",
+          "fullImage": "assets/hd/photo-72.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-73",
+          "name": "Jason Duval 06",
+          "image": "assets/photo-73.jpg",
+          "fullImage": "assets/hd/photo-73.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-8",
+          "name": "Jason Duval 12",
+          "image": "assets/photo-8.jpg",
+          "fullImage": "assets/hd/photo-8.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_12.0zcl2old.t6gf.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-9",
+          "name": "Jason Duval 13",
+          "image": "assets/photo-9.jpg",
+          "fullImage": "assets/hd/photo-9.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_13.0xtzlmp0y6mt-.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-10",
+          "name": "Jason Duval 14",
+          "image": "assets/photo-10.jpg",
+          "fullImage": "assets/hd/photo-10.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_14.0eczq557_iuqo.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-11",
+          "name": "Jason Duval 15",
+          "image": "assets/photo-11.jpg",
+          "fullImage": "assets/hd/photo-11.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_15.0oze53sounjp2.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-12",
+          "name": "Jason Duval 16",
+          "image": "assets/photo-12.jpg",
+          "fullImage": "assets/hd/photo-12.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_16.090yj-lyddyrr.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-14",
+          "name": "Jason Duval 18",
+          "image": "assets/photo-14.jpg",
+          "fullImage": "assets/hd/photo-14.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_18.000.jk1plncsr.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-15",
+          "name": "Jason Duval 19",
+          "image": "assets/photo-15.jpg",
+          "fullImage": "assets/hd/photo-15.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_19.0r7a1q04n5.7m.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "lucia",
+      "name": "Lucia Caminos",
+      "role": "Playable protagonist",
+      "tagline": "Out of prison, with a plan for a different future.",
+      "sections": [
+        {
+          "heading": "Where her story begins",
+          "body": "Lucia’s story connects Liberty City, Leonida Penitentiary and her new life with Jason. Her family’s hopes for a better life remain important as she begins again after prison.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseLucia",
+            "rockstar"
+          ]
+        },
+        {
+          "heading": "Family, prison and a fresh start",
+          "body": "Her father taught her to fight early. Defending her family ultimately led to prison, and her release gives her another chance at the life her mother wanted. She approaches that future with a plan, determined to make more calculated decisions.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseLucia"
+          ]
+        },
+        {
+          "heading": "A partner in the action",
+          "body": "The promotional Extended Look places Lucia behind the wheel during Raul’s escape and alongside Jason in dangerous jobs. Her driving and fighting sit alongside the trust that holds their partnership together.",
+          "evidence": "promotional-scene-reported",
+          "sources": [
+            "wikiExtended",
+            "videos"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Background",
+          "Family roots in Liberty City"
+        ],
+        [
+          "Past",
+          "Leonida Penitentiary inmate"
+        ],
+        [
+          "Skills shown",
+          "Fighting, driving and firearms"
+        ],
+        [
+          "Central connection",
+          "Jason Duval"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Jason Duval",
+          "relation": "Romantic and criminal partner",
+          "id": "jason"
+        },
+        {
+          "name": "Her parents",
+          "relation": "Her father taught her to fight; her mother’s hopes motivate her"
+        },
+        {
+          "name": "Raul Bautista",
+          "relation": "A shown getaway sequence connects their stories",
+          "id": "raul"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Lucia is the series’ first fully voiced female protagonist, following the playable women offered in earlier GTA games.",
+          "evidence": "series-history",
+          "sources": [
+            "wikiProtagonists"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseLucia",
+        "wikiLucia",
+        "wikiProtagonists",
+        "wikiExtended"
+      ],
+      "portraitId": "photo-59",
+      "galleryIds": [
+        "photo-59",
+        "photo-18",
+        "photo-16",
+        "photo-19",
+        "photo-57",
+        "photo-58",
+        "photo-75",
+        "photo-76",
+        "photo-79",
+        "photo-56",
+        "photo-74",
+        "photo-77",
+        "photo-78",
+        "photo-17"
+      ],
+      "portraitPosition": "49% 32%",
+      "portraitReason": "Clear, composed night portrait with neon color; replaces less flattering workout lead.",
+      "images": [
+        {
+          "id": "photo-59",
+          "name": "Lucia Caminos 10",
+          "image": "assets/photo-59.jpg",
+          "fullImage": "assets/hd/photo-59.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_10.0s770xrip~yb..jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-18",
+          "name": "Lucia Caminos 13",
+          "image": "assets/photo-18.jpg",
+          "fullImage": "assets/hd/photo-18.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_13.08dd3_zn0g59u.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-16",
+          "name": "Lucia Caminos 11",
+          "image": "assets/photo-16.jpg",
+          "fullImage": "assets/hd/photo-16.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_11.0j617-ylicowx.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-19",
+          "name": "Lucia Caminos 14",
+          "image": "assets/photo-19.jpg",
+          "fullImage": "assets/hd/photo-19.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_14.0.6_io7qeozm6.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-57",
+          "name": "Lucia Caminos 08",
+          "image": "assets/photo-57.jpg",
+          "fullImage": "assets/hd/photo-57.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_08.08wo73uyjkhlk.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-58",
+          "name": "Lucia Caminos 09",
+          "image": "assets/photo-58.jpg",
+          "fullImage": "assets/hd/photo-58.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-75",
+          "name": "Lucia Caminos 02",
+          "image": "assets/photo-75.jpg",
+          "fullImage": "assets/hd/photo-75.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_02.16n.5umvlu_48.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-76",
+          "name": "Lucia Caminos 03",
+          "image": "assets/photo-76.jpg",
+          "fullImage": "assets/hd/photo-76.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-79",
+          "name": "Lucia Caminos 06",
+          "image": "assets/photo-79.jpg",
+          "fullImage": "assets/hd/photo-79.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_06.0fxbjfk0jakb3.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-56",
+          "name": "Lucia Caminos 07",
+          "image": "assets/photo-56.jpg",
+          "fullImage": "assets/hd/photo-56.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_07.0.c7un8ro7_p2.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-74",
+          "name": "Lucia Caminos 01",
+          "image": "assets/photo-74.jpg",
+          "fullImage": "assets/hd/photo-74.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-77",
+          "name": "Lucia Caminos 04",
+          "image": "assets/photo-77.jpg",
+          "fullImage": "assets/hd/photo-77.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_04.04kb_~4ubn3wn.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-78",
+          "name": "Lucia Caminos 05",
+          "image": "assets/photo-78.jpg",
+          "fullImage": "assets/hd/photo-78.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_05.0i5b7k6a7_w6p.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-17",
+          "name": "Lucia Caminos 12",
+          "image": "assets/photo-17.jpg",
+          "fullImage": "assets/hd/photo-17.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_12.0saq9ns-~xj03.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "cal",
+      "name": "Cal Hampton",
+      "role": "Supporting character",
+      "tagline": "Jason’s friend, with a radio scanner and plenty of theories.",
+      "sections": [
+        {
+          "heading": "His circle in the Keys",
+          "body": "Cal is connected to Jason and Brian Heder’s operation. Official screenshots show him around the boat yard, fishing with Jason and playing pool at The Rusty Anchor.",
+          "evidence": "official-image-observation",
+          "sources": [
+            "media",
+            "baseCal",
+            "wikiJason"
+          ]
+        },
+        {
+          "heading": "Comfort in the familiar",
+          "body": "Home, beer and listening in on Coast Guard communications suit Cal just fine. He has a conspiratorial outlook and is far more content with his circumstances than Jason, whose ambitions threaten to pull him beyond their familiar routine.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseCal"
+          ]
+        },
+        {
+          "heading": "Why he stands out",
+          "body": "Rockstar presents Cal as a contrast to Jason: he is content with familiar surroundings while his friend has bigger plans. Their shared connection to Brian keeps both men rooted in the same Keys circle.",
+          "evidence": "editorial-reading",
+          "sources": [
+            "baseCal"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Connections",
+          "Jason Duval and Brian Heder"
+        ],
+        [
+          "Interest",
+          "Coast Guard radio traffic"
+        ],
+        [
+          "Outlook",
+          "Suspicious of hidden explanations"
+        ],
+        [
+          "Seen with Jason",
+          "Fishing and playing pool"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Jason Duval",
+          "relation": "Friend",
+          "id": "jason"
+        },
+        {
+          "name": "Brian Heder",
+          "relation": "Associate",
+          "id": "brian"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Even birds flying in formation draw Cal’s suspicion. His official introduction turns that everyday sight into another piece of his conspiratorial worldview.",
+          "evidence": "official-dialogue",
+          "sources": [
+            "rockstar"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseCal",
+        "wikiCharacters",
+        "media"
+      ],
+      "portraitId": "photo-80",
+      "galleryIds": [
+        "photo-80",
+        "photo-81",
+        "photo-83",
+        "photo-82",
+        "photo-70"
+      ],
+      "portraitPosition": "58% 30%",
+      "portraitReason": "Recognizable, relaxed full face with a bright outdoor setting.",
+      "images": [
+        {
+          "id": "photo-80",
+          "name": "Cal Hampton 01",
+          "image": "assets/photo-80.jpg",
+          "fullImage": "assets/hd/photo-80.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_01.0xlil231_osh4.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-81",
+          "name": "Cal Hampton 02",
+          "image": "assets/photo-81.jpg",
+          "fullImage": "assets/hd/photo-81.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_02.05r2t_mck65fe.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-83",
+          "name": "Cal Hampton 04",
+          "image": "assets/photo-83.jpg",
+          "fullImage": "assets/hd/photo-83.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_04.0-78dep86yx2q.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-82",
+          "name": "Cal Hampton 03",
+          "image": "assets/photo-82.jpg",
+          "fullImage": "assets/hd/photo-82.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Cal_Hampton_03.0.q68~pt1to9z.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-70",
+          "name": "Jason Duval 03",
+          "image": "assets/photo-70.jpg",
+          "fullImage": "assets/hd/photo-70.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "boobie",
+      "name": "Boobie Ike",
+      "role": "Supporting character",
+      "tagline": "Vice City business, nightlife and music under one roof.",
+      "sections": [
+        {
+          "heading": "Where his world connects",
+          "body": "Boobie is tied to Vice City’s Jack of Hearts club and Only Raw Records. The club places him in the city’s nightlife, while the studio connects his established business interests to an ambitious new generation of performers.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBoobie",
+            "rockstar"
+          ]
+        },
+        {
+          "heading": "From the street to the boardroom",
+          "body": "He has built interests in property, a strip club and a recording studio after a criminal street career. His sociable manner gives way to a much firmer approach when business is at stake.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBoobie"
+          ]
+        },
+        {
+          "heading": "The next hit",
+          "body": "His partnership with Dre’Quan is a major priority. Only Raw Records needs a breakthrough, connecting Boobie’s established money and venues with a younger music entrepreneur’s ambitions.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBoobie",
+            "baseDrequan"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "City",
+          "Vice City"
+        ],
+        [
+          "Club",
+          "Jack of Hearts"
+        ],
+        [
+          "Label connection",
+          "Only Raw Records"
+        ],
+        [
+          "Other interest",
+          "Real estate"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Dre’Quan Priest",
+          "relation": "Music-business partner",
+          "id": "drequan"
+        },
+        {
+          "name": "Real Dimez",
+          "relation": "Artists within the Only Raw Records network",
+          "id": "dimez"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Boobie describes the club’s earnings as funding the studio, with drug money underpinning the wider operation. His music ambitions remain entangled with his criminal past.",
+          "evidence": "official-dialogue",
+          "sources": [
+            "rockstar"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseBoobie",
+        "baseDrequan",
+        "wikiCharacters"
+      ],
+      "portraitId": "photo-85",
+      "galleryIds": [
+        "photo-85",
+        "photo-84",
+        "photo-86",
+        "photo-87"
+      ],
+      "portraitPosition": "43% 31%",
+      "portraitReason": "Clear portrait with Jack of Hearts signage and Dre’Quan in the setting.",
+      "images": [
+        {
+          "id": "photo-85",
+          "name": "Boobie Ike 02",
+          "image": "assets/photo-85.jpg",
+          "fullImage": "assets/hd/photo-85.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-84",
+          "name": "Boobie Ike 01",
+          "image": "assets/photo-84.jpg",
+          "fullImage": "assets/hd/photo-84.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_01.0-wji2pg5anfs.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-86",
+          "name": "Boobie Ike 03",
+          "image": "assets/photo-86.jpg",
+          "fullImage": "assets/hd/photo-86.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_03.0neka36~z25b5.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-87",
+          "name": "Boobie Ike 04",
+          "image": "assets/photo-87.jpg",
+          "fullImage": "assets/hd/photo-87.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_04.0~1fr6ijgvnzx.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "drequan",
+      "name": "Dre’Quan Priest",
+      "role": "Supporting character",
+      "tagline": "Taking Only Raw Records beyond the club circuit.",
+      "sections": [
+        {
+          "heading": "His Vice City network",
+          "body": "Dre’Quan’s world runs through Only Raw Records and Boobie’s club. Official images place him both in the recording studio and among the performers and crowds of Vice City’s nightlife.",
+          "evidence": "official-confirmed-and-image-observation",
+          "sources": [
+            "baseDrequan",
+            "media"
+          ]
+        },
+        {
+          "heading": "Music was always the goal",
+          "body": "Street dealing helped him get by, but his ambition was a career in music. Booking performers at Boobie’s venue was one step; signing Real Dimez gives him a chance to build something larger in Vice City.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseDrequan"
+          ]
+        },
+        {
+          "heading": "The label’s moving parts",
+          "body": "Boobie supplies an established business connection while Bae-Luxe and Roxy bring the act he has signed. Keeping those relationships together makes the label more than a background logo.",
+          "evidence": "editorial-reading",
+          "sources": [
+            "baseDrequan",
+            "baseBoobie",
+            "baseRoxy"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "City",
+          "Vice City"
+        ],
+        [
+          "Business",
+          "Only Raw Records"
+        ],
+        [
+          "Previous work",
+          "Booking acts at Boobie’s club"
+        ],
+        [
+          "Signed act",
+          "Real Dimez"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Boobie Ike",
+          "relation": "Business partner",
+          "id": "boobie"
+        },
+        {
+          "name": "Bae-Luxe and Roxy",
+          "relation": "Signed artists: Real Dimez",
+          "id": "dimez"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Dre’Quan treats dancers’ reactions as a way to judge a record’s potential: if a song catches on in the club, he expects DJs to pick it up.",
+          "evidence": "official-dialogue",
+          "sources": [
+            "rockstar"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseDrequan",
+        "baseBoobie",
+        "baseRoxy"
+      ],
+      "portraitId": "photo-90",
+      "galleryIds": [
+        "photo-90",
+        "photo-89",
+        "photo-91",
+        "photo-88",
+        "photo-85"
+      ],
+      "portraitPosition": "49% 33%",
+      "portraitReason": "Clean face-led nightclub portrait with atmospheric magenta light.",
+      "images": [
+        {
+          "id": "photo-90",
+          "name": "Dre’Quan Priest 03",
+          "image": "assets/photo-90.jpg",
+          "fullImage": "assets/hd/photo-90.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_03.0zbl4i_x_1biu.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-89",
+          "name": "Dre’Quan Priest 02",
+          "image": "assets/photo-89.jpg",
+          "fullImage": "assets/hd/photo-89.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_02.02u69e~nkk3eo.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-91",
+          "name": "Dre’Quan Priest 04",
+          "image": "assets/photo-91.jpg",
+          "fullImage": "assets/hd/photo-91.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_04.0n~kj~px_fn8t.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-88",
+          "name": "Dre’Quan Priest 01",
+          "image": "assets/photo-88.jpg",
+          "fullImage": "assets/hd/photo-88.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-85",
+          "name": "Boobie Ike 02",
+          "image": "assets/photo-85.jpg",
+          "fullImage": "assets/hd/photo-85.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Boobie_Ike_02.0sp9mtc.1cdzs.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "dimez",
+      "name": "Real Dimez",
+      "role": "Rap duo",
+      "tagline": "Bae-Luxe and Roxy are chasing their next breakthrough.",
+      "sections": [
+        {
+          "heading": "Meet both members",
+          "body": "Real Dimez is the partnership of Bae-Luxe and Roxy. Their story connects them to Only Raw Records and Vice City’s music scene, with official images showing the pair at the microphone and in the studio.",
+          "evidence": "official-confirmed-and-image-observation",
+          "sources": [
+            "baseBae",
+            "baseRoxy",
+            "media"
+          ]
+        },
+        {
+          "heading": "Friends before the fame",
+          "body": "The pair have known each other since high school. Their early life included shaking down local dealers before they turned street experience into provocative rap and persistent social promotion. A collaboration with local rapper DWNPLY became an early hit.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBae",
+            "baseRoxy"
+          ]
+        },
+        {
+          "heading": "A second shot",
+          "body": "Five years and considerable trouble separate that early success from their new record deal. Dre’Quan has signed them to Only Raw Records, where the duo is trying to turn recognition into another breakthrough.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseRoxy",
+            "baseDrequan"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Members",
+          "Bae-Luxe and Roxy"
+        ],
+        [
+          "History",
+          "Friends since high school"
+        ],
+        [
+          "Label",
+          "Only Raw Records"
+        ],
+        [
+          "Earlier collaborator",
+          "DWNPLY"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Bae-Luxe ↔ Roxy",
+          "relation": "Longtime friends and performing partners"
+        },
+        {
+          "name": "Dre’Quan Priest",
+          "relation": "Signed the duo",
+          "id": "drequan"
+        },
+        {
+          "name": "Boobie Ike",
+          "relation": "Connected through Only Raw Records",
+          "id": "boobie"
+        },
+        {
+          "name": "DWNPLY",
+          "relation": "Collaborator on an earlier hit"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "The official gallery gives both members individual studio moments as well as a shared microphone portrait, letting their partnership and personalities come through.",
+          "evidence": "official-image-observation",
+          "sources": [
+            "media"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseBae",
+        "baseRoxy",
+        "baseDrequan"
+      ],
+      "portraitId": "photo-95",
+      "galleryIds": [
+        "photo-95",
+        "photo-88",
+        "photo-92",
+        "photo-94",
+        "photo-93"
+      ],
+      "portraitPosition": "50% 40%",
+      "portraitReason": "Both performers are prominent together at a microphone; prevents representing a duo with only one member.",
+      "images": [
+        {
+          "id": "photo-95",
+          "name": "Real Dimez 04",
+          "image": "assets/photo-95.jpg",
+          "fullImage": "assets/hd/photo-95.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_04.0wa3vo07lz4e2.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-88",
+          "name": "Dre’Quan Priest 01",
+          "image": "assets/photo-88.jpg",
+          "fullImage": "assets/hd/photo-88.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/DreQuan_Priest_01.0_0~wi-ipdj35.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-92",
+          "name": "Real Dimez 01",
+          "image": "assets/photo-92.jpg",
+          "fullImage": "assets/hd/photo-92.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_01.0djwwboo8-glx.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-94",
+          "name": "Real Dimez 03",
+          "image": "assets/photo-94.jpg",
+          "fullImage": "assets/hd/photo-94.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_03.02o2si7.op.ye.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-93",
+          "name": "Real Dimez 02",
+          "image": "assets/photo-93.jpg",
+          "fullImage": "assets/hd/photo-93.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "raul",
+      "name": "Raul Bautista",
+      "role": "Supporting character",
+      "tagline": "An experienced robber whose confidence keeps raising the stakes.",
+      "sections": [
+        {
+          "heading": "His route into the story",
+          "body": "Raul recruits people willing to take on major robberies. The promotional Extended Look shows Lucia involved in his getaway, bringing his bank-robbing world directly into the protagonists’ story.",
+          "evidence": "promotional-scene-reported",
+          "sources": [
+            "baseRaul",
+            "wikiExtended",
+            "videos"
+          ]
+        },
+        {
+          "heading": "Experience with an edge",
+          "body": "He combines a seasoned bank robber’s experience with charm and careful persuasion. He is always looking for capable partners who will accept risk in pursuit of a larger reward.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseRaul"
+          ]
+        },
+        {
+          "heading": "When a score escalates",
+          "body": "Raul’s growing recklessness raises the pressure on his crew with each score. His partners are drawn toward bigger rewards while facing the question of how much risk they are willing to follow him into.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseRaul"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Specialty",
+          "Bank robbery"
+        ],
+        [
+          "Approach",
+          "Recruit talented risk-takers"
+        ],
+        [
+          "Story tension",
+          "Escalating risk for the crew"
+        ],
+        [
+          "Shown connection",
+          "Lucia’s getaway sequence"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Lucia Caminos",
+          "relation": "Connected by a shown getaway",
+          "id": "lucia"
+        },
+        {
+          "name": "His robbery crew",
+          "relation": "Partners facing increasing risk"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Promotional images place Raul in both polished social settings and armed criminal situations, matching the contrast between his charm and his work.",
+          "evidence": "official-image-observation",
+          "sources": [
+            "media"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseRaul",
+        "wikiCharacters",
+        "wikiExtended"
+      ],
+      "portraitId": "photo-98",
+      "galleryIds": [
+        "photo-98",
+        "photo-96",
+        "photo-97",
+        "photo-99"
+      ],
+      "portraitPosition": "61% 31%",
+      "portraitReason": "Warm Vice City skyline, full visible face and strong character silhouette.",
+      "images": [
+        {
+          "id": "photo-98",
+          "name": "Raul Bautista 03",
+          "image": "assets/photo-98.jpg",
+          "fullImage": "assets/hd/photo-98.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_03.0-x4xbav_6c40.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-96",
+          "name": "Raul Bautista 01",
+          "image": "assets/photo-96.jpg",
+          "fullImage": "assets/hd/photo-96.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_01.0md1ii-yrn96r.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-97",
+          "name": "Raul Bautista 02",
+          "image": "assets/photo-97.jpg",
+          "fullImage": "assets/hd/photo-97.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_02.10ddy6ogywu-t.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-99",
+          "name": "Raul Bautista 04",
+          "image": "assets/photo-99.jpg",
+          "fullImage": "assets/hd/photo-99.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Raul_Bautista_04.0qx77gyvykvv5.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    },
+    {
+      "id": "brian",
+      "name": "Brian Heder",
+      "role": "Supporting character",
+      "tagline": "An old hand in Keys smuggling who lets others carry the risk.",
+      "sections": [
+        {
+          "heading": "The boat-yard connection",
+          "body": "Brian operates in the Leonida Keys through his boat yard, Brian’s Boat Works & Marina. Jason and Cal belong to his circle, and Lori works alongside him in the business.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBrian",
+            "wikiCharacters"
+          ]
+        },
+        {
+          "heading": "Business without the heavy lifting",
+          "body": "Brian’s experience reaches back to an earlier era of Keys smuggling. He still moves drugs but delegates much of the dirty work. His relaxed appearance masks a much harder business instinct.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBrian"
+          ]
+        },
+        {
+          "heading": "A place to stay has a price",
+          "body": "Jason lives in one of Brian’s properties without paying rent, in return for helping with shakedowns and staying in touch. Brian’s third wife, Lori, works beside him at the boat yard.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBrian",
+            "baseLori"
+          ]
+        }
+      ],
+      "facts": [
+        [
+          "Region",
+          "Leonida Keys"
+        ],
+        [
+          "Business",
+          "Brian’s Boat Works & Marina"
+        ],
+        [
+          "Work",
+          "Smuggling and drug running"
+        ],
+        [
+          "Family",
+          "Married to Lori"
+        ]
+      ],
+      "relationships": [
+        {
+          "name": "Jason Duval",
+          "relation": "Associate and rent-free tenant",
+          "id": "jason"
+        },
+        {
+          "name": "Cal Hampton",
+          "relation": "Associate",
+          "id": "cal"
+        },
+        {
+          "name": "Lori Heder",
+          "relation": "Third wife and boat-yard partner"
+        }
+      ],
+      "trivia": [
+        {
+          "text": "Jason’s arrangement includes occasional visits for Lori’s sangria. The rent-free home comes with both criminal obligations and an informal place in Brian’s social circle.",
+          "evidence": "official-confirmed",
+          "sources": [
+            "baseBrian",
+            "rockstar"
+          ]
+        }
+      ],
+      "sources": [
+        "rockstar",
+        "baseBrian",
+        "baseLori",
+        "wikiCharacters"
+      ],
+      "portraitId": "photo-102",
+      "galleryIds": [
+        "photo-102",
+        "photo-100",
+        "photo-103",
+        "photo-101"
+      ],
+      "portraitPosition": "64% 32%",
+      "portraitReason": "Expressive, close face with business paperwork; clearer than a distant marina frame.",
+      "images": [
+        {
+          "id": "photo-102",
+          "name": "Brian Heder 03",
+          "image": "assets/photo-102.jpg",
+          "fullImage": "assets/hd/photo-102.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_03.10ntuqh2h6upf.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-100",
+          "name": "Brian Heder 01",
+          "image": "assets/photo-100.jpg",
+          "fullImage": "assets/hd/photo-100.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_01.0r.ute88os9k-.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-103",
+          "name": "Brian Heder 04",
+          "image": "assets/photo-103.jpg",
+          "fullImage": "assets/hd/photo-103.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_04.0z3o0t88jw54l.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        },
+        {
+          "id": "photo-101",
+          "name": "Brian Heder 02",
+          "image": "assets/photo-101.jpg",
+          "fullImage": "assets/hd/photo-101.jpg",
+          "officialUrl": "https://www.rockstargames.com/VI/_next/static/media/Brian_Heder_02.0kmg6iw38f-9o.jpg?imwidth=3840",
+          "credit": "Rockstar Games",
+          "kind": "official screenshot"
+        }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "No fabricated ages, final mission unlock orders, payouts, permanent character spawn points, story endings or playable supporting-character claims.",
+    "Voice-actor identities are omitted: the reviewed references contain speculation and inconsistent confirmation labels.",
+    "GTABase incorrectly describes Lucia as the first female protagonist broadly; the narrower first fully voiced female protagonist wording follows GTA Wiki’s series history.",
+    "GTA Wiki character URLs were revisited but direct access was blocked. Search-index extracts and the character roster supplied cross-checks. No claim that every linked Wiki page was fully read.",
+    "Promotional scene descriptions are distinguished from official biography and editorial interpretation.",
+    "Official 3840×2160 portraits already exist in the repository. Better framing and gallery order need no AI-generated replacements."
+  ],
+  "wikiAccessAudit": [
+    {
+      "url": "https://gta.wiki/w/Jason_Duval",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Lucia_Caminos",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Cal_Hampton",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Boobie_Ike",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Dre%27Quan_Priest",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Real_Dimez",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Raul_Bautista",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    },
+    {
+      "url": "https://gta.wiki/w/Brian_Heder",
+      "directAccess": "blocked",
+      "crossCheck": "Indexed individual page when returned; otherwise Characters_in_GTA_VI plus official and GTABase profile."
+    }
+  ],
+  "editorialRefinement": "Removed repeated acquisition and mission-unlock cautions from character-facing biography prose; kept evidence categories and source audit metadata. Added only verified official dialogue and screenshot details."
+}

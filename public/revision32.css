@@ -1,0 +1,23 @@
+/* Targeted screenshot corrections. */
+html body[data-r24-route] header.site-header details[data-nav-group] .nav-dropdown a,html body[data-r24-route] header.site-header details[data-nav-group] .nav-dropdown a:is(:hover,:focus-visible,.active){-webkit-text-fill-color:currentColor!important;background-clip:border-box!important;opacity:1!important}
+body[data-r24-route=home] .ticker{position:relative;z-index:3;transform:translateY(-100px);margin-bottom:-100px!important}
+html body[data-r24-route] #main .cinematic-people>.r31-cast-art{grid-template-columns:repeat(3,minmax(0,1fr))!important;grid-template-rows:repeat(2,minmax(0,1fr))!important;gap:14px!important;aspect-ratio:2.64!important;mask-image:none!important;overflow:visible!important}
+html body[data-r24-route] #main .r31-cast-art>img{object-fit:contain!important;object-position:center!important;mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent),linear-gradient(to bottom,transparent,#000 8%,#000 92%,transparent);mask-composite:intersect}
+html body[data-r24-route] #main .cinematic-radio .r30-radio-fallback{position:static!important;inset:auto!important;align-items:flex-start!important;margin:24px 0 0!important;gap:14px!important}
+html body[data-r24-route] #main .r30-radio-fallback small{font:500 16px/1.7 Outfit,sans-serif!important;color:#fff!important;text-shadow:0 2px 5px #000}
+html body[data-r24-route] #main .gtfm-dial{min-height:0!important;max-height:490px!important;overflow:hidden!important}
+html body[data-r24-route] #main .gtfm-stations{min-height:0!important;max-height:390px!important;overflow-y:scroll!important;overscroll-behavior:contain;scrollbar-gutter:stable;scrollbar-width:auto;scrollbar-color:#b7a0bd #191720;padding-right:8px}
+.gtfm-stations::-webkit-scrollbar{width:9px}.gtfm-stations::-webkit-scrollbar-thumb{background:#b7a0bd;border-radius:9px}.gtfm-stations::-webkit-scrollbar-track{background:#191720}
+html body[data-r24-route] #main .xfiles-opening{background:transparent!important}
+html body[data-r24-route] #main .xfiles-opening>.xfiles-scene{mask-image:linear-gradient(to bottom,#000 calc(100% - 220px),transparent)!important}
+html body[data-r24-route] #main .xfiles-opening+.r28-hero-bridge{display:block!important;height:120px!important}
+html body[data-r24-route] #main .cinematic-items>.scene-image{animation:none!important;transition:none!important;opacity:1!important}
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-fieldguide>.scene-copy{inset:5svh 2% auto auto!important;width:36%!important}html body[data-r24-route] #main .cinematic-fieldguide .r30-welcome{font-size:20px!important;letter-spacing:.55em!important;color:#f0bbd9!important;transform:scaleX(1.12) scaleY(.85);margin-bottom:10px!important}html body[data-r24-route] #main .cinematic-radio>.scene-copy{top:clamp(64px,11svh,110px)!important}html body[data-r24-route] #main .cinematic-people>.r31-cast-art{top:10svh!important;left:1%!important;width:65%!important}html body[data-r24-route] #main .cinematic-people>.scene-copy{right:3%!important;width:29%!important}}
+@media(max-width:900px){body[data-r24-route=home] .ticker{transform:translateY(-50px);margin-bottom:-50px!important}html body[data-r24-route] #main .cinematic-people>.r31-cast-art{grid-template-columns:repeat(2,minmax(0,1fr))!important;grid-template-rows:repeat(3,minmax(0,1fr))!important;aspect-ratio:1.18!important;gap:8px!important}html body[data-r24-route] #main .xfiles-opening+.r28-hero-bridge{height:72px!important}.gtfm-stations{max-height:270px!important}}
+
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-people{min-height:calc(100svh - 86px)!important}html body[data-r24-route] #main .cinematic-people>.r31-cast-art{position:absolute!important;inset:10svh auto auto 1%!important;width:61%!important}html body[data-r24-route] #main .cinematic-people>.scene-copy{right:3%!important;width:30%!important}}
+
+html body[data-r24-route] #main .cinematic-radio .r30-radio-fallback{display:flex!important;flex-direction:column!important} @media(min-width:901px){html body[data-r24-route] #main .cinematic-fieldguide .r30-welcome{width:fit-content!important;max-width:95%!important;margin-inline:auto!important;transform:scaleY(.85)!important}}
+
+/* Reduce only the palm atmosphere brightness by 15%. */
+html body[data-r24-route] #main>.r26-site-atmosphere{filter:brightness(.85)!important}

@@ -1,0 +1,477 @@
+{
+  "item": 86,
+  "status": "local-verified; production pending",
+  "updatedAt": "2026-11-14T21:27:53.378Z",
+  "requirement": "Latest correction: ONE permanent mobile header row only. Approved icon, countdown, language, sign-in and hamburger; navigation appears only when hamburger is opened. Mobile wordmark/subtitle may hide to avoid cramming.",
+  "implementation": {
+    "height": 64,
+    "breakpoint": "max-width:900px; covers phone portrait and landscape",
+    "brand": "Approved icon preserved; full desktop lockup unchanged above900px",
+    "countdown": "Four live units with localized short visual units; full text retained, timezone control preserved",
+    "navigation": "Overlay below header, compact direct Map/Money actions plus Catalog/Explore disclosures, scrolls within viewport in landscape",
+    "utilities": "Language, account and hamburger all44px touch targets; saved-items link moves into expanded navigation only on mobile"
+  },
+  "checks": {
+    "finalLocaleChecks": [
+      {
+        "lang": "en",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "es",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "pt-br",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "de",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "fr",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "it",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      },
+      {
+        "lang": "ru",
+        "height": 64,
+        "overflow": 0,
+        "headingOverflow": 0,
+        "clockOverflow": 0,
+        "button": 44
+      }
+    ],
+    "viewports": [
+      {
+        "width": 375,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 390,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 430,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 700,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 768,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 844,
+        "height": 64,
+        "overflow": 0,
+        "brandCopy": "none",
+        "toggle": "flex",
+        "nav": "none"
+      },
+      {
+        "width": 1920,
+        "height": 86,
+        "overflow": 0,
+        "brandCopy": "flex",
+        "toggle": "none",
+        "nav": "flex"
+      }
+    ],
+    "routes": [
+      {
+        "route": "home",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "world",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "money",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "vehicles",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "items",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "people",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "fieldguide",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "music",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "ufos",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "radio",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "gallery",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "community",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      },
+      {
+        "route": "credits",
+        "height": 64,
+        "overflow": 0,
+        "navClosed": true,
+        "toggleCount": 1
+      }
+    ],
+    "keyboardOpen": {
+      "expanded": "true",
+      "focused": "world"
+    },
+    "escapeClose": {
+      "expanded": "false",
+      "focused": "r26-mobile-menu"
+    },
+    "routeClose": {
+      "hash": "#radio",
+      "expanded": "false",
+      "header": 64
+    },
+    "languagePanel": {
+      "x": 81,
+      "y": 57.74066925048828,
+      "width": 220,
+      "height": 344,
+      "top": 57.74066925048828,
+      "right": 301,
+      "bottom": 401.7406692504883,
+      "left": 81
+    },
+    "languageResult": {
+      "url": "/es/",
+      "language": "ES"
+    },
+    "signIn": {
+      "hash": "#account",
+      "headerHeight": 64
+    },
+    "timezonePanel": {
+      "rect": {
+        "x": 12,
+        "y": 67.85107421875,
+        "width": 286,
+        "height": 116,
+        "top": 67.85107421875,
+        "right": 298,
+        "bottom": 183.85107421875,
+        "left": 12
+      },
+      "selectVisible": true
+    },
+    "timezoneChange": "UTC",
+    "catalogVisible": true,
+    "catalogRoute": "http://127.0.0.1:4173/en/#vehicles",
+    "signedLayout": {
+      "visible": "flex",
+      "parent": "primary-nav",
+      "overflow": 0
+    },
+    "menusByLanguage": [
+      {
+        "lang": "en",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "es",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "pt-br",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "de",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "fr",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "it",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      },
+      {
+        "lang": "ru",
+        "rect": {
+          "x": 18,
+          "y": 68,
+          "width": 284,
+          "height": 354,
+          "top": 68,
+          "right": 302,
+          "bottom": 422,
+          "left": 18
+        },
+        "overflow": 0,
+        "clippedLabels": []
+      }
+    ],
+    "landscapeMenu": {
+      "box": {
+        "x": 20,
+        "y": 69,
+        "width": 804,
+        "height": 306,
+        "top": 69,
+        "right": 824,
+        "bottom": 375,
+        "left": 20
+      },
+      "scrollHeight": 351,
+      "clientHeight": 303,
+      "overflow": 0
+    },
+    "landscapeNavigation": "http://127.0.0.1:4173/en/#community",
+    "reducedMotion": "none",
+    "touchCheck": {
+      "height": 64,
+      "overflow": 0,
+      "controls": [
+        {
+          "cls": "",
+          "rect": {
+            "x": 171,
+            "y": 10,
+            "width": 44,
+            "height": 44,
+            "top": 10,
+            "right": 215,
+            "bottom": 54,
+            "left": 171
+          }
+        },
+        {
+          "cls": "account-link",
+          "rect": {
+            "x": 219,
+            "y": 10,
+            "width": 44,
+            "height": 44,
+            "top": 10,
+            "right": 263,
+            "bottom": 54,
+            "left": 219
+          }
+        },
+        {
+          "cls": "r26-mobile-menu",
+          "rect": {
+            "x": 268,
+            "y": 10,
+            "width": 44,
+            "height": 44,
+            "top": 10,
+            "right": 312,
+            "bottom": 54,
+            "left": 268
+          }
+        }
+      ],
+      "clock": {
+        "x": 49,
+        "y": 31.625,
+        "width": 117,
+        "height": 23.75,
+        "top": 31.625,
+        "right": 166,
+        "bottom": 55.375,
+        "left": 49
+      },
+      "headingOverflow": 0
+    }
+  },
+  "evidence": [
+    "mobile-header-final-en-320.png",
+    "mobile-header-final-es-320.png",
+    "mobile-header-final-pt-br-320.png",
+    "mobile-header-final-de-320.png",
+    "mobile-header-final-fr-320.png",
+    "mobile-header-final-it-320.png",
+    "mobile-header-final-ru-320.png",
+    "mobile-header-390-menu.png",
+    "mobile-header-844.png",
+    "mobile-header-1920.png",
+    "mobile-header-touch-320.png"
+  ],
+  "notes": [
+    "No header or page horizontal overflow at320,375,390,430,700,768,844,1920 in tested views.",
+    "All13 page routes retain single64px mobile banner and one toggle; route selection closes the overlay.",
+    "Desktop1920 header remains86px with wordmark/subtitle and visible original navigation.",
+    "Signed-in saved-link behavior was checked using isolated DOM visibility simulation; authentication/data were not modified.",
+    "Controls tested via actual clicks/keyboard, not source-code presence alone."
+  ]
+}

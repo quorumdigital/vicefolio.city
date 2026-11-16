@@ -1,0 +1,1641 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "All 41 current catalog entries; 138 existing official screenshots plus 61 item-specific edition screenshots reviewed; 11 current soundtrack artworks",
+  "summary": {
+    "entries": 41,
+    "newOfficialScreenshots": 61,
+    "newOfficialScreenshotDimensions": "3840×2160",
+    "newOfficialAssetBytes": 40321609,
+    "entriesWithMultipleImages": 19,
+    "nipperReplaced": "Use official in-game Lucia Caminos 14 (photo-19), where NIPPER38 is visible on the slide; the old nipper.jpg is authentic cover art, but visually mismatches the screenshot catalog."
+  },
+  "entries": [
+    {
+      "id": "cheetah",
+      "name": "’95 Grotti Cheetah",
+      "primary": "assets/item-gallery/edition-01.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-01.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-01.jpg",
+          "alt": "’95 Grotti Cheetah 01",
+          "caption": "’95 Grotti Cheetah 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-02.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-02.jpg",
+          "alt": "’95 Grotti Cheetah 02",
+          "caption": "’95 Grotti Cheetah 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_02.0rkrlsu_dg~ww.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-03.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-03.jpg",
+          "alt": "’95 Grotti Cheetah 03",
+          "caption": "’95 Grotti Cheetah 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_03.0v3_dryhtjarc.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-04.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-04.jpg",
+          "alt": "’95 Grotti Cheetah 04",
+          "caption": "’95 Grotti Cheetah 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GROTTI_CHEETAH_04.0caq_y0_f1rvt.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "stanier",
+      "name": "’55 Vapid Stanier",
+      "primary": "assets/item-gallery/edition-52.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-52.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-52.jpg",
+          "alt": "’55 Vapid Stanier 01",
+          "caption": "’55 Vapid Stanier 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01.004m_8d1~qngy.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-53.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-53.jpg",
+          "alt": "’55 Vapid Stanier 02",
+          "caption": "’55 Vapid Stanier 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_02.0s2wun4_vzld2.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-54.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-54.jpg",
+          "alt": "’55 Vapid Stanier 03",
+          "caption": "’55 Vapid Stanier 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03.0dzlk-r0ehlu4.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-55.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-55.jpg",
+          "alt": "’55 Vapid Stanier 04",
+          "caption": "’55 Vapid Stanier 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_04.0n002i9p87b~q.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "buggy",
+      "name": "’67 Vapid Dominator Buggy",
+      "primary": "assets/item-gallery/edition-31.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-31.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-31.jpg",
+          "alt": "’67 Vapid Dominator Buggy 01",
+          "caption": "’67 Vapid Dominator Buggy 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VAPID_BUGGY_01.0jxfiql~371ik.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-32.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-32.jpg",
+          "alt": "’67 Vapid Dominator Buggy 02",
+          "caption": "’67 Vapid Dominator Buggy 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VAPID_BUGGY_02.0tf15jp~61bkj.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-33.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-33.jpg",
+          "alt": "’67 Vapid Dominator Buggy 03",
+          "caption": "’67 Vapid Dominator Buggy 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VAPID_BUGGY_03.0s2rbkg98-0ac.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-34.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-34.jpg",
+          "alt": "’67 Vapid Dominator Buggy 04",
+          "caption": "’67 Vapid Dominator Buggy 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VAPID_BUGGY_04.0_29d.bgfvon7.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "enduro",
+      "name": "Dinka Enduro",
+      "primary": "assets/item-gallery/edition-14.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-14.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-14.jpg",
+          "alt": "Dinka Enduro Motorcycle",
+          "caption": "Dinka Enduro Motorcycle",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_02.0-2n5rm9n8.rq.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-13.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-13.jpg",
+          "alt": "Jason’s Safehouse Vehicles",
+          "caption": "Jason’s Safehouse Vehicles",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.0wv6pw3t-mky3.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "kayak",
+      "name": "Crest Kayak",
+      "primary": "assets/item-gallery/edition-15.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-15.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-15.jpg",
+          "alt": "Crest Kayak",
+          "caption": "Crest Kayak",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_03.0c9.qtpdi.tf..jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-13.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-13.jpg",
+          "alt": "Jason’s Safehouse Vehicles",
+          "caption": "Jason’s Safehouse Vehicles",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.0wv6pw3t-mky3.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "squalo",
+      "name": "Shitzu Squalo",
+      "primary": "assets/item-gallery/edition-23.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-23.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-23.jpg",
+          "alt": "Shitzu Squalo 01",
+          "caption": "Shitzu Squalo 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_01.0cim7hj58ypb1.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-24.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-24.jpg",
+          "alt": "Shitzu Squalo 02",
+          "caption": "Shitzu Squalo 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_02.09qplkj.rjnk7.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-25.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-25.jpg",
+          "alt": "Shitzu Squalo 03",
+          "caption": "Shitzu Squalo 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_03.0quncwrsw97j1.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-26.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-26.jpg",
+          "alt": "Shitzu Squalo 04",
+          "caption": "Shitzu Squalo 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SQUALO_04.00vlesedwtiuy.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "ganado",
+      "name": "Ganado Retro Build",
+      "primary": "assets/item-gallery/edition-16.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-16.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-16.jpg",
+          "alt": "Ganado Retro Build",
+          "caption": "Ganado Retro Build",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01.062dgvkwdynw5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "revolvers",
+      "name": "Hawk & Little Morgan Revolvers",
+      "primary": "assets/item-gallery/edition-05.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-05.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-05.jpg",
+          "alt": "Hawk & Little Morgan Revolvers 01",
+          "caption": "Hawk & Little Morgan Revolvers 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_01.0~3pdc~~sing4.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-06.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-06.jpg",
+          "alt": "Hawk & Little Morgan Revolvers 02",
+          "caption": "Hawk & Little Morgan Revolvers 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_02.04e_9jco7lluf.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "weapon-variants",
+      "name": "Personalized Weapon Variants",
+      "primary": "assets/item-gallery/edition-07.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-07.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-07.jpg",
+          "alt": "Personalized Weapon Variants",
+          "caption": "Personalized Weapon Variants",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WEAPON_VARIANTS_01.12licq0_o7mb5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "vice-style",
+      "name": "Vice City Style",
+      "primary": "assets/item-gallery/edition-08.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-08.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-08.jpg",
+          "alt": "Vice City Style 01",
+          "caption": "Vice City Style 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_01.0.u1gt~99yzks.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-09.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-09.jpg",
+          "alt": "Vice City Style 02",
+          "caption": "Vice City Style 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_02.0c-r4s-x7srt5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-10.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-10.jpg",
+          "alt": "Vice City Style 03",
+          "caption": "Vice City Style 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_03.08.sic8sgqk4u.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-11.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-11.jpg",
+          "alt": "Vice City Style 04",
+          "caption": "Vice City Style 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_04.1572kk.expq-n.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-12.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-12.jpg",
+          "alt": "Vice City Style 05",
+          "caption": "Vice City Style 05",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_05.0img~prrjg.bc.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "vintage-style",
+      "name": "Vintage Outfits & Hairstyles",
+      "primary": "assets/item-gallery/edition-56.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-56.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-56.jpg",
+          "alt": "Vintage Vice City Outfits and Hairstyles 01",
+          "caption": "Vintage Vice City Outfits and Hairstyles 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.15zo0h-xdm91b.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-57.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-57.jpg",
+          "alt": "Vintage Vice City Outfits and Hairstyles 02",
+          "caption": "Vintage Vice City Outfits and Hairstyles 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_02.12udfnroe-lah.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-58.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-58.jpg",
+          "alt": "Vintage Vice City Outfits and Hairstyles 03",
+          "caption": "Vintage Vice City Outfits and Hairstyles 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03.0au1tphsftqm5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-59.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-59.jpg",
+          "alt": "Vintage Vice City Outfits and Hairstyles 04",
+          "caption": "Vintage Vice City Outfits and Hairstyles 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.04mve901t8b.i.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-60.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-60.jpg",
+          "alt": "Vintage Vice City Outfits and Hairstyles 05",
+          "caption": "Vintage Vice City Outfits and Hairstyles 05",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_05.01rxi8y_wrmf1.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "weapon-pattern",
+      "name": "Vintage Weapon Pattern",
+      "primary": "assets/item-gallery/edition-61.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-61.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-61.jpg",
+          "alt": "Vintage Vice City Weapon Pattern",
+          "caption": "Vintage Vice City Weapon Pattern",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_WEAPON_PATTERN_01.0gybtumgwdcoi.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "goodtime",
+      "name": "Goodtime Gear",
+      "primary": "assets/item-gallery/edition-42.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-42.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-42.jpg",
+          "alt": "Goodtime Gear",
+          "caption": "Goodtime Gear",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_GOODTIME_GEAR_01.0t7de8dow381q.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "rideout",
+      "name": "Rideout Customs",
+      "primary": "assets/item-gallery/edition-17.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-17.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-17.jpg",
+          "alt": "Rideout Customs Mod Shop 01",
+          "caption": "Rideout Customs Mod Shop 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01.065-ms8~k8vbq.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-18.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-18.jpg",
+          "alt": "Rideout Customs Mod Shop 02",
+          "caption": "Rideout Customs Mod Shop 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_02.0u9jg4xxbm_yd.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-19.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-19.jpg",
+          "alt": "Rideout Customs Mod Shop 03",
+          "caption": "Rideout Customs Mod Shop 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_03.0_n4oqh5f_ar4.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "saras",
+      "name": "Sara’s Unisex Salon",
+      "primary": "assets/item-gallery/edition-20.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-20.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-20.jpg",
+          "alt": "Sara’s Unisex Salon 01",
+          "caption": "Sara’s Unisex Salon 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_01.0gn7dwlvcgz17.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-21.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-21.jpg",
+          "alt": "Sara’s Unisex Salon 02",
+          "caption": "Sara’s Unisex Salon 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_02.170lw.lgxdghm.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-22.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-22.jpg",
+          "alt": "Sara’s Unisex Salon 03",
+          "caption": "Sara’s Unisex Salon 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SARAS_SALON_03.0w1t10_u0yv~b.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "stock305",
+      "name": "Stock 305",
+      "primary": "assets/item-gallery/edition-27.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-27.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-27.jpg",
+          "alt": "Stock 305 Clothing Store 01",
+          "caption": "Stock 305 Clothing Store 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_STOCK_305_01.0vuq0m5_1j-17.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-28.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-28.jpg",
+          "alt": "Stock 305 Clothing Store 02",
+          "caption": "Stock 305 Clothing Store 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_STOCK_305_02.0va5ldrhsejht.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-29.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-29.jpg",
+          "alt": "Stock 305 Clothing Store 03",
+          "caption": "Stock 305 Clothing Store 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_STOCK_305_03.00wltke54q_n0.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-30.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-30.jpg",
+          "alt": "Stock 305 Clothing Store 04",
+          "caption": "Stock 305 Clothing Store 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_STOCK_305_04.0ipze9~3u6eok.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "electric-fang",
+      "name": "Electric Fang",
+      "primary": "assets/item-gallery/edition-35.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-35.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-35.jpg",
+          "alt": "Electric Fang Tattoo 01",
+          "caption": "Electric Fang Tattoo 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_01.04tsytu7qp2b-.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-36.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-36.jpg",
+          "alt": "Electric Fang Tattoo 02",
+          "caption": "Electric Fang Tattoo 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_02.0a0h59s0zvhgc.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-37.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-37.jpg",
+          "alt": "Electric Fang Tattoo 03",
+          "caption": "Electric Fang Tattoo 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_03.0wd4urd9xwy5..jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-38.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-38.jpg",
+          "alt": "Electric Fang Tattoo 04",
+          "caption": "Electric Fang Tattoo 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ELECTRIC_FANG_04.0p0qga4w7y5yl.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "willie",
+      "name": "One-Eyed Willie’s",
+      "primary": "assets/item-gallery/edition-39.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-39.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-39.jpg",
+          "alt": "One-Eyed Willie’s Mod Shop 01",
+          "caption": "One-Eyed Willie’s Mod Shop 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ONE_EYED_WILLIE_01.0n7-__or5f.b6.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-40.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-40.jpg",
+          "alt": "One-Eyed Willie’s Mod Shop 02",
+          "caption": "One-Eyed Willie’s Mod Shop 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ONE_EYED_WILLIE_02.0dgnw_y_1bqao.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-41.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-41.jpg",
+          "alt": "One-Eyed Willie’s Mod Shop 03",
+          "caption": "One-Eyed Willie’s Mod Shop 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_ONE_EYED_WILLIE_03.0mhil16bnp3m2.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "ptt",
+      "name": "PTT YOUNGIN$",
+      "primary": "assets/item-gallery/edition-43.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-43.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-43.jpg",
+          "alt": "PTT YOUNGIN$ Illegal Goods Store",
+          "caption": "PTT YOUNGIN$ Illegal Goods Store",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_PTT_STORE_01.0seuocb~7b1-q.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "wyman-collection",
+      "name": "Wyman’s Classic Car Collection",
+      "primary": "assets/item-gallery/edition-44.jpg",
+      "images": [
+        {
+          "src": "assets/item-gallery/edition-44.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-44.jpg",
+          "alt": "Classic Car Collection 01",
+          "caption": "Classic Car Collection 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.0swhrm__iu~6b.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-45.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-45.jpg",
+          "alt": "Classic Car Collection 02",
+          "caption": "Classic Car Collection 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_02.0_biiqjqkpg2b.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-46.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-46.jpg",
+          "alt": "Classic Car Collection 03",
+          "caption": "Classic Car Collection 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_03.0~0maq32u-4ai.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-47.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-47.jpg",
+          "alt": "Classic Car Collection 04",
+          "caption": "Classic Car Collection 04",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_04.05ku1csui.4h6.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-48.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-48.jpg",
+          "alt": "Classic Car Collection 05",
+          "caption": "Classic Car Collection 05",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_05.0e5.kdb~mrdih.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/item-gallery/edition-49.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-49.jpg",
+          "alt": "Classic Car Collection 06",
+          "caption": "Classic Car Collection 06",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_06.0ikq3r8wnrayv.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "airgator",
+      "name": "Airgator Airboat 09",
+      "primary": "assets/airgator.jpg",
+      "images": [
+        {
+          "src": "assets/airgator.jpg",
+          "alt": "Airgator Airboat 09",
+          "caption": "Airgator Airboat 09",
+          "source": "https://gtaplaybook.com/gta6/vehicles/airgator-airboat-09/",
+          "width": 640,
+          "height": 600,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "alvino",
+      "name": "Principe Alvino V1",
+      "primary": "assets/hd/photo-68.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-68.jpg",
+          "alt": "Principe Alvino V1 — Jason Duval 01",
+          "caption": "Jason Duval 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "banshee",
+      "name": "Blue sports car",
+      "primary": "assets/banshee.jpg",
+      "images": [
+        {
+          "src": "assets/banshee.jpg",
+          "alt": "Blue sports car",
+          "caption": "Blue sports car",
+          "source": "https://gtaplaybook.com/gta6/vehicles/blue-sports-car/",
+          "width": 640,
+          "height": 307,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "blazer",
+      "name": "Quad bike",
+      "primary": "assets/blazer.jpg",
+      "images": [
+        {
+          "src": "assets/blazer.jpg",
+          "alt": "Quad bike",
+          "caption": "Quad bike",
+          "source": "https://gtaplaybook.com/gta6/vehicles/quad-bike/",
+          "width": 576,
+          "height": 788,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "cyan-convertible",
+      "name": "Cyan open-top sports car",
+      "primary": "assets/cyan-convertible.jpg",
+      "images": [
+        {
+          "src": "assets/cyan-convertible.jpg",
+          "alt": "Cyan open-top sports car",
+          "caption": "Cyan open-top sports car",
+          "source": "https://gtaplaybook.com/gta6/vehicles/cyan-open-top-sports-car/",
+          "width": 640,
+          "height": 243,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "delmar",
+      "name": "Large vessel (BTN Delmar reference)",
+      "primary": "assets/delmar.jpg",
+      "images": [
+        {
+          "src": "assets/delmar.jpg",
+          "alt": "Large vessel (BTN Delmar reference)",
+          "caption": "Large vessel (BTN Delmar reference)",
+          "source": "https://gtaplaybook.com/gta6/vehicles/btn-delmar/",
+          "width": 640,
+          "height": 196,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "dodo",
+      "name": "Mammoth Dodo / floatplane",
+      "primary": "assets/hd/photo-113.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-113.jpg",
+          "alt": "Mammoth Dodo / floatplane — Leonida Keys 01",
+          "caption": "Leonida Keys 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "lurepredator",
+      "name": "Lürepredator L35P",
+      "primary": "assets/lurepredator.jpg",
+      "images": [
+        {
+          "src": "assets/lurepredator.jpg",
+          "alt": "Lürepredator L35P",
+          "caption": "Lürepredator L35P",
+          "source": "https://gtaplaybook.com/gta6/vehicles/lurepredator-l35p/",
+          "width": 640,
+          "height": 166,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "news-heli",
+      "name": "News helicopter",
+      "primary": "assets/hd/photo-133.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-133.jpg",
+          "alt": "News helicopter — Mount Kalaga National Park 02",
+          "caption": "Mount Kalaga National Park 02",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "police-montagne",
+      "name": "White police SUV",
+      "primary": "assets/police-montagne.jpg",
+      "images": [
+        {
+          "src": "assets/police-montagne.jpg",
+          "alt": "White police SUV",
+          "caption": "White police SUV",
+          "source": "https://gtaplaybook.com/gta6/vehicles/white-police-suv/",
+          "width": 353,
+          "height": 270,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "rancher",
+      "name": "Rancher pickup",
+      "primary": "assets/rancher.jpg",
+      "images": [
+        {
+          "src": "assets/rancher.jpg",
+          "alt": "Rancher pickup",
+          "caption": "Rancher pickup",
+          "source": "https://gtaplaybook.com/gta6/vehicles/rancher/",
+          "width": 640,
+          "height": 486,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "schafter",
+      "name": "Benefactor Schafter",
+      "primary": "assets/schafter.jpg",
+      "images": [
+        {
+          "src": "assets/schafter.jpg",
+          "alt": "Benefactor Schafter",
+          "caption": "Benefactor Schafter",
+          "source": "https://gtaplaybook.com/gta6/vehicles/benefactor-schafter/",
+          "width": 640,
+          "height": 582,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "seashark",
+      "name": "Seashark",
+      "primary": "assets/seashark.jpg",
+      "images": [
+        {
+          "src": "assets/seashark.jpg",
+          "alt": "Seashark",
+          "caption": "Seashark",
+          "source": "https://gtaplaybook.com/gta6/vehicles/seashark/",
+          "width": 640,
+          "height": 533,
+          "type": "Official footage detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "yellow-bike",
+      "name": "Yellow sport bike",
+      "primary": "assets/hd/photo-76.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-76.jpg",
+          "alt": "Yellow sport bike — Lucia Caminos 03",
+          "caption": "Lucia Caminos 03",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_03.14xgd2y_ymmeg.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "girardi",
+      "name": "Girardi ES9",
+      "primary": "assets/girardi.jpg",
+      "images": [
+        {
+          "src": "assets/girardi.jpg",
+          "alt": "Girardi ES9",
+          "caption": "Girardi ES9",
+          "source": "https://www.gtabase.com/weapons/gta-6/girardi-es9",
+          "width": 1200,
+          "height": 675,
+          "type": "Official screenshot detail via specialist reference"
+        },
+        {
+          "src": "assets/item-gallery/edition-07.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-07.jpg",
+          "alt": "Personalized Weapon Variants",
+          "caption": "Personalized Weapon Variants",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WEAPON_VARIANTS_01.12licq0_o7mb5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "klose",
+      "name": "Klose K17",
+      "primary": "assets/klose.jpg",
+      "images": [
+        {
+          "src": "assets/klose.jpg",
+          "alt": "Klose K17",
+          "caption": "Klose K17",
+          "source": "https://www.gtabase.com/weapons/gta-6/klose-k17",
+          "width": 1200,
+          "height": 675,
+          "type": "Official screenshot detail via specialist reference"
+        },
+        {
+          "src": "assets/item-gallery/edition-07.jpg",
+          "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/item-gallery/edition-07.jpg",
+          "alt": "Personalized Weapon Variants",
+          "caption": "Personalized Weapon Variants",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_WEAPON_VARIANTS_01.12licq0_o7mb5.jpg?akim=1&imdensity=1&imwidth=3840",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "mustang",
+      "name": "Duke Arms Mustang .357",
+      "primary": "assets/mustang.jpg",
+      "images": [
+        {
+          "src": "assets/mustang.jpg",
+          "alt": "Duke Arms Mustang .357",
+          "caption": "Duke Arms Mustang .357",
+          "source": "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver",
+          "width": 1200,
+          "height": 675,
+          "type": "Official screenshot detail via specialist reference"
+        },
+        {
+          "src": "assets/hd/photo-67.jpg",
+          "alt": "Duke Arms Mustang .357 — Grassrivers 06",
+          "caption": "Grassrivers 06",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_06.0bdeicllwisnc.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      }
+    },
+    {
+      "id": "nipper",
+      "name": "Nipper .38",
+      "primary": "assets/hd/photo-19.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-19.jpg",
+          "alt": "Nipper .38 — Lucia Caminos 14",
+          "caption": "Lucia Caminos 14",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_14.0.6_io7qeozm6.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/hd/photo-18.jpg",
+          "alt": "Nipper .38 — Lucia Caminos 13",
+          "caption": "Lucia Caminos 13",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_13.08dd3_zn0g59u.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        },
+        {
+          "src": "assets/hd/photo-56.jpg",
+          "alt": "Nipper .38 — Lucia Caminos 07",
+          "caption": "Lucia Caminos 07",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_07.0.c7un8ro7_p2.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "28% 85%",
+        "cardZoom": 1.45
+      }
+    },
+    {
+      "id": "duke",
+      "name": "Duke Arms 556",
+      "primary": "assets/hd/photo-72.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-72.jpg",
+          "alt": "Duke Arms 556 — Jason Duval 05",
+          "caption": "Jason Duval 05",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "moreland",
+      "name": "Moreland 850",
+      "primary": "assets/moreland.jpg",
+      "images": [
+        {
+          "src": "assets/moreland.jpg",
+          "alt": "Moreland 850",
+          "caption": "Moreland 850",
+          "source": "https://www.gtabase.com/weapons/gta-6/moreland-850",
+          "width": 1200,
+          "height": 675,
+          "type": "Official screenshot detail via specialist reference"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    },
+    {
+      "id": "m1a-inspired-rifle",
+      "name": "Scoped M1A-style rifle",
+      "primary": "assets/hd/photo-128.jpg",
+      "images": [
+        {
+          "src": "assets/hd/photo-128.jpg",
+          "alt": "Scoped M1A-style rifle — Grassrivers 01",
+          "caption": "Grassrivers 01",
+          "source": "https://www.rockstargames.com/VI/media/screenshots",
+          "original": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_01.1096rw4lbjur_.jpg?imwidth=1000",
+          "width": 3840,
+          "height": 2160,
+          "type": "Official screenshot"
+        }
+      ],
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "cardZoom": 1
+      },
+      "note": "Retain the matched source image; do not add unrelated scenes merely to increase the count."
+    }
+  ],
+  "music": [
+    {
+      "id": "thats-it",
+      "src": "assets/music/campaign/thats-it.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-3-future",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-3-future/w960.webp",
+      "width": 960,
+      "height": 960,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      },
+      "note": "Native 960px archived artist campaign image. Larger original metadata exists but full-resolution source could not be retrieved; do not label this one HD."
+    },
+    {
+      "id": "rhyno",
+      "src": "assets/music/campaign/rhyno.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-1-travis-scott",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-1-travis-scott/w960.webp",
+      "width": 960,
+      "height": 960,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      },
+      "note": "Native 960px archived artist campaign image. Larger original metadata exists but full-resolution source could not be retrieved; do not label this one HD."
+    },
+    {
+      "id": "sexy-magic",
+      "src": "assets/music/campaign/sexy-magic.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-4-ca7riel-and-paco-amoroso",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-4-ca7riel-and-paco-amoroso/w1920.webp",
+      "width": 1920,
+      "height": 2400,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "flower-in-a-hurricane",
+      "src": "assets/music/campaign/flower-in-a-hurricane.webp",
+      "source": "https://gtasixhub.com/media/gv-justice-flower-in-a-hurricane",
+      "original": "https://gtasixhub.com/files/media/gv-justice-flower-in-a-hurricane-709531/w1440.webp",
+      "width": 1440,
+      "height": 1440,
+      "kind": "Official single artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "last-thing-you-need",
+      "src": "assets/music/campaign/last-thing-you-need.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-2-morgan-wallen",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-2-morgan-wallen/w960.webp",
+      "width": 960,
+      "height": 960,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      },
+      "note": "Native 960px archived artist campaign image. Larger original metadata exists but full-resolution source could not be retrieved; do not label this one HD."
+    },
+    {
+      "id": "suzuki",
+      "src": "assets/music/hd/suzuki.jpg",
+      "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/music-hd/suzuki.jpg",
+      "source": "https://music.apple.com/us/album/6820156381",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/43/25/a6432567-bbfe-3fbc-18b1-081b7bcd69a0/075679553690.jpg/3000x3000bb.jpg",
+      "width": 1425,
+      "height": 1425,
+      "kind": "Official release artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "macacoa-2000",
+      "src": "assets/music/campaign/macacoa-2000.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-5-raul-alejandro",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-5-raul-alejandro/w960.webp",
+      "width": 960,
+      "height": 960,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      },
+      "note": "Native 960px archived artist campaign image. Larger original metadata exists but full-resolution source could not be retrieved; do not label this one HD."
+    },
+    {
+      "id": "dont-chart",
+      "src": "assets/music/hd/dont-chart.jpg",
+      "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/music-hd/dont-chart.jpg",
+      "source": "https://music.apple.com/us/album/6820156381",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/43/25/a6432567-bbfe-3fbc-18b1-081b7bcd69a0/075679553690.jpg/3000x3000bb.jpg",
+      "width": 1425,
+      "height": 1425,
+      "kind": "Official release artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "blood-in-your-eyes",
+      "src": "assets/music/hd/blood-in-your-eyes.jpg",
+      "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/music-hd/blood-in-your-eyes.jpg",
+      "source": "https://music.apple.com/us/album/6831700338",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/e6/99/cfe699ff-fb91-c69c-5665-1161ccfdef0a/075679550101.jpg/3000x3000bb.jpg",
+      "width": 1425,
+      "height": 1425,
+      "kind": "Official release artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "bright-lights-big-city",
+      "src": "assets/music/campaign/bright-lights-big-city.webp",
+      "source": "https://gtasixhub.com/media/gv-gta-6-artwork-6-keith-richards",
+      "original": "https://gtasixhub.com/media/gv/gv-gta-6-artwork-6-keith-richards/w1920.webp",
+      "width": 1920,
+      "height": 2400,
+      "kind": "Artist campaign artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "pusher",
+      "src": "assets/music/hd/pusher.jpg",
+      "staging": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/music-hd/pusher.jpg",
+      "source": "https://music.apple.com/us/album/6827656134",
+      "original": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/6d/08/a06d082b-9322-3ede-f6aa-fe3e7b9b386f/5056556188568_cover.jpg/3000x3000bb.jpg",
+      "width": 3000,
+      "height": 3000,
+      "kind": "Official release artwork",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    }
+  ],
+  "extra": {
+    "gym": {
+      "src": "assets/hd/photo-11.jpg",
+      "caption": "Jason Duval 15 — bench press",
+      "source": "https://www.rockstargames.com/VI/media/screenshots"
+    },
+    "musicBackgrounds": [
+      {
+        "name": "hero-background-ultrawide.jpg",
+        "url": "https://www.rockstargames.com/VI/_next/static/media/hero-background-ultrawide.14kyfs_8tksd8.jpg?akim=1&imdensity=1&imwidth=3840",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-art/hero-background-ultrawide.jpg",
+        "sitePath": "assets/radio/hero-background-ultrawide.jpg",
+        "width": 3840,
+        "height": 1646,
+        "bytes": 853597
+      },
+      {
+        "name": "score-background-desktop.jpg",
+        "url": "https://www.rockstargames.com/VI/_next/static/media/score-background-desktop.00160ew9j.7ha.jpg?akim=1&imdensity=1&imwidth=3840",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-art/score-background-desktop.jpg",
+        "sitePath": "assets/radio/score-background-desktop.jpg",
+        "width": 3840,
+        "height": 1600,
+        "bytes": 211482
+      },
+      {
+        "name": "album-background-desktop.jpg",
+        "url": "https://www.rockstargames.com/VI/_next/static/media/album-background-desktop.0sxn7hogv.8xn.jpg?akim=1&imdensity=1&imwidth=3840",
+        "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-art/album-background-desktop.jpg",
+        "sitePath": "assets/radio/album-background-desktop.jpg",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 948649
+      }
+    ]
+  },
+  "implementationNotes": [
+    "Copy staging item-gallery directory to public/assets/item-gallery; map IDs are exact current catalog IDs.",
+    "Use object-fit:contain for full-screen item gallery and controls over transparent/glass surfaces. Never stretch images to card dimensions.",
+    "Tight firearm crops can remain thumbnails, but open the full 4K original wherever identified.",
+    "Nipper card can use photo-19 with object-position 28% 85% and modest CSS zoom; its gallery should show entire image.",
+    "For girardi and klose the additional official Personalized Weapon Variants image shows both pistols; do not label both as the selected model.",
+    "For enduro/kayak the safehouse photo is location context, not a second close-up.",
+    "The 61 new edition images include 2 Vintage Pack context images (edition-50/51) not assigned to unrelated entry galleries.",
+    "Only multiple images actually depicting the item or explicitly labeled context are mapped. Remaining 15 trailer/reference-only entries retain matched images, with no invented alternate angle.",
+    "Four album/single covers upgraded from440px to1425/3000px; other source art already1440/1920 or only960 available."
+  ],
+  "limitations": [
+    "GTA Wiki requests and some GTABase individual pages blocked retrieval.",
+    "Direct artist social-post original files are not available in this environment. Four 960px square campaign images remain native960.",
+    "All current entries reviewed does not mean the full unreleased game catalog is known."
+  ]
+}

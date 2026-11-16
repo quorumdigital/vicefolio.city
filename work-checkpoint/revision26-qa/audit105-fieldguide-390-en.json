@@ -1,0 +1,67 @@
+{
+  "route": "fieldguide",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 361,
+  "heroBottom": 425.375,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Map room",
+      "x": 108.65625,
+      "right": 281.34375,
+      "y": 359.375,
+      "height": 46
+    },
+    {
+      "text": "Vice City",
+      "x": 23.390625,
+      "right": 190,
+      "y": 437.375,
+      "height": 100
+    },
+    {
+      "text": "Leonida Keys",
+      "x": 200,
+      "right": 366.609375,
+      "y": 437.375,
+      "height": 100
+    },
+    {
+      "text": "Grassrivers",
+      "x": 23.390625,
+      "right": 190,
+      "y": 547.375,
+      "height": 100
+    },
+    {
+      "text": "Port Gellhorn",
+      "x": 200,
+      "right": 366.609375,
+      "y": 547.375,
+      "height": 100
+    },
+    {
+      "text": "Ambrosia",
+      "x": 23.390625,
+      "right": 190,
+      "y": 657.375,
+      "height": 100
+    },
+    {
+      "text": "Mount Kalaga National Park",
+      "x": 200,
+      "right": 366.609375,
+      "y": 657.375,
+      "height": 100
+    }
+  ],
+  "seam": {
+    "y": 205,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

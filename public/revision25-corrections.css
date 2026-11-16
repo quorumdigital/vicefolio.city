@@ -1,0 +1,16 @@
+/* Original spacing brief: compact script lockup, breathing room between the sections below. */
+.hero.rooftop-hero.r25-hero-spacing .hero-content{display:flex;flex-direction:column;align-items:center;justify-content:space-between;gap:30px;padding:28px 0 70px;max-height:950px;min-height:0;text-align:center}
+.hero.r25-hero-spacing .leonida-sign{display:flex;flex-direction:column;align-items:center;gap:0;margin:0 auto!important;flex:0 0 auto;max-width:550px;width:100%}
+.hero.r25-hero-spacing .welcome-line{margin:0 0 34px!important;font-weight:300!important;font-size:clamp(18px,1.45vw,23px);letter-spacing:.4em;line-height:1.4}
+.hero.r25-hero-spacing .state-script{margin:0!important;width:100%;line-height:0}
+.hero.r25-hero-spacing .state-script img{width:100%;max-width:550px;height:auto!important;display:block;margin:0 auto}
+.hero.r25-hero-spacing .leonida-sign>small{margin:16px 0 0!important;font-size:11px;line-height:1.5}
+.hero.r25-hero-spacing .hero-content>h1{margin:0 auto!important;flex:0 0 auto;display:flex;flex-direction:column;align-items:center;gap:12px;width:100%;max-width:490px;line-height:1}
+.hero.r25-hero-spacing .hero-title-art{margin:0!important;display:block;max-width:100%}
+.hero.r25-hero-spacing .hero-intro{margin:0 auto!important;max-width:425px;font-size:15px;line-height:1.8;flex:0 0 auto;font-weight:400}
+.hero.r25-hero-spacing .hero-actions{margin:0!important;flex:0 0 auto;justify-content:center;gap:14px}
+.hero.r25-hero-spacing .hero-bottom{margin:0!important;flex:0 0 auto;font-size:10px;line-height:1.6;gap:15px}
+.cinematic-fieldguide .state-heading{margin:0 0 24px auto!important}.cinematic-fieldguide .state-script img{height:auto!important}
+@media(min-width:1700px){.hero.rooftop-hero.r25-hero-spacing .hero-content{padding-top:38px;padding-bottom:72px;max-height:990px}}
+@media(min-width:701px) and (max-width:1100px){.hero.rooftop-hero.r25-hero-spacing .hero-content{padding:30px 0 45px;gap:30px;min-height:700px}.hero.r25-hero-spacing .hero-intro{font-size:13px}.hero.r25-hero-spacing .hero-bottom{font-size:8px;gap:8px}.hero.r25-hero-spacing .welcome-line{font-size:17px;margin-bottom:30px!important}}
+@media(max-width:700px){.hero.rooftop-hero.r25-hero-spacing .hero-content{height:auto;max-height:none;min-height:0;padding:20px 6% 45px;gap:30px}.hero.r25-hero-spacing .welcome-line{font-size:16px;letter-spacing:.36em;margin-bottom:29px!important}.hero.r25-hero-spacing .leonida-sign{max-width:410px}.hero.r25-hero-spacing .hero-content>h1{max-width:410px;gap:10px}.hero.r25-hero-spacing .hero-intro{font-size:13px;line-height:1.75;max-width:380px}.hero.r25-hero-spacing .hero-bottom{font-size:8px;gap:10px}.hero.r25-hero-spacing .hero-actions{gap:12px}.hero.r25-hero-spacing .leonida-sign>small{margin-top:13px!important}}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-14T23:09:45.789Z",
+  "localVerified": 105,
+  "globalScope": [
+    30,
+    57,
+    99
+  ],
+  "mobileRefinements": [
+    98,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105
+  ],
+  "desktopGeometryChecks": 24,
+  "validMobileRoutes": [
+    "home",
+    "world",
+    "money",
+    "vehicles",
+    "items",
+    "people",
+    "fieldguide",
+    "radio",
+    "music",
+    "gallery",
+    "ufos",
+    "community",
+    "saved",
+    "credits",
+    "account"
+  ],
+  "finalNarrowChecks": 27,
+  "unresolvedLocalFailures": [],
+  "publication": "pending"
+}

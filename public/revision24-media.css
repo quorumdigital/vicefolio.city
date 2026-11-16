@@ -1,0 +1,12 @@
+/* Evidence framing is scoped to the two changed archive files. */
+.xfiles-page .ufo-card>figure.r24-source-figure{display:flex;flex-direction:column;justify-content:center;min-height:370px;height:auto;aspect-ratio:auto;background:#080d16;isolation:isolate}
+.xfiles-page .ufo-card>figure.r24-source-figure:after{display:none}
+.xfiles-page .r24-source-figure .r24-image-frame{display:block;width:100%;overflow:hidden;margin:auto 0;flex:none}
+.xfiles-page .ufo-card>figure.r24-source-figure .r24-evidence-shot{display:block;width:100%;height:auto;min-height:0;max-height:none;aspect-ratio:auto;object-fit:contain;transform:none;transition:none}
+.xfiles-page .ufo-card>figure.r24-map-figure .r24-image-frame{aspect-ratio:8/9;margin:0}
+.xfiles-page .ufo-card>figure.r24-map-figure .r24-evidence-shot{width:200%;max-width:none;height:100%;object-fit:fill;object-position:left top}
+.xfiles-page .ufo-card>figure.r24-source-figure figcaption{position:static;inset:auto;margin-top:auto;padding:17px 20px 19px;background:#0b111b;border-top:1px solid #9edfea20;font-size:10px;line-height:1.7;color:#aebdcc;text-shadow:none}
+.xfiles-page .r24-source-figure figcaption strong,.xfiles-page .r24-source-figure figcaption span{display:block}
+.xfiles-page .r24-source-figure figcaption strong{font-weight:550;color:#d5e5ef;margin-bottom:3px}
+.xfiles-page .r24-source-figure figcaption a{display:inline-block;position:relative;z-index:2;margin-top:7px;color:#a8e2e9;text-underline-offset:3px}
+@media(max-width:700px){.xfiles-page .ufo-card>figure.r24-source-figure{min-height:0}.xfiles-page .ufo-card>figure.r24-source-figure figcaption{font-size:10px;padding:15px 18px}.xfiles-page .ufo-card>figure.r24-map-figure .r24-image-frame{aspect-ratio:8/9;max-height:none}}

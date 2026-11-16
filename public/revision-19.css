@@ -1,0 +1,120 @@
+/* Final visual refinements: hero balance, editorial hierarchy and entrance motion. */
+.rooftop-hero .hero-content{margin-left:3%;width:40%;max-width:600px;padding-top:32px}
+.rooftop-hero .welcome-line{font-size:clamp(17px,1.35vw,22px);letter-spacing:.25em;margin-bottom:0}
+.rooftop-hero .leonida-sign{margin:0 auto;align-self:center}
+.rooftop-hero h1{margin-top:24px;margin-bottom:0}
+.rooftop-hero .hero-actions{margin-top:30px}
+.rooftop-hero .hero-bottom{margin-top:23px}
+.rooftop-hero .hero-intro{font-size:14px;line-height:1.8;max-width:410px;margin:22px auto 0;color:#e4dded;text-wrap:pretty}
+body[data-scene='home'] .section-head .eyebrow,body .cinematic-head .scene-copy>.eyebrow{color:#91dfff!important}
+body[data-scene='home'] .section-head h2 img{filter:drop-shadow(0 2px 0 #4d2453)!important}
+.cash-safety-intro>.eyebrow,.cash-limit-note>.eyebrow,.money-protect-scene .eyebrow{color:#91dfff!important;font-size:14px;letter-spacing:.14em;font-weight:500}
+.cash-safety-intro h2,.cash-limit-note h3,.money-protect-scene h2{font-family:Outfit,Arial,sans-serif!important;font-size:clamp(27px,2.2vw,34px)!important;font-weight:600!important;line-height:1.25!important;color:#f7f4fa!important;letter-spacing:-.02em!important}
+.cash-safety-intro h2,.cash-limit-note h3{margin:14px 0}
+.cash-balances strong{font-family:Outfit,Arial,sans-serif;font-size:18px;font-weight:600}
+body[data-scene='vehicles'] .catalog-evidence,body[data-scene='vehicles'] .vehicle-compare-intro{display:none}
+body[data-scene='vehicles'] .cinematic-head{margin-bottom:24px}
+body[data-scene='vehicles'] .toolbar{margin-top:20px}
+.vehicle-group-heading{display:flex;align-items:center;flex-wrap:wrap;gap:12px 18px}
+.vehicle-group-heading .vehicle-compare-button{margin-left:auto;min-height:40px;padding:9px 15px;font:500 13px/1.4 Outfit,Arial,sans-serif;border-color:#a8cbea55;background:#91dfff0a;color:#dceffc}
+.cinematic-fieldguide .scene-copy{padding-top:62px;padding-bottom:44px}
+.cinematic-fieldguide .state-heading{width:min(760px,65vw);max-width:760px;margin:0 0 8px}
+.cinematic-fieldguide .state-script img{display:block;width:100%;max-width:760px;height:auto;object-position:left center}
+.cinematic-music{align-items:flex-end;min-height:570px}
+.cinematic-music .scene-copy{padding:100px 3.5% 42px}
+.cinematic-music .scene-copy h1{max-width:670px}
+.cinematic-music .scene-shade{background:linear-gradient(90deg,#171025c9,transparent 78%),linear-gradient(0deg,#100e1bf5,transparent 92%)}
+.xfiles-copy>.eyebrow{color:#ffe9c3!important;font-size:clamp(15px,1.3vw,19px)!important;letter-spacing:.15em;text-shadow:0 2px 10px #050a1f;font-weight:600}
+.xfiles-copy .xfiles-title img{display:block;width:min(100%,455px);height:auto;filter:url('#title-neon-blue')!important}
+.gtfm-intro #gtfm-heading{font:600 clamp(30px,3.1vw,44px)/1.15 Outfit,Arial,sans-serif!important;letter-spacing:-.025em;color:#f0c5df;margin:0 0 9px}
+.gtfm-intro .gtfm-source-name{display:block;font-size:14px!important;color:#91dfff!important;letter-spacing:.16em;margin-bottom:18px}
+.radio-page .cinematic-head .eyebrow{color:#91dfff!important}
+.radio-page #gta-fm{margin-top:70px}
+.cinematic-head .scene-copy{animation:none!important;--entry-x:-42px;--entry-y:20px}
+.cinematic-vehicles .scene-copy{--entry-x:-65px;--entry-y:0px}
+.cinematic-people .scene-copy{--entry-x:48px;--entry-y:-18px}
+.cinematic-items .scene-copy{--entry-x:0px;--entry-y:32px}
+.cinematic-music .scene-copy{--entry-x:-50px;--entry-y:14px}
+.cinematic-radio .scene-copy{--entry-x:35px;--entry-y:24px}
+.cinematic-fieldguide .scene-copy{--entry-x:-38px;--entry-y:12px}
+.xfiles-copy{--entry-x:-48px;--entry-y:0px}
+.cinematic-head .scene-copy>*,.xfiles-copy>*{animation:atlas-copy-arrival 1.25s cubic-bezier(.18,.65,.25,1) both}
+.cinematic-head .scene-copy>:nth-child(1),.xfiles-copy>:nth-child(1){animation-delay:.08s}
+.cinematic-head .scene-copy>:nth-child(2),.xfiles-copy>:nth-child(2){animation-delay:.19s}
+.cinematic-head .scene-copy>:nth-child(3),.xfiles-copy>:nth-child(3){animation-delay:.32s}
+.cinematic-head .scene-copy>:nth-child(n+4),.xfiles-copy>:nth-child(n+4){animation-delay:.46s}
+@keyframes atlas-copy-arrival{from{opacity:0;transform:translate(var(--entry-x),var(--entry-y))}to{opacity:1;transform:translate(0,0)}}
+.xfiles-page .xf-reveal,.xfiles-page .mystery-watch>header,.xfiles-page .mystery-note,.xfiles-page .mystery-legacy{transition:opacity 1.2s ease,transform 1.35s cubic-bezier(.18,.65,.25,1)}
+.xfiles-page .xf-enter{opacity:0;transform:translate(-26px,48px)}
+.xfiles-page .ufo-card:nth-child(even).xf-enter{transform:translate(26px,48px)}
+@media(min-width:1700px){.rooftop-hero .hero-content{width:39%;max-width:680px;padding-top:48px}}
+@media(max-width:1100px) and (min-width:701px){.rooftop-hero .hero-content{width:44%;margin-left:2%;padding-top:35px}.rooftop-hero .hero-intro{font-size:13px}.cinematic-music{min-height:520px}}
+@media(max-width:700px){.rooftop-hero .hero-content{width:100%;max-width:none;margin:0;padding:4px 6% 36px}.rooftop-hero .welcome-line{font-size:16px}.rooftop-hero h1{margin-top:24px}.rooftop-hero .hero-actions{margin-top:26px}.rooftop-hero .hero-intro{font-size:13px;max-width:400px;margin-top:22px}.rooftop-hero .hero-bottom{gap:12px}.cinematic-fieldguide .state-heading{width:100%;max-width:560px}.cinematic-fieldguide .scene-copy{padding:150px 6% 32px}.cinematic-music{min-height:510px}.cinematic-music .scene-copy{padding:170px 6% 30px}.vehicle-group-heading .vehicle-compare-button{margin-left:0}.vehicle-group-heading h2{flex-basis:100%}.cash-safety-intro>.eyebrow,.cash-limit-note>.eyebrow{font-size:13px}.xfiles-copy .xfiles-title img{width:100%;max-width:360px}.radio-page #gta-fm{margin-top:48px}}
+@media(prefers-reduced-motion:reduce){.cinematic-head .scene-copy>*,.xfiles-copy>*{animation:none!important;opacity:1!important;transform:none!important}.xfiles-page .xf-reveal,.xfiles-page .mystery-watch>header,.xfiles-page .mystery-note,.xfiles-page .mystery-legacy{transition:none!important}.xfiles-page .xf-enter{opacity:1;transform:none}}
+
+/* Clear hierarchy: display lettering belongs to page openings. */
+.site-header .header-countdown{border-left:0!important;border-top:0!important}
+.atlas-title[data-title-role='section'][data-title-role]{font-family:Outfit,Arial,sans-serif!important;font-weight:500!important;font-size:clamp(29px,3vw,43px)!important;letter-spacing:-.025em!important;line-height:1.2!important;color:#f3f1f8!important}
+.atlas-title[data-title-role='card'][data-title-role],.atlas-title[data-title-role='dialog'][data-title-role],.atlas-title[data-title-role='subsection'][data-title-role]{font-family:Outfit,Arial,sans-serif!important;font-weight:600!important;color:#f1eef7!important;letter-spacing:-.012em!important}
+.atlas-title[data-title-role='card'][data-title-role]{font-size:clamp(21px,1.7vw,26px)!important}
+.atlas-title[data-title-role='compact'][data-title-role]{font-family:Outfit,Arial,sans-serif!important;font-weight:500!important;color:#9adfff!important;letter-spacing:0!important}
+body[data-scene='home'] .quick-link strong{font:600 18px/1.3 Outfit,Arial,sans-serif!important;color:#f3f1f8!important;letter-spacing:-.01em}
+body[data-scene='home'] .quick-link>.icon{color:#91dfff}
+body[data-scene='home'] .quick-link:nth-child(3n+2)>.icon{color:#d8add6}
+body[data-scene='home'] .eyebrow,body[data-scene='home'] .section-head .eyebrow,body[data-scene='home'] .region-caption small{color:#91dfff!important}
+body[data-scene='home'] .section-head h2,body[data-scene='home'] .release-band h2,body[data-scene='home'] .home-focus h2{color:#f3f1f8!important}
+.region-caption h3.atlas-title[data-title-role][data-title-role]{color:#fff!important;font-size:clamp(23px,2vw,29px)!important;font-weight:500!important}
+body[data-scene='home'] .text-link,.vehicle-card .card-type,.region-chapter-heading>.eyebrow{color:#91dfff}
+.vehicle-card .card-info h3.atlas-title[data-title-role][data-title-role]{font-size:23px!important;font-weight:600!important;color:#f1eef7!important}
+.cash-safety .cash-balances>div{gap:10px 16px;padding:20px 24px}
+.cash-safety .cash-balances small{font:500 16px/1.45 Outfit,Arial,sans-serif;color:#dce4f0}
+.cash-safety .cash-balances>div:first-child small{color:#efbfca}
+.cash-safety .cash-balances>div:last-child small{color:#a5e1fb}
+.cinematic-fieldguide .scene-shade{background:linear-gradient(90deg,#09213099 0%,#09213030 50%,transparent 78%),linear-gradient(0deg,#100e1bd9,transparent 48%)}
+.cinematic-fieldguide .scene-foot{display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-top:17px}
+.cinematic-fieldguide .scene-foot .scene-scroll{order:-1;min-height:38px;padding:7px 12px;font:500 12px/1.3 Outfit,Arial,sans-serif;gap:13px;border-color:#a6dff666}
+.cinematic-fieldguide .scene-foot>span{color:#b0e2f7;font-size:12px;margin:0}
+@media(max-width:700px){body[data-scene='home'] .quick-link strong{font-size:16px!important}.cash-safety .cash-balances>div{padding:18px;justify-content:flex-start}.cash-safety .cash-balances small{font-size:15px}.atlas-title[data-title-role='section'][data-title-role]{font-size:29px!important}}
+
+body[data-scene='home'] .quick-nav .quick-link strong.atlas-title[data-title-role]{font-size:18px!important;font-weight:600!important}
+.cinematic-head .scene-copy>.eyebrow{font:600 12px/1.5 Outfit,Arial,sans-serif!important;letter-spacing:.16em!important}
+.section-head .eyebrow,.section-heading .eyebrow,.release-band .eyebrow,.region-chapter-heading .eyebrow{font:500 12px/1.5 Outfit,Arial,sans-serif;letter-spacing:.15em}
+.rooftop-hero .state-script img{display:block;margin-inline:auto}
+@media(max-width:700px){body[data-scene='home'] .quick-nav .quick-link strong.atlas-title[data-title-role]{font-size:16px!important}.cinematic-head .scene-copy>.eyebrow{font-size:11px!important}}
+
+/* Pink remains the brand accent; blue carries navigation and selection feedback. */
+:root{--cyan:#91dfff;--atlas-interactive:#91dfff;--atlas-border:#a9cce42b}
+::selection{background:#91dfff;color:#101520}
+.site-header .primary-nav>a.active:after,.site-header .nav-group.active:after{background:#91dfff;box-shadow:0 0 12px #91dfff55}
+.site-header .nav-dropdown>a:hover,.site-header .nav-dropdown>a:focus-visible,.language-options>a:hover,.language-options>a:focus-visible{background:linear-gradient(110deg,#72c6e51c,#7c9bcf10)!important;border-color:#91dfff44;box-shadow:inset 3px 0 0 #91dfff}
+.site-header .nav-dropdown>a.active,.site-header .nav-dropdown>a[aria-current=page],.language-options>a[aria-current=page]{background:linear-gradient(110deg,#72c6e524,#7c9bcf12)!important;border-color:#91dfff55;color:#d5f2ff;box-shadow:inset 3px 0 0 #91dfff}
+.chip{color:#b4e7fc;border-color:#a9d7eb33;background:#111a25e6}.chip .dot{background:#91dfff}
+.cash-safety,.cash-balances>div,.release-band,.guide-aside,.quick-link,.notice{border-color:var(--atlas-border)}
+.notice{border-left-color:#91dfff;background:#17202a}
+.guide-status{border-color:#91dfff3d;color:#b2d7e8}
+.money-chapter-nav button{border-color:#a9cce42b;background:#11141c}
+.money-chapter-nav button[aria-selected='true']{border-color:#91dfff77;background:linear-gradient(110deg,#193343,#1d2438);color:#e5f6ff;box-shadow:inset 0 -2px 0 #91dfff}
+.tab.active,.region-choice.active{background:#91dfff12;color:#c4edff;border-color:#91dfff66}
+.story-number,.approach-number,.approach-steps li:before,.method-guide .text-link{color:#91dfff}
+.story-takeaway{color:#d3e3ef;border-left-color:#91dfff88}
+.method-location-note{border-left-color:#91dfff77}
+.button.ghost,.scene-scroll,.region-map-inline{border-color:#a9cce44d}
+.xfiles-opening .xfiles-start{background:linear-gradient(110deg,#143344e6,#202941e6)!important;border-color:#91dfff88!important;color:#e8f8ff!important;box-shadow:0 3px 0 #0c1723,inset 0 1px 0 #b6eaff26}
+.gtfm-station[aria-pressed='true']{border-color:#91dfff88!important;background:#91dfff14!important;box-shadow:inset 3px 0 0 #91dfff!important}
+.map-sidebar-tabs button[aria-pressed=true]:after{background:#91dfff}
+@media(hover:hover){.button:not(.primary):not(.money-cta):not(.approach-primary):hover,.scene-scroll:hover,.radio-page .radio-dial a:hover{border-color:#91dfff99;color:#e5f6ff}.weapon-card:hover,.vehicle-card:hover,.quick-link:hover{border-color:#91dfff66}.icon-btn:hover{color:#91dfff}}
+
+.site-header .nav-dropdown>a:hover .menu-link-icon,.site-header .nav-dropdown>a.active .menu-link-icon{stroke:#91dfff}
+.language-options>a[aria-current=page]:after{color:#d5f2ff;background:#91dfff14;border-color:#91dfff40}
+
+.button.ghost:not(.money-cta){box-shadow:inset 0 1px 0 #b9e6ff12,0 3px 12px #04080d24}
+@media(hover:hover){
+.quick-link:hover{box-shadow:0 14px 32px #0005,0 0 22px #91dfff18!important}
+.money-opportunity .opportunity-actions>a:hover{border-color:#91dfff99!important;background:#91dfff0d!important;color:#e4f6ff!important}
+.cinematic-fieldguide .scene-foot .scene-scroll:hover{border-color:#91dfffcc;background:#143749c9;color:#eefaff;box-shadow:0 0 18px #91dfff18}
+.xfiles-opening .xfiles-copy .xfiles-start:hover{border-color:#b1eaff!important;background:linear-gradient(110deg,#1c4860eb,#263b59eb)!important;box-shadow:0 4px 18px #07132570,0 0 18px #91dfff22!important}
+}
+
+/* Keep reveal travel inside the phone gutter while preserving directional motion. */
+@media(max-width:700px){.xfiles-page .xf-enter{transform:translate(-16px,36px)}.xfiles-page .ufo-card:nth-child(even).xf-enter{transform:translate(16px,36px)}}
+@media(max-width:700px) and (prefers-reduced-motion:reduce){.xfiles-page .xf-enter,.xfiles-page .ufo-card:nth-child(even).xf-enter{transform:none}}

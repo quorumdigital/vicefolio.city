@@ -1,0 +1,39 @@
+{
+  "route": "saved",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 0,
+  "heroBottom": 64,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Sign in to sync",
+      "x": 42.390625,
+      "right": 347.609375,
+      "y": 314.078125,
+      "height": 44
+    },
+    {
+      "text": "Export my entries & notes",
+      "x": 184.8125,
+      "right": 366.609375,
+      "y": 393.078125,
+      "height": 44
+    },
+    {
+      "text": "Explore vehicles",
+      "x": 93.3125,
+      "right": 296.6875,
+      "y": 686.65625,
+      "height": 49
+    }
+  ],
+  "seam": {
+    "y": 0,
+    "start": "64px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 64px, rgb(0, 0, 0) 160px)"
+  },
+  "locale": "en"
+}

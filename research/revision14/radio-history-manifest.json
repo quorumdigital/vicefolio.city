@@ -1,0 +1,148 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "Historic radio visuals from earlier GTA titles only",
+  "assets": [
+    {
+      "id": "chatterbox-gta3",
+      "file": "ChatterboxFM-GTAIII-Logo.svg",
+      "source": "https://gta.wiki/w/Chatterbox_FM_(3D_Universe)",
+      "game": "Grand Theft Auto III",
+      "releaseYear": 2001,
+      "settingYear": 2001,
+      "caption": "Chatterbox FM — the talk-radio station hosted by Lazlow in GTA III.",
+      "url": "https://gta.wiki/images/ChatterboxFM-GTAIII-Logo.svg",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/chatterbox-gta3.svg",
+      "sitePath": "assets/radio/history/chatterbox-gta3.svg",
+      "width": 496,
+      "height": 483,
+      "bytes": 23476,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:ChatterboxFM-GTAIII-Logo.svg",
+      "display": {
+        "fit": "contain",
+        "upscale": true
+      }
+    },
+    {
+      "id": "vrock-vice-city",
+      "file": "V-Rock-GTAVC-Logo.svg",
+      "source": "https://gta.wiki/w/V-Rock_(3D_Universe)",
+      "game": "Grand Theft Auto: Vice City",
+      "releaseYear": 2002,
+      "settingYear": 1986,
+      "caption": "V-Rock — Vice City’s hard-rock and metal station, hosted by Lazlow.",
+      "url": "https://gta.wiki/images/V-Rock-GTAVC-Logo.svg",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/vrock-vice-city.svg",
+      "sitePath": "assets/radio/history/vrock-vice-city.svg",
+      "width": 507,
+      "height": 476,
+      "bytes": 42095,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:V-Rock-GTAVC-Logo.svg",
+      "display": {
+        "fit": "contain",
+        "upscale": true
+      }
+    },
+    {
+      "id": "flash-vice-city",
+      "file": "FlashFM-GTAVC-Logo.png",
+      "source": "https://gta.wiki/w/Flash_FM_(3D_Universe)",
+      "game": "Grand Theft Auto: Vice City / Vice City Stories",
+      "releaseYear": 2002,
+      "settingYear": 1986,
+      "caption": "Classic Flash FM — the pop-radio identity used in Vice City and Vice City Stories.",
+      "url": "https://gta.wiki/images/FlashFM-GTAVC-Logo.png",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/flash-vice-city.png",
+      "sitePath": "assets/radio/history/flash-vice-city.png",
+      "width": 334,
+      "height": 205,
+      "bytes": 8228,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:FlashFM-GTAVC-Logo.png",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      },
+      "relatedReleaseYear": 2006,
+      "sourceImageOrigin": "GTA Vice City Stories promotional website",
+      "hostNote": "Toni hosts Vice City; Teri and Toni co-host Vice City Stories."
+    },
+    {
+      "id": "integrity-gta4",
+      "file": "Integrity-GTAIV-Logo.png",
+      "source": "https://gta.wiki/w/Integrity_2.0",
+      "game": "Grand Theft Auto IV",
+      "releaseYear": 2008,
+      "settingYear": 2008,
+      "caption": "Integrity 2.0 — Lazlow’s street-level return to Liberty City in GTA IV.",
+      "url": "https://gta.wiki/images/Integrity-GTAIV-Logo.png",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/integrity-gta4.png",
+      "sitePath": "assets/radio/history/integrity-gta4.png",
+      "width": 500,
+      "height": 236,
+      "bytes": 19583,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:Integrity-GTAIV-Logo.png",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    },
+    {
+      "id": "lcfr-liberty-city-stories",
+      "file": "LibertyCityFreeRadio-GTALCS-Logo1.svg",
+      "source": "https://gta.wiki/w/Liberty_City_Free_Radio",
+      "game": "Grand Theft Auto: Liberty City Stories",
+      "releaseYear": 2005,
+      "settingYear": 1998,
+      "caption": "LCFR — the Liberty City Stories talk station that includes Lazlow’s Chatterbox show.",
+      "url": "https://gta.wiki/images/LibertyCityFreeRadio-GTALCS-Logo1.svg",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/lcfr-liberty-city-stories.svg",
+      "sitePath": "assets/radio/history/lcfr-liberty-city-stories.svg",
+      "width": 2197,
+      "height": 650,
+      "bytes": 7045,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:LibertyCityFreeRadio-GTALCS-Logo1.svg",
+      "display": {
+        "fit": "contain",
+        "upscale": true
+      }
+    },
+    {
+      "id": "lazlow-vice-city",
+      "file": "Lazlow-GTAVC-Full.jpg",
+      "source": "https://gta.wiki/w/V-Rock_(3D_Universe)",
+      "game": "Grand Theft Auto: Vice City",
+      "releaseYear": 2002,
+      "settingYear": 1986,
+      "caption": "Lazlow in the Vice City era — official character artwork.",
+      "url": "https://gta.wiki/images/Lazlow-GTAVC-Full.jpg",
+      "localPath": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-history/lazlow-vice-city.jpg",
+      "sitePath": "assets/radio/history/lazlow-vice-city.jpg",
+      "width": 2880,
+      "height": 1800,
+      "bytes": 1030111,
+      "credit": "GTA station identity / artwork © Rockstar Games; image file via GTA Wiki",
+      "era": "Historical GTA radio — not a GTA VI station announcement",
+      "filePage": "https://gta.wiki/w/File:Lazlow-GTAVC-Full.jpg",
+      "display": {
+        "fit": "contain",
+        "upscale": false
+      }
+    }
+  ],
+  "implementationNotes": [
+    "Use these assets within a clearly labeled Radio History section, not the current GTA VI station list.",
+    "Use the Lazlow Vice City artwork as the main wide nostalgia image; station logos can accompany timeline cards.",
+    "Chatterbox, V-Rock and LCFR are vector assets and stay crisp at larger sizes. Integrity is500×236 and oldFlash is334×205; keep these modestly sized.",
+    "Flash image originates from the Vice City Stories website, so the manifest explicitly includes both related games.",
+    "Include the exact GTA Wiki file-page links in credits as requested by the archive. Do not imply these logos announce the return of any GTA VI station."
+  ]
+}

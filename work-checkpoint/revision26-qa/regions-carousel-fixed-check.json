@@ -1,0 +1,123 @@
+[
+  {
+    "viewport": {
+      "width": 1919,
+      "height": 1080
+    },
+    "overflow": 0,
+    "buttons": [
+      {
+        "text": "Previous image",
+        "label": "Previous image",
+        "rect": {
+          "x": 1344.1875,
+          "y": 949.90625,
+          "width": 100.375,
+          "height": 38,
+          "top": 949.90625,
+          "right": 1444.5625,
+          "bottom": 987.90625,
+          "left": 1344.1875
+        },
+        "background": "rgb(57, 37, 61)"
+      },
+      {
+        "text": "Next image",
+        "label": "Next image",
+        "rect": {
+          "x": 1457.5625,
+          "y": 949.90625,
+          "width": 82,
+          "height": 38,
+          "top": 949.90625,
+          "right": 1539.5625,
+          "bottom": 987.90625,
+          "left": 1457.5625
+        },
+        "background": "rgba(33, 25, 44, 0.91)"
+      }
+    ],
+    "blankStepButtons": 0,
+    "before": "assets/hd/photo-113.webp",
+    "afterNext": "assets/hd/photo-114.webp",
+    "afterPrevious": "assets/hd/photo-113.webp"
+  },
+  {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "overflow": 0,
+    "buttons": [
+      {
+        "text": "Previous image",
+        "label": "Previous image",
+        "rect": {
+          "x": 164.234375,
+          "y": 542.9375,
+          "width": 100.375,
+          "height": 38,
+          "top": 542.9375,
+          "right": 264.609375,
+          "bottom": 580.9375,
+          "left": 164.234375
+        },
+        "background": "rgb(57, 37, 61)"
+      },
+      {
+        "text": "Next image",
+        "label": "Next image",
+        "rect": {
+          "x": 271.609375,
+          "y": 542.9375,
+          "width": 82,
+          "height": 38,
+          "top": 542.9375,
+          "right": 353.609375,
+          "bottom": 580.9375,
+          "left": 271.609375
+        },
+        "background": "rgba(33, 25, 44, 0.91)"
+      }
+    ],
+    "blankStepButtons": 0,
+    "before": "assets/hd/photo-113.webp",
+    "afterNext": "assets/hd/photo-114.webp",
+    "afterPrevious": "assets/hd/photo-113.webp"
+  },
+  {
+    "viewport": {
+      "width": 320,
+      "height": 740
+    },
+    "overflow": 0,
+    "controls": [
+      {
+        "text": "Vorheriges Bild",
+        "rect": {
+          "x": 32.1875,
+          "y": 547.546875,
+          "width": 99.65625,
+          "height": 38,
+          "top": 547.546875,
+          "right": 131.84375,
+          "bottom": 585.546875,
+          "left": 32.1875
+        }
+      },
+      {
+        "text": "Nächstes Bild",
+        "rect": {
+          "x": 138.84375,
+          "y": 547.546875,
+          "width": 91.578125,
+          "height": 38,
+          "top": 547.546875,
+          "right": 230.421875,
+          "bottom": 585.546875,
+          "left": 138.84375
+        }
+      }
+    ]
+  }
+]

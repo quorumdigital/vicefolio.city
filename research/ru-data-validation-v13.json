@@ -1,0 +1,240 @@
+{
+  "validatedAt": "2026-11-13",
+  "complete": true,
+  "structuralParity": true,
+  "preserved": "All IDs, category/region references, enums, URLs, asset paths, nulls, numeric values and entry-ID lists match ru-source-data.json.",
+  "counts": {
+    "regions": 6,
+    "people": 8,
+    "catalog": 41,
+    "gallery": 138,
+    "guides": 16,
+    "mysteries": 12,
+    "characterDossiers": 8
+  },
+  "guideBodies": [
+    {
+      "id": "launch",
+      "paragraphs": 4,
+      "translatedParagraphs": 4
+    },
+    {
+      "id": "bonus-locations",
+      "paragraphs": 2,
+      "translatedParagraphs": 2
+    },
+    {
+      "id": "car-theft",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "keep-sell",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "weapons",
+      "paragraphs": 4,
+      "translatedParagraphs": 4
+    },
+    {
+      "id": "police",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "robberies",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "progression",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "partner",
+      "paragraphs": 2,
+      "translatedParagraphs": 2
+    },
+    {
+      "id": "shops",
+      "paragraphs": 2,
+      "translatedParagraphs": 2
+    },
+    {
+      "id": "maps",
+      "paragraphs": 4,
+      "translatedParagraphs": 4
+    },
+    {
+      "id": "spawn-times",
+      "paragraphs": 4,
+      "translatedParagraphs": 4
+    },
+    {
+      "id": "wanted-level",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "relationship-status",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "criminal-profile",
+      "paragraphs": 3,
+      "translatedParagraphs": 3
+    },
+    {
+      "id": "mission-access",
+      "paragraphs": 4,
+      "translatedParagraphs": 4
+    }
+  ],
+  "ufoCases": [
+    {
+      "id": "chiliad",
+      "descriptionTranslated": true,
+      "facts": 4,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "sunken",
+      "descriptionTranslated": true,
+      "facts": 2,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "sandy",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "zancudo",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "probe",
+      "descriptionTranslated": true,
+      "facts": 2,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "online",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "online-abduction",
+      "descriptionTranslated": true,
+      "facts": 4,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "online-ufo-business-battle",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "online-alien-egg",
+      "descriptionTranslated": true,
+      "facts": 4,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "v-frozen-alien",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "v-grass-roots",
+      "descriptionTranslated": true,
+      "facts": 4,
+      "factLabelsTranslated": true
+    },
+    {
+      "id": "vi-breakwater-watch",
+      "descriptionTranslated": true,
+      "facts": 3,
+      "factLabelsTranslated": true
+    }
+  ],
+  "dossiers": [
+    {
+      "id": "jason",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "lucia",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "cal",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "boobie",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "drequan",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "dimez",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "raul",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    },
+    {
+      "id": "brian",
+      "sections": 3,
+      "allBodiesRussian": true,
+      "imageIdsMatch": true,
+      "validLinks": true
+    }
+  ],
+  "enumLabels": {
+    "file": "ru-data-labels.json",
+    "count": 73,
+    "unmapped": []
+  },
+  "intentionalCanonicalNames": "Vehicle models, weapon models, brands, business names, edition names, artist names and canonical profile names are retained. Region display names and gallery captions are localized.",
+  "notes": [
+    "All guide summaries and body paragraphs are translated, not just headings.",
+    "All UFO descriptions, fact labels and descriptive values are translated.",
+    "No Arabic content or edition was added."
+  ]
+}

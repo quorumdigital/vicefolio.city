@@ -1,0 +1,47 @@
+{
+  "nativeTileCount": 8830,
+  "nativeZoomLevels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "categories": 37,
+  "records": 3441,
+  "pins": 3315,
+  "zoomChecks": [
+    {
+      "devicePixelRatio": 1,
+      "source": 256,
+      "display": 256
+    },
+    {
+      "devicePixelRatio": 2,
+      "source": 256,
+      "display": 256
+    },
+    {
+      "devicePixelRatio": 3,
+      "source": 256,
+      "display": 192
+    }
+  ],
+  "aspectRatio": 1,
+  "passed": [
+    "maximum native zoom",
+    "phone drawer",
+    "group show/hide",
+    "search and detail",
+    "saved and found persistence",
+    "hide found",
+    "marker visibility",
+    "expanded mode and Escape",
+    "marker deep link",
+    "whole-map coverage",
+    "no horizontal overflow"
+  ],
+  "scriptErrors": [],
+  "failedRequests": []
+}

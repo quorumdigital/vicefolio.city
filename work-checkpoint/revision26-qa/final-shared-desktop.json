@@ -1,0 +1,161 @@
+{
+  "checks": [
+    {
+      "route": "home",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(1022px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "money",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(906px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "vehicles",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(596px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "items",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(526px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "people",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(596px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "fieldguide",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(822px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "radio",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(636px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "gallery",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(596px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "community",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(596px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "credits",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(436px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "world",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(86px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "music",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(696px 0px 0px)"
+      },
+      "brokenImages": []
+    },
+    {
+      "route": "ufos",
+      "width": 1920,
+      "overflow": 0,
+      "arrowActions": [],
+      "emptyButtons": [],
+      "palms": {
+        "background": true,
+        "clip": "inset(1001px 0px 0px)"
+      },
+      "brokenImages": []
+    }
+  ],
+  "errors": []
+}

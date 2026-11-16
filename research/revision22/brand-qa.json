@@ -1,0 +1,2329 @@
+{
+  "states": 49,
+  "routes": 15,
+  "failures": [],
+  "routeFailures": [],
+  "errors": [],
+  "rows": [
+    {
+      "lang": "en",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 198.8125,
+        "bottom": 48.765625,
+        "width": 188.8125,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 126.640625,
+        "bottom": 36.96875,
+        "width": 81.640625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 206.8125,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 103.1875,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 259.8125,
+        "bottom": 50.171875,
+        "width": 243.8125,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 267.8125,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 106.1875,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 569.8125,
+        "bottom": 50.171875,
+        "width": 553.8125,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 577.8125,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 106.1875,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 589.515625,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 150.484375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 971.515625,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 150.484375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 174.171875,
+        "bottom": 64.078125,
+        "width": 146.171875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 174.171875,
+        "bottom": 48.984375,
+        "width": 98.171875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1105.515625,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 146.484375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 65.15625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 50.0625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1242,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 150.484375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 169.25,
+        "bottom": 48.765625,
+        "width": 159.25,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 126.640625,
+        "bottom": 36.96875,
+        "width": 81.640625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 177.25,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 132.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 230.25,
+        "bottom": 50.171875,
+        "width": 214.25,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 238.25,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 135.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 540.25,
+        "bottom": 50.171875,
+        "width": 524.25,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 548.25,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 135.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 557.296875,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 182.703125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 939.296875,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 182.703125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 64.078125,
+        "width": 144.46875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 48.984375,
+        "width": 96.46875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1073.296875,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 178.703125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "es",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guía de GTA VI",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 65.15625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 50.0625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1209.78125,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 182.703125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 199.515625,
+        "bottom": 48.765625,
+        "width": 189.515625,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 126.640625,
+        "bottom": 36.96875,
+        "width": 81.640625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 207.515625,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 102.484375,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 260.515625,
+        "bottom": 50.171875,
+        "width": 244.515625,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 268.515625,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 105.484375,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 570.515625,
+        "bottom": 50.171875,
+        "width": 554.515625,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 578.515625,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 105.484375,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 590.3125,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 149.6875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 972.3125,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 149.6875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 64.078125,
+        "width": 144.46875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 48.984375,
+        "width": 96.46875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1106.3125,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 145.6875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "pt-br",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Guia de GTA VI",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 65.15625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 50.0625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1242.796875,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 149.6875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 180.546875,
+        "bottom": 48.765625,
+        "width": 170.546875,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 126.640625,
+        "bottom": 36.96875,
+        "width": 81.640625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 188.546875,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 121.453125,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 241.546875,
+        "bottom": 50.171875,
+        "width": 225.546875,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 249.546875,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 124.453125,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 551.546875,
+        "bottom": 50.171875,
+        "width": 535.546875,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 559.546875,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 124.453125,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 569.578125,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 170.421875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 951.578125,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 170.421875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 64.078125,
+        "width": 144.46875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 48.984375,
+        "width": 96.46875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1085.578125,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 166.421875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "de",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Dein GTA VI-Guide",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 65.15625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 50.0625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1222.0625,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 170.421875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 168.25,
+        "bottom": 48.765625,
+        "width": 158.25,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 138.5,
+        "bottom": 36.96875,
+        "width": 93.5,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 176.25,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 133.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 229.25,
+        "bottom": 50.171875,
+        "width": 213.25,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 158.28125,
+        "bottom": 37.734375,
+        "width": 101.28125,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 237.25,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 136.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 539.25,
+        "bottom": 50.171875,
+        "width": 523.25,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 158.28125,
+        "bottom": 37.734375,
+        "width": 101.28125,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 547.25,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 136.75,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 198.359375,
+        "bottom": 61.65625,
+        "width": 170.359375,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 198.359375,
+        "bottom": 46.5625,
+        "width": 116.359375,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 556.1875,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 183.8125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 198.359375,
+        "bottom": 61.65625,
+        "width": 170.359375,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 198.359375,
+        "bottom": 46.5625,
+        "width": 116.359375,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 938.1875,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 183.8125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 192.359375,
+        "bottom": 64.078125,
+        "width": 164.359375,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 192.359375,
+        "bottom": 48.984375,
+        "width": 116.359375,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1072.1875,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 179.8125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "fr",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Votre guide GTA VI",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 217.875,
+        "bottom": 65.15625,
+        "width": 170.359375,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 217.875,
+        "bottom": 50.0625,
+        "width": 116.359375,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1208.671875,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 183.8125,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 201.359375,
+        "bottom": 48.765625,
+        "width": 191.359375,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 126.640625,
+        "bottom": 36.96875,
+        "width": 81.640625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 209.359375,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 100.640625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 262.359375,
+        "bottom": 50.171875,
+        "width": 246.359375,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 270.359375,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 103.640625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 572.359375,
+        "bottom": 50.171875,
+        "width": 556.359375,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 146.0625,
+        "bottom": 37.734375,
+        "width": 89.0625,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 580.359375,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 103.640625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 592.40625,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 147.59375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 61.65625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 185.890625,
+        "bottom": 46.5625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 974.40625,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 147.59375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 64.078125,
+        "width": 144.46875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 172.46875,
+        "bottom": 48.984375,
+        "width": 96.46875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1108.40625,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 143.59375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "it",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — La tua guida a GTA VI",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 65.15625,
+        "width": 157.890625,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 205.40625,
+        "bottom": 50.0625,
+        "width": 103.890625,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1244.890625,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 147.59375,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 320,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 10,
+        "y": 13.21875,
+        "right": 194.984375,
+        "bottom": 48.765625,
+        "width": 184.984375,
+        "height": 35.546875
+      },
+      "word": {
+        "x": 45,
+        "y": 13.21875,
+        "right": 133.625,
+        "bottom": 36.96875,
+        "width": 88.625,
+        "height": 23.75
+      },
+      "icon": {
+        "x": 10,
+        "y": 15.984375,
+        "right": 40,
+        "bottom": 45.984375,
+        "width": 30,
+        "height": 30
+      },
+      "tools": {
+        "x": 202.984375,
+        "y": 14,
+        "right": 310,
+        "bottom": 48,
+        "width": 107.015625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 390,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 258.984375,
+        "bottom": 50.171875,
+        "width": 242.984375,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 153,
+        "bottom": 37.734375,
+        "width": 96,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 266.984375,
+        "y": 14,
+        "right": 374,
+        "bottom": 48,
+        "width": 107.015625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 700,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 16,
+        "y": 11.828125,
+        "right": 568.984375,
+        "bottom": 50.171875,
+        "width": 552.984375,
+        "height": 38.34375
+      },
+      "word": {
+        "x": 57,
+        "y": 11.828125,
+        "right": 153,
+        "bottom": 37.734375,
+        "width": 96,
+        "height": 25.90625
+      },
+      "icon": {
+        "x": 16,
+        "y": 14,
+        "right": 50,
+        "bottom": 48,
+        "width": 34,
+        "height": 34
+      },
+      "tools": {
+        "x": 576.984375,
+        "y": 14,
+        "right": 684,
+        "bottom": 48,
+        "width": 107.015625,
+        "height": 34
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 768,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 191.546875,
+        "bottom": 61.65625,
+        "width": 163.546875,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 191.546875,
+        "bottom": 46.5625,
+        "width": 109.546875,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 593.78125,
+        "y": 19,
+        "right": 740,
+        "bottom": 59,
+        "width": 146.21875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 1150,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 16.328125,
+        "right": 191.546875,
+        "bottom": 61.65625,
+        "width": 163.546875,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 82,
+        "y": 16.328125,
+        "right": 191.546875,
+        "bottom": 46.5625,
+        "width": 109.546875,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 28,
+        "y": 16.984375,
+        "right": 72,
+        "bottom": 60.984375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 975.78125,
+        "y": 19,
+        "right": 1122,
+        "bottom": 59,
+        "width": 146.21875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 1280,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 28,
+        "y": 20.90625,
+        "right": 185.546875,
+        "bottom": 64.078125,
+        "width": 157.546875,
+        "height": 43.171875
+      },
+      "word": {
+        "x": 76,
+        "y": 20.90625,
+        "right": 185.546875,
+        "bottom": 48.984375,
+        "width": 109.546875,
+        "height": 28.078125
+      },
+      "icon": {
+        "x": 28,
+        "y": 22.484375,
+        "right": 68,
+        "bottom": 62.484375,
+        "width": 40,
+        "height": 40
+      },
+      "tools": {
+        "x": 1105.78125,
+        "y": 22.5,
+        "right": 1252,
+        "bottom": 62.5,
+        "width": 146.21875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    },
+    {
+      "lang": "ru",
+      "width": 1440,
+      "text": "ViceFolio",
+      "footer": "ViceFolio",
+      "title": "ViceFolio — Путеводитель по GTA VI",
+      "brand": {
+        "x": 47.515625,
+        "y": 19.828125,
+        "right": 211.0625,
+        "bottom": 65.15625,
+        "width": 163.546875,
+        "height": 45.328125
+      },
+      "word": {
+        "x": 101.515625,
+        "y": 19.828125,
+        "right": 211.0625,
+        "bottom": 50.0625,
+        "width": 109.546875,
+        "height": 30.234375
+      },
+      "icon": {
+        "x": 47.515625,
+        "y": 20.484375,
+        "right": 91.515625,
+        "bottom": 64.484375,
+        "width": 44,
+        "height": 44
+      },
+      "tools": {
+        "x": 1246.265625,
+        "y": 22.5,
+        "right": 1392.484375,
+        "bottom": 62.5,
+        "width": 146.21875,
+        "height": 40
+      },
+      "iconVisible": true,
+      "font": "Outfit, Arial, sans-serif",
+      "fontReady": true,
+      "horizontalOverflow": false,
+      "oldArtwork": false,
+      "iconSource": "/assets/icons/vicefolio-city-96-v1.png"
+    }
+  ],
+  "routeRows": [
+    {
+      "route": "home",
+      "title": "ViceFolio — Your GTA VI Field Guide",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "money",
+      "title": "Money guide — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "vehicles",
+      "title": "Vehicles — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "items",
+      "title": "Weapons & items — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "people",
+      "title": "Characters — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "world",
+      "title": "Map room — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "gallery",
+      "title": "Gallery — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "ufos",
+      "title": "X-Files — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "credits",
+      "title": "Sources & credits — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "music",
+      "title": "Soundtrack — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "radio",
+      "title": "Radio — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "fieldguide",
+      "title": "Regions of Leonida — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "community",
+      "title": "Community — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "account",
+      "title": "Sign in — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    },
+    {
+      "route": "saved",
+      "title": "My Atlas — ViceFolio",
+      "brand": "ViceFolio",
+      "footer": "ViceFolio"
+    }
+  ],
+  "syntaxFiles": [
+    "public/account.js",
+    "public/app.js",
+    "public/dossiers.js",
+    "public/exploration.js",
+    "public/locale.js",
+    "public/map-types.js",
+    "public/polish-14.js",
+    "public/release-community.js",
+    "public/revision-13.js",
+    "public/ui-de.js",
+    "public/ui-es.js",
+    "public/ui-fr.js",
+    "public/ui-it.js",
+    "public/ui-pt-br.js",
+    "public/ui-ru.js"
+  ],
+  "visualReview": [
+    "desktop 1440px",
+    "mobile 390px",
+    "footer"
+  ],
+  "nativeIOSVerified": false
+}

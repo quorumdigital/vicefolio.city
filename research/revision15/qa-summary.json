@@ -1,0 +1,208 @@
+{
+  "revision": 15,
+  "date": "2026-11-13",
+  "localeChecks": [
+    {
+      "locale": "en",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "es",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "pt-br",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "de",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "fr",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "it",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "locale": "ru",
+      "weaponChapters": 4,
+      "shopChapters": 3,
+      "travelChapters": 5,
+      "overflow": false,
+      "broken": 0
+    }
+  ],
+  "routeChecks": [
+    {
+      "route": "#home",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#money",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#vehicles",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#items",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#fieldguide",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#people",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#radio",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#music",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#ufos",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#gallery",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#guides",
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "route": "#world?pin=L325",
+      "overflow": false,
+      "broken": []
+    }
+  ],
+  "javascriptErrors": [],
+  "syntaxErrors": [],
+  "verifiedBehaviors": [
+    "Exact map reference: one marker at maximum supported zoom",
+    "Area-only Squalo reference: area focus without invented exact spawn",
+    "Money chapters and sell-loot link navigation",
+    "All seven localized guide readers fit mobile width",
+    "Services tab hides irrelevant weapon comparison",
+    "Black photo control bars and complete thumbnail strip",
+    "Reduced-motion CSS present; shared navigation styles scoped to header",
+    "Each money method has three preparation cards, an indexed step navigator, three relevant scene images and five or six steps; banking finishes every route",
+    "BuckMe and Fitness details included in all seven languages"
+  ],
+  "limits": [
+    "No released-game performance tests yet",
+    "54 catalogue entries; not a complete 300+ vehicle roster",
+    "Six precise photo-to-map links; other photos do not receive invented pins",
+    "Static preview does not exercise production sign-in; existing D1 backend preserved"
+  ],
+  "moneyVisualChecks": [
+    {
+      "locale": "en",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "es",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "pt-br",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "de",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "fr",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "it",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    },
+    {
+      "locale": "ru",
+      "cards": 3,
+      "steps": 6,
+      "scenes": 3,
+      "overflow": false,
+      "broken": 0,
+      "phoneComplete": true
+    }
+  ]
+}

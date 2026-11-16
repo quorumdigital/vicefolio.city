@@ -1,0 +1,270 @@
+{
+  "approvedHero": {
+    "file": "assets/xfiles-hero-approved.webp",
+    "originalSHA256": "f643d977d4efec8749087c6798df469cccb6a2bb1d134238082ce2746565ec5b",
+    "losslessPixelsVerified": true
+  },
+  "scriptSyntax": {
+    "checked": 69,
+    "failures": 0
+  },
+  "accountTests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "routes": [
+    {
+      "route": "#home",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#money",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#vehicles",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#items",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#people",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#fieldguide",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#music",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#radio",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#ufos",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#gallery",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#saved",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#account",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#community",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#credits",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#world",
+      "width": 1440,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#home",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#money",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#vehicles",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#items",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#people",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#fieldguide",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#music",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#radio",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#ufos",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#gallery",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#saved",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#account",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#community",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#credits",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    },
+    {
+      "route": "#world",
+      "width": 390,
+      "overflow": false,
+      "broken": 0
+    }
+  ],
+  "musicPreviews": {
+    "sourcesLoaded": 11,
+    "playbackVerified": true,
+    "routePauseVerified": true
+  },
+  "radio": {
+    "channel": "https://www.youtube.com/@GTAVFM",
+    "defaultPlaylist": "PL-vB0QZpsqn7_m_D31gV-UgCVPSfFmMBE",
+    "defaultVideo": "039FXJYvJXw",
+    "defaultTitle": "Flash FM (GTA Vice City Stories)",
+    "autoplay": false,
+    "creatorCreditVisible": true,
+    "localEmbedLimit": "YouTube rejects localhost Referer; public-site Referer accepted. Verify actual HTTPS publication."
+  },
+  "accessibility": {
+    "menuEscape": true,
+    "menuExclusivity": true,
+    "mobileMenuBounds": true,
+    "reducedMotion": true
+  },
+  "typography": {
+    "catalogCoverage": true,
+    "localizedXFilesCoverage": true,
+    "russianFallbackPreserved": true
+  },
+  "languageLayoutMatrix": {
+    "languages": [
+      "en",
+      "es",
+      "pt-br",
+      "de",
+      "fr",
+      "it",
+      "ru"
+    ],
+    "widths": [
+      390,
+      768,
+      1440
+    ],
+    "checks": 315,
+    "horizontalOverflow": 0,
+    "textOverflow": 0
+  },
+  "localizationCorrections": {
+    "localizedParagraphAndBadgeKeysPerLocale": 23,
+    "remainingUntranslatedAuditParagraphs": "Only proper artist names",
+    "newDisplayWordCoverage": 97,
+    "nonRussianTitleGaps": 0
+  },
+  "browserChecks": {
+    "chrome": {
+      "pageStates": 315,
+      "dialogChecks": 112,
+      "menuChecks": 56,
+      "failures": 0,
+      "zoom": 1
+    },
+    "edge": {
+      "pageStates": 28,
+      "failures": 0,
+      "zoom": 1
+    },
+    "firefox": {
+      "engine": "Gecko",
+      "version": "159.0.1",
+      "pageStates": 126,
+      "expandedStates": 189,
+      "failures": 0,
+      "zoom": 1
+    },
+    "safari": "Native Safari/iOS unavailable in this Windows environment; responsive phone/tablet layouts simulated"
+  }
+}

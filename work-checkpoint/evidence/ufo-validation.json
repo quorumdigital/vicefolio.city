@@ -1,0 +1,45 @@
+{
+  "checks": [
+    {
+      "name": "Four GTA V files",
+      "ok": true
+    },
+    {
+      "name": "San Andreas filter",
+      "ok": true
+    },
+    {
+      "name": "Seasonal event filter",
+      "ok": true
+    },
+    {
+      "name": "UFO primary action deep link",
+      "ok": true
+    },
+    {
+      "name": "Guides UFO entry point",
+      "ok": true
+    },
+    {
+      "name": "Global UFO search",
+      "ok": true
+    },
+    {
+      "name": "UFO images and lettering",
+      "ok": true
+    },
+    {
+      "name": "Tablet width",
+      "ok": true
+    },
+    {
+      "name": "Mobile UFO navigation",
+      "ok": true
+    },
+    {
+      "name": "No runtime errors",
+      "ok": true
+    }
+  ],
+  "errors": []
+}

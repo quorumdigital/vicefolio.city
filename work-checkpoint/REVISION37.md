@@ -1,0 +1,2 @@
+# Revision 37
+Mobile-only <=900px: bottom 32px hero fade for Soundtrack, Radio, Gallery, Regions and X-Files; remove shade overlays on those cinematic photos. Soundtrack copy natural height removes empty gap. Radio Explore button larger, Back to the 80s compact, 20px centered prompt between buttons. Desktop computed styles verified unchanged. Mobile Radio/Soundtrack visually reviewed; remaining three masks verified.

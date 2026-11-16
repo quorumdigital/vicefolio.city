@@ -1,0 +1,417 @@
+{
+  "revision": 10,
+  "reviewed": "2026-11-13",
+  "languages": {
+    "en": {
+      "catalog": 41,
+      "gallery": 138,
+      "guides": 16,
+      "regions": 6,
+      "ufo": 12,
+      "missingMapDossiers": []
+    },
+    "es": {
+      "catalog": 41,
+      "gallery": 138,
+      "guides": 16,
+      "regions": 6,
+      "ufo": 12,
+      "missingMapDossiers": []
+    },
+    "pt-br": {
+      "catalog": 41,
+      "gallery": 138,
+      "guides": 16,
+      "regions": 6,
+      "ufo": 12,
+      "missingMapDossiers": []
+    },
+    "de": {
+      "catalog": 41,
+      "gallery": 138,
+      "guides": 16,
+      "regions": 6,
+      "ufo": 12,
+      "missingMapDossiers": []
+    },
+    "fr": {
+      "catalog": 41,
+      "gallery": 138,
+      "guides": 16,
+      "regions": 6,
+      "ufo": 12,
+      "missingMapDossiers": []
+    }
+  },
+  "visuals": {
+    "hero": "Same rooftop image; top aligned, both heads visible. Mobile uses full image above copy.",
+    "leonida": "Yellowtail outlined white with pink stroke",
+    "header": "Globe chooser; compact countdown next to logo; search, saves and account controls",
+    "testedViewports": [
+      {
+        "width": 1912,
+        "height": 1000
+      },
+      {
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "width": 390,
+        "height": 844
+      }
+    ]
+  },
+  "map": {
+    "categories": 130,
+    "records": 3442,
+    "pinned": 3315,
+    "explicitRecordCorrections": 79,
+    "secondaryCategoryRecords": 7,
+    "renamedBroadCategories": {
+      "Food & nightlife": "Leisure venues",
+      "Events": "Event-related locations"
+    },
+    "missingCategories": 0,
+    "missingGlyphs": 0,
+    "duplicateIds": 0,
+    "originalCoordinateChanges": 0,
+    "sourceTagsPreserved": true,
+    "catalogCoverage": "41/41 in each edition",
+    "focusedPinCount": 1,
+    "sharedPositionChooser": true,
+    "scope": "Semantic/category audit; community map positions remain estimates, not independently confirmed final gameplay."
+  },
+  "accounts": {
+    "storage": "Sites D1; site-scoped authenticated user ID",
+    "auth": "Sites-managed optional ChatGPT sign-in",
+    "tests": [
+      "anonymous 401",
+      "same-origin write protection",
+      "user isolation",
+      "optimistic conflicts",
+      "three-way merge",
+      "guest to account migration",
+      "fresh browser restores progress",
+      "parallel browser additions retained",
+      "guest restored on sign-out",
+      "backup export/import",
+      "site-data clearing followed by sign-in restores cloud saves"
+    ],
+    "testEnvironment": "Sites local sign-in fixture; hosted authorization flow is platform-managed",
+    "unitResult": "4 passed"
+  },
+  "browser": {
+    "routeChecks": [
+      {
+        "lg": "en",
+        "route": "home",
+        "lang": "en",
+        "content": 2957,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "vehicles",
+        "lang": "en",
+        "content": 6467,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "items",
+        "lang": "en",
+        "content": 3658,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "money",
+        "lang": "en",
+        "content": 5623,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "ufos",
+        "lang": "en",
+        "content": 6232,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "gallery",
+        "lang": "en",
+        "content": 882,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "en",
+        "route": "account",
+        "lang": "en",
+        "content": 552,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "home",
+        "lang": "es",
+        "content": 3199,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "vehicles",
+        "lang": "es",
+        "content": 7089,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "items",
+        "lang": "es",
+        "content": 3876,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "money",
+        "lang": "es",
+        "content": 6407,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "ufos",
+        "lang": "es",
+        "content": 6130,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "gallery",
+        "lang": "es",
+        "content": 881,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "es",
+        "route": "account",
+        "lang": "es",
+        "content": 669,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "home",
+        "lang": "pt-BR",
+        "content": 3347,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "vehicles",
+        "lang": "pt-BR",
+        "content": 7351,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "items",
+        "lang": "pt-BR",
+        "content": 4070,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "money",
+        "lang": "pt-BR",
+        "content": 6631,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "ufos",
+        "lang": "pt-BR",
+        "content": 7228,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "gallery",
+        "lang": "pt-BR",
+        "content": 922,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "pt-br",
+        "route": "account",
+        "lang": "pt-BR",
+        "content": 619,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "home",
+        "lang": "de",
+        "content": 3290,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "vehicles",
+        "lang": "de",
+        "content": 7237,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "items",
+        "lang": "de",
+        "content": 3934,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "money",
+        "lang": "de",
+        "content": 6951,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "ufos",
+        "lang": "de",
+        "content": 7156,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "gallery",
+        "lang": "de",
+        "content": 915,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "de",
+        "route": "account",
+        "lang": "de",
+        "content": 695,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "home",
+        "lang": "fr",
+        "content": 3514,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "vehicles",
+        "lang": "fr",
+        "content": 7645,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "items",
+        "lang": "fr",
+        "content": 4180,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "money",
+        "lang": "fr",
+        "content": 7296,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "ufos",
+        "lang": "fr",
+        "content": 7562,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "gallery",
+        "lang": "fr",
+        "content": 937,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "lg": "fr",
+        "route": "account",
+        "lang": "fr",
+        "content": 660,
+        "overflow": false,
+        "brokenImages": []
+      }
+    ],
+    "regionChecks": [
+      {
+        "lang": "en",
+        "galleries": 6,
+        "text": 3949
+      },
+      {
+        "lang": "es",
+        "galleries": 6,
+        "text": 4030
+      },
+      {
+        "lang": "pt-br",
+        "galleries": 6,
+        "text": 4222
+      },
+      {
+        "lang": "de",
+        "galleries": 6,
+        "text": 4418
+      },
+      {
+        "lang": "fr",
+        "galleries": 6,
+        "text": 4538
+      }
+    ],
+    "consoleErrors": []
+  },
+  "remaining": "Hosted sign-in has not been exercised with a real visitor account."
+}

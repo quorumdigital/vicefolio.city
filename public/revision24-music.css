@@ -1,0 +1,54 @@
+/* Soundtrack: deliberate lower-left hero, quiet calendar, natural scenery. */
+body[data-atlas-route="music"] .r24-music-hero{min-height:610px;align-items:flex-end;border-bottom:0;margin-bottom:30px;background:#0e1018}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy{padding:180px 5.5% 48px;--entry-x:-24px;--entry-y:10px}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy>h1{max-width:570px;font-size:clamp(34px,3.6vw,51px)!important;line-height:1.08!important;margin:0 0 18px}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy .heading-art{max-width:520px;max-height:92px}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy>p{max-width:450px;font-size:15px;line-height:1.75;margin:0}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy>.eyebrow{margin-bottom:16px}
+body[data-atlas-route="music"] .r24-music-hero .scene-copy>*{animation-duration:1.4s;animation-timing-function:cubic-bezier(.2,.64,.22,1)}
+body[data-atlas-route="music"] .r24-music-hero .scene-shade{background:linear-gradient(90deg,#0c101add 0%,#0c101a72 48%,#0c101a22 100%),linear-gradient(0deg,#0b0a11 0%,#0b0a11bb 9%,transparent 64%)}
+body[data-atlas-route="music"] .r24-music-hero .scene-image{filter:saturate(.78);object-position:56% 48%!important}
+body[data-atlas-route="music"] .r24-music-hero .scene-foot{margin-top:23px;display:flex;align-items:flex-start}
+body[data-atlas-route="music"] .r24-music-cta{min-height:46px;gap:12px;padding:11px 17px;border:1px solid #9fddf58f;border-radius:6px;color:#e9f8ff;background:linear-gradient(115deg,#143347ec,#222b41e6);box-shadow:inset 0 1px 0 #c3edff24,0 7px 22px #03060d5c;white-space:normal;text-align:left;transition:background .25s,border-color .25s,box-shadow .3s,transform .3s}
+body[data-atlas-route="music"] .r24-music-cta>svg{width:21px;height:21px;fill:none;stroke:#b6e6fa;stroke-linecap:round;stroke-width:1.6;flex:none}
+body[data-atlas-route="music"] .r24-music-cta>span{font:500 14px/1.4 Outfit,Arial,sans-serif;color:inherit}
+body[data-atlas-route="music"] .r24-music-cta .r24-music-arrow{margin-left:15px;color:#a7dff5;font-size:20px;transition:transform .25s}
+body[data-atlas-route="music"] .r24-music-cta:focus-visible{outline:2px solid #bcefff;outline-offset:4px}
+@media(hover:hover){body[data-atlas-route="music"] .r24-music-cta:hover{background:linear-gradient(115deg,#1a4960,#293b55);border-color:#bbebff;box-shadow:0 0 24px #7bc8ef24;transform:translateY(-2px)}body[data-atlas-route="music"] .r24-music-cta:hover .r24-music-arrow{transform:translateY(3px)}}
+/* Release dates are announced dates; the count refers to the core score. */
+body[data-atlas-route="music"] .r24-music-calendar{position:absolute;z-index:2;top:35px;right:max(5.5vw,calc((100vw - 1240px)/2));width:min(342px,34vw);padding:22px 22px 17px;margin:0;background:linear-gradient(130deg,#0e1725e6,#13131ddb);border:1px solid #b4d5ed38;border-radius:10px;box-shadow:0 16px 45px #0004;backdrop-filter:blur(12px);color:#e9e9f0;text-shadow:none}
+.r24-music-calendar>header{position:static;top:auto;z-index:auto;min-height:0;height:auto;display:flex;align-items:center;justify-content:flex-start;padding:0;border:0;background:none;backdrop-filter:none;gap:11px;margin-bottom:17px}
+.r24-calendar-line{width:22px;height:2px;flex:none;background:#e7bbce;box-shadow:0 0 12px #e7bbce2e}
+.r24-music-calendar h2.r24-title{font:500 20px/1.3 Outfit,Arial,sans-serif!important;letter-spacing:-.02em!important;color:#f3eef4!important;margin:0;text-wrap:balance}
+.r24-music-calendar>.r24-release-list{display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+.r24-release-row{display:grid;grid-template-columns:45px minmax(0,1fr);gap:16px;padding:16px 0;min-width:0;border-top:1px solid #b0ccdf21}
+.r24-release-row time{display:flex;align-items:center;flex-direction:column;padding-top:1px;text-align:center;color:#a9def4;font-variant-numeric:tabular-nums}
+.r24-release-row time strong{font:400 31px/1.05 Outfit,Arial,sans-serif;letter-spacing:-.04em}
+.r24-release-row time span{font:500 11px/1.5 Outfit,Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;margin-top:3px}
+.r24-release-row time small{font:400 10px/1.4 Outfit,Arial,sans-serif;color:#a2aebc;margin-top:2px}
+.r24-music-calendar .r24-release-row h3.r24-title{font:500 17px/1.35 Outfit,Arial,sans-serif!important;letter-spacing:-.01em!important;color:#f5edf3!important;margin:0 0 7px;overflow-wrap:anywhere}
+.r24-track-count{display:block;font:500 12px/1.5 Outfit,Arial,sans-serif;color:#d7b9d0}
+.r24-music-calendar .r24-release-row p{font:400 12px/1.6 Outfit,Arial,sans-serif;color:#c3cbd7;text-shadow:none;margin:7px 0 0;max-width:none}
+.r24-calendar-source{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0 0;margin-top:0;border-top:1px solid #b0ccdf21;color:#a8dcf1;font:400 11px/1.5 Outfit,Arial,sans-serif;text-decoration:none}
+.r24-calendar-source:hover{color:#d9f5ff}.r24-calendar-source:focus-visible{outline:2px solid #a8dcf1;outline-offset:5px}
+/* One natural landscape supplies varied palms and clouds, fading into blue-black. */
+body[data-atlas-route="music"] .r24-music-atmosphere:before{inset:-65px auto auto calc(50% - 50vw);width:100vw;height:1200px;background:var(--r24-palm-image,url('assets/hd/photo-22.webp')) 50% 0/cover no-repeat;filter:grayscale(1) brightness(.5);opacity:.23;mask-image:linear-gradient(transparent,#000 14%,#000 55%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 14%,#000 55%,transparent);pointer-events:none}
+body[data-atlas-route="music"] .r24-music-atmosphere:after{content:'';position:absolute;z-index:-1;inset:-20px calc(50% - 50vw) 0;background:radial-gradient(ellipse at 78% 12%,#29445e19,transparent 49%),linear-gradient(180deg,transparent,#0b0a1170 750px,#0b0a11 1250px);pointer-events:none}
+body[data-atlas-route="music"] .r24-music-atmosphere .music-banner{background:linear-gradient(115deg,#10131be3,#151824c9);padding:28px;gap:35px;margin-bottom:32px;border-color:#a7cce62c;border-radius:10px;box-shadow:0 20px 50px #0003}
+body[data-atlas-route="music"] .r24-music-atmosphere .music-banner p{font-size:14px;line-height:1.8;max-width:540px}
+body[data-atlas-route="music"] .music-card{background:linear-gradient(135deg,#131720ee,#171521e3);border-color:#a9cce422;box-shadow:0 10px 35px #0002}
+/* Portrait campaign images fill the sleeve by cropping, never by stretching. */
+body[data-atlas-route="music"] .music-card[data-music-track="bright-lights-big-city"] .record-sleeve img,body[data-atlas-route="music"] .music-card[data-music-track="sexy-magic"] .record-sleeve img{object-fit:cover!important;aspect-ratio:1;object-position:center 64%!important}
+body[data-atlas-route="music"] .music-card[data-music-track="sexy-magic"] .record-sleeve img{object-position:center 72%!important}
+/* A semantic site label identifies the single while preserving the official cover. */
+.r24-sleeve-label{position:absolute;z-index:2;left:0;right:0;bottom:0;padding:21px 8px 8px;background:linear-gradient(transparent,#080a15f5);color:#fff;font:500 15px/1.2 Outfit,Arial,sans-serif;text-align:center;letter-spacing:.04em;pointer-events:none}
+.music-card[data-music-track="pusher"] .artwork-open>span{bottom:auto;top:10px}
+@media(min-width:1700px){body[data-atlas-route="music"] .r24-music-hero .scene-copy{padding-left:70px;padding-right:70px}}
+@media(max-width:1050px) and (min-width:901px){body[data-atlas-route="music"] .r24-music-hero .scene-copy>h1{max-width:490px;font-size:43px!important}body[data-atlas-route="music"] .r24-music-hero .scene-copy>p{max-width:420px}}
+@media(max-width:900px){body[data-atlas-route="music"] .r24-music-hero{display:block;min-height:0}body[data-atlas-route="music"] .r24-music-hero .scene-copy{padding:200px 6% 36px;min-height:510px;display:flex;flex-direction:column;justify-content:flex-end}body[data-atlas-route="music"] .r24-music-hero .scene-copy>h1{max-width:560px}body[data-atlas-route="music"] .r24-music-hero .scene-image{height:560px}body[data-atlas-route="music"] .r24-music-hero .scene-shade{height:590px}body[data-atlas-route="music"] .r24-music-calendar{position:relative;inset:auto;width:auto;margin:0 6% 28px;padding:22px;backdrop-filter:none;background:linear-gradient(120deg,#131a27,#171520)}.r24-music-calendar>.r24-release-list{grid-template-columns:1fr 1fr;gap:25px}.r24-release-row{gap:12px}.r24-music-calendar>header{margin-bottom:9px}}
+@media(max-width:600px){body[data-atlas-route="music"] .r24-music-hero .scene-copy{padding:180px 6% 32px;min-height:500px}body[data-atlas-route="music"] .r24-music-hero .scene-copy>h1{font-size:36px!important;max-width:400px}body[data-atlas-route="music"] .r24-music-hero .scene-copy .heading-art{max-width:100%;max-height:85px}body[data-atlas-route="music"] .r24-music-hero .scene-copy>p{font-size:14px;max-width:390px}body[data-atlas-route="music"] .r24-music-calendar{padding:20px 18px;margin-bottom:24px}.r24-music-calendar>.r24-release-list{grid-template-columns:1fr;gap:0}.r24-music-calendar h2.r24-title{font-size:20px!important}.r24-release-row{grid-template-columns:43px minmax(0,1fr);gap:13px;padding:15px 0}body[data-atlas-route="music"] .r24-music-atmosphere .music-banner{padding:22px;gap:18px}body[data-atlas-route="music"] .r24-music-atmosphere .music-banner p{font-size:14px}.r24-sleeve-label{font-size:13px}}
+@media(max-width:360px){body[data-atlas-route="music"] .r24-music-hero .scene-copy>h1{font-size:32px!important}.r24-music-calendar h2.r24-title{font-size:18px!important}.r24-calendar-line{width:16px}.r24-music-calendar .r24-release-row h3.r24-title{font-size:16px!important}body[data-atlas-route="music"] .music-card{grid-template-columns:88px minmax(0,1fr);padding:15px;gap:14px}}
+@media(prefers-reduced-motion:reduce){body[data-atlas-route="music"] .r24-music-hero .scene-copy>*{animation:none!important;opacity:1!important;transform:none!important}.r24-music-cta,.r24-music-arrow{transition:none!important}.r24-music-cta:hover{transform:none!important}}
+
+/* This hero is a column flex container: vertical placement uses justify-content. */
+@media(min-width:901px){body[data-atlas-route="music"] .r24-music-hero{justify-content:flex-end}body[data-atlas-route="music"] .r24-music-hero .scene-copy{width:100%;margin:0}}

@@ -1,0 +1,101 @@
+{
+  "deepLink": {
+    "hash": "#fieldguide?region=ambrosia",
+    "frames": [
+      5982,
+      5982,
+      5982,
+      5982,
+      5982,
+      5982
+    ],
+    "headingTop": 268.1875,
+    "header": 86
+  },
+  "ufoAction": {
+    "hash": "#ufos",
+    "title": "X-Files — ViceFolio"
+  },
+  "locationAction": {
+    "hash": "#world?pin=L1500",
+    "title": "Map of the state of Leonida — ViceFolio"
+  },
+  "heroJump": {
+    "hash": "#fieldguide?region=vice-city",
+    "top": 106,
+    "focus": "region-vice-city"
+  },
+  "phoneJumps": [
+    {
+      "id": "vice-city",
+      "frames": [
+        1010,
+        1010,
+        1010
+      ],
+      "top": 172,
+      "header": 152
+    },
+    {
+      "id": "leonida-keys",
+      "frames": [
+        1858,
+        1858,
+        1858
+      ],
+      "top": 172.09375,
+      "header": 152
+    },
+    {
+      "id": "grassrivers",
+      "frames": [
+        2778,
+        2778,
+        2778
+      ],
+      "top": 172.265625,
+      "header": 152
+    },
+    {
+      "id": "port-gellhorn",
+      "frames": [
+        3698,
+        3698,
+        3698
+      ],
+      "top": 172.4375,
+      "header": 152
+    },
+    {
+      "id": "ambrosia",
+      "frames": [
+        4475,
+        4475,
+        4475
+      ],
+      "top": 172.421875,
+      "header": 152
+    },
+    {
+      "id": "mount-kalaga",
+      "frames": [
+        5201,
+        5201,
+        5201
+      ],
+      "top": 172.328125,
+      "header": 152
+    }
+  ],
+  "phoneCredits": {
+    "text": "Fotografía de las regiones5+Imágenes del juego © Rockstar Games. Fotografías reales: Departamento de Recursos Naturales de Georgia y Servicio de Parques Nacionales de EE. UU.Las fotografías comparan semejanzas visuales; Rockstar no ha confirmado estas correspondencias concretas. Geografía comunitaria: GTADB.ORG y colaboradores, CC BY 4.0.Rockstar Games — Only in LeonidaProvidence Canyon — Georgia Department of Natural ResourcesEverglades National Park — U.S. National Park ServiceGTADB.ORG & contributorsCreative Commons Attribution 4.0",
+    "links": 5,
+    "width": 281.625,
+    "overflow": 0
+  },
+  "reducedMotion": {
+    "opacity": "1",
+    "animation": "none",
+    "transform": "none"
+  }
+}

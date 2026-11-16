@@ -1,0 +1,12 @@
+/* Full desktop cast hero; retain the approved mobile grid. */
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-people{height:calc(100svh - 86px)!important;min-height:640px!important;overflow:hidden!important}html body[data-r24-route] #main .cinematic-people>.r31-cast-art{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;aspect-ratio:auto!important;gap:0!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;grid-template-rows:repeat(2,minmax(0,1fr))!important}html body[data-r24-route] #main .r31-cast-art>img{object-fit:cover!important;object-position:center!important}html body[data-r24-route] #main .cinematic-people>.scene-shade{background:linear-gradient(to top,rgba(8,8,16,.92),rgba(8,8,16,.65) 28%,transparent 58%)!important;mask-image:none!important;z-index:1!important}html body[data-r24-route] #main .cinematic-people>.scene-copy{top:auto!important;bottom:30px!important;left:5%!important;right:auto!important;width:70%!important;max-width:1000px!important;z-index:2!important}html body[data-r24-route] #main .cinematic-people>.scene-copy p{max-width:750px!important}}
+html body[data-r24-route] #main .r30-radio-start{font-size:17px!important;padding:10px 16px!important;min-height:44px!important;width:auto!important;min-width:0!important}
+html body[data-r24-route] #main .r30-radio-fallback small{font-size:20px!important;font-weight:700!important;color:#fff!important;line-height:1.5!important;text-shadow:0 2px 5px #000!important}
+@media(max-width:600px){html body[data-r24-route] #main .r30-radio-start{font-size:15px!important;padding:9px 14px!important}html body[data-r24-route] #main .r30-radio-fallback small{font-size:18px!important}}
+
+/* Hero photography appears immediately; copy animations remain intact. */
+html body[data-r24-route] #main .hero-img,html body[data-r24-route] #main .cinematic-head>.scene-image,html body[data-r24-route] #main .xfiles-scene{animation:none!important;transition:none!important;opacity:1!important}
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-people>.r31-cast-art{mask-image:linear-gradient(#000 85%,transparent)!important}}
+
+@media(min-width:901px){html body[data-r24-route] #main .cinematic-people>.r31-cast-art{z-index:0!important}}
+html body #main>.wrap:has(.cinematic-head),html body #main>.wrap:has(.xfiles-opening){animation:none!important;opacity:1!important;transform:none!important}

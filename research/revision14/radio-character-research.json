@@ -1,0 +1,470 @@
+{
+  "checked": "2026-11-13",
+  "title": "Tune into Leonida",
+  "eyebrow": "Radio & culture",
+  "intro": "Meet the six stations Rockstar has introduced so far. Choose a sound, discover the hosts and hear the official station sample.",
+  "status": "The full dial and complete playlists are still being revealed.",
+  "heroAsset": "radio-background-desktop.jpg",
+  "stations": [
+    {
+      "id": "cocoteo",
+      "name": "Cocoteo FM",
+      "genre": "Modern Latin",
+      "hosts": "El Martillo & La Gata",
+      "body": "Bachata, merengue, dembow and reggaeton bring a Latin party mix to the dial.",
+      "logo": "cocoteo-logo.png",
+      "backdrop": "cocoteo-background.jpg",
+      "icon": "ui_icon_cocoteo_fm_radio_station.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/CocoTeo FM.0n-4zp0t4l~if.mp3",
+      "color": "#e8bb86"
+    },
+    {
+      "id": "country",
+      "name": "Back Country Radio",
+      "genre": "Country",
+      "hosts": "MW & Delta Dawne",
+      "body": "Country from the swamps and beyond. Mud Dog Mike reports on the weather from his airboat.",
+      "logo": "country-logo.png",
+      "backdrop": "country-background.jpg",
+      "icon": "ui_icon_back_country_radio_radio_station.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/Back Country Radio.08cmgjn3.p-j_.mp3",
+      "color": "#e0b883"
+    },
+    {
+      "id": "afrobank",
+      "name": "AfroBank FM",
+      "genre": "African music",
+      "hosts": "Burna & Palmsy",
+      "body": "Older African recordings meet amapiano, 3-step and contemporary discoveries.",
+      "logo": "afrobank-logo.png",
+      "backdrop": "afrobank-background.jpg",
+      "icon": "ui_icon_afrobank_fm_radio_station.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/Afrobank.0rtmh0bm33.ky.mp3",
+      "color": "#e8c45b"
+    },
+    {
+      "id": "chamber",
+      "name": "The Chamber 106.6",
+      "genre": "Metal",
+      "hosts": "DJ Kerry & DJ Tom",
+      "body": "A heavy selection spanning decades of metal, rooted in Leonida’s scene.",
+      "logo": "chamber-logo.png",
+      "backdrop": "chamber-background.jpg",
+      "icon": "ui_icon_the_chamber_106_radio_station.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/The Chamber 106.6.11_iey2p6kb55.mp3",
+      "color": "#ef685d"
+    },
+    {
+      "id": "flash",
+      "name": "Flash FM",
+      "genre": "Pop",
+      "hosts": "Robyn & Alex",
+      "body": "A familiar Vice City name returns with a new host pairing and a pop-focused sound.",
+      "logo": "flash-logo.png",
+      "backdrop": "flash-background.jpg",
+      "icon": "ui_icon_flash_fm_radio_station_media.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/Flash FM.059xksp1t-k7h.mp3",
+      "color": "#f7abdf"
+    },
+    {
+      "id": "dirty-south",
+      "name": "Dirty South Classics",
+      "genre": "Southern rap & hip-hop",
+      "hosts": "Trick & Trina",
+      "body": "Regional rap and hip-hop classics put the South at the center of the playlist.",
+      "logo": "dirty-south-logo.png",
+      "backdrop": "dirty-south-background.jpg",
+      "icon": "ui_icon_dirty_south_classics_radio_station.jpg",
+      "sample": "https://www.rockstargames.com/VI/_next/static/media/Dirty South Classics.11o18zry-5mp7.mp3",
+      "color": "#e6ca8f"
+    }
+  ],
+  "listening": {
+    "title": "Take the dial with you",
+    "body": "Jason and Lucia can listen in vehicles or on foot through phone-connected headphones and earbuds. On-demand podcasts join radio, although individual talk shows and episode details have not all been introduced."
+  },
+  "history": {
+    "title": "Voices that made GTA",
+    "intro": "A look back at earlier games, separate from GTA VI’s announced lineup.",
+    "cards": [
+      {
+        "title": "Lazlow and Chatterbox",
+        "era": "GTA III · 2001",
+        "body": "Lazlow’s call-in show made Liberty City’s eccentric residents part of the journey. Fernando Martinez appeared among its guests."
+      },
+      {
+        "title": "V-Rock and the Vice City dial",
+        "era": "Vice City · 2002",
+        "body": "The earlier Vice City game put Lazlow behind V-Rock’s microphone. Flash FM, Radio Espantoso and Emotion 98.3 gave the city distinct musical personalities."
+      },
+      {
+        "title": "A running radio history",
+        "era": "Liberty City Stories & GTA IV",
+        "body": "Chatterbox later appeared as a show within LCFR. GTA IV gave Lazlow another outlet, Integrity 2.0. These are historical references, not promised GTA VI returns."
+      }
+    ]
+  },
+  "characterNotes": [
+    {
+      "id": "together",
+      "title": "Train together",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Bring both protagonists to the gym and both can exercise in the same visit. Their stats can benefit together.",
+      "source": "ign",
+      "confidence": "Direct developer interview",
+      "guide": "fitness"
+    },
+    {
+      "id": "gym",
+      "title": "Pace the workout",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Workouts use stamina-based minigames. Nelson described a three-exercise session: finish the set without exhausting stamina or rushing the movement.",
+      "source": "famitsu",
+      "confidence": "Direct developer demonstration description",
+      "guide": "fitness"
+    },
+    {
+      "id": "food",
+      "title": "Training and food do different jobs",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Training raises base health and stamina; food and drinks can provide temporary boosts. Eating and exercise also affect physique.",
+      "source": "famitsu",
+      "confidence": "Direct developer interview",
+      "guide": "fitness"
+    },
+    {
+      "id": "relationship",
+      "title": "Make time for both",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Shared outings such as beach walks, cycling and gym visits build closeness. The relationship is separate from the Criminal Profile.",
+      "source": "edge",
+      "confidence": "Direct developer interview",
+      "guide": "relationship"
+    },
+    {
+      "id": "switching",
+      "title": "Follow the mission’s lead",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Character switching depends on the story. Some sequences lock a protagonist or switch roles deliberately, so a locked switch need not mean you missed an unlock.",
+      "source": "famitsu",
+      "confidence": "Direct developer interview plus editorial interpretation",
+      "guide": "switching"
+    },
+    {
+      "id": "focus",
+      "title": "Check the scene with Focus",
+      "characters": [
+        "jason",
+        "lucia"
+      ],
+      "body": "Focus can highlight nearby points of interest, including police. Use it to inspect your surroundings before committing to the next move.",
+      "source": "ign",
+      "confidence": "Direct developer demonstration plus editorial advice",
+      "guide": "awareness"
+    }
+  ],
+  "fitnessGuide": {
+    "title": "Build a stronger getaway",
+    "subtitle": "Gym, food & stamina",
+    "imageHint": "Official Lucia gym/weights screenshot if present in gallery; avoid unrelated training art.",
+    "summary": "Fitness deserves its own practical guide linked from both protagonists. Keep it short and action-led.",
+    "steps": [
+      {
+        "title": "Arrive together",
+        "body": "Invite your partner before the gym visit if you want both protagonists to train."
+      },
+      {
+        "title": "Read the exercise prompt",
+        "body": "Follow the movement rhythm and watch remaining stamina."
+      },
+      {
+        "title": "Finish the session",
+        "body": "Complete the prompted exercises, then give the characters time to recover."
+      },
+      {
+        "title": "Check what changed",
+        "body": "Compare base stats with temporary food or drink boosts before planning your next outing."
+      }
+    ],
+    "note": "Membership prices, exact stat gains and the final progression balance will be checked in the release build."
+  },
+  "sources": [
+    {
+      "id": "rockstar-radio",
+      "name": "Rockstar — in-game radio announcement",
+      "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+      "ref": "turn248search0",
+      "confidence": "Official",
+      "note": "Six stations/hosts/genres and headphones/podcasts, officially announced October 8, 2026."
+    },
+    {
+      "id": "rockstar-music",
+      "name": "Rockstar — GTA VI Music",
+      "url": "https://www.rockstargames.com/VI/music",
+      "ref": "turn249view0",
+      "confidence": "Official",
+      "note": "HTML fetched successfully; branding and audio samples extracted directly."
+    },
+    {
+      "id": "gtabase-radio",
+      "name": "GTABase — Radio stations",
+      "url": "https://www.gtabase.com/gta-6/radio-stations/",
+      "ref": "turn248search2",
+      "confidence": "Specialist secondary",
+      "note": "Cross-check only; full station playlists not yet complete."
+    },
+    {
+      "id": "famitsu",
+      "name": "Famitsu — Rob Nelson interview",
+      "url": "https://www.famitsu.com/article/202608/85753",
+      "ref": "turn253view0",
+      "confidence": "Primary interview",
+      "note": "Read workout and switching sections directly."
+    },
+    {
+      "id": "ign",
+      "name": "IGN — Rob Nelson interview (Best Buy republication)",
+      "url": "https://www.bestbuy.com/gamers/gamers-articles/pcmcat1791490206931",
+      "ref": "turn257view1",
+      "confidence": "Primary interview",
+      "note": "Read shared gym training and Focus demonstration."
+    },
+    {
+      "id": "edge",
+      "name": "Edge — The state that never sleeps",
+      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
+      "ref": "turn257view0",
+      "confidence": "Primary interview",
+      "note": "Read relationship and shared activities section."
+    },
+    {
+      "id": "chatterbox",
+      "name": "Grand Theft Wiki — Chatterbox FM",
+      "url": "https://www.grandtheftwiki.com/Chatterbox_FM",
+      "ref": "turn256view1",
+      "confidence": "Historical reference",
+      "note": "Historical call-in show, V-Rock, LCFR, Integrity 2.0."
+    },
+    {
+      "id": "vicecity-history",
+      "name": "Rockstar — Vice City radio retrospective",
+      "url": "https://www.rockstargames.com/newswire/article/9k1248838739o4/rockstar-alumni-concert-calendar-special-vice-city-edition.html",
+      "ref": "turn252search12",
+      "confidence": "Official historical",
+      "note": "Vice City radio station names."
+    },
+    {
+      "id": "gtabase-gym",
+      "name": "GTABase — Gym / Working Out",
+      "url": "https://www.gtabase.com/side-missions/gta-6/gym-working-out",
+      "ref": "turn249view2",
+      "confidence": "Specialist secondary",
+      "note": "Do not copy its unsourced 100% completion requirement; primary sources do not establish that."
+    },
+    {
+      "id": "gta-wiki-radio",
+      "name": "GTA Wiki — The Music of Grand Theft Auto VI",
+      "url": "https://gta.wiki/w/The_Music_of_Grand_Theft_Auto_VI",
+      "ref": "turn248search5",
+      "confidence": "Specialist secondary",
+      "note": "Search accessible; direct page access restricted. Used only as corroboration."
+    }
+  ],
+  "assets": [
+    {
+      "name": "radio-background-desktop",
+      "filename": "radio-background-desktop.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/radio-background-desktop.0hl~wc1-j9tqg.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/radio-background-desktop.jpg",
+      "bytes": 949140,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "name": "cocoteo-logo",
+      "filename": "cocoteo-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/cocoteo-logo.0f_q~~9u45zf5.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/cocoteo-logo.png",
+      "bytes": 172163,
+      "width": 1080,
+      "height": 739
+    },
+    {
+      "name": "cocoteo-background",
+      "filename": "cocoteo-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/cocoteo-background.0~6dq9w0~ac7f.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/cocoteo-background.jpg",
+      "bytes": 343209,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "country-logo",
+      "filename": "country-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/country-logo.0_u9b8toxgaqe.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/country-logo.png",
+      "bytes": 47960,
+      "width": 1003,
+      "height": 504
+    },
+    {
+      "name": "country-background",
+      "filename": "country-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/country-background.0dgx5dx.44v.x.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/country-background.jpg",
+      "bytes": 685028,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "afrobank-logo",
+      "filename": "afrobank-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/afrobank-logo.0r-.t_v9b~9l_.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/afrobank-logo.png",
+      "bytes": 42335,
+      "width": 1080,
+      "height": 939
+    },
+    {
+      "name": "afrobank-background",
+      "filename": "afrobank-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/afrobank-background.140-_kytq55lt.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/afrobank-background.jpg",
+      "bytes": 733809,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "chamber-logo",
+      "filename": "chamber-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/chamber-logo.039x21cy5jsiv.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/chamber-logo.png",
+      "bytes": 97565,
+      "width": 1080,
+      "height": 796
+    },
+    {
+      "name": "chamber-background",
+      "filename": "chamber-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/chamber-background.0bdn5.jnvwos2.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/chamber-background.jpg",
+      "bytes": 1447253,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "flash-logo",
+      "filename": "flash-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/flash-logo.04o~oki.8dgm0.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/flash-logo.png",
+      "bytes": 29402,
+      "width": 1511,
+      "height": 1019
+    },
+    {
+      "name": "flash-background",
+      "filename": "flash-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/flash-background.0tc3kakjq4vi6.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/flash-background.jpg",
+      "bytes": 69855,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "dirty-south-logo",
+      "filename": "dirty-south-logo.png",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/dirty-south-logo.0oparlmygi1zd.png",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/dirty-south-logo.png",
+      "bytes": 44820,
+      "width": 1900,
+      "height": 838
+    },
+    {
+      "name": "dirty-south-background",
+      "filename": "dirty-south-background.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/dirty-south-background.05~e07omgorbi.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/dirty-south-background.jpg",
+      "bytes": 315352,
+      "width": 3840,
+      "height": 1536
+    },
+    {
+      "name": "ui_icon_cocoteo_fm_radio_station",
+      "filename": "ui_icon_cocoteo_fm_radio_station.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_COCOTEO_FM_RADIO_STATION.16fsxcpp600s7.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_cocoteo_fm_radio_station.jpg",
+      "bytes": 341066,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "ui_icon_back_country_radio_radio_station",
+      "filename": "ui_icon_back_country_radio_radio_station.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_BACK_COUNTRY_RADIO_RADIO_STATION.11bdcia2f4s-l.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_back_country_radio_radio_station.jpg",
+      "bytes": 162733,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "ui_icon_afrobank_fm_radio_station",
+      "filename": "ui_icon_afrobank_fm_radio_station.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_AFROBANK_FM_RADIO_STATION.0isx5p0~loag1.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_afrobank_fm_radio_station.jpg",
+      "bytes": 144807,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "ui_icon_the_chamber_106_radio_station",
+      "filename": "ui_icon_the_chamber_106_radio_station.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_THE_CHAMBER_106_RADIO_STATION.0sf.i4t38_g9_.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_the_chamber_106_radio_station.jpg",
+      "bytes": 249947,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "ui_icon_flash_fm_radio_station_media",
+      "filename": "ui_icon_flash_fm_radio_station_media.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_FLASH_FM_RADIO_STATION_MEDIA.0ga1yom4~0.d-.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_flash_fm_radio_station_media.jpg",
+      "bytes": 147099,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "ui_icon_dirty_south_classics_radio_station",
+      "filename": "ui_icon_dirty_south_classics_radio_station.jpg",
+      "url": "https://www.rockstargames.com/VI/_next/static/media/UI_ICON_DIRTY_SOUTH_CLASSICS_RADIO_STATION.0efe1owq0efe5.jpg",
+      "local": "C:/Users/Marco Quevedo/Documents/ChatGPT/BBH interview help/vice-atlas-qa/revision14/radio-assets/ui_icon_dirty_south_classics_radio_station.jpg",
+      "bytes": 107119,
+      "width": 1600,
+      "height": 1600
+    }
+  ],
+  "implementationNotes": [
+    "Use original transparent logos with suitable contrast: AfroBank and Flash have dark elements that need a light/tinted panel or backdrop, not plain black.",
+    "Square station art is 1600×1600, native transparent logos around 1000–1900px, backdrops 3840×1536, radio hero 3840×2160.",
+    "Audio samples are official Rockstar hosted promotional MP3s, HEAD verified 200 audio/mpeg; no full tracks copied. Stream only with explicit user play, label Station sample and one at a time; or link official music page.",
+    "No full radio lineup, named podcast hosts or complete episode schedules claimed. No fabricated historical returns.",
+    "Character bios already cover the eight official primary profiles in detail. Add meaningful gameplay links instead of duplicating biography.",
+    "Famitsu gym text is under 100 words here; preserve concise paraphrase when combining source-derived copy from money page.",
+    "Avoid saying workouts are required for 100% completion: not corroborated by primary sources."
+  ]
+}

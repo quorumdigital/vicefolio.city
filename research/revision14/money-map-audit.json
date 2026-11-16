@@ -1,0 +1,980 @@
+{
+  "auditedAt": "2026-11-13T18:28:07.693Z",
+  "scope": "Local data and integration audit; not a fresh verification of every gameplay claim.",
+  "inputs": [
+    "public/map-data.json",
+    "public/map-types.js",
+    "public/map-room.js",
+    "vice-atlas-qa/revision14/current-extra.json",
+    "vice-atlas-qa/revision14/current-data.json"
+  ],
+  "source": {
+    "version": "Yanis V17",
+    "reviewed": "November 12, 2026",
+    "repository": "https://github.com/rolux/gtadb.org",
+    "commit": "6acc1b555ed68255078b850f5d4a984610fa1910",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "totalRecords": 3442
+  },
+  "cleanPredicate": "Array.isArray(r.xy) && r.xy.length === 2 && r.xy.every(Number.isFinite) && !(r.tags || []).some(t => ['unconfirmed', 'demolished'].includes(t))",
+  "generalRules": [
+    "Counts refer to the current community map snapshot, not game totals or exhaustive playable opportunities.",
+    "A record with coordinates proves only that a source placed it on a reconstruction; no field here proves repeatable robbery eligibility, payout, access, opening time, or unlock condition.",
+    "Retain category icon/color semantics; use the existing focus ring or a scope banner for relevance, never recolor every marker as an alleged money target.",
+    "Exclude source-tagged demolished and unconfirmed records from recommended money pins; preserve them in the general map with their source flags.",
+    "Do not convert real-world coordinates into game spawn coordinates.",
+    "A zero-pin method must stay zero and explain why. Never silently show the whole map or unrelated points."
+  ],
+  "scopes": [
+    {
+      "key": "money-store",
+      "label": "Mapped shops & fuel stops",
+      "href": "#world?scope=money-store",
+      "categoryPredicate": [
+        "Shops",
+        "Supermarkets",
+        "Fuel stations",
+        "Liquor stores"
+      ],
+      "explicitIds": [],
+      "allRecordCount": 175,
+      "placedCount": 169,
+      "recommendedPinCount": 136,
+      "recommendedPinIds": [
+        "L341",
+        "L1670",
+        "L175",
+        "L1536",
+        "L3283",
+        "L3288",
+        "L48",
+        "L1934",
+        "L1099",
+        "L363",
+        "L677",
+        "L409",
+        "L1101",
+        "L1790",
+        "L163",
+        "L1789",
+        "L1786",
+        "L2150",
+        "L2151",
+        "L2265",
+        "L161",
+        "L1541",
+        "L1589",
+        "L2245",
+        "L2424",
+        "L2559",
+        "L3099",
+        "L3166",
+        "L3287",
+        "L1598",
+        "L1100",
+        "L1555",
+        "L408",
+        "L1933",
+        "L1320",
+        "L3079",
+        "L260",
+        "L2360",
+        "L1108",
+        "L1870",
+        "L1932",
+        "L2517",
+        "L258",
+        "L315",
+        "L1102",
+        "L419",
+        "L3397",
+        "L2400",
+        "L1781",
+        "L364",
+        "L332",
+        "L406",
+        "L608",
+        "L1612",
+        "L1619",
+        "L3093",
+        "L3289",
+        "L3304",
+        "L1096",
+        "L1233",
+        "L1489",
+        "L1504",
+        "L1543",
+        "L1574",
+        "L1600",
+        "L1602",
+        "L1666",
+        "L1953",
+        "L2099",
+        "L2323",
+        "L2380",
+        "L2381",
+        "L2383",
+        "L2385",
+        "L2386",
+        "L2387",
+        "L2388",
+        "L2389",
+        "L2390",
+        "L2393",
+        "L2394",
+        "L2395",
+        "L2396",
+        "L2397",
+        "L2398",
+        "L2401",
+        "L2402",
+        "L2403",
+        "L2404",
+        "L2405",
+        "L2406",
+        "L2407",
+        "L2408",
+        "L2409",
+        "L2410",
+        "L2411",
+        "L2412",
+        "L2413",
+        "L2583",
+        "L261",
+        "L292",
+        "L3227",
+        "L3292",
+        "L3293",
+        "L3300",
+        "L3301",
+        "L3302",
+        "L3303",
+        "L3307",
+        "L3308",
+        "L334",
+        "L335",
+        "L344",
+        "L355",
+        "L356",
+        "L359",
+        "L361",
+        "L362",
+        "L365",
+        "L366",
+        "L367",
+        "L368",
+        "L372",
+        "L417",
+        "L418",
+        "L482",
+        "L546",
+        "L587",
+        "L673",
+        "L683",
+        "L703",
+        "L75",
+        "L762",
+        "L903",
+        "L908",
+        "L3295"
+      ],
+      "excludedIds": [
+        {
+          "id": "L1103",
+          "name": "? Flare",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L308",
+          "name": "Alpha Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L165",
+          "name": "Arrow Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L284",
+          "name": "Bingo Hall",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L347",
+          "name": "Burnout Scooters",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L615",
+          "name": "Crossroad Park Minimall",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L679",
+          "name": "Gas Station",
+          "category": "Supermarkets",
+          "tags": [
+            "#supermarket",
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1188",
+          "name": "Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L3197",
+          "name": "Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L283",
+          "name": "Gas Stop",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1105",
+          "name": "Happy Nails",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2178",
+          "name": "Hobbs Milford",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2475",
+          "name": "Money Shift",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2615",
+          "name": "Paperclips",
+          "category": "Shops",
+          "tags": [
+            "l4",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1006",
+          "name": "Tisha-Wocka Flea Market",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "enterable",
+            "l6",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1717",
+          "name": "Tobacco",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "l4",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L371",
+          "name": "Treasured Trash",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L313",
+          "name": "Uncle Jack's Liquor",
+          "category": "Liquor stores",
+          "tags": [
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1106",
+          "name": "Wet & Wild Pet Store",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2019",
+          "name": "Whiz",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L553",
+          "name": "Xero Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "l1",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1023",
+          "name": "Unnamed shop · L1023",
+          "category": "Shops",
+          "tags": [
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2382",
+          "name": "Unnamed shop · L2382",
+          "category": "Shops",
+          "tags": [
+            "enterable",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2474",
+          "name": "Unnamed shop · L2474",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2476",
+          "name": "Unnamed shop · L2476",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2477",
+          "name": "Unnamed shop · L2477",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2479",
+          "name": "Unnamed shop · L2479",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "l4",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L369",
+          "name": "Unnamed shop · L369",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L468",
+          "name": "Unnamed shop · L468",
+          "category": "Shops",
+          "tags": [
+            "l1",
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L607",
+          "name": "Unnamed shop · L607",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L91",
+          "name": "Unnamed shop · L91",
+          "category": "Supermarkets",
+          "tags": [
+            "#supermarket",
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L952",
+          "name": "Unnamed shop · L952",
+          "category": "Shops",
+          "tags": [
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2875",
+          "name": "Unnamed vehicle service · L2875",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1493",
+          "name": "One-Eyed Willie's",
+          "category": "Shops",
+          "tags": [
+            "retail"
+          ],
+          "placed": false
+        },
+        {
+          "id": "L1081",
+          "name": "Stovepipes?",
+          "category": "Shops",
+          "tags": [
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": false
+        },
+        {
+          "id": "L1468",
+          "name": "The Atoll",
+          "category": "Shops",
+          "tags": [
+            "retail"
+          ],
+          "placed": false
+        },
+        {
+          "id": "L1070",
+          "name": "Unnamed shop · L1070",
+          "category": "Shops",
+          "tags": [
+            "retail"
+          ],
+          "placed": false
+        },
+        {
+          "id": "L1780",
+          "name": "Unnamed shop · L1780",
+          "category": "Shops",
+          "tags": [
+            "retail"
+          ],
+          "placed": false
+        },
+        {
+          "id": "L1494",
+          "name": "Wyman's World Auto Salvage Co.",
+          "category": "Shops",
+          "tags": [
+            "retail"
+          ],
+          "placed": false
+        }
+      ],
+      "note": "136 candidate shop/fuel locations after source-quality exclusions. Retail categories include diverse businesses; robbery eligibility and accessible interiors are awaiting release confirmation. Label the CTA Mapped stores, not All robbable stores."
+    },
+    {
+      "key": "money-banks",
+      "label": "Jewelry & bank locations",
+      "href": "#world?scope=money-banks",
+      "categoryPredicate": [],
+      "explicitIds": [
+        "L2599",
+        "L2747",
+        "L470",
+        "L2155"
+      ],
+      "allRecordCount": 4,
+      "placedCount": 4,
+      "recommendedPinCount": 4,
+      "recommendedPinIds": [
+        "L2599",
+        "L2747",
+        "L470",
+        "L2155"
+      ],
+      "excludedIds": [],
+      "note": "Four mapped building candidates. Jewelry: Adelphila? Jewelry and Little Gems Jewellery. Banks: two Lombank landmarks. Enterable tags do not establish robbery eligibility. L501 is an office, excluded from target scope; L1072 is unplaced and unconfirmed."
+    },
+    {
+      "key": "money-gangs",
+      "label": "Mapped compound",
+      "href": "#world?scope=money-gangs",
+      "categoryPredicate": [],
+      "explicitIds": [
+        "entry-ptt"
+      ],
+      "allRecordCount": 1,
+      "placedCount": 1,
+      "recommendedPinCount": 1,
+      "recommendedPinIds": [
+        "entry-ptt"
+      ],
+      "excludedIds": [],
+      "note": "One catalog record: PTT YOUNGIN$. Catalog links to Rockstar edition details and describes an Ultimate Edition raid. Community position is estimated. Preserve edition/progression caveats; this is not a list of every gang compound."
+    },
+    {
+      "key": "money-fences",
+      "label": "Mapped stolen-goods dealers",
+      "href": "#world?scope=money-fences",
+      "categoryPredicate": [
+        "Stolen-goods dealers"
+      ],
+      "explicitIds": [],
+      "allRecordCount": 6,
+      "placedCount": 6,
+      "recommendedPinCount": 4,
+      "recommendedPinIds": [
+        "L1009",
+        "L539",
+        "L1117",
+        "L910"
+      ],
+      "excludedIds": [
+        {
+          "id": "L1104",
+          "name": "Pawn Shop?",
+          "category": "Stolen-goods dealers",
+          "tags": [
+            "#fence",
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L286",
+          "name": "Unnamed shop · L286",
+          "category": "Stolen-goods dealers",
+          "tags": [
+            "#fence",
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        }
+      ],
+      "note": "Four clean source records tagged #fence; exact goods accepted and progression requirements need confirmation. These are not automatically vehicle fences. Exclude demolished L1104 and L286."
+    },
+    {
+      "key": "money-vehicles",
+      "label": "Vehicle sale locations",
+      "href": "#world?scope=money-vehicles",
+      "categoryPredicate": [
+        "Respray shops"
+      ],
+      "explicitIds": [],
+      "allRecordCount": 1,
+      "placedCount": 1,
+      "recommendedPinCount": 0,
+      "recommendedPinIds": [],
+      "excludedIds": [
+        {
+          "id": "L415",
+          "name": "Unnamed vehicle service · L415",
+          "category": "Respray shops",
+          "tags": [
+            "#pay'n'spray",
+            "demolished",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        }
+      ],
+      "note": "Only source record L415 is tagged demolished, leaving zero recommended pins. Do not substitute auto-part shops, customization workshops, dealerships, parking garages, or pawnshops as verified vehicle-sale points."
+    },
+    {
+      "key": "money-requests",
+      "label": "Vehicle-fence requests",
+      "href": "#world?scope=money-requests",
+      "categoryPredicate": [],
+      "explicitIds": [],
+      "allRecordCount": 0,
+      "placedCount": 0,
+      "recommendedPinCount": 0,
+      "recommendedPinIds": [],
+      "excludedIds": [],
+      "note": "No fixed contact, police impound objective, or mission start position is identified in current records. Requests may be progression-dependent; no pins until the contact/start is sourced."
+    },
+    {
+      "key": "money-vans",
+      "label": "Security van sightings",
+      "href": "#world?scope=money-vans",
+      "categoryPredicate": [],
+      "explicitIds": [],
+      "allRecordCount": 0,
+      "placedCount": 0,
+      "recommendedPinCount": 0,
+      "recommendedPinIds": [],
+      "excludedIds": [],
+      "note": "No security van encounter or route records are present. Moving encounters should not be fabricated as permanent spawn points."
+    },
+    {
+      "key": "money-hunting",
+      "label": "Paid hunting starts",
+      "href": "#world?scope=money-hunting",
+      "categoryPredicate": [],
+      "explicitIds": [],
+      "allRecordCount": 0,
+      "placedCount": 0,
+      "recommendedPinCount": 0,
+      "recommendedPinIds": [],
+      "excludedIds": [],
+      "note": "No paid-hunting contact or contract start location is present. Natural places, farms and national-park scenery do not prove a hunting mission begins there."
+    },
+    {
+      "key": "money-fuel",
+      "label": "Mapped fuel stops",
+      "href": "#world?scope=money-fuel",
+      "categoryPredicate": [
+        "Fuel stations"
+      ],
+      "explicitIds": [],
+      "allRecordCount": 22,
+      "placedCount": 22,
+      "recommendedPinCount": 15,
+      "recommendedPinIds": [
+        "L3283",
+        "L161",
+        "L1541",
+        "L1589",
+        "L2245",
+        "L2424",
+        "L2559",
+        "L3099",
+        "L260",
+        "L406",
+        "L608",
+        "L1612",
+        "L1619",
+        "L3093",
+        "L3295"
+      ],
+      "excludedIds": [
+        {
+          "id": "L308",
+          "name": "Alpha Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "enterable",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L165",
+          "name": "Arrow Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L1188",
+          "name": "Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L3197",
+          "name": "Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L283",
+          "name": "Gas Stop",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished",
+            "enterable",
+            "l1",
+            "retail"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L553",
+          "name": "Xero Gas Station",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "l1",
+            "retail",
+            "unconfirmed"
+          ],
+          "placed": true
+        },
+        {
+          "id": "L2875",
+          "name": "Unnamed vehicle service · L2875",
+          "category": "Fuel stations",
+          "tags": [
+            "#gas",
+            "demolished"
+          ],
+          "placed": true
+        }
+      ],
+      "note": "15 clean community-placed fuel sites provide preparation context. Availability, pumps and services need release verification; this is not an earning route."
+    }
+  ],
+  "rejectedFalseMatches": [
+    {
+      "id": "L86",
+      "name": "Fence",
+      "reason": "Hotel name, not a dealer/contact."
+    },
+    {
+      "id": "L3081",
+      "name": "Riverbank",
+      "reason": "Natural feature, not a bank."
+    },
+    {
+      "id": "L501",
+      "name": "Lombank",
+      "reason": "Source category Offices; do not label a small-bank robbery target."
+    },
+    {
+      "id": "L1072",
+      "name": "Lombank",
+      "reason": "No game coordinates and source unconfirmed."
+    },
+    {
+      "id": "L997",
+      "name": "Survival Compound",
+      "reason": "Unplaced event record, not evidence of a gang raid."
+    },
+    {
+      "id": "L1594",
+      "name": "Baller Dealership",
+      "reason": "Source demolished and no evidence of theft/sale interaction."
+    },
+    {
+      "id": "L2451",
+      "name": "Cash For Scrap Scrapyard",
+      "reason": "Landmark name alone does not establish vehicle-sale mechanic."
+    },
+    {
+      "id": "L596",
+      "name": "Repair & Salvage",
+      "reason": "Landmark alone does not establish dealer mechanic."
+    },
+    {
+      "id": "L811",
+      "name": "Repair & Salvage",
+      "reason": "Landmark alone does not establish dealer mechanic."
+    },
+    {
+      "id": "L1494",
+      "name": "Wyman's World Auto Salvage Co.",
+      "reason": "Unplaced. Its catalog activity may be linked as a dossier, not a fake map pin."
+    },
+    {
+      "id": "entry-wyman-collection",
+      "name": "Wyman’s Classic Car Collection",
+      "reason": "Catalog activity is unplaced; show dossier and unlock caveat."
+    }
+  ],
+  "optionalContextLinks": {
+    "vehicleSightings": {
+      "label": "Browse mapped vehicle sightings",
+      "predicate": "r.layer === 'vehicles' && cleanPredicate(r)",
+      "pinIds": [
+        "entry-buggy",
+        "entry-kayak",
+        "entry-enduro"
+      ],
+      "note": "Only three placed vehicle records. Two are screenshot sightings; the buggy is an edition-linked reference. Do not present all three as guaranteed theft/sale targets."
+    },
+    "storage": {
+      "pinId": "L1495",
+      "label": "Paradise Garage",
+      "note": "Published edition garage context only; do not claim every garage is purchasable or accepts stolen vehicles."
+    }
+  },
+  "uiCopy": {
+    "scopeNote": "Mapped candidates; playable access and robbery eligibility are on our release checklist.",
+    "emptyTitle": "Locations are being confirmed",
+    "emptyBody": "This activity is documented, but a dependable start point or route has not been mapped yet. We will add locations once they can be checked in game.",
+    "emptyAction": "Show the full map",
+    "scopeExit": "Show all locations",
+    "scopeFit": "Fit these locations",
+    "exactPinFocus": "Only this location is shown",
+    "storeCta": "Find mapped stores",
+    "banksCta": "Explore jewelry & bank locations",
+    "gangCta": "View the mapped compound",
+    "fenceCta": "Find mapped dealers",
+    "vanCta": "View location status",
+    "huntingCta": "View location status"
+  },
+  "integration": {
+    "state": "Add activeScope=null alongside layer/focusMode. Define allowlisted scope registry; each entry contains label, note, predicate or IDs, and empty-state text.",
+    "init": "After reset defaults and before filter(), parse scope from hash params. Set activeScope only if registry owns the key. Keep all categories enabled and markersVisible true; query empty. If pin/entry is present, run existing select(pin,true) after filter() so exact single-item focus retains priority over scope.",
+    "filter": "Add (!activeScope || activeScope.test(r)) to data.records.filter. Scope predicates already enforce usable map coordinates and exclude disputed/demolished records. Keep ordinary layer/search/categories as intersections.",
+    "counts": "renderCategories() currently counts data.records.filter(layerMatch); use the same active-scope predicate for counts while active. Show scoped count and a short candid note; hide irrelevant groups or show zero disabled controls.",
+    "fit": "After initial scoped filter without a pin, fit bounds over scoped xy points with map.getMaxZoom cap, sidebar padding, and animate:false on initial load. One point can use max zoom. Zero points should retain a neutral world view with all markers hidden and explicit empty-state overlay.",
+    "selection": "Existing select(id,true), renderPins(), renderList() already isolate a selected record independent of matches. Preserve this. Selecting a marker in scope with pan=false may leave scope peers visible; list selection should retain existing isolation behavior.",
+    "clear": "Add a dedicated Show all locations action that clears activeScope, selected, focusMode, query, hide-found and placed modifiers; sets all categories and layer all; removes scope/pin from hash without navigation loop; filters and fits the map. Existing reset() is currently viewport/focus reset only and does not reset filters; decide whether its Whole map label should become full reset or remain viewport-only.",
+    "categoryControls": "Show all inside category controls should not silently exit activeScope; label it Show scope categories while scoped or keep a separate Show all locations exit.",
+    "language": "Scope keys and record IDs stay stable. Localize labels/caveats, preserving scope and pin on language switch.",
+    "api": "Add scope: activeScope?.key, matchCount:matches.length, scopedPinCount to getViewState for meaningful QA.",
+    "qa": [
+      "#world has activeScope null and the normal default map.",
+      "#world?scope=money-store shows exactly 136 eligible source IDs in results and no unrelated markers, subject to viewport clustering.",
+      "#world?scope=money-banks shows four IDs, and no offices or Riverbank false matches.",
+      "#world?scope=money-fences shows four records and hides the two demolished records.",
+      "#world?scope=money-vehicles remains empty because the sole respray record is demolished.",
+      "#world?scope=money-vans, money-requests and money-hunting have zero pins and a useful status message.",
+      "#world?pin=entry-buggy retains exact max-zoom single-pin behavior.",
+      "#world?scope=money-store&pin=entry-buggy still isolates buggy, even outside scope.",
+      "Show all locations removes scope and restores ordinary all-category view.",
+      "Language changes preserve selected scope/pin and saved progress.",
+      "Unknown scope keys do not cause exceptions or claim unavailable scopes are valid."
+    ]
+  }
+}

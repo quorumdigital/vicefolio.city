@@ -1,0 +1,601 @@
+{
+  "page": "money",
+  "status": "owned_items_verified_final_shared_controls_pass_palette_tail_reported",
+  "baseline": "version25",
+  "checks": [
+    {
+      "items": [
+        24
+      ],
+      "result": "verified crop; layout will be rechecked after hero composition",
+      "evidence": [
+        "money-24-crop-desktop.png",
+        "money-24-crop-mobile.png"
+      ],
+      "observed": "Original photo preserved, contain prevents cropping either head or trading Lucia crop for Jason. Mobile composition checked separately in next bounded hero step."
+    },
+    {
+      "items": [
+        25
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-25-upper-left.png"
+      ],
+      "observed": "Title group moved to x96 at 1920px, top inset52px within hero, both faces unobscured. Identity retained; main CTA click reaches opportunities."
+    },
+    {
+      "items": [
+        26
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-26-step-copy.png"
+      ],
+      "observed": "Each numbered step has a distinct practical explanation; brief progression caveat retained. New copy supplied in all seven locales."
+    },
+    {
+      "items": [
+        27
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-27-callouts-1440.png",
+        "money-27-callouts-mobile-hero.png"
+      ],
+      "observed": "Two concise advice callouts; cash-risk/banking and reported carry limit. No repeated Keep the Take panel title. Complete .cash-safety guidance retained below. Faces remain exposed; responsive callouts become stacked cards."
+    },
+    {
+      "items": [
+        28
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-28-motion-final.png"
+      ],
+      "observed": "Title enters from left over1.65s, protection rises with .32s delay, carry enters from right with .72s delay. Samples show gradual opacity and transforms, final fully visible. Mobile advice waits for viewport entry; reduced motion bypass supplied.",
+      "samples": [
+        [
+          {
+            "kind": "r26-money-callout r26-money-risk r26-money-entered",
+            "opacity": "0",
+            "transform": "matrix(1, 0, 0, 1, 0, 44)"
+          },
+          {
+            "kind": "r26-money-callout r26-money-limit r26-money-entered",
+            "opacity": "0",
+            "transform": "matrix(1, 0, 0, 1, 50, 0)"
+          }
+        ],
+        [
+          {
+            "kind": "r26-money-callout r26-money-risk r26-money-entered",
+            "opacity": "0.0969765",
+            "transform": "matrix(1, 0, 0, 1, 0, 27.9474)"
+          },
+          {
+            "kind": "r26-money-callout r26-money-limit r26-money-entered",
+            "opacity": "0",
+            "transform": "matrix(1, 0, 0, 1, 50, 0)"
+          }
+        ],
+        [
+          {
+            "kind": "r26-money-callout r26-money-risk r26-money-entered",
+            "opacity": "0.882609",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.85074)"
+          },
+          {
+            "kind": "r26-money-callout r26-money-limit r26-money-entered",
+            "opacity": "0.552158",
+            "transform": "matrix(1, 0, 0, 1, 11.0811, 0)"
+          }
+        ],
+        [
+          {
+            "kind": "r26-money-callout r26-money-risk r26-money-entered",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "kind": "r26-money-callout r26-money-limit r26-money-entered",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "items": [
+        29
+      ],
+      "result": "verified after responsive correction",
+      "evidence": [
+        "money-29-layout-1920.png",
+        "money-29-layout-1440.png",
+        "money-29-layout-1024.png",
+        "money-29-layout-390.png",
+        "money-29-mobile-hero.png"
+      ],
+      "observed": "1920/1440 place text around scene; <=1200 uses full image above content so no faces are covered. Fixed inherited mobile52vw padding that caused a blank band. No horizontal overflow in four viewports. Main CTA retained, no unnecessary new secondary actions."
+    },
+    {
+      "items": [
+        31
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-31-opportunity-1.png",
+        "money-31-opportunity-2.png",
+        "money-31-opportunity-3.png"
+      ],
+      "observed": "Actual wheel scrolling: first3 each wait independently; upcoming rows stay opacity0. Each enters gradually using identical1.35/1.6s opacity/transform and image/copy sequence.",
+      "proof": {
+        "initial": [
+          {
+            "top": 1739.42529296875,
+            "shown": false,
+            "opacity": "0"
+          },
+          {
+            "top": 2147.51904296875,
+            "shown": false,
+            "opacity": "0"
+          },
+          {
+            "top": 2525.86279296875,
+            "shown": false,
+            "opacity": "0"
+          }
+        ],
+        "steps": [
+          {
+            "index": 0,
+            "early": [
+              {
+                "top": 579.359375,
+                "shown": true,
+                "opacity": "0.0750629"
+              },
+              {
+                "top": 1000.46337890625,
+                "shown": false,
+                "opacity": "0"
+              },
+              {
+                "top": 1378.80712890625,
+                "shown": false,
+                "opacity": "0"
+              }
+            ],
+            "finished": {
+              "opacity": "1",
+              "transform": "none"
+            }
+          },
+          {
+            "index": 1,
+            "early": [
+              {
+                "top": 139.5625,
+                "shown": true,
+                "opacity": "1"
+              },
+              {
+                "top": 574.8302001953125,
+                "shown": true,
+                "opacity": "0.0929346"
+              },
+              {
+                "top": 968,
+                "shown": false,
+                "opacity": "0"
+              }
+            ],
+            "finished": {
+              "opacity": "1",
+              "transform": "none"
+            }
+          },
+          {
+            "index": 2,
+            "early": [
+              {
+                "top": -238.4375,
+                "shown": true,
+                "opacity": "1"
+              },
+              {
+                "top": 169.65625,
+                "shown": true,
+                "opacity": "1"
+              },
+              {
+                "top": 573.5525512695312,
+                "shown": true,
+                "opacity": "0.112718"
+              }
+            ],
+            "finished": {
+              "opacity": "1",
+              "transform": "none"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        32
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-32-rules-reference.png",
+        "money-32-essentials-motion.png"
+      ],
+      "observed": "Read actual approved Details timings, preserved that section. Opportunities and Essentials now use coordinated slow image/copy progression. Tab state changes immediately with1.1s content transition; first Essentials reader opens successfully.",
+      "proof": {
+        "immediate": "true",
+        "paneVisible": true,
+        "cards": 9,
+        "early": {
+          "opacity": "0.0751343",
+          "transform": "matrix(1, 0, 0, 1, 0, 28.8584)"
+        },
+        "readerOpened": true
+      }
+    },
+    {
+      "items": [
+        33
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-33-essentials-desktop.png",
+        "money-33-essentials-mobile.png"
+      ],
+      "observed": "Essentials now alternate image/copy editorial rows, stacking on mobile. All9 guides retained. Opportunities gain52px desktop separation and clean foreground surfaces; repeated blurred card imagery removed. No mobile overflow."
+    },
+    {
+      "items": [
+        35
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-35-buyers-hover.png"
+      ],
+      "observed": "Find buyers now has visible border, filled translucent surface, depth and hover/focus/pressed states. Actual click reaches world money-fences scope.",
+      "proof": {
+        "href": "/en/#world?scope=money-fences",
+        "rect": {
+          "x": 96,
+          "y": 600.3125,
+          "width": 202.046875,
+          "height": 52.59375,
+          "top": 600.3125,
+          "right": 298.046875,
+          "bottom": 652.90625,
+          "left": 96
+        },
+        "border": "1px solid rgb(165, 229, 255)",
+        "background": "linear-gradient(125deg, rgb(52, 75, 101), rgb(40, 55, 77))",
+        "shadow": "rgba(217, 245, 255, 0.26) 0px 1px 0px 0px inset, rgb(10, 22, 35) 0px 3px 0px 0px, rgba(145, 223, 255, 0.133) 0px 0px 22px 0px",
+        "destination": "#world?scope=money-fences"
+      }
+    },
+    {
+      "items": [
+        36
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-36-action-icons.png"
+      ],
+      "observed": "All9 approach and9 mapped-location actions use consistent paper/map SVGs with preserved text. No decorative arrow remains in these controls. Modal map action gets the icon too; approach dialog and map navigation work.",
+      "proof": {
+        "plans": 9,
+        "maps": 9,
+        "labels": [
+          "Read the approachExplore mapped locations",
+          "Read the approachCheck location coverage",
+          "Read the approachExplore mapped locations",
+          "Read the approachCheck location coverage",
+          "Read the approachExplore mapped locations",
+          "Read the approachExplore mapped locations",
+          "Read the approachCheck location coverage",
+          "Read the approachCheck location coverage",
+          "Read the approachCheck location coverage"
+        ],
+        "modalMapIcon": 1,
+        "destination": "#world?scope=money-store"
+      }
+    },
+    {
+      "items": [
+        37
+      ],
+      "result": "verified",
+      "evidence": [
+        "money-37-primary-hover.png",
+        "money-37-primary-focus.png",
+        "money-37-actions-mobile.png"
+      ],
+      "observed": "Yellow removed. Filled pink/lilac planning primary is stronger than outlined blue map secondary, with retained depth and visible keyboard focus. Mobile controls wrap inside card bounds.",
+      "proof": [
+        {
+          "text": "Read the approach",
+          "background": "linear-gradient(120deg, rgb(246, 155, 215), rgb(216, 185, 240))",
+          "color": "rgb(36, 23, 39)",
+          "border": "1px solid rgb(255, 210, 237)",
+          "shadow": "rgba(255, 255, 255, 0.467) 0px 1px 0px 0px inset, rgb(99, 57, 88) 0px 3px 0px 0px, rgba(239, 128, 202, 0.22) 0px 0px 24px 0px"
+        },
+        {
+          "text": "Explore mapped locations",
+          "background": "none",
+          "color": "rgb(198, 226, 237)",
+          "border": "1px solid rgba(136, 183, 202, 0.455)",
+          "shadow": "rgba(211, 243, 255, 0.043) 0px 1px 0px 0px inset"
+        }
+      ]
+    },
+    {
+      "items": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37
+      ],
+      "result": "scoped integration verified; root shared pass still to recheck",
+      "observed": "Seven locale desktop checks retained2 callouts and3 translated step explanations without overflow; German/Russian screenshots checked; no pageerrors. Reduced-motion shows content immediately. JS syntax check passed.",
+      "locales": [
+        {
+          "locale": "en",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 528.640625,
+            "width": 222.109375,
+            "height": 60.34375,
+            "top": 528.640625,
+            "right": 294.109375,
+            "bottom": 588.984375,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "es",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 646.359375,
+            "width": 252.078125,
+            "height": 60.34375,
+            "top": 646.359375,
+            "right": 324.078125,
+            "bottom": 706.703125,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "pt-br",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 646.359375,
+            "width": 261.828125,
+            "height": 60.34375,
+            "top": 646.359375,
+            "right": 333.828125,
+            "bottom": 706.703125,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "de",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 528.640625,
+            "width": 298.359375,
+            "height": 60.34375,
+            "top": 528.640625,
+            "right": 370.359375,
+            "bottom": 588.984375,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "fr",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 593.515625,
+            "width": 276.421875,
+            "height": 60.34375,
+            "top": 593.515625,
+            "right": 348.421875,
+            "bottom": 653.859375,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "it",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 548.78125,
+            "width": 256.078125,
+            "height": 60.34375,
+            "top": 548.78125,
+            "right": 328.078125,
+            "bottom": 609.125,
+            "left": 72
+          },
+          "heroBottom": 863.59375
+        },
+        {
+          "locale": "ru",
+          "overflow": false,
+          "callouts": 2,
+          "steps": 3,
+          "mainButton": {
+            "x": 72,
+            "y": 699.953125,
+            "width": 256.796875,
+            "height": 60.34375,
+            "top": 699.953125,
+            "right": 328.796875,
+            "bottom": 760.296875,
+            "left": 72
+          },
+          "heroBottom": 867.296875
+        }
+      ],
+      "reducedProof": {
+        "callouts": [
+          {
+            "opacity": "1",
+            "animation": "none"
+          },
+          {
+            "opacity": "1",
+            "animation": "none"
+          }
+        ],
+        "routes": [
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          },
+          {
+            "opacity": "1",
+            "transition": "0s"
+          }
+        ],
+        "overflow": false
+      },
+      "syntax": {
+        "out": "",
+        "err": ""
+      }
+    },
+    {
+      "items": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37
+      ],
+      "result": "owned changes pass shared integration; explicit global leftovers reported",
+      "observed": "After root shared registry: h1 white; 19 requested SVG icons retained; zero arrow text in Money anchors/buttons; all three chapter switches and both Essentials/Approach readers open correctly; Details CTA now bordered; guide-open-mark no longer draws arrow; mobile390 no overflow and complete16:9 hero image. No pageerrors.",
+      "evidence": [
+        "money-integrated-hero.png",
+        "money-integrated-opportunity.png",
+        "money-integrated-rules.png",
+        "money-integrated-essentials-visible.png",
+        "money-integrated-reader.png",
+        "money-integrated-approach.png",
+        "money-integrated-mobile.png"
+      ],
+      "remainingShared": [
+        ".r24-money-title-second cream color",
+        ".r24-money-flow li>span orangecream and strong creamwhite",
+        ".scene-scroll.r24-money-explore old muted brown/plum gradient, no r26-btn",
+        ".money-chapter-nav selected cream border/underline",
+        "dialog .text-link How to sell and bank the take lacks r26-btn",
+        "new shared palm background pending"
+      ]
+    },
+    {
+      "items": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37
+      ],
+      "result": "final shared read-only check: requested controls and background pass; remaining cream opportunity headings reported",
+      "observed": "Desktop1920 and phone390: mutedpink subtitle; pink/blue/pink flow numbers with neutral labels; pink primaryCTA; pink selectedtabborder; reader sell/bank link is bordered r26-btn; original complete hero photo and head crop unchanged; palm background beginsbelowhero and staysvisible in margins; zero emptydecorativecircled actions; zero overflow and pageerrors.",
+      "remainingShared": [
+        "All .money-opportunity heading.r24-title color rgb(248,233,225) remains cream; requested neutralwhite correction reported",
+        "Selected chapter text rgb(255,242,232) slightlycream; requested neutralwhite correction reported"
+      ],
+      "evidence": [
+        "money-final-shared-hero-desktop.png",
+        "money-final-shared-body-desktop.png",
+        "money-final-shared-dialog-actions.png",
+        "money-final-shared-hero-phone.png",
+        "money-final-shared-body-phone.png",
+        "money-final-shared-tab-border.png"
+      ]
+    }
+  ]
+}

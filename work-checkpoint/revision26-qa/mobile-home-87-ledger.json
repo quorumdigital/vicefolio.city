@@ -1,0 +1,30 @@
+{
+  "item": 87,
+  "status": "locally verified",
+  "production": "pending",
+  "checks": [
+    "Welcome and integrated Leonida lettering inside opening image at320,375,390,430,768px",
+    "Modest image crop protects recognizable main faces",
+    "Slogan follows image; intro thenbuttons thenstatistics",
+    "All7locales390px, overflow0 and orderedcontrols",
+    "Tablet inherited2column layout corrected andrenderchecked",
+    "Desktop remains unchanged",
+    "Mobile960px/tablet1536px image exports remove undersampling artifacts; originalartcomposition preserved withoutredrawing",
+    "64px shared mobileheader remainscompact after integration"
+  ],
+  "evidence": [
+    "mobile-home-87-geometry.json",
+    "final-home-phone.png",
+    "final-home-desktop.png",
+    "mobile-home-87-en-320.png",
+    "mobile-home-87-en-768.png"
+  ],
+  "desktop": {
+    "header": 86,
+    "overflow": 0,
+    "signParent": "wrap hero-content",
+    "statsBottom": 900.328125,
+    "viewport": 1022
+  },
+  "updatedAt": "2026-11-14T21:28:31.604Z"
+}

@@ -1,0 +1,478 @@
+{
+  "revision": 9,
+  "checked": "2026-11-13",
+  "languages": [
+    "en",
+    "es",
+    "pt-br"
+  ],
+  "uiKeys": 729,
+  "counts": {
+    "catalog": {
+      "en": 41,
+      "pt": 41,
+      "idsMatch": true
+    },
+    "guides": {
+      "en": 16,
+      "pt": 16,
+      "idsMatch": true
+    },
+    "regions": {
+      "en": 6,
+      "pt": 6,
+      "idsMatch": true
+    },
+    "people": {
+      "en": 8,
+      "pt": 8,
+      "idsMatch": true
+    },
+    "mysteries": {
+      "en": 12,
+      "pt": 12,
+      "idsMatch": true
+    },
+    "gallery": {
+      "en": 138,
+      "pt": 138,
+      "idsMatch": true
+    }
+  },
+  "syntaxScripts": [
+    "app.js",
+    "data-es.js",
+    "data-pt-br.js",
+    "data.js",
+    "dossiers.js",
+    "exploration.js",
+    "extra-data-es.js",
+    "extra-data-pt-br.js",
+    "extra-data.js",
+    "heading-words.js",
+    "locale.js",
+    "map-evidence.js",
+    "map-room.js",
+    "map-types.js",
+    "release-community.js",
+    "ui-es.js",
+    "ui-pt-br.js"
+  ],
+  "desktopRoutes": [
+    {
+      "route": "home",
+      "overflow": false
+    },
+    {
+      "route": "vehicles",
+      "overflow": false
+    },
+    {
+      "route": "items",
+      "overflow": false
+    },
+    {
+      "route": "people",
+      "overflow": false
+    },
+    {
+      "route": "fieldguide",
+      "overflow": false
+    },
+    {
+      "route": "money",
+      "overflow": false
+    },
+    {
+      "route": "world",
+      "overflow": false
+    },
+    {
+      "route": "guides",
+      "overflow": false
+    },
+    {
+      "route": "music",
+      "overflow": false
+    },
+    {
+      "route": "ufos",
+      "overflow": false
+    },
+    {
+      "route": "credits",
+      "overflow": false
+    },
+    {
+      "route": "community",
+      "overflow": false
+    },
+    {
+      "route": "saved",
+      "overflow": false
+    },
+    {
+      "route": "gallery",
+      "overflow": false
+    }
+  ],
+  "phoneRoutes": [
+    {
+      "route": "home",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "Conheça a cidade. Domine a noite.",
+      "badWords": 0
+    },
+    {
+      "route": "vehicles",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "FICHAS DE VEÍCULOS.",
+      "badWords": 0
+    },
+    {
+      "route": "items",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "ARMAS, EQUIPAMENTOS E MAIS.",
+      "badWords": 0
+    },
+    {
+      "route": "people",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "TODO MUNDO TEM SEUS INTERESSES.",
+      "badWords": 0
+    },
+    {
+      "route": "fieldguide",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "BOAS-VINDAS A LEONIDA.",
+      "badWords": 0
+    },
+    {
+      "route": "money",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "PLANEJE SEU PRÓXIMO PASSO.",
+      "badWords": 0
+    },
+    {
+      "route": "world",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "Mapa de Leonida",
+      "badWords": 0
+    },
+    {
+      "route": "guides",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "O GUIA DO JOGADOR.",
+      "badWords": 0
+    },
+    {
+      "route": "music",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "O SOM DE LEONIDA.",
+      "badWords": 0
+    },
+    {
+      "route": "ufos",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "OS ARQUIVOS DE OVNIs.",
+      "badWords": 0
+    },
+    {
+      "route": "credits",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "FONTES E CRÉDITOS.",
+      "badWords": 0
+    },
+    {
+      "route": "community",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "Deixe uma pista.",
+      "badWords": 0
+    },
+    {
+      "route": "saved",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "MEU ATLAS.",
+      "badWords": 0
+    },
+    {
+      "route": "gallery",
+      "overflow": false,
+      "lang": "pt-BR",
+      "heading": "CARTÕES-POSTAIS DE LEONIDA.",
+      "badWords": 0
+    }
+  ],
+  "dossiers": [
+    {
+      "id": "cheetah",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "stanier",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "buggy",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "enduro",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "kayak",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "squalo",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "ganado",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "revolvers",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "weapon-variants",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "vice-style",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "vintage-style",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "weapon-pattern",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "goodtime",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "rideout",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "saras",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "stock305",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "electric-fang",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "willie",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "ptt",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "wyman-collection",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "airgator",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "alvino",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "banshee",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "blazer",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "cyan-convertible",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "delmar",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "dodo",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "lurepredator",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "news-heli",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "police-montagne",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "rancher",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "schafter",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "seashark",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "yellow-bike",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "girardi",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "klose",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "mustang",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "nipper",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "duke",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "moreland",
+      "hasAccess": true,
+      "untranslated": []
+    },
+    {
+      "id": "m1a-inspired-rifle",
+      "hasAccess": true,
+      "untranslated": []
+    }
+  ],
+  "functional": {
+    "mapFocus": {
+      "desktop": {
+        "selected": "entry-buggy",
+        "focusMode": true,
+        "zoom": 5,
+        "maxZoom": 5,
+        "markerCount": 1
+      },
+      "phone": {
+        "zoom": 3,
+        "maxZoom": 3,
+        "markerCount": 1
+      }
+    },
+    "languageSwitchPreserves": [
+      "selected map marker",
+      "saved locations",
+      "found locations",
+      "place notes",
+      "open gallery image",
+      "open item dossier"
+    ],
+    "galleryWrap": "138 to 1",
+    "calculator": "gross1000-costs400/30minutes = US$600,00 net; US$1.200,00 hourly",
+    "portugueseSearch": "azul -> Esportivo azul",
+    "localizedTypeFilter": "Motocicleta -> 3 records",
+    "countdown": "America/Sao_Paulo synchronized from home to map"
+  },
+  "responsiveWidths": [
+    320,
+    360,
+    390,
+    768,
+    1024,
+    1280,
+    1440
+  ],
+  "fixes": [
+    "Language-menu MutationObserver feedback loop",
+    "Header clipping at mobile and intermediate widths",
+    "Whitespace-sensitive calculator labels",
+    "Dates and remaining guide labels"
+  ],
+  "runtimeErrors": [],
+  "failedLocalAssets": [],
+  "limits": [
+    "Map community record names and proper names remain as published.",
+    "No verified all-platform country player totals or country preorder ranking.",
+    "Hash-based content routes still need a dedicated crawlable SEO pass.",
+    "Russian not implemented."
+  ]
+}

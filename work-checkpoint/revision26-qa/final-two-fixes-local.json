@@ -1,0 +1,76 @@
+{
+  "locales": [
+    {
+      "lang": "en",
+      "text": "Radio Archive",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none",
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "es",
+      "text": "Archivo de radio",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none",
+        "none",
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "pt-br",
+      "text": "Arquivo de rádio",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none",
+        "none",
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "de",
+      "text": "Radioarchiv",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "fr",
+      "text": "Archives radio",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none",
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "it",
+      "text": "Archivio radio",
+      "color": "rgb(237, 117, 195)",
+      "filters": [
+        "none",
+        "none"
+      ],
+      "broken": 0
+    },
+    {
+      "lang": "ru",
+      "text": "Радиоархив",
+      "color": "rgb(237, 117, 195)",
+      "filters": [],
+      "broken": 0
+    }
+  ],
+  "money": {
+    "text": "STOCK MARKET WATCH\nStocks & investments\n\nThe official material and previews checked do not confirm stock trading in GTA VI. Banking is confirmed; that does not establish an exchange, tradable shares or investment missions.",
+    "arrowDisplay": "none"
+  }
+}

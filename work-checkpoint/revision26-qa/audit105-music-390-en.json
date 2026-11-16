@@ -1,0 +1,32 @@
+{
+  "route": "music",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 500,
+  "heroBottom": 564,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Explore music",
+      "x": 23.390625,
+      "right": 178.75,
+      "y": 488,
+      "height": 44
+    },
+    {
+      "text": "Music calendar",
+      "x": 364,
+      "right": 388,
+      "y": 578,
+      "height": 44
+    }
+  ],
+  "seam": {
+    "y": 344,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

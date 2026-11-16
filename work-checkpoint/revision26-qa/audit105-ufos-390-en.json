@@ -1,0 +1,46 @@
+{
+  "route": "ufos",
+  "width": 390,
+  "overflow": 0,
+  "heroHeight": 459,
+  "heroBottom": 522.765625,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Open the case files",
+      "x": 116.703125,
+      "right": 273.28125,
+      "y": 456.765625,
+      "height": 46
+    },
+    {
+      "text": "01GTA VI / EVIDENCE WATCHEvidence",
+      "x": 23.390625,
+      "right": 132.453125,
+      "y": 522.765625,
+      "height": 66
+    },
+    {
+      "text": "02THE SIGHTING ARCHIVECase files",
+      "x": 140.453125,
+      "right": 249.53125,
+      "y": 522.765625,
+      "height": 66
+    },
+    {
+      "text": "03LORE / PROPS / ENCOUNTERSLore",
+      "x": 257.53125,
+      "right": 366.59375,
+      "y": 522.765625,
+      "height": 66
+    }
+  ],
+  "seam": {
+    "y": 303,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

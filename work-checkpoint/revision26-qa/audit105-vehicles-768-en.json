@@ -1,0 +1,46 @@
+{
+  "route": "vehicles",
+  "width": 768,
+  "overflow": 0,
+  "heroHeight": 341,
+  "heroBottom": 404.5,
+  "palm": "url(\"http://127.0.0.1:4173/assets/music/campaign/justice.webp\")",
+  "visibleBadImages": [],
+  "outlyingControls": [],
+  "controls": [
+    {
+      "text": "Find your next ride",
+      "x": 587.796875,
+      "right": 721.921875,
+      "y": 334.5,
+      "height": 44
+    },
+    {
+      "text": "Compare vehicles",
+      "x": 616.96875,
+      "right": 729.609375,
+      "y": 509.6875,
+      "height": 44
+    },
+    {
+      "text": "Official details’95 Grotti CheetahRetro-liveried sports car for later story progression.",
+      "x": 39.390625,
+      "right": 373,
+      "y": 581.6875,
+      "height": 323.6875
+    },
+    {
+      "text": "Footage analysisBlue sports carBlue coupe with a white stripe, spotted on the Ocean Drive ",
+      "x": 395,
+      "right": 728.609375,
+      "y": 581.6875,
+      "height": 323.6875
+    }
+  ],
+  "seam": {
+    "y": 185,
+    "start": "220px",
+    "mask": "linear-gradient(rgba(0, 0, 0, 0) 220px, rgb(0, 0, 0) 316px)"
+  },
+  "locale": "en"
+}

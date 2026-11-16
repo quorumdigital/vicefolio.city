@@ -1,0 +1,1491 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "41 existing catalog dossiers plus money guide; bounded linked-source audit, not a claim to have crawled entire sites.",
+  "copy": {
+    "catalog": {
+      "cheetah": "The Ultimate Edition Cheetah arrives later in the story. Its retro livery celebrates Shore Drive; the exact chapter remains a launch check.",
+      "stanier": "The preorder pack pairs this classic with Shore Court garage. GTABase also identifies the yellow-and-white car outside Ocean View Hotel.",
+      "buggy": "Head for Paradise Garage in Watson Bay. Its locker and stolen-goods storage support longer trips into Mount Kalaga.",
+      "enduro": "Jason’s Ultimate Edition Enduro wears an army-style livery at his safehouse; this is a personal-vehicle benefit.",
+      "kayak": "The Ultimate Edition adds Jason’s personal Crest Kayak. Its single-seat layout differs from a two-person getaway boat.",
+      "squalo": "The special pink-and-blue Squalo is docked at Washington Beach, with an explosives crate. Keep its edition variant distinct from the standard boat.",
+      "ganado": "Jason already has a personal Ganado. The Ultimate Edition supplies exclusive retro modifications rather than introducing the base car.",
+      "airgator": "Seen in Grassrivers imagery: the rear fan and elevated seating identify this airboat. Sightings are exploration leads, not guaranteed spawns.",
+      "alvino": "Jason’s official screenshot provides the sighting. The Ducati Panigale V2 comparison describes its design, not verified acceleration or grip.",
+      "banshee": "GTABase identifies the Trailer 2 sports car as a Bravado Banshee. Its Dodge Viper influence is clearer than its untested performance.",
+      "blazer": "A compact Yamaha YFZ450-inspired quad, identified in Trailer 1. Trail suitability is a role comparison; final terrain rankings need testing.",
+      "cyan-convertible": "The Ocean Drive sighting is catalogued as a Pegassi Zorrusso. Its Italdesign Zerouno influence explains the open-top supercar silhouette.",
+      "delmar": "BTN Delmar identifies the real vessel used for comparison. The GTA name and whether players can pilot it await confirmation.",
+      "dodo": "The DHC-2 Beaver-inspired floatplane appears in Leonida Keys imagery. A flying sighting does not establish a collectible spawn.",
+      "lurepredator": "The L35P has a separately catalogued police variant. Keep that patrol boat distinct from the civilian fishing boat.",
+      "news-heli": "Look for N88892, red-and-white news markings and skid landing gear. The exact aircraft model and player access remain open.",
+      "police-montagne": "GTABase identifies this Explorer-inspired emergency SUV as the Police Montagne, a police variant of the civilian Montagne.",
+      "rancher": "The Rancher identification spans different community body-style comparisons. Confirm the exact pictured variant before attaching seating or handling specifications.",
+      "schafter": "The Schafter name is visible on the boot in the Extended Look. Its trim remains unresolved; avoid borrowing V12 specifications.",
+      "seashark": "The Sea-Doo-inspired watercraft is visible in official footage. Its presence does not establish rental locations or repeatable beach spawns.",
+      "yellow-bike": "Suzuki GSX-R1000 is a design comparison, not its announced GTA model name. The specific yellow-bike identification remains provisional.",
+      "girardi": "Jason’s engraved ES9 is an Ultimate Edition variant. The underlying pistol’s shop and pickup route remain a launch check.",
+      "klose": "Lucia’s engraved K17 is an Ultimate Edition variant. Its Glock/P320 influence does not establish real-world magazine capacity in GTA VI.",
+      "mustang": "Shown with Final Chapter MC in Ambrosia. That identifies a user and region, not a guaranteed loot drop.",
+      "nipper": "The compact pistol blends Taurus PT938 and Bersa Firestorm styling. A .38 name alone does not confirm its ammo mechanics.",
+      "duke": "This Duke-branded carbine follows the Colt M4 family. Treat published legacy-style magazine figures as provisional until verified in GTA VI.",
+      "moreland": "The Moreland 850 appears in the Extended Look. Its Remington 870 influence identifies the design, not a tested damage rating.",
+      "revolvers": "The Ultimate variants add Vercetti Estate styling, etched grips and a scope. The Morgan name is a reported Arthur Morgan reference.",
+      "m1a-inspired-rifle": "A poacher carries the scoped rifle on a Grassrivers airboat. Use this as a visual lead, not a confirmed pickup.",
+      "weapon-variants": "Personalized engravings pair Jason’s Girardi ES9 with Lucia’s Klose K17. Cosmetic identification does not establish stronger damage.",
+      "vice-style": "Outfits, hairstyles and tattoos for both protagonists form this Ultimate Edition collection.",
+      "vintage-style": "The Vintage Vice City preorder pack includes outfits and hairstyles. Access follows the eligible pack entitlement.",
+      "weapon-pattern": "The preorder pack’s exclusive pattern changes weapon styling; a combat-stat advantage has not been established.",
+      "goodtime": "Macca the Gator’s television persona inspires this apparel-and-accessories collection.",
+      "rideout": "Rideout specializes in donk styling, distinctive rims and detailed interiors.",
+      "saras": "Sara’s serves both characters, including Jason’s facial hair and Lucia’s makeup and nails.",
+      "stock305": "Find the streetwear store in Stockyard. Its exclusive looks cover both Jason and Lucia.",
+      "electric-fang": "Stockyard’s tattoo studio offers more than 50 designs by artist collective FAILE.",
+      "willie": "Lake Leonida’s workshop focuses on off-road modifications and hand-painted automotive details.",
+      "ptt": "The Ultimate Edition lists the PTT Youngin$ compound. Treat the special raid separately from ordinary gang-compound opportunities.",
+      "wyman-collection": "Deliver recovered project-car components to Wyman. GTABase lists Deviant, Mamba GT, Riata Classic and Sirius among the collection’s vehicles."
+    },
+    "common": {
+      "editionAccess": "Ultimate bonuses open across story chapters. Owning the edition does not mean every benefit is available immediately.",
+      "weaponAccess": "Check each Ammu-Nation’s local stock: stores can carry special guns. Every branch has a locker, and owned weapons remain accessible through personal-vehicle storage.",
+      "weaponRecovery": "A preview demonstrated a shotgun taken from an unattended police-car trunk. The model and repeatable locations were not identified.",
+      "performance": "Ready for launch testing: compare matched upgrades, conditions and terrain before choosing a speed or handling winner."
+    },
+    "money": {
+      "groups": [
+        {
+          "title": "Pick a score",
+          "text": "Choose a shop, valuable car, jewelry target or compound that your current tools and contacts can support."
+        },
+        {
+          "title": "Keep the take",
+          "text": "Separate stolen goods from spendable cash. Sell through the right buyer, then deposit cash before taking another risk."
+        },
+        {
+          "title": "Build your next run",
+          "text": "Track actual costs, take and travel time. A useful routine follows your results rather than promising a fixed payout."
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prepare",
+          "text": "Set a target, buyer and exit. Check tools, vehicle condition and fuel before committing."
+        },
+        {
+          "title": "Escape",
+          "text": "Watch what police know: your vehicle, clothes, weapon and partner can keep you recognizable."
+        },
+        {
+          "title": "Sell",
+          "text": "Deliver the correct loot to an available fence. Vehicle damage can reduce the offer; compare repair cost with the improvement."
+        },
+        {
+          "title": "Deposit",
+          "text": "Carried cash can be lost on death. Finish at an ATM, then log what reached the bank."
+        }
+      ],
+      "stocks": {
+        "title": "Stocks & investments",
+        "status": "Awaiting a GTA VI announcement",
+        "text": "The official material and previews checked do not confirm stock trading in GTA VI. Banking is confirmed; that does not establish an exchange, tradable shares or investment missions.",
+        "history": "GTA V had stock-market systems. Its companies, mission trades and returns should not be carried over as GTA VI instructions.",
+        "next": "At release, check for an investment app, named exchanges, unlock conditions and whether story events affect prices."
+      },
+      "newFacts": [
+        "Some story jobs require earning money in free roam before continuing.",
+        "WAINK lists vehicles wanted by fences alongside security and tracking information.",
+        "Pay’n’Spray has a cooldown between vehicle sales at the same branch; its duration still needs testing.",
+        "Purchased weapons and spare outfits in your personal vehicle make preparation more useful than an improvised escape."
+      ]
+    }
+  },
+  "sharedFacts": [
+    {
+      "id": "weapon-access",
+      "sources": [
+        "famitsu"
+      ],
+      "text": "Check each Ammu-Nation’s local stock: stores can carry special guns. Every branch has a locker, and owned weapons remain accessible through personal-vehicle storage.",
+      "evidence": "Developer interview, lines 236–245"
+    },
+    {
+      "id": "weapon-recovery",
+      "sources": [
+        "edge"
+      ],
+      "text": "A preview demonstrated a shotgun taken from an unattended police-car trunk. The model and repeatable locations were not identified.",
+      "evidence": "Observed preview, line 458; weapon model unspecified"
+    },
+    {
+      "id": "chapter-access",
+      "sources": [
+        "support"
+      ],
+      "text": "Ultimate bonuses open across story chapters. Owning the edition does not mean every benefit is available immediately.",
+      "evidence": "Official support says bonuses are uncovered across chapters"
+    },
+    {
+      "id": "stocks-status",
+      "sources": [
+        "official",
+        "ign",
+        "famitsu",
+        "edge",
+        "stocks"
+      ],
+      "text": "The official material and previews checked do not confirm stock trading in GTA VI. Banking is confirmed; that does not establish an exchange, tradable shares or investment missions.",
+      "evidence": "No confirmation found in scoped official/primary search; absence is not proof the feature will not exist"
+    },
+    {
+      "id": "cash-death",
+      "sources": [
+        "trois"
+      ],
+      "text": "Carried cash is lost if the character dies before depositing it at an ATM.",
+      "evidence": "Direct developer demonstration, lines 185–187"
+    },
+    {
+      "id": "vehicle-cooldown",
+      "sources": [
+        "famitsu"
+      ],
+      "text": "Vehicle sales have a cooldown at the same Pay’n’Spray branch; another branch may be needed.",
+      "evidence": "Direct developer explanation, line 232; no numerical cooldown"
+    },
+    {
+      "id": "weather-driving",
+      "sources": [
+        "edge"
+      ],
+      "text": "Wind and shelter affect water conditions; storms can buffet aircraft and cause light damage.",
+      "evidence": "Developer explanation, lines 471–473; general systems, no vehicle-specific performance ranking"
+    },
+    {
+      "id": "fence-wishlist",
+      "sources": [
+        "edge"
+      ],
+      "text": "WAINK lists models wanted by fences and their security/tracker details; condition influences the payment.",
+      "evidence": "Preview, lines 569–570"
+    }
+  ],
+  "catalogUpdates": {
+    "cheetah": {
+      "practicalNote": "The Ultimate Edition Cheetah arrives later in the story. Its retro livery celebrates Shore Drive; the exact chapter remains a launch check.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/cheetah-classic",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "stanier": {
+      "practicalNote": "The preorder pack pairs this classic with Shore Court garage. GTABase also identifies the yellow-and-white car outside Ocean View Hotel.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/vapid-stanier-55",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "buggy": {
+      "practicalNote": "Head for Paradise Garage in Watson Bay. Its locker and stolen-goods storage support longer trips into Mount Kalaga.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/dominator-buggy-67",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "enduro": {
+      "practicalNote": "Jason’s Ultimate Edition Enduro wears an army-style livery at his safehouse; this is a personal-vehicle benefit.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/enduro",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "kayak": {
+      "practicalNote": "The Ultimate Edition adds Jason’s personal Crest Kayak. Its single-seat layout differs from a two-person getaway boat.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/kayak",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "squalo": {
+      "practicalNote": "The special pink-and-blue Squalo is docked at Washington Beach, with an explosives crate. Keep its edition variant distinct from the standard boat.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/squalo",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "ganado": {
+      "practicalNote": "Jason already has a personal Ganado. The Ultimate Edition supplies exclusive retro modifications rather than introducing the base car.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/ganado",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "airgator": {
+      "practicalNote": "Seen in Grassrivers imagery: the rear fan and elevated seating identify this airboat. Sightings are exploration leads, not guaranteed spawns.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/airboat-09"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "alvino": {
+      "practicalNote": "Jason’s official screenshot provides the sighting. The Ducati Panigale V2 comparison describes its design, not verified acceleration or grip.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/alvino-v1"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "banshee": {
+      "practicalNote": "GTABase identifies the Trailer 2 sports car as a Bravado Banshee. Its Dodge Viper influence is clearer than its untested performance.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/banshee"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "blazer": {
+      "practicalNote": "A compact Yamaha YFZ450-inspired quad, identified in Trailer 1. Trail suitability is a role comparison; final terrain rankings need testing.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/blazer"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "cyan-convertible": {
+      "practicalNote": "The Ocean Drive sighting is catalogued as a Pegassi Zorrusso. Its Italdesign Zerouno influence explains the open-top supercar silhouette.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/zorrusso"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "delmar": {
+      "practicalNote": "BTN Delmar identifies the real vessel used for comparison. The GTA name and whether players can pilot it await confirmation.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/btn-delmar"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "dodo": {
+      "practicalNote": "The DHC-2 Beaver-inspired floatplane appears in Leonida Keys imagery. A flying sighting does not establish a collectible spawn.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/dodo"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "lurepredator": {
+      "practicalNote": "The L35P has a separately catalogued police variant. Keep that patrol boat distinct from the civilian fishing boat.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/lure-predator-l35p"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "news-heli": {
+      "practicalNote": "Look for N88892, red-and-white news markings and skid landing gear. The exact aircraft model and player access remain open.",
+      "sources": [
+        "https://gtaplaybook.com/gta6/vehicles/news-helicopter/"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "police-montagne": {
+      "practicalNote": "GTABase identifies this Explorer-inspired emergency SUV as the Police Montagne, a police variant of the civilian Montagne.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/ford-explorer-suv-police"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "rancher": {
+      "practicalNote": "The Rancher identification spans different community body-style comparisons. Confirm the exact pictured variant before attaching seating or handling specifications.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/rancher"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "schafter": {
+      "practicalNote": "The Schafter name is visible on the boot in the Extended Look. Its trim remains unresolved; avoid borrowing V12 specifications.",
+      "sources": [
+        "https://gtaplaybook.com/gta6/vehicles/benefactor-schafter/"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "seashark": {
+      "practicalNote": "The Sea-Doo-inspired watercraft is visible in official footage. Its presence does not establish rental locations or repeatable beach spawns.",
+      "sources": [
+        "https://www.gtabase.com/gta-6/vehicles/seashark"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "yellow-bike": {
+      "practicalNote": "Suzuki GSX-R1000 is a design comparison, not its announced GTA model name. The specific yellow-bike identification remains provisional.",
+      "sources": [
+        "https://www.gtabase.com/vehicles/gta-6/suzuki-gsx-r1000"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "girardi": {
+      "practicalNote": "Jason’s engraved ES9 is an Ultimate Edition variant. The underlying pistol’s shop and pickup route remain a launch check.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/girardi-es9"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "klose": {
+      "practicalNote": "Lucia’s engraved K17 is an Ultimate Edition variant. Its Glock/P320 influence does not establish real-world magazine capacity in GTA VI.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/klose-k17"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "mustang": {
+      "practicalNote": "Shown with Final Chapter MC in Ambrosia. That identifies a user and region, not a guaranteed loot drop.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "nipper": {
+      "practicalNote": "The compact pistol blends Taurus PT938 and Bersa Firestorm styling. A .38 name alone does not confirm its ammo mechanics.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/nipper-38"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "duke": {
+      "practicalNote": "This Duke-branded carbine follows the Colt M4 family. Treat published legacy-style magazine figures as provisional until verified in GTA VI.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/service-carbine"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "moreland": {
+      "practicalNote": "The Moreland 850 appears in the Extended Look. Its Remington 870 influence identifies the design, not a tested damage rating.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/moreland-850"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "revolvers": {
+      "practicalNote": "The Ultimate variants add Vercetti Estate styling, etched grips and a scope. The Morgan name is a reported Arthur Morgan reference.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/morgan-revolver",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "m1a-inspired-rifle": {
+      "practicalNote": "A poacher carries the scoped rifle on a Grassrivers airboat. Use this as a visual lead, not a confirmed pickup.",
+      "sources": [
+        "https://www.gtabase.com/weapons/gta-6/springfield-armory-m1a-sniper"
+      ],
+      "confidence": "Sighting/design identification; acquisition and final stats pending"
+    },
+    "weapon-variants": {
+      "practicalNote": "Personalized engravings pair Jason’s Girardi ES9 with Lucia’s Klose K17. Cosmetic identification does not establish stronger damage.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "vice-style": {
+      "practicalNote": "Outfits, hairstyles and tattoos for both protagonists form this Ultimate Edition collection.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "vintage-style": {
+      "practicalNote": "The Vintage Vice City preorder pack includes outfits and hairstyles. Access follows the eligible pack entitlement.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "weapon-pattern": {
+      "practicalNote": "The preorder pack’s exclusive pattern changes weapon styling; a combat-stat advantage has not been established.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "goodtime": {
+      "practicalNote": "Macca the Gator’s television persona inspires this apparel-and-accessories collection.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "rideout": {
+      "practicalNote": "Rideout specializes in donk styling, distinctive rims and detailed interiors.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "saras": {
+      "practicalNote": "Sara’s serves both characters, including Jason’s facial hair and Lucia’s makeup and nails.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "stock305": {
+      "practicalNote": "Find the streetwear store in Stockyard. Its exclusive looks cover both Jason and Lucia.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "electric-fang": {
+      "practicalNote": "Stockyard’s tattoo studio offers more than 50 designs by artist collective FAILE.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "willie": {
+      "practicalNote": "Lake Leonida’s workshop focuses on off-road modifications and hand-painted automotive details.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "ptt": {
+      "practicalNote": "The Ultimate Edition lists the PTT Youngin$ compound. Treat the special raid separately from ordinary gang-compound opportunities.",
+      "sources": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    },
+    "wyman-collection": {
+      "practicalNote": "Deliver recovered project-car components to Wyman. GTABase lists Deviant, Mamba GT, Riata Classic and Sirius among the collection’s vehicles.",
+      "sources": [
+        "https://www.gtabase.com/side-missions/gta-6/wyman-s-classic-car-collection",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "confidence": "Edition access official; design/identity may be specialist analysis"
+    }
+  },
+  "sources": [
+    {
+      "id": "official",
+      "url": "https://www.rockstargames.com/VI/editions",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "support",
+      "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "ps",
+      "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "ign",
+      "url": "https://www.bestbuy.com/gamers/gamers-articles/pcmcat1791490206931",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "famitsu",
+      "url": "https://www.famitsu.com/article/202608/85753",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "edge",
+      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "trois",
+      "url": "https://www.troiscouleurs.fr/cinema/exclu-on-a-vu-gtavi-tourner-chez-rockstar-north-preview-et-interview/",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "money",
+      "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "theft",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "fuel",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-fuel-system-explained-how-vehicle-refuelling-works",
+      "status": "Opened and relevant content reviewed"
+    },
+    {
+      "id": "stocks",
+      "url": "https://www.leonidakit.com/en/bourse-gta-6.html",
+      "status": "Search-index text reviewed"
+    },
+    {
+      "id": "catalog-girardi",
+      "url": "https://www.gtabase.com/weapons/gta-6/girardi-es9",
+      "ref": "turn202view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-klose",
+      "url": "https://www.gtabase.com/weapons/gta-6/klose-k17",
+      "ref": "turn202view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-mustang",
+      "url": "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver",
+      "ref": "turn202view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-nipper",
+      "url": "https://www.gtabase.com/weapons/gta-6/nipper-38",
+      "ref": "turn224view4",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-duke",
+      "url": "https://www.gtabase.com/weapons/gta-6/service-carbine",
+      "ref": "turn204view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-moreland",
+      "url": "https://www.gtabase.com/weapons/gta-6/moreland-850",
+      "ref": "turn204view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-revolvers",
+      "url": "https://www.gtabase.com/weapons/gta-6/morgan-revolver",
+      "ref": "turn224view3",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-m1a-inspired-rifle",
+      "url": "https://www.gtabase.com/weapons/gta-6/springfield-armory-m1a-sniper",
+      "ref": "turn204view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-cheetah",
+      "url": "https://www.gtabase.com/gta-6/vehicles/cheetah-classic",
+      "ref": "turn211view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-stanier",
+      "url": "https://www.gtabase.com/gta-6/vehicles/vapid-stanier-55",
+      "ref": "turn211view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-buggy",
+      "url": "https://www.gtabase.com/vehicles/gta-6/dominator-buggy-67",
+      "ref": "turn211view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-enduro",
+      "url": "https://www.gtabase.com/vehicles/gta-6/enduro",
+      "ref": "turn211view3",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-kayak",
+      "url": "https://www.gtabase.com/vehicles/gta-6/kayak",
+      "ref": "turn213view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-squalo",
+      "url": "https://www.gtabase.com/vehicles/gta-6/squalo",
+      "ref": "turn213view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-ganado",
+      "url": "https://www.gtabase.com/vehicles/gta-6/ganado",
+      "ref": "turn213view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-airgator",
+      "url": "https://www.gtabase.com/vehicles/gta-6/airboat-09",
+      "ref": "turn213view3",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-alvino",
+      "url": "https://www.gtabase.com/vehicles/gta-6/alvino-v1",
+      "ref": "turn214view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-banshee",
+      "url": "https://www.gtabase.com/gta-6/vehicles/banshee",
+      "ref": "turn214view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-blazer",
+      "url": "https://www.gtabase.com/gta-6/vehicles/blazer",
+      "ref": "turn214view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-cyan-convertible",
+      "url": "https://www.gtabase.com/gta-6/vehicles/zorrusso",
+      "ref": "turn214view3",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-delmar",
+      "url": "https://www.gtabase.com/vehicles/gta-6/btn-delmar",
+      "ref": "turn216view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-dodo",
+      "url": "https://www.gtabase.com/gta-6/vehicles/dodo",
+      "ref": "turn216view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-lurepredator",
+      "url": "https://www.gtabase.com/vehicles/gta-6/lure-predator-l35p",
+      "ref": "turn216view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-news-heli",
+      "url": "https://gtaplaybook.com/gta6/vehicles/news-helicopter/",
+      "ref": "turn219view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-police-montagne",
+      "url": "https://www.gtabase.com/vehicles/gta-6/ford-explorer-suv-police",
+      "ref": "turn218view0",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-rancher",
+      "url": "https://www.gtabase.com/vehicles/gta-6/rancher",
+      "ref": "turn218view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-schafter",
+      "url": "https://gtaplaybook.com/gta6/vehicles/benefactor-schafter/",
+      "ref": "turn219view1",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-seashark",
+      "url": "https://www.gtabase.com/gta-6/vehicles/seashark",
+      "ref": "turn218view2",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-yellow-bike",
+      "url": "https://www.gtabase.com/vehicles/gta-6/suzuki-gsx-r1000",
+      "ref": "turn218view3",
+      "status": "Opened and read"
+    },
+    {
+      "id": "catalog-wyman-collection",
+      "url": "https://www.gtabase.com/side-missions/gta-6/wyman-s-classic-car-collection",
+      "ref": "turn208view1",
+      "status": "Opened and read"
+    }
+  ],
+  "coverage": [
+    {
+      "id": "cheetah",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/cheetah-classic",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Ferrari Testarossa and 512 BB proportions inform the low nose, wide rear and side intakes.",
+      "proposedCopy": "The Ultimate Edition Cheetah arrives later in the story. Its retro livery celebrates Shore Drive; the exact chapter remains a launch check.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "stanier",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/vapid-stanier-55",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "1950s Ford Fairlane Club Sedan styling, with a two-tone body and prominent chrome. Sources differ between the 1955 and 1956 donor years.",
+      "proposedCopy": "The preorder pack pairs this classic with Shore Court garage. GTABase also identifies the yellow-and-white car outside Ocean View Hotel.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "stanier",
+          "issue": "GTABase describes Ocean View Hotel as an always-available spawn before launch, while official preorder material describes a pack and garage.",
+          "action": "Keep the hotel a reported sighting/lead, distinct from guaranteed preorder entitlement; avoid guaranteed respawn wording."
+        }
+      ]
+    },
+    {
+      "id": "buggy",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/dominator-buggy-67",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "First-generation Ford Mustang cues are combined with a raised off-road chassis and oversized tires.",
+      "proposedCopy": "Head for Paradise Garage in Watson Bay. Its locker and stolen-goods storage support longer trips into Mount Kalaga.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "enduro",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/enduro",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Honda XL350, XR500 and CB-series influences combine in a dual-purpose motorcycle design.",
+      "proposedCopy": "Jason’s Ultimate Edition Enduro wears an army-style livery at his safehouse; this is a personal-vehicle benefit.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "kayak",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/kayak",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Crescent Splashback, Ultralite and Primo recreational kayaks are the published design comparisons.",
+      "proposedCopy": "The Ultimate Edition adds Jason’s personal Crest Kayak. Its single-seat layout differs from a two-person getaway boat.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "squalo",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/squalo",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Chris-Craft Stinger 390X offshore powerboat styling.",
+      "proposedCopy": "The special pink-and-blue Squalo is docked at Washington Beach, with an explosives crate. Keep its edition variant distinct from the standard boat.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "squalo",
+          "issue": "GTABase data says two seats while its recycled description says four seats.",
+          "action": "Do not add a seat-count claim from this inconsistent page. Current omission is appropriate."
+        }
+      ]
+    },
+    {
+      "id": "ganado",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/ganado",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "The 1970 Ford Ranchero is the principal reference, with 1969–70 Mercury Cougar details.",
+      "proposedCopy": "Jason already has a personal Ganado. The Ultimate Edition supplies exclusive retro modifications rather than introducing the base car.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "airgator",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/airboat-09"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Diamondback hunting-and-fishing airboats provide the published real-world comparison.",
+      "proposedCopy": "Seen in Grassrivers imagery: the rear fan and elevated seating identify this airboat. Sightings are exploration leads, not guaranteed spawns.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "alvino",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/alvino-v1"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Ducati Panigale V2 is the principal published design influence.",
+      "proposedCopy": "Jason’s official screenshot provides the sighting. The Ducati Panigale V2 comparison describes its design, not verified acceleration or grip.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "banshee",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/banshee"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Dodge Viper styling is the comparison behind the community’s Banshee identification.",
+      "proposedCopy": "GTABase identifies the Trailer 2 sports car as a Bravado Banshee. Its Dodge Viper influence is clearer than its untested performance.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "blazer",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/blazer"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Yamaha YFZ450 sport-quad styling.",
+      "proposedCopy": "A compact Yamaha YFZ450-inspired quad, identified in Trailer 1. Trail suitability is a role comparison; final terrain rankings need testing.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "cyan-convertible",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/zorrusso"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "If the community’s Zorrusso identification is correct, the relevant real-world comparison is the Italdesign Zerouno.",
+      "proposedCopy": "The Ocean Drive sighting is catalogued as a Pegassi Zorrusso. Its Italdesign Zerouno influence explains the open-top supercar silhouette.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "delmar",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/btn-delmar"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "The real BTN Delmar is the reference vessel; it is not a confirmed GTA model name.",
+      "proposedCopy": "BTN Delmar identifies the real vessel used for comparison. The GTA name and whether players can pilot it await confirmation.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "delmar",
+          "issue": "Existing identity says BTN name visible and includes an irrelevant Kayak source. GTABase explicitly uses BTN Delmar as the real-world reference while the in-game name is unknown.",
+          "action": "Use descriptive large vessel identity and mark BTN Delmar as influence; remove irrelevant Kayak source."
+        }
+      ]
+    },
+    {
+      "id": "dodo",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/dodo"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "De Havilland Canada DHC-2 Beaver floatplane design.",
+      "proposedCopy": "The DHC-2 Beaver-inspired floatplane appears in Leonida Keys imagery. A flying sighting does not establish a collectible spawn.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "lurepredator",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/lure-predator-l35p"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Contender 25T and 24S center-console fishing boats are the published influences.",
+      "proposedCopy": "The L35P has a separately catalogued police variant. Keep that patrol boat distinct from the civilian fishing boat.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "news-heli",
+      "pagesConsulted": [
+        "https://gtaplaybook.com/gta6/vehicles/news-helicopter/"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Community analysis identifies a Buckingham Police Maverick-derived news variant; the exact real-world airframe remains open.",
+      "proposedCopy": "Look for N88892, red-and-white news markings and skid landing gear. The exact aircraft model and player access remain open.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "news-heli",
+          "issue": "Existing profile suggests a Police Maverick-derived news variant. The accessible frame-analysis source says the aircraft maker and donor remain unresolved; its Swift/AW109 comparison is explicitly unreliable.",
+          "action": "Use descriptive news helicopter identity and visible registration; do not present an airframe family as confirmed."
+        }
+      ]
+    },
+    {
+      "id": "police-montagne",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/ford-explorer-suv-police"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Sixth-generation Ford Explorer SUV styling.",
+      "proposedCopy": "GTABase identifies this Explorer-inspired emergency SUV as the Police Montagne, a police variant of the civilian Montagne.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "rancher",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/rancher"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Community comparisons point to late-1980s/early-1990s Chevrolet SUV and pickup styling; the exact K5 Blazer/Suburban attribution differs by source.",
+      "proposedCopy": "The Rancher identification spans different community body-style comparisons. Confirm the exact pictured variant before attaching seating or handling specifications.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "rancher",
+          "issue": "Current profile describes a two-door pickup, whereas GTABase presents a four-seat Suburban-derived off-road vehicle. Likely variant identification disagreement.",
+          "action": "Keep visible body description separate from generic Rancher specs; do not import four-seat or weight figures without matching image variant."
+        }
+      ]
+    },
+    {
+      "id": "schafter",
+      "pagesConsulted": [
+        "https://gtaplaybook.com/gta6/vehicles/benefactor-schafter/"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Mercedes-Benz W221 S-Class and W212 E-Class styling inform the second-generation sedan.",
+      "proposedCopy": "The Schafter name is visible on the boot in the Extended Look. Its trim remains unresolved; avoid borrowing V12 specifications.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "seashark",
+      "pagesConsulted": [
+        "https://www.gtabase.com/gta-6/vehicles/seashark"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Sea-Doo RXT personal-watercraft styling.",
+      "proposedCopy": "The Sea-Doo-inspired watercraft is visible in official footage. Its presence does not establish rental locations or repeatable beach spawns.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "yellow-bike",
+      "pagesConsulted": [
+        "https://www.gtabase.com/vehicles/gta-6/suzuki-gsx-r1000"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "The Suzuki GSX-R1000 is a published comparison for an unnamed VI sportbike; matching it to this yellow-bike image remains a community identification.",
+      "proposedCopy": "Suzuki GSX-R1000 is a design comparison, not its announced GTA model name. The specific yellow-bike identification remains provisional.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "girardi",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/girardi-es9"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Beretta 92FS-inspired pistol, with a slide-mounted safety and a customized rail/front-serration treatment.",
+      "proposedCopy": "Jason’s engraved ES9 is an Ultimate Edition variant. The underlying pistol’s shop and pickup route remain a launch check.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "klose",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/klose-k17"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Glock-family design with a second-generation-style frame and later ambidextrous slide controls; some specialist comparisons also mention SIG P320 elements.",
+      "proposedCopy": "Lucia’s engraved K17 is an Ultimate Edition variant. Its Glock/P320 influence does not establish real-world magazine capacity in GTA VI.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "mustang",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/mustang-357-revolver"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Colt Python-inspired revolver, with the Mustang name on the barrel and Duke branding behind the cylinder.",
+      "proposedCopy": "Shown with Final Chapter MC in Ambrosia. That identifies a user and region, not a guaranteed loot drop.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "nipper",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/nipper-38"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "A compact composite design compared with the Bersa Firestorm 380 and Taurus PT938.",
+      "proposedCopy": "The compact pistol blends Taurus PT938 and Bersa Firestorm styling. A .38 name alone does not confirm its ammo mechanics.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "duke",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/service-carbine"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Colt LE6920/M4-family carbine styling, with Duke markings above the magazine well.",
+      "proposedCopy": "This Duke-branded carbine follows the Colt M4 family. Treat published legacy-style magazine figures as provisional until verified in GTA VI.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "duke",
+          "issue": "GTABase lists 30/60-round magazines alongside GTA Online Service Carbine copy and unfinished VI statistics.",
+          "action": "No new verified ammo statistic. Attribute as secondary/provisional only if retained."
+        }
+      ]
+    },
+    {
+      "id": "moreland",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/moreland-850"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Remington 870 pump-action shotgun is the principal comparison, with specialist analysis noting Mossberg-like guard and safety details.",
+      "proposedCopy": "The Moreland 850 appears in the Extended Look. Its Remington 870 influence identifies the design, not a tested damage rating.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "revolvers",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/morgan-revolver",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Smith & Wesson 629 Classic / Model 29-family styling is the published comparison for the Morgan revolver.",
+      "proposedCopy": "The Ultimate variants add Vercetti Estate styling, etched grips and a scope. The Morgan name is a reported Arthur Morgan reference.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "m1a-inspired-rifle",
+      "pagesConsulted": [
+        "https://www.gtabase.com/weapons/gta-6/springfield-armory-m1a-sniper"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Community analysis compares the rifle with a Springfield Armory M1A and its optic with an Aimpoint CompM2.",
+      "proposedCopy": "A poacher carries the scoped rifle on a Grassrivers airboat. Use this as a visual lead, not a confirmed pickup.",
+      "gaps": [
+        "Exact repeatable spawn/shop route not established",
+        "Final GTA VI measured performance not published on the reviewed dossier"
+      ],
+      "correction": []
+    },
+    {
+      "id": "weapon-variants",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "A fictional GTA VI style or customization offering. No specific real-world donor is established by the published description.",
+      "proposedCopy": "Personalized engravings pair Jason’s Girardi ES9 with Lucia’s Klose K17. Cosmetic identification does not establish stronger damage.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "vice-style",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "A fictional GTA VI style or customization offering. No specific real-world donor is established by the published description.",
+      "proposedCopy": "Outfits, hairstyles and tattoos for both protagonists form this Ultimate Edition collection.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "vintage-style",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "A fictional GTA VI style or customization offering. No specific real-world donor is established by the published description.",
+      "proposedCopy": "The Vintage Vice City preorder pack includes outfits and hairstyles. Access follows the eligible pack entitlement.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "weapon-pattern",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "A fictional GTA VI style or customization offering. No specific real-world donor is established by the published description.",
+      "proposedCopy": "The preorder pack’s exclusive pattern changes weapon styling; a combat-stat advantage has not been established.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "goodtime",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Apparel inspired by TV character Macca the Gator.",
+      "proposedCopy": "Macca the Gator’s television persona inspires this apparel-and-accessories collection.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "rideout",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Custom interiors, wheels and donk styling.",
+      "proposedCopy": "Rideout specializes in donk styling, distinctive rims and detailed interiors.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "saras",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Hairstyles, Jason’s facial hair, and Lucia’s makeup and nails.",
+      "proposedCopy": "Sara’s serves both characters, including Jason’s facial hair and Lucia’s makeup and nails.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "stock305",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Exclusive streetwear associated with Stockyard.",
+      "proposedCopy": "Find the streetwear store in Stockyard. Its exclusive looks cover both Jason and Lucia.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "electric-fang",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "More than 50 FAILE-designed tattoos for both protagonists.",
+      "proposedCopy": "Stockyard’s tattoo studio offers more than 50 designs by artist collective FAILE.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "willie",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+        "https://www.playstation.com/en-us/games/grand-theft-auto-vi/?country-selector=true"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Off-road customization and hand-painted finishes around Lake Leonida.",
+      "proposedCopy": "Lake Leonida’s workshop focuses on off-road modifications and hand-painted automotive details.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "ptt",
+      "pagesConsulted": [
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Official edition benefit reviewed",
+      "retainedInfluence": "Gang-compound raid for special loot and contraband.",
+      "proposedCopy": "The Ultimate Edition lists the PTT Youngin$ compound. Treat the special raid separately from ordinary gang-compound opportunities.",
+      "gaps": [
+        "Exact chapter or shop trigger not established in the official text reviewed"
+      ],
+      "correction": []
+    },
+    {
+      "id": "wyman-collection",
+      "pagesConsulted": [
+        "https://www.gtabase.com/side-missions/gta-6/wyman-s-classic-car-collection",
+        "https://www.rockstargames.com/VI/editions",
+        "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+      ],
+      "status": "Individual linked dossier reviewed",
+      "retainedInfluence": "Find and restore abandoned project cars for Wyman.",
+      "proposedCopy": "Deliver recovered project-car components to Wyman. GTABase lists Deviant, Mamba GT, Riata Classic and Sirius among the collection’s vehicles.",
+      "gaps": [
+        "Exact first mission prerequisite and part coordinates await release verification"
+      ],
+      "correction": [
+        {
+          "severity": "medium",
+          "id": "wyman-collection",
+          "issue": "GTABase calls this edition-exclusive activity required for 100% completion and non-time-sensitive, without an evident primary supporting statement.",
+          "action": "Do not adopt the 100%-required or post-story availability claims. Retain official special commission and attributed component collection."
+        }
+      ]
+    }
+  ],
+  "importantCorrections": [
+    {
+      "severity": "medium",
+      "id": "news-heli",
+      "issue": "Existing profile suggests a Police Maverick-derived news variant. The accessible frame-analysis source says the aircraft maker and donor remain unresolved; its Swift/AW109 comparison is explicitly unreliable.",
+      "action": "Use descriptive news helicopter identity and visible registration; do not present an airframe family as confirmed."
+    },
+    {
+      "severity": "medium",
+      "id": "delmar",
+      "issue": "Existing identity says BTN name visible and includes an irrelevant Kayak source. GTABase explicitly uses BTN Delmar as the real-world reference while the in-game name is unknown.",
+      "action": "Use descriptive large vessel identity and mark BTN Delmar as influence; remove irrelevant Kayak source."
+    },
+    {
+      "severity": "medium",
+      "id": "rancher",
+      "issue": "Current profile describes a two-door pickup, whereas GTABase presents a four-seat Suburban-derived off-road vehicle. Likely variant identification disagreement.",
+      "action": "Keep visible body description separate from generic Rancher specs; do not import four-seat or weight figures without matching image variant."
+    },
+    {
+      "severity": "medium",
+      "id": "squalo",
+      "issue": "GTABase data says two seats while its recycled description says four seats.",
+      "action": "Do not add a seat-count claim from this inconsistent page. Current omission is appropriate."
+    },
+    {
+      "severity": "medium",
+      "id": "duke",
+      "issue": "GTABase lists 30/60-round magazines alongside GTA Online Service Carbine copy and unfinished VI statistics.",
+      "action": "No new verified ammo statistic. Attribute as secondary/provisional only if retained."
+    },
+    {
+      "severity": "medium",
+      "id": "stanier",
+      "issue": "GTABase describes Ocean View Hotel as an always-available spawn before launch, while official preorder material describes a pack and garage.",
+      "action": "Keep the hotel a reported sighting/lead, distinct from guaranteed preorder entitlement; avoid guaranteed respawn wording."
+    },
+    {
+      "severity": "medium",
+      "id": "wyman-collection",
+      "issue": "GTABase calls this edition-exclusive activity required for 100% completion and non-time-sensitive, without an evident primary supporting statement.",
+      "action": "Do not adopt the 100%-required or post-story availability claims. Retain official special commission and attributed component collection."
+    },
+    {
+      "severity": "low",
+      "id": "money",
+      "issue": "Death loss is directly confirmed by TroisCouleurs. Exact arrest penalties were not established by the primary passages read.",
+      "action": "Say carried cash is at risk and directly confirm death loss; avoid an exact arrest penalty."
+    },
+    {
+      "severity": "low",
+      "id": "performance",
+      "issue": "Existing numerical weight/gears/drivetrain specs come from specialist pages whose VI performance sections remain unfinished. Several descriptions refer to older games.",
+      "action": "Label as specialist-reported specifications, never tested VI performance; do not infer fastest/slowest rankings."
+    }
+  ],
+  "failedOrLimitedSources": [
+    {
+      "url": "https://gta.wiki/w/Grand_Theft_Auto_VI",
+      "status": "Restricted/inaccessible through web retriever; not counted as read"
+    },
+    {
+      "url": "https://gta.wiki/w/ES9",
+      "status": "Inaccessible through web retriever; individual GTABase page used instead"
+    },
+    {
+      "url": "https://gta.wiki/w/Unnamed_GTA_VI_Weazel_News_helicopter",
+      "status": "Inaccessible through web retriever; existing frame-analysis source consulted instead"
+    },
+    {
+      "url": "https://www.rockstargames.com/VI/editions",
+      "status": "Extractor exposes benefit headings, not expanded slide prose; official PlayStation description and Rockstar Support checked for detail"
+    },
+    {
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-ultimate-edition",
+      "status": "Attempted URL inaccessible; used official edition/support pages"
+    }
+  ],
+  "plannerRecommendation": {
+    "kind": "Editorial workflow, not simulated game data",
+    "requiredFields": [
+      "Target/method",
+      "Planned destination or marker",
+      "Buyer/contact ready",
+      "Preparation checklist",
+      "Actual received cash",
+      "Actual expenses",
+      "Elapsed minutes",
+      "Amount deposited"
+    ],
+    "calculations": [
+      "Net run result = cash received - expenses",
+      "Observed hourly pace = net result / elapsed minutes * 60, only when elapsed minutes > 0"
+    ],
+    "behaviors": [
+      "Save named routines and completion checkboxes",
+      "Allow users to clear/reset a run without erasing saved routines",
+      "Show unsold loot separately from spendable money",
+      "Do not prefill invented payouts, cooldowns or unlock requirements"
+    ],
+    "labels": {
+      "empty": "Build your first route",
+      "estimate": "Your estimate",
+      "observed": "Your recorded result"
+    }
+  },
+  "implementationNotes": [
+    "Put acquisition / trigger first; give evidence locations a separate label from confirmed pickups.",
+    "Most current influence fields were supported; the missing feeling is partly presentation and generic repeated performance text.",
+    "Do not duplicate empty stats tables for every item. Show a concise launch-testing note and real descriptive information.",
+    "Keep citations in the credits/source drawer while retaining per-fact internal traceability.",
+    "All proposed prose is paraphrased; no article text or complete third-party database was copied.",
+    "Public proposed copy is approximately 1,000 words. Full audit metadata is longer and is not intended as article prose."
+  ]
+}

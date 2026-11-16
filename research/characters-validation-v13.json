@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2026-11-13",
+  "refinement": "Biography prose no longer repeats spawn or mission-unlock cautions. Official dialogue trivia replaces cautionary filler.",
+  "checks": [
+    {
+      "language": "en",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    },
+    {
+      "language": "es",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    },
+    {
+      "language": "pt-br",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    },
+    {
+      "language": "de",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    },
+    {
+      "language": "fr",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    },
+    {
+      "language": "it",
+      "profiles": 8,
+      "sections": 24,
+      "sourceAndImageParity": true,
+      "relationshipTargetsValid": true
+    }
+  ],
+  "englishCounts": [
+    {
+      "id": "jason",
+      "words": 184,
+      "images": 19
+    },
+    {
+      "id": "lucia",
+      "words": 192,
+      "images": 14
+    },
+    {
+      "id": "cal",
+      "words": 175,
+      "images": 5
+    },
+    {
+      "id": "boobie",
+      "words": 174,
+      "images": 4
+    },
+    {
+      "id": "drequan",
+      "words": 172,
+      "images": 5
+    },
+    {
+      "id": "dimez",
+      "words": 192,
+      "images": 5
+    },
+    {
+      "id": "raul",
+      "words": 170,
+      "images": 4
+    },
+    {
+      "id": "brian",
+      "words": 179,
+      "images": 4
+    }
+  ],
+  "portraitResolution": "All selected portrait files measured 3840×2160",
+  "sources": "18 source records; blocked Wiki retrieval explicitly documented",
+  "relationshipHandling": "Entries lacking a profile ID are plain text; all supplied IDs resolve to one of the eight current profiles."
+}

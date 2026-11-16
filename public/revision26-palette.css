@@ -1,0 +1,61 @@
+/* Item90: one Vice City pink family. Geometry, artwork-specific station palettes,
+   cyan actions and white typography remain owned by their existing components. */
+:root{--r26-pink:#ed75c3;--pink:var(--r26-pink);--menu-pink:var(--r26-pink);--r26-pink-rgb:237 117 195;--r26-pink-light:#f3a0d6;--r26-pink-hover:#f08ece;--r26-pink-soft:#f5b2de;--r26-pink-highlight:#f8c9e7;--r26-pink-ink:#25151f;--r26-pink-shadow:#58223f;--r26-pink-gradient:linear-gradient(115deg,var(--r26-pink),var(--r26-pink-light));--r26-pink-gradient-hover:linear-gradient(115deg,var(--r26-pink-hover),var(--r26-pink-soft))}
+/* Active menu lettering uses matching fixed-path SVG stops. */
+.site-header .primary-nav>a.active:after,.site-header .nav-group.active:after,.site-header .nav-group.active>summary:before,.site-header .nav-group.active>summary:after{background:var(--r26-pink)!important;box-shadow:0 0 12px rgb(var(--r26-pink-rgb)/.25)!important}
+.site-header .nav-group>.nav-dropdown{border-top-color:var(--r26-pink)!important}
+.site-header .nav-group>.nav-dropdown:after{background:var(--r26-pink)!important;box-shadow:0 0 10px rgb(var(--r26-pink-rgb)/.35)!important}
+.site-header .nav-group[open]>summary,.site-header .nav-group>summary:hover{color:var(--r26-pink)!important}
+.site-header .nav-dropdown>a:is(:hover,:focus-visible,.active,[aria-current=page]),.language-options>a:is(:hover,:focus-visible,[aria-current=page]){color:var(--r26-pink)!important;border-color:rgb(var(--r26-pink-rgb)/.38)!important;background:rgb(var(--r26-pink-rgb)/.1)!important;box-shadow:inset 3px 0 0 var(--r26-pink)!important}
+.site-header .nav-dropdown>a:is(:hover,:focus-visible,.active,[aria-current=page]) .menu-link-icon{stroke:var(--r26-pink)!important}
+.site-header .r26-mobile-menu{border-color:rgb(var(--r26-pink-rgb)/.36)!important}
+.site-header .r26-mobile-menu[aria-expanded=true]{border-color:var(--r26-pink)!important;background:rgb(var(--r26-pink-rgb)/.15)!important}
+.site-header .r26-mobile-menu[aria-expanded=true] svg{stroke:var(--r26-pink)!important}
+@media(max-width:900px){.site-header .primary-nav{border-top-color:var(--r26-pink)!important}.site-header .primary-nav>a.active{border-color:rgb(var(--r26-pink-rgb)/.44)!important;background:rgb(var(--r26-pink-rgb)/.08)!important}.site-header .nav-group[open]>summary{border-color:rgb(var(--r26-pink-rgb)/.2)!important;background:rgb(var(--r26-pink-rgb)/.065)!important}}
+/* Pink surfaces share the same tone. Dark text stays readable on the neon fill. */
+.hero-actions .button.primary,.r26-btn[data-r26-tone=pink],.money-story-page .scene-scroll.r24-money-explore,.money-story-page .money-opportunity .opportunity-actions .approach-primary.r26-money-plan,.cinematic-fieldguide .scene-foot .r24-region-explore{background:var(--r26-pink-gradient)!important;border-color:var(--r26-pink-soft)!important;color:var(--r26-pink-ink)!important;box-shadow:inset 0 1px 0 #ffffff52,0 3px 0 var(--r26-pink-shadow),0 8px 19px #0003!important}
+.hero-actions .button.primary:hover,.r26-btn[data-r26-tone=pink]:hover,.money-story-page .scene-scroll.r24-money-explore:hover,.money-story-page .money-opportunity .opportunity-actions .approach-primary.r26-money-plan:hover,.cinematic-fieldguide .scene-foot .r24-region-explore:hover{background:var(--r26-pink-gradient-hover)!important;border-color:var(--r26-pink-highlight)!important;box-shadow:inset 0 1px 0 #ffffff61,0 3px 0 var(--r26-pink-shadow),0 0 22px rgb(var(--r26-pink-rgb)/.22)!important}
+.r26-btn:not([data-r26-tone=blue]):not([data-r26-tone=pink]):hover{border-color:var(--r26-pink)!important;background:linear-gradient(125deg,#392332ed,#221922f2)!important;box-shadow:inset 0 1px 0 #ffffff18,0 3px 0 #09080d,0 0 18px rgb(var(--r26-pink-rgb)/.125)!important}
+.hero-actions .button.ghost{border-color:rgb(var(--r26-pink-rgb)/.6)!important}
+.hero-actions .button.ghost:hover{border-color:var(--r26-blue)!important}
+.photo-tile:hover{border-color:var(--r26-pink)!important}
+.money-story-page .money-chapter-nav button:hover{border-color:var(--r26-pink)!important}
+.money-story-page .money-chapter-nav button.active{border-color:var(--r26-pink)!important;box-shadow:inset 0 -2px 0 var(--r26-pink)!important}
+.money-story-page .r26-money-callout.r26-money-risk{border-top-color:rgb(var(--r26-pink-rgb)/.4)!important}
+.money-story-page .r26-money-callout.r26-money-risk span{color:var(--r26-pink)!important}
+.exploration-page .region-field-links .r26-region-action,.exploration-page .r24-bay-note .r26-region-action{border-color:rgb(var(--r26-pink-rgb)/.5)!important}
+.region-gallery-controls button:hover,.photo-viewer-nav button:hover,.item-gallery-controls button:hover,.character-gallery-controls button:hover{border-color:var(--r26-pink)!important;background:#392332!important}
+/* Remaining pink accents; no station-art palette selectors are included. */
+.hero.rooftop-hero .hero-actions a[href$="#money"]{border-color:rgb(var(--r26-pink-rgb)/.5)!important}
+.hero.rooftop-hero .hero-actions a[href$="#money"]:hover{border-color:var(--r26-blue)!important}
+.money-story-page .r24-money-title-second{color:var(--r26-pink-soft)!important}
+.money-story-page .r24-money-flow li>span{color:var(--r26-pink)!important}
+.money-story-page .r24-money-flow li:nth-child(2)>span{color:var(--r26-blue)!important}
+.radio-page .r24-radio-listening-copy h2.r24-title{color:var(--r26-pink)!important}
+.radio-page .gtfm-console{background:linear-gradient(125deg,rgba(66,24,51,.8),rgba(29,20,26,.9));border-color:rgb(var(--r26-pink-rgb)/.27);box-shadow:0 22px 58px #0003,inset 0 1px 0 rgb(var(--r26-pink-rgb)/.04)}
+.radio-page .gtfm-dial{background:rgb(var(--r26-pink-rgb)/.045);border-left-color:rgb(var(--r26-pink-rgb)/.18)}
+.radio-page .gtfm-station{background:rgb(var(--r26-pink-rgb)/.045);border-color:rgb(var(--r26-pink-rgb)/.16)}
+.radio-page .gtfm-station:hover{background:rgb(var(--r26-pink-rgb)/.1);border-color:rgb(var(--r26-pink-rgb)/.5)}
+.radio-page .gtfm-station[aria-pressed="true"]{background:linear-gradient(105deg,rgb(var(--r26-pink-rgb)/.21),rgb(var(--r26-pink-rgb)/.08))!important;border-color:rgb(var(--r26-pink-rgb)/.54)!important;box-shadow:inset 3px 0 var(--r26-pink),0 0 15px rgb(var(--r26-pink-rgb)/.085)!important}
+.radio-page .gtfm-current-label,.radio-page .gtfm-dial-heading{color:var(--r26-pink-soft)}
+.radio-page .gtfm-playlist-label select{border-color:rgb(var(--r26-pink-rgb)/.35)}.radio-page .gtfm-playlist-label select:hover{border-color:rgb(var(--r26-pink-rgb)/.54)}
+.radio-page .gtfm-screen{border-color:rgb(var(--r26-pink-rgb)/.17)}
+body[data-atlas-route="music"] .r26-calendar-mini-dates strong{color:var(--r26-pink)}
+
+/* Text fallbacks (including Russian) match SVG menu lettering. */
+.site-header .primary-nav>a:is(:hover,:focus-visible,.active),.site-header .primary-nav .nav-group>summary:is(:hover,:focus-visible),.site-header .primary-nav .nav-group[open]>summary,.site-header .primary-nav .nav-group.active>summary{color:var(--r26-pink)!important}
+
+/* Final hosted audit: preserve Archive typography without the legacy cream filter. */
+#gtfm-heading{color:var(--r26-pink)!important}#gtfm-heading .r24-radio-lettering img{filter:none!important}
+/* Decorative, noninteractive arrow found beneath the Money details. */
+.money-stock-watch>span[aria-hidden="true"]{display:none!important}
+
+/* Photo navigation stays readable over its dark hover surface. */
+.photo-viewer-nav button:hover{color:var(--r26-white)!important}
+
+/* Item93: restore visible attachment between the menu trigger/header and its panel. */
+@media(min-width:901px){.site-header .nav-group>.nav-dropdown{top:100%!important}}
+@media(max-width:900px){.site-header .primary-nav{top:100%!important;border-radius:0 0 12px 12px}.site-header .nav-group[open]>summary{border-bottom-left-radius:0;border-bottom-right-radius:0}.site-header .nav-group>.nav-dropdown{margin-top:0!important;border-top-left-radius:0!important;border-top-right-radius:0!important}}
+
+/* Russian uses live text rather than outlined SVG; preserve the same white-to-pink fade. */
+.site-header .primary-nav>a:not(:has(.button-art)):is(:hover,:focus-visible,.active),.site-header .primary-nav .nav-group>summary:not(:has(.button-art)):is(:hover,:focus-visible),.site-header .primary-nav .nav-group[open]>summary:not(:has(.button-art)),.site-header .primary-nav .nav-group.active>summary:not(:has(.button-art)){background-image:linear-gradient(180deg,#fff7fc 30%,#f8c9e7 45%,#ed75c3 70%)!important;-webkit-background-clip:text!important;background-clip:text!important;-webkit-text-fill-color:transparent!important}

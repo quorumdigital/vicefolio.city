@@ -1,0 +1,20 @@
+/* Long pages receive locally faded palm edges at their content sections, including the archive. */
+body[data-r24-route] #main>.r24-palm-atmosphere{display:none}
+body[data-r24-route] #main>.r25-palm-atmosphere{position:absolute;inset:0;overflow:hidden;z-index:-1;pointer-events:none;mask-image:linear-gradient(#000 calc(100% - 150px),transparent)}
+.r25-palm-scene{position:absolute;left:0;right:0;height:1400px;mask-image:linear-gradient(transparent,#000 150px,#000 990px,transparent 1390px)}
+.r25-palm-edge{position:absolute;top:0;width:min(17vw,250px);height:1280px;background-image:url('assets/music/campaign/justice.webp');background-repeat:no-repeat;background-size:auto 1280px;filter:grayscale(1) sepia(.3) hue-rotate(145deg) brightness(.68);opacity:.25}
+.r25-palm-left{left:0;background-position:left top;mask-image:linear-gradient(90deg,#000 12%,transparent),linear-gradient(transparent,#000 170px,#000 1000px,transparent);mask-composite:intersect}
+.r25-palm-right{right:0;background-position:right top;transform:translateY(110px);mask-image:linear-gradient(270deg,#000 12%,transparent),linear-gradient(transparent,#000 170px,#000 1000px,transparent);mask-composite:intersect}
+.r25-palm-scene:nth-child(even) .r25-palm-left{transform:translateY(85px);width:min(15vw,225px)}
+.r25-palm-scene:nth-child(even) .r25-palm-right{transform:translateY(-35px)}
+body[data-r24-route='radio'] main,body[data-r24-route='gallery'] main,body[data-r24-route='community'] main{background:#0b0b13}
+body[data-r24-route] .cinematic-head{border-bottom:0}
+.cinematic-gallery .scene-shade,.cinematic-community .scene-shade{background:linear-gradient(0deg,#0b0b13,transparent 80%),linear-gradient(90deg,#101122b8,transparent 80%)}
+.r24-radio-page .cinematic-radio .scene-shade{background:linear-gradient(0deg,#0b0b13 0%,#0b0b1300 30%),linear-gradient(90deg,#10131be8 0%,#10131b83 42%,#10131b06 75%)}
+/* Normal hero actions share one rhythm; the requested Money hierarchy and home buttons remain intact. */
+body[data-r24-route]:not([data-r24-route='money']) .cinematic-head .scene-scroll,body[data-r24-route]:not([data-r24-route='money']) .cinematic-head .scene-foot .button{font-family:Outfit,Arial,sans-serif;font-size:13px;font-weight:500;line-height:1.4;min-height:44px;padding:10px 16px;border-radius:8px;letter-spacing:.015em}
+.r25-await{opacity:0;transform:translateY(30px);transition:opacity 1.3s ease,transform 1.5s cubic-bezier(.16,.7,.2,1)}
+.r25-await.r25-arrived{opacity:1;transform:none}
+.r25-reveal-timing.reveal-item{transition-duration:1.3s,1.5s;transition-timing-function:ease,cubic-bezier(.16,.7,.2,1)}
+@media(max-width:700px){.r25-palm-edge{width:24vw;opacity:.22}.r25-palm-scene:nth-child(even) .r25-palm-left{width:22vw}.r25-await{transform:translateY(22px)}}
+@media(prefers-reduced-motion:reduce){.r25-await,.r25-reveal-timing.reveal-item{opacity:1!important;transform:none!important;transition:none!important}}

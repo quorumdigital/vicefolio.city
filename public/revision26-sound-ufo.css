@@ -1,0 +1,82 @@
+/* Revision26 Soundtrack and X-Files scoped presentation. */
+body[data-atlas-route="music"] .r26-music-intro{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:24px;align-items:start;margin:0 0 34px}
+body[data-atlas-route="music"] .r26-music-intro .music-banner{margin:0;min-width:0;padding:25px;gap:25px;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+body[data-atlas-route="music"] .r26-music-intro .music-banner h2{font-size:clamp(26px,2.2vw,34px)!important;line-height:1.18}
+body[data-atlas-route="music"] .r26-music-intro .r24-music-calendar{position:relative;inset:auto;width:100%;max-width:none;margin:0;padding:20px;box-sizing:border-box;backdrop-filter:none}
+body[data-atlas-route="music"] .r26-music-intro .r24-release-list{grid-template-columns:1fr;gap:0}
+body[data-atlas-route="music"] .r26-music-intro .r24-release-row{gap:13px}
+@media(max-width:1100px){body[data-atlas-route="music"] .r26-music-intro{grid-template-columns:1fr}body[data-atlas-route="music"] .r26-music-intro .r24-release-list{grid-template-columns:1fr 1fr;gap:24px}}
+@media(max-width:600px){body[data-atlas-route="music"] .r26-music-intro{gap:22px}body[data-atlas-route="music"] .r26-music-intro .music-banner{grid-template-columns:1fr;padding:22px;gap:20px}body[data-atlas-route="music"] .r26-music-intro .r24-release-list{grid-template-columns:1fr;gap:0}body[data-atlas-route="music"] .r26-music-intro .r24-music-calendar{padding:20px}}
+
+/* A slower, gently drifting arrival, confined to the opening copy. */
+.xfiles-opening .xfiles-copy>*{animation-name:r26-ufo-arrival;animation-duration:2.4s;animation-timing-function:cubic-bezier(.25,.45,.4,1);animation-fill-mode:both}
+.xfiles-opening .xfiles-copy>:nth-child(1){animation-delay:.08s}.xfiles-opening .xfiles-copy>:nth-child(2){animation-delay:.23s}.xfiles-opening .xfiles-copy>:nth-child(3){animation-delay:.42s}.xfiles-opening .xfiles-copy>:nth-child(n+4){animation-delay:.64s}
+@keyframes r26-ufo-arrival{0%{opacity:0;transform:translate3d(-64px,7px,0)}72%{opacity:1;transform:translate3d(-5px,-2px,0)}100%{opacity:1;transform:translate3d(0,0,0)}}
+@media(prefers-reduced-motion:reduce){.xfiles-opening .xfiles-copy>*{animation:none!important;opacity:1!important;transform:none!important}}
+
+/* Center the opening elements as one balanced group within the empty sky. */
+.xfiles-opening .xfiles-copy{text-align:center}.xfiles-opening .xfiles-copy>.eyebrow{color:var(--r26-pink,#f58bc9)!important}.xfiles-opening .xfiles-copy .xfiles-title img{margin-inline:auto}.xfiles-opening .xfiles-copy>p{margin-inline:auto}.xfiles-opening .xfiles-topics{justify-content:center}.xfiles-opening .xfiles-start{margin-inline:auto;display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:11px 18px;border-radius:8px;gap:10px}
+@media(max-width:700px){.xfiles-opening .xfiles-copy{position:relative;inset:auto;width:auto;max-width:none;margin:0;padding:28px 6% 34px}.xfiles-opening .xfiles-copy h1{margin-inline:auto!important;max-width:360px}.xfiles-opening .xfiles-title img{max-width:100%}.xfiles-opening .xfiles-copy>p{max-width:440px}.xfiles-opening:before{display:none}}
+
+.xfiles-opening .xfiles-copy>.eyebrow{display:block;text-align:center;width:100%}
+
+.xfiles-opening .xfiles-topics{margin:16px auto 10px}.xfiles-opening .xfiles-start{margin-top:0}
+
+/* Crop the top logo band, keeping Michael and the approaching alien undistorted. */
+.xfiles-page #ufo-v-grass-roots .r24-fight-figure .r24-image-frame{position:relative;aspect-ratio:984/385;overflow:hidden}
+.xfiles-page #ufo-v-grass-roots .r24-fight-figure .r24-evidence-shot{position:absolute;left:0;bottom:0;width:100%;height:auto!important;max-width:none;object-fit:contain}
+
+.xfiles-page #ufo-v-grass-roots>figure.r24-fight-figure{min-height:0;align-self:center;background:transparent}
+
+/* Keep the paper clue proportional without allowing its portrait crop to enlarge the chapter. */
+.xfiles-page #ufo-vi-breakwater-watch>figure.r24-map-figure{min-height:0;align-self:center;padding-top:18px;background:#0b111b}
+.xfiles-page #ufo-vi-breakwater-watch .r24-image-frame{width:min(100%,294px);height:auto;max-height:331px;aspect-ratio:8/9;margin:0 auto!important;overflow:hidden}
+.xfiles-page #ufo-vi-breakwater-watch .r24-evidence-shot{width:200%;height:auto!important;max-width:none;object-fit:contain;object-position:left top}
+.xfiles-page #ufo-vi-breakwater-watch figcaption{margin-top:18px;width:100%;box-sizing:border-box}
+@media(max-width:700px){.xfiles-page #ufo-vi-breakwater-watch .r24-image-frame{width:min(100%,284px);max-height:320px}}
+
+.xfiles-page #ufo-vi-breakwater-watch .r26-clue-zoom{display:block;padding:0;border:0;border-radius:0;background:transparent;cursor:zoom-in}.xfiles-page #ufo-vi-breakwater-watch .r26-clue-zoom:focus-visible{outline:2px solid #8cdef4;outline-offset:4px}
+
+.credits-page .r26-pusher-source{grid-column:1/-1}
+
+/* Item101: mobile keeps the entire scene, followed by a compact, continuous introduction. */
+.r27-xf-mobile-label{display:none}
+@media(max-width:900px){
+ body[data-atlas-route="ufos"] .xfiles-page .xfiles-opening{display:block;min-height:0;padding:0!important;margin-bottom:0;background:transparent!important;overflow:hidden}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-scene{position:relative;inset:auto;display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain;z-index:0;mask-image:linear-gradient(to bottom,#000 0%,#000 calc(100% - 26px),transparent 100%)}
+ body[data-atlas-route="ufos"] .xfiles-opening:before{display:none}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-copy{position:relative;inset:auto;width:auto;max-width:560px;margin:0 auto;padding:14px 6% 20px;box-sizing:border-box;text-align:center;background:transparent}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-copy>.eyebrow{font-size:13px;line-height:1.5;letter-spacing:.13em}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-copy h1{font-size:0!important;line-height:1;margin:9px auto 13px!important;width:min(100%,290px);max-width:290px}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-title img{display:block;width:100%;height:auto;max-width:100%;margin:0}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-copy>p{font-size:14px;line-height:1.65;margin:0 auto;max-width:440px}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-topics{display:flex;flex-wrap:wrap;justify-content:center;gap:4px 8px;font-size:11px;line-height:1.55;margin:10px auto 12px}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-start{margin:0 auto;min-height:46px;padding:10px 18px;font-size:14px}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;gap:8px;max-width:560px;margin:0 auto 30px;padding:0;border:0;background:transparent}
+ body[data-atlas-route="ufos"] .xf-index:after,body[data-atlas-route="ufos"] .xf-index-mark{display:none}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:0;min-height:66px;padding:9px 5px;border:1px solid #91dfff36;border-radius:8px;background:linear-gradient(135deg,#182232b8,#131725b8);color:#f2f0f6;text-align:center;font-size:12px;line-height:1.3;font-weight:600;letter-spacing:0;box-shadow:inset 0 1px 0 #ffffff08,0 2px 0 #070811}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button>span:first-child{font-size:11px;line-height:1;color:var(--r26-pink,#f58bc9);letter-spacing:.1em}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button .r27-xf-desktop-label{display:none}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button .r27-xf-mobile-label{display:block;font:inherit;color:inherit}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button:hover{border-color:var(--r26-pink,#f58bc9);background:linear-gradient(135deg,#24223bbf,#192e3dbf);color:#fff}
+ body[data-atlas-route="ufos"] .xfiles-page .xf-index button:focus-visible{outline:2px solid #91dfff;outline-offset:3px}
+ body[data-atlas-route="ufos"] .xfiles-page :is(#ufo-files,#xf-evidence,#xf-history){scroll-margin-top:80px}
+}
+
+/* Desktop chapter labels retain their original inherited typography. */
+.xfiles-page .xf-index button .r27-xf-desktop-label{font:inherit;color:inherit}
+
+@media(max-width:900px){
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-topics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:center;gap:7px;max-width:350px}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-topics>span{min-width:0;white-space:normal;text-wrap:balance}
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-topics>span:before{content:none}
+}
+
+.r27-xf-mobile-topic{display:none}
+@media(max-width:900px){
+ body[data-atlas-route="ufos"] .xfiles-opening .xfiles-title img{width:auto;max-height:68px;margin-inline:auto}
+ body[data-atlas-route="ufos"] .xfiles-opening .r27-xf-desktop-topic{display:none}
+ body[data-atlas-route="ufos"] .xfiles-opening .r27-xf-mobile-topic{display:inline}
+}
+
+@media(max-width:900px){body[data-atlas-route="ufos"] .xfiles-opening .xfiles-topics span:before{content:none}}

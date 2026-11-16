@@ -1,0 +1,374 @@
+{
+  "widths": [
+    {
+      "width": 320,
+      "overflow": false,
+      "cta": {
+        "x": 167.109375,
+        "y": 507,
+        "width": 133.703125,
+        "height": 44,
+        "top": 507,
+        "right": 300.8125,
+        "bottom": 551,
+        "left": 167.109375
+      },
+      "heading": {
+        "x": 19.1875,
+        "y": 712.59375,
+        "width": 281.625,
+        "height": 103.375,
+        "top": 712.59375,
+        "right": 300.8125,
+        "bottom": 815.96875,
+        "left": 19.1875
+      },
+      "tabs": [
+        {
+          "text": "Weapons",
+          "box": {
+            "x": 19.1875,
+            "y": 756.578125,
+            "width": 71.890625,
+            "height": 44,
+            "top": 756.578125,
+            "right": 91.078125,
+            "bottom": 800.578125,
+            "left": 19.1875
+          }
+        },
+        {
+          "text": "Gear & apparel",
+          "box": {
+            "x": 97.078125,
+            "y": 754.1875,
+            "width": 89.875,
+            "height": 48.78125,
+            "top": 754.1875,
+            "right": 186.953125,
+            "bottom": 802.96875,
+            "left": 97.078125
+          }
+        },
+        {
+          "text": "Shops & activities",
+          "box": {
+            "x": 192.953125,
+            "y": 756.578125,
+            "width": 107.859375,
+            "height": 44,
+            "top": 756.578125,
+            "right": 300.8125,
+            "bottom": 800.578125,
+            "left": 192.953125
+          }
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "cta": {
+        "x": 232.90625,
+        "y": 507,
+        "width": 133.703125,
+        "height": 44,
+        "top": 507,
+        "right": 366.609375,
+        "bottom": 551,
+        "left": 232.90625
+      },
+      "heading": {
+        "x": 23.390625,
+        "y": 712.59375,
+        "width": 343.21875,
+        "height": 98.59375,
+        "top": 712.59375,
+        "right": 366.609375,
+        "bottom": 811.1875,
+        "left": 23.390625
+      },
+      "tabs": [
+        {
+          "text": "Weapons",
+          "box": {
+            "x": 23.390625,
+            "y": 754.1875,
+            "width": 88.3125,
+            "height": 44,
+            "top": 754.1875,
+            "right": 111.703125,
+            "bottom": 798.1875,
+            "left": 23.390625
+          }
+        },
+        {
+          "text": "Gear & apparel",
+          "box": {
+            "x": 117.703125,
+            "y": 754.1875,
+            "width": 110.40625,
+            "height": 44,
+            "top": 754.1875,
+            "right": 228.109375,
+            "bottom": 798.1875,
+            "left": 117.703125
+          }
+        },
+        {
+          "text": "Shops & activities",
+          "box": {
+            "x": 234.109375,
+            "y": 754.1875,
+            "width": 132.5,
+            "height": 44,
+            "top": 754.1875,
+            "right": 366.609375,
+            "bottom": 798.1875,
+            "left": 234.109375
+          }
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "overflow": false,
+      "cta": {
+        "x": 270.5,
+        "y": 507,
+        "width": 133.703125,
+        "height": 44,
+        "top": 507,
+        "right": 404.203125,
+        "bottom": 551,
+        "left": 270.5
+      },
+      "heading": {
+        "x": 25.796875,
+        "y": 712.59375,
+        "width": 378.40625,
+        "height": 98.59375,
+        "top": 712.59375,
+        "right": 404.203125,
+        "bottom": 811.1875,
+        "left": 25.796875
+      },
+      "tabs": [
+        {
+          "text": "Weapons",
+          "box": {
+            "x": 25.796875,
+            "y": 754.1875,
+            "width": 97.703125,
+            "height": 44,
+            "top": 754.1875,
+            "right": 123.5,
+            "bottom": 798.1875,
+            "left": 25.796875
+          }
+        },
+        {
+          "text": "Gear & apparel",
+          "box": {
+            "x": 129.5,
+            "y": 754.1875,
+            "width": 122.140625,
+            "height": 44,
+            "top": 754.1875,
+            "right": 251.640625,
+            "bottom": 798.1875,
+            "left": 129.5
+          }
+        },
+        {
+          "text": "Shops & activities",
+          "box": {
+            "x": 257.640625,
+            "y": 754.1875,
+            "width": 146.5625,
+            "height": 44,
+            "top": 754.1875,
+            "right": 404.203125,
+            "bottom": 798.1875,
+            "left": 257.640625
+          }
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "cta": {
+        "x": 595.90625,
+        "y": 426,
+        "width": 133.703125,
+        "height": 44,
+        "top": 426,
+        "right": 729.609375,
+        "bottom": 470,
+        "left": 595.90625
+      },
+      "heading": {
+        "x": 38.390625,
+        "y": 595.1875,
+        "width": 691.21875,
+        "height": 69,
+        "top": 595.1875,
+        "right": 729.609375,
+        "bottom": 664.1875,
+        "left": 38.390625
+      },
+      "tabs": [
+        {
+          "text": "Weapons",
+          "box": {
+            "x": 373.625,
+            "y": 607.1875,
+            "width": 71.8125,
+            "height": 44,
+            "top": 607.1875,
+            "right": 445.4375,
+            "bottom": 651.1875,
+            "left": 373.625
+          }
+        },
+        {
+          "text": "Gear & apparel",
+          "box": {
+            "x": 451.4375,
+            "y": 607.1875,
+            "width": 103.859375,
+            "height": 44,
+            "top": 607.1875,
+            "right": 555.296875,
+            "bottom": 651.1875,
+            "left": 451.4375
+          }
+        },
+        {
+          "text": "Shops & activities",
+          "box": {
+            "x": 561.296875,
+            "y": 607.1875,
+            "width": 114.4375,
+            "height": 44,
+            "top": 607.1875,
+            "right": 675.734375,
+            "bottom": 651.1875,
+            "left": 561.296875
+          }
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "Browse equipment scrolls to search",
+    "Gear tab displays3 entries",
+    "Services tab displays7 entries",
+    "Weapons return works",
+    "Girardi search returns1of18 entries"
+  ],
+  "locales": [
+    {
+      "lang": "en",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "pt-BR",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "de",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "fr",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "it",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    },
+    {
+      "lang": "ru",
+      "width": 390,
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true
+    }
+  ],
+  "narrowLocales": [
+    {
+      "lang": "en",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "es",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "pt-BR",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "de",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "fr",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "it",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    },
+    {
+      "lang": "ru",
+      "overflow": false,
+      "ctaFits": true,
+      "tabsFit": true,
+      "tabsMinimumHeight": 44
+    }
+  ],
+  "correction": "Italian long label given wider middle column at<=360px; all7locales retested afterfix"
+}
