@@ -26,3 +26,14 @@
   padding-right: 24px;
   box-sizing: border-box;
 }
+
+/* ViceFolio registration buttons: horizontal breathing room */
+.account-connect-card button[type="submit"],
+.account-connect-card [data-account-toggle] {
+  padding-inline: 28px !important;
+  width: auto;
+  max-width: 100%;
+  box-sizing: border-box;
+  white-space: normal;
+  text-align: center;
+}
