@@ -64,14 +64,14 @@ window.ViceAccount=(()=>{
   if(!ready)return '<p role="status">'+t('Checking account…')+'</p>';
   if(user)return '<div class="account-actions"><button class="button primary" data-account-resume>'+t('Enable cloud sync')+'</button><button class="text-link" data-account-signout>'+t('Sign out')+'</button></div>';
   const registering=authMode==='register';
-  const submit=t(registering?'Create account':'Sign in');
+  const submit=t(registering?'Create a ViceFolio':'Sign in');
   return '<form class="account-form" method="post" action="/api/atlas/account" data-account-form>'+
    '<label>'+t('Email')+'<input name="email" type="email" autocomplete="username" maxlength="254" required></label>'+
    '<label>'+t('Password')+'<input name="password" type="password" autocomplete="'+(registering?'new-password':'current-password')+'" maxlength="1024" required'+(registering?' minlength="15" aria-describedby="account-password-hint"':'')+'></label>'+
    (registering?'<small id="account-password-hint">'+t('Use at least 15 characters.')+'</small>':'')+
    '<label class="account-include-guest"><input type="checkbox" name="includeGuest"> '+t('Add this browser’s guest progress')+'</label>'+
    '<div class="account-actions"><button class="button primary" type="submit">'+submit+'</button>'+
-   '<button class="text-link" type="button" data-account-toggle>'+t(registering?'Already have an account? Sign in':'Create a ViceFolio account')+'</button></div></form>';
+   '<button class="text-link" type="button" data-account-toggle>'+t(registering?'Already have an account? Sign in':'Create a ViceFolio')+'</button></div></form>';
  }
  document.addEventListener('submit',async event=>{
   const form=event.target.closest('[data-account-form]');
