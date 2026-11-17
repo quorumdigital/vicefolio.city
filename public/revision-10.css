@@ -18,3 +18,11 @@
 .account-form .account-include-guest{display:flex;align-items:center;gap:.5rem}
 .account-form .account-actions{flex-wrap:wrap;margin-top:.25rem}
 .account-card button.text-link{background:none;border:0;padding:0;cursor:pointer;text-align:start}
+
+/* More breathing room inside ViceFolio account buttons */
+.account-connect-card .button,
+.account-connect-card [data-account-toggle] {
+  padding-left: 24px;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
