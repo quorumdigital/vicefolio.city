@@ -37,3 +37,11 @@
   white-space: normal;
   text-align: center;
 }
+
+/* Consistent account button padding */
+.account-page button:not([aria-label]),
+.account-page .button,
+.account-page [data-account-signout] {
+  padding-inline: 24px !important;
+  box-sizing: border-box;
+}
