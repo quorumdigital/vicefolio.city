@@ -71,7 +71,7 @@ window.ViceAccount=(()=>{
    (registering?'<small id="account-password-hint">'+t('Use at least 15 characters.')+'</small>':'')+
    '<label class="account-include-guest"><input type="checkbox" name="includeGuest"> '+t('Add this browser’s guest progress')+'</label>'+
    '<div class="account-actions"><button class="button primary" type="submit">'+submit+'</button>'+
-   '<button class="text-link" type="button" data-account-toggle>'+t(registering?'Already have an account? Sign in':'Create a ViceFolio')+'</button></div></form>';
+   '<button class="text-link" type="button" data-account-toggle>'+t(registering?'Already got a ViceFolio? Sign in':'Create a ViceFolio')+'</button></div></form>';
  }
  document.addEventListener('submit',async event=>{
   const form=event.target.closest('[data-account-form]');
