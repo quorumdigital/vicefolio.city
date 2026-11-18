@@ -1,0 +1,93 @@
+name: Update ViceFolio Multilingual SEO
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-seo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update six language pages
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          import html
+
+          translations = {
+              "es": (
+                  "GTA VI: Mapa interactivo, vehículos y guías | ViceFolio",
+                  "Explora GTA VI con mapas interactivos, vehículos, armas, guías para ganar dinero, lugares de Leonida, misterios OVNI y mucho más."
+              ),
+              "pt-br": (
+                  "GTA VI: Mapa interativo, veículos e guias | ViceFolio",
+                  "Explore GTA VI com mapas interativos, veículos, armas, guias para ganhar dinheiro, locais de Leonida, mistérios de OVNIs e muito mais."
+              ),
+              "de": (
+                  "GTA VI: Interaktive Karte, Fahrzeuge & Guides | ViceFolio",
+                  "Entdecke GTA VI mit interaktiven Karten, Fahrzeugen, Waffen, Geld-Guides, Orten in Leonida, UFO-Geheimnissen und vielem mehr."
+              ),
+              "fr": (
+                  "GTA VI : Carte interactive, véhicules et guides | ViceFolio",
+                  "Explorez GTA VI avec des cartes interactives, véhicules, armes, guides pour gagner de l'argent, lieux de Leonida, mystères OVNI et plus."
+              ),
+              "it": (
+                  "GTA VI: Mappa interattiva, veicoli e guide | ViceFolio",
+                  "Esplora GTA VI con mappe interattive, veicoli, armi, guide per guadagnare denaro, luoghi di Leonida, misteri UFO e molto altro."
+              ),
+              "ru": (
+                  "GTA VI: Интерактивная карта, транспорт и гайды | ViceFolio",
+                  "Исследуйте GTA VI: интерактивные карты, транспорт, оружие, способы заработка, локации Леониды, тайны НЛО и многое другое."
+              )
+          }
+
+          for lang, (title, description) in translations.items():
+              path = Path("public") / lang / "index.html"
+              if not path.is_file():
+                  raise FileNotFoundError(path)
+
+              content = path.read_text(encoding="utf-8")
+              title_tag = f"<title>{html.escape(title)}</title>"
+              description_tag = (
+                  '<meta name="description" content="'
+                  + html.escape(description, quote=True)
+                  + '">'
+              )
+
+              content, title_count = re.subn(
+                  r"<title\b[^>]*>.*?</title>",
+                  lambda _: title_tag,
+                  content,
+                  count=1,
+                  flags=re.I | re.S
+              )
+
+              content, description_count = re.subn(
+                  r'<meta\b(?=[^>]*\bname\s*=\s*["\']description["\'])[^>]*>',
+                  lambda _: description_tag,
+                  content,
+                  count=1,
+                  flags=re.I
+              )
+
+              if title_count != 1 or description_count != 1:
+                  raise ValueError(f"Missing SEO tags in {path}")
+
+              path.write_text(content, encoding="utf-8")
+              print(f"Updated {path}")
+
+      - name: Commit updated HTML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/es/index.html public/pt-br/index.html public/de/index.html public/fr/index.html public/it/index.html public/ru/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Update multilingual SEO metadata"
+            git push
+          fi
